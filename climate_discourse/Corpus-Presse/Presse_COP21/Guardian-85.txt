@@ -1,0 +1,70 @@
+The Guardian (UK) (web site) 
+Friday, January 29, 2016 - 06:10 UTC -0500
+'If the world ends in 2100, we’re probably OK'
+There’s a myopia in the climate discourse today.
+
+“Everyone is focused on what happens by 2100. But that’s only 2 generations from today. It’s like: If the world ends in 2100 we’re probably OK!” says Professor Richard Zeebe of the University of Hawai’i. “But It’s very clear that over a longer timescale there will be much bigger changes.”
+
+If the next century seems impossibly far off, bear in mind that if you have a young child now, we’re talking about the world her or his grandchildren will be trying to raise their kids in.
+
+Scientists who take the long view on climate change see parallels between global warming today and mass extinctions in Earth’s past: “Apart from the stupid space rock hitting the Earth, most mass extinctions were CO 2-driven global warming things,” says Professor Andy Ridgwell of Bristol University in the UK.
+
+It has been a consistent pattern throughout geological time: “If you screw with the climate enough, you have huge extinctions,” says Ridgwell.
+
+So much of what you read and hear about climate change is heavily based on instrument records that only go back 160 years or so. But Richard Zeebe and Andy Ridgwell are among a few scientists who look millions of years into Earth’s past to learn how the Earth responded to big additions of CO 2 into the atmosphere before. I had the opportunity to chat with each of them about their work during the American Geophysical Union conference in San Francisco at the end of last year.
+
+Beyond the ice ages
+
+It’s true that scientists can learn about the ice age climate going back 800,000 years from bubbles of air trapped in ancient ice drilled from Greenland and Antarctica. They reveal many swings from warm to cold to warm again, in a low-CO 2 world mostly cooler than today. “We went from very cold and low sea level to a mild climate with normal sea level,” says Ridgwell. But it was a very different scenario than today - those cycles were mainly driven by Earth’s wobbles as it circles the Sun, and those same orbital wobbles mean we should be cooling, not warming, today.
+
+So both Ridgwell and Zeebe have been studying the best equivalent to modern climate change they have found so far, a relatively rapid global warming event that occurred 56 million years ago, called the “Paleocene-Eocene Thermal Maximum,” mercifully shortened to “PETM.” For Ridgwell, it’s a better analog for the future:
+
+This is why I like the PETM, at least it’s a warming event. It had a peak global warming of about 5? or 6?C, which is a little bit beyond the end-of-the-century worst case scenario.
+
+For Zeebe it’s also about data quality:
+
+We are focusing on the PETM is because we have relatively good sediment records. We are able to constrain timescales and ages relatively accurately. If you go further back in time, these constrains become very, very difficult.
+
+Unprecedented in 66 million years
+
+Scientists use a wide variety of data from rocks exposed and drilled at various locations around the globe. They look at geology, fossils, and the chemical makeup of sediments, particularly chemical isotopes - different atoms of the same element that differ minutely in their mass. As Zeebe says,
+
+We have two isotope systems that we can look at. One of those are oxygen isotopes and they are essentially a thermometer, they tell us about climate change. And the other isotope system we’re looking at is carbon isotopes and they tell us something about carbon release.
+
+Zeebe and colleagues compared isotope samples with computer models of the climate system. They stretched the models’ carbon emission timescale until they got a match with the isotope measurements. This showed that the carbon emissions which caused the PETM took about 4,000 years - remarkably similar to an estimate of about 3,000 years just published by Ridgwell and his colleague Sandy Kirtland Turner. They used a completely different approach from Zeebe, focusing on the differences in the carbon signal between marine and land sediments.
+
+Narrowing the PETM emissions timeframe to around 3,000 to 4,000 years shows that, like today, the global warming back then was caused by geologically-fast carbon emissions. But our emissions have taken just a couple of centuries so, as Zeebe points out:
+
+What we’re doing with our emissions is unprecedented in the past 66 million years!
+
+Even if the PETM isn’t a perfect equivalent of today’s climate (it was slower, and it happened in a world that was already warmer than today), it still tells us how the planet reacts to a sharp excess of carbon in the atmosphere. For example, the 2013 Intergovernmental Panel on Climate Change (IPCC) report says we can expect a warming of between 1.5°C and 4.5°C if we double atmospheric CO 2 levels, but also acknowledges that the longer term warming (over centuries to millennia) “could be significantly higher” than that. The PETM tells us it is. Zeebe notes:
+
+If we just try to explain the PETM with a climate sensitivity of 4.5°C, we only get maybe 60% of the warming. So my conclusion would be that long term sensitivity must be more than 4.5°C.
+
+Mass extinctions
+
+Ridgwell has also investigated global warming events going back deeper in geological time, including the big mass extinction events like the end-Permian and the end-Triassic, as well as so-called “Ocean Anoxic Events” in the Cretaceous. These involved profound and long-lived environmental disruption, with symptoms quite similar to today’s climate change, such as global warming, rainfall changes, and ocean acidification.
+
+“Overall these are relatively slow events, on timescales of tens to hundreds of thousands of years,” says Ridgwell. But recent advances in rock dating, and in tracing Earth’s magnetic field frozen into ancient lava, suggests that within those slow events there may well have been intense, rapid episodes that came closer to today’s human emission rates.
+
+You might have very short pulses of CO 2 release within them. Some of these pulses of CO 2 could look like what we’re doing now in terms of amount and rate. That’s an area of active research, because the estimates of individual pulses are getting better, but the estimates of how much CO 2 would be released associated with an individual pulse are still uncertain.
+
+The change already baked in
+
+Ridgwell is skeptical about ambitions to limit warming to 1.5°C:
+
+We have 1.5°C already programmed in, so even if we bring emissions right, right down, immediately, now, we already have 1.5 degrees! So how we’re keeping to a 1.5-degree threshold isn’t clear. So a fun thing we’re doing now with our very fast warming is the ocean surface warms up and the deep ocean is still cold, which is partly why we have this programmed-in warming that we haven’t seen yet. The deep ocean hasn’t yet noticed that the planet at the surface is rather warmer. If we just sit here at current CO 2 levels and let the system equilibrate, it’s 1.5°C anyway. Which comes back to COP21 - what is this 1.5°C target? We’ve emitted the CO 2 to reach 1.5°C already, so I don’t know what they’re thinking of! It seems as if everyone is assuming, without thinking about it, that there is massive carbon geoengineering going on.
+
+Geoengineering is a word that covers a multitude of sins, but in this case it refers to sucking CO 2 out of the atmosphere and burying it. Even the 2?C target aimed at (but not reached) in Paris assumes quite a lot of active CO 2 burial. The feasibility – or not – of that endeavor is an active debate, usefully summarized by Andy Skuce on SkepticalScience.com, but it may be crucial if we are to avoid the more extreme long term environmental effects and sea level rises that scientists see in the geological record.
+
+A glimmer of hope
+
+Ridgewell again:
+
+If the COP21 agreement works out even partly, then we probably won’t see 5 or 6°C. But the PETM took several thousand years, so marine and terrestrial ecosystems had thousands and thousands of generations to adapt and evolve, whereas we’re doing this on a decade-to-century scale. It’s a very, very different event in terms of rates, although you at least have a total magnitude maybe like the future.
+
+For Zeebe the ability not only to reduce emissions, but to reverse them, is crucial.
+
+The timescale over which ice sheets disintegrate depends on the duration of a temperature anomaly. If you warm the planet by 3 degrees [Note: that’s effectively what the COP21 Paris Agreement adds up to ] over a few decades, and then you cool it down, you can probably keep large portions of Greenland and West Antarctica. But if temperatures remain elevated, this will melt big ice sheets. And then we’re not talking just of a sea level change of 1 meter by 2100, but rises of several meters for centuries. But people tend to ignore this. The opinion seems to stop at 2100!
+
+Howard Lee is a geologist and science writer who focuses on past climate changes.

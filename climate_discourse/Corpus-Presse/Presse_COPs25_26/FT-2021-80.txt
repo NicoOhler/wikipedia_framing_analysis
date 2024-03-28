@@ -1,0 +1,215 @@
+
+
+Financial Times (web site)
+Friday, February 19, 2021 - Z 1824 mots
+
+Federal Reserve zeroes in on climate risk
+
+Billy Nauman and Kristen Talman
+
+Good morning from New York. It has been a relatively quiet week around the (virtual) ofﬁce because many of
+our colleagues have been on holiday with local schools closed for winter break. But the world of sustainable
+ﬁnance stops for no one. And we are here on duty bringing you the latest, including an important update
+from the Federal Reserve on climate change, a look at what's next for the UK activists at Extinction Rebellion,
+an examination of cryptocurrencies' ESG failings and some news on a couple of huge, new sustainability-
+linked loans.
+
+Fed's Brainard backs mandatory climate disclosure
+
+A lot has changed in the month since Donald Trump left ofﬁce and Joe Biden took over as US president. This
+is perhaps most evident in the Federal Reserve's approach to climate change.
+
+After years of silence on the topic, the Fed has started to put climate issues centre stage. Shortly after Biden
+won the election, the central bank highlighted climate change as a threat to ﬁnancial stability and moved to
+join the Network for Greening the Financial System, a consortium of central banks dedicated to supporting
+the goals of the Paris climate accord.
+
+Now with Trump out of ofﬁce and the Biden administration pushing hard to make up lost ground in the
+climate ﬁght, Fed ofﬁcials are speaking out more explicitly about climate risk and how they intend to take
+action.
+
+"Financial institutions that do not put in place frameworks to measure, monitor, and manage climate-related
+risks could face outsized losses on climate-sensitive assets caused by environmental shifts, by a disorderly
+transition to a low-carbon economy, or by a combination of both," said Federal Reserve governor Lael
+Brainard, at the Institute of International Finance's inaugural climate ﬁnance summit yesterday.
+
+This might sound underwhelming to our European readers, but for the central bank of a country that has
+been led for the past four years by a man who claimed climate change was a Chinese hoax, it represents
+major progress.
+
+The change in tone is not just coming from the Fed, either. John Coates , the newly appointed acting
+director of corporation ﬁnance at the Securities and Exchange Commission, also spoke at the IIF event and
+made it clear that climate denialism is not on the agency's agenda.
+
+"Personally I'm going to do my part to help the SEC policy keep pace with developments that are affecting
+investors and public companies and capital markets . . . And in case anybody had any doubts [that] means
+respecting science and evidence and reality," he said.
+
+And Rostin Behnam , acting chairman of the US Commodity Futures Trading Commission (CFTC), said he
+was looking to "narrow the focus on what the CFTC can do" to support carbon markets and the transition to
+a low-carbon economy.
+
+The ﬁnancial sector is also signalling it is on board. The IIF, which represents more than 450 global ﬁnancial
+services institutions, joined up with 10 other ﬁnancial industry trade groups to publish a framework for how it
+believes the US transition to a low-carbon economy should take shape.
+
+A signiﬁcant issue highlighted by all of these parties is the lack of consistent data, and the Fed's Brainard
+indicated that the US should consider making climate disclosures mandatory for companies.
+
+"Current voluntary disclosure practices are an important ﬁrst step, but they are prone to variable quality,
+incompleteness, and a lack of actionable data," she added. "Ultimately, moving towards standardised, reliable
+and mandatory disclosures could provide better access to the data required to appropriately manage risks."
+
+
+
+There will be a lot of political hurdles to clear if US policymakers are to try to implement something like the
+EU's  green  taxonomy,   or   New  Zealand's  mandatory   Task   Force   on   Climate-related   Financial   Disclosures
+
+ 
+
+
+
+(TCFD) reporting requirements.
+
+
+But Brainard's comments are a strong indicator of the way the wind is blowing, and that should catch the
+attention of every executive in the country.
+
+Even   without   mandatory   disclosure   requirements,   there   are   still   ways   regulators   can   help   ﬁx   the   data
+problem.
+
+With   a   growing   number   of   institutional   investors   demanding   ESG   information   from   companies,   these
+disclosures are becoming mandatory by default, the SEC's Coates said. And when companies "volunteer" this
+information, they are legally obliged to tell the truth, which gives regulators an opening to get involved.
+
+"If   companies   are   making   voluntary   disclosures,   for   example   in   sustainability   reports   .   .   .   they   can't   be
+misleading the market in a material way, even in those non SEC-ﬁled documents," Coates said. "And I worry
+sometimes   that   the   people   involved   in   the   production   and   consumption   of   those   documents   don't
+remember that."
+
+We're willing to bet it will be easier for companies to remember that obligation after being hit with their ﬁrst
+climate disclosure-related lawsuit. And we will be anxiously watching to see how the US regulators take
+action. (Billy Nauman)
+
+Sustainability-linked loan market soars with AB InBev, Carlyle deals
+
+All the talk out of Washington and the IIF is just one sign of the growing prominence of sustainable ﬁnance -
+there were also some pretty substantial deals struck this week.
+
+Anheuser-Busch   InBev,   the   maker   of   Budweiser   and   Stella   Artois,   yesterday   inked   the   largest-ever
+sustainability-linked loan - a $10.1bn revolving line of credit that will be more expensive if the brewer fails to
+meet a set of ESG goals linked to water use, plastic recycling, clean energy and emissions reductions.
+
+Private equity company Carlyle this week also announced a $4.1bn loan with terms tied to diversity and
+inclusion. It will receive a discount on borrowing costs if it hits its goal of having women and minorities make
+up at least 30 per cent of the board members of the companies it controls.
+
+These   deals   represent   a   major   surge   in   sustainable   lending.   As   of   January   31,   only   $8.6bn   worth   of
+sustainability-linked loans had hit the market this year, according to Bloomberg New Energy Finance.
+
+It is noteworthy that both of these loans are replacing existing lines of credit, and both are tied to ESG goals
+already set by the companies. In theory, this shows how banks (most of which have set ESG goals of their
+own)   can   promote   wider   responsible   business   practices   through   their   lending   operations,   and   how
+companies can use sustainable ﬁnance to make sure they stay on track with their sustainability goals.
+
+Proponents   of   sustainability-linked   bonds   and   loans   also   point   out   that   these   instruments   have   an
+advantage over green bonds and loans (which companies use to fund speciﬁc environmentally oriented
+projects) because they incentivise company-wide ESG improvements.
+
+But for any of this to work, the goals being set need to be ambitious, and the carrots and sticks that come
+with these loans need to be substantial. Otherwise, the potential for greenwashing (or ESG-washing) is a
+problem.
+
+Neither AB InBev nor Carlyle would provide speciﬁcs on just how much of a penalty they would face if they
+did not hit their goals. Both companies assured Moral Money that the incentives were meaningful, but
+without more information, it is impossible to judge from the outside.
+
+As more of these deals roll in, it is clear why data and transparency are top priorities in the ESG world. (Billy
+Nauman)
+
+These climate activists want you to dish dirt on your company
+
+This month, some FT Weekend readers in the London area received an unauthorised insert in their February
+6-7 edition of How To Spend It. In it, was a call to "whistleblow for the planet".
+
+Behind the insert was Extinction Rebellion, or XR for short - an activist group pushing for climate action from
+governing bodies and companies. The group solicited FT readers to out corporate climate misdeeds on its
+new platform, TruthTeller.Life.
+
+
+
+ 
+
+
+
+The move is part of XR's plan to get back on its feet this year after its Covid-19 "hibernation", which made it
+difﬁcult to organise and raise funds. The environmentalist group struggled to gain traction amid 2020's
+competing crises of climate change, the pandemic and wider racial injustice - all while it battled leadership
+conﬂicts within its ranks.
+
+
+Now the group is targeting potential whistleblowers as a core part of its new strategy as it works to redeﬁne
+activism in the Covid-19 era. In addition to targeting FT readers, XR is also using LinkedIn ads calling on
+workers at companies such as Shell, Exxon, HSBC and HS2 to share "what they know".
+
+But in an age of high unemployment, leaning on employees to be the curtain-revealing stakeholders might
+be a bold move.
+
+If you received a copy of "How to Save It" or have been targeted with XR's LinkedIn ads, we would love to hear
+your   thoughts.   As   always,   email   us   at   moralmoneyreply@ft.com   ().  (Kristen
+Talman)
+
+Cryptos' ESG problems go far beyond climate
+
+Last week we wrote about Tesla's big bitcoin purchase and asked whether or not it had diminished the
+electric car company's green credentials. Cryptocurrency mining, of course, consumes a lot of energy and
+scientists have estimated the emissions tied to the industry rival those of nations such as Sri Lanka.
+
+But greenhouse gas emissions are only one of cryptos' ESG issues. As Martin CW Walker , director of banking
+and ﬁnance at the Center for Evidence-Based Management, wrote in a piece published by the London
+School of Economics, cryptocurrency also has big problems with "S" and "G".
+
+On the social side, Walker concedes that crypto may have some privacy beneﬁts, but he claims those are far
+outweighed by the fact that cryptocurrencies "facilitate criminal activity including tax evasion and evasion of
+exchange controls".
+
+He   also   dismisses   arguments   that   crypto   promotes   ﬁnancial   inclusion   and   highlights   the   consumer
+protection problems created by those who manipulate crypto prices by publishing "demonstrably false"
+information that would be "illegal if provided by those offering other classes of assets for investments".
+
+As fund managers promoting ESG start dipping their toes into the crypto market, it will be interesting to see
+how   their   clients   and   sustainability   advocates   react.   As   Walker   sees   it,   the   issue   is   cut   and   dried:   "Any
+mainstream fund manager or pension fund seeking to place a portion of their portfolio in crypto risks
+severely undermining their ESG credentials." ( Billy Nauman )
+
+Chart of the day
+
+The push to increase renewable energy in the US is not just about switching away from fossil fuels. There is
+also a need to upgrade the infrastructure to make sure that the green power that is being generated can get
+where it needs to go. And that is sparking a ﬁght as people object to "stringing the land with ugly wires" and
+"hefty corporate rivals" aim to prevent green power companies from seizing market share.
+
+Further reading
+
+Harassment, pay and glass ceiling highlight consultancy gender gap (FT)
+
+Surge in ESG Questions Prompts Managers to Adopt More Tech (FundFire)
+
+Saving the planet is a software challenge too (FT)
+
+Inside the London lab making climate-action clothes (HTSI)
+
+Renewable energy: green bubble trouble (FT)
+
+Daimler rules out 'premature' end to combustion engine sales (FT)
+
+Pressure to Disclose Director Race, Gender Ramps Up (Agenda)
+
+
+
+
+
+
+ 
+
+

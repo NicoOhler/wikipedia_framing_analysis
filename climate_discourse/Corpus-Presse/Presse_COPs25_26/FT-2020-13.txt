@@ -1,0 +1,125 @@
+ Features, Saturday, October 31, 2020 4019 mots, p. 14,15
+
+Life and Arts
+
+How to predict the next pandemic — and stop it
+
+There are about 700,000 viruses with the potential to infect humans — and climate change is exacerbating the spread. Leslie Hook meets the scientists working to keep the next epidemic at bay
+
+Y anthe Nobel walks through the rainforest, looking for a corpse. Reports of a dead elephant, lying in a stream, have reached camp and her job is to figure out what killed it. It's not the poachers she is worried about — they are increasingly rare here in the Dzanga-Sangha Special Reserve in the Central African Republic. It is the pathogens.
+
+When she and her colleagues find the dead elephant, it turns out to be a baby, less than a year old. Nobel dresses in full protective gear — gown, face shield, gloves — and starts taking samples. "Anthrax is very common around here," she says, referring to the deadly bacteria that lives in soil as one possible culprit.
+
+"It could also be that its mother was poached," she tells me over Skype, back in camp.
+
+Nobel, a vet and PhD student in epidemiology, has come to Dzanga-Sangha to study viruses, mainly in bats and rodents. Elephants are not usually part of the job — but when a dead animal is found in the forest, she always performs a necropsy. If the cause of death isn't obvious, and none of the usual pathogens shows up in the field lab, the samples are sent on to a bigger lab in Germany. "You always look for something new," she says. In the bigger lab, the samples are tested for unknown viruses — pathogens that have not been seen before.
+
+Hunting for new viruses has become more difficult during an actual pandemic, but it has never been more important. This year, Covid-19 has brought some of the most powerful countries in the world to their knees. Like most other novel human viruses, Sars-Cov-2, which causes Covid-19, is zoonotic: it crossed from animals into humans. In this case, probably from a bat to a person, or through an intermediary animal.
+
+"As a veterinarian, I am already trained to see the danger of spillovers from animals to people," says Nobel, who studies at the Robert Koch Institute's Leendertz Lab, which specialises in the ecology of zoonotic disease. Covid-19 has put this in the spotlight, she adds. "People are waking up to a story that was already there."
+
+For years, epidemiologists and the World Health Organization planned for the advent of an unknown illness — often referred to as "Disease X". It would be highly contagious, not previously identified and cause a major international epidemic.
+
+In other words: a lot like Covid-19. But even though everyone knew something like this might come along, no one found it until the virus had already infected dozens of people in Wuhan, China.
+
+Zoonotic viruses are responsible for a long list of illnesses: HIV, Ebola, Sars, Zika and swine flu, to name just a few. And more are emerging all the time — each year, between two and five new zoonotic viruses are discovered. This year alone has seen several zoonotic outbreaks in addition to Covid-19. There was an Ebola surge in the Democratic Republic of Congo — where the disease has claimed thousands of lives — and a spike in Lassa fever cases in Nigeria. Over the past three decades, outbreaks of zoonotic disease have increased.
+
+The diseases don't emerge from just anywhere. Often they come from rainforest edges and places of great diversity, where humans and animal species are mingling. These "hotspots", where diseases are more likely to spill over from animals to humans, are closely linked to environmental change such as deforestation.
+
+"Tropical rainforests are exceptionally important in this regard," says Tom Gillespie, who leads a lab studying pathogens and environmental change at Emory University. "Here you have a diversity of bats, rodents, primates — the species where we are most likely to contract something — [so] you are going to have a diversity of pathogens as well."
+
+The actual work of hunting for viruses is tough. Nobel has just returned to base after two weeks of catching bats at a bush camp, and shows me the deep scratches around her ankles from walking through the forest. Sleeping in tents, showering under a waterfall and staying clear of the elephant herds can make for exhausting days.
+
+This year, Covid-19 has made things even harder for her and other researchers. Though there have not yet been any cases in this corner of the Central African Republic, the local lab is equipped to run PCR tests for the virus, and researchers are taking extra precautions, including wearing masks around the great apes, who could be at risk of catching Covid-19 from humans.
+
+This is one of the most remote forests of Africa, but the research is central to understanding our changing relationship to nature and disease. Climate change adds complexity to this task, as insects shift their ranges and plants bear fruit at different times, creating more potential for new species to mix. But if we knew more about viruses — how they act and which animals they infect — could it equip us better the next time a "Disease X" comes around? Viruses have been on the planet for millions of years, much longer than Homo sapiens. Not quite technically "alive", a virus is a strand of genetic code enclosed in a protein sheath and needs a living host to reproduce. We know about only a tiny fraction of the viruses in the world, although the work of finding them has sped up recently with the advent of genetic sequencing. There are about 1.6 million viruses on the planet in mammals and birds, of which about 700,000 could have the potential to infect humans. But of these, only about 250 have been identified in humans. The rest are still out there — they just haven't made the leap.
+
+One of the world's most prominent virus-hunters is Peter Piot, who co-discovered the Ebola virus in 1976. He explains that viruses are so nimble because they are always looking for their next host.
+
+"What is the raison d'être of a virus? It is to find a host to survive," he tells me. "Because viruses cannot multiply without a living cell ... viruses need susceptible plants, animals, humans, so they have to find them and then jump from one to another."
+
+Viruses typically lurk in a reservoir host — a plant or animal that can harbour them without getting sick — and then become more problematic when they cross into a new species.
+
+Speaking over the phone on a recent autumn morning, Piot, head of the London School of Hygiene & Tropical Medicine, is in a pensive mood. He is concerned that coronavirus will not be our last deadly epidemic.
+
+"We are living in the age of pandemics," he says, sounding a bit short of breath, a reflection of his own encounter with Covid-19 earlier this year. "I think we are going to see more and more of them, and the fundamental reason is that we failed to live in harmony with nature." He points to the factors that make disease emergence more likely, such as deforestation and the illegal trade in wild animals. Forests cover about a third of land on Earth, but they are being cut down, often to make way for cash crops or cattle farming. Every minute, forests the size of 35 football pitches are cleared.
+
+"This probably started already when we became sedentary, from nomads," Piot says. "And I'm not saying we should go back and live like nomads. But when you put it all together — population pressure, urbanisation, agricultural practices, deforestation, high mobility ... and then climate change is going to make all these things worse."
+
+As the planet warms up, it is changing the patterns of disease. Insects that carry zoonotic diseases, such as ticks and mosquitoes, are expanding their range and moving into new areas. Lyme disease is spreading into North America and across Europe, recently prompting the European Centre for Disease Control to launch a monitoring programme for the illness, which is carried by ticks.
+
+Extreme weather events such as drought and flooding also have a big impact. For diseases like dengue fever, heavy rains make its spread more likely by creating breeding grounds for the mosquito that carries it. Last year there were a record number of dengue cases in Latin America — more than three million — amid concerns that climate change will exacerbate the disease.
+
+While these are not new viruses, they are spreading in new areas and interacting with trends such as deforestation in ways that we don't yet fully understand. As humans impact the planet in both obvious and non-obvious ways, by some counts new viruses are appearing more frequently. The broad outlines of how these diseases emerge are clear: they typically come from animals, spilling over into humans through close contact. And the places where this is most likely to happen are also known: disturbed land, fragmented habitats and wildlife markets. Knowing all this didn't stop the world from suffering through coronavirus. But maybe, just maybe, it will help us get it right next time — or at least improve our chances.
+
+Dennis Carroll certainly thinks so. He has spent nearly his whole life looking for viruses and is leading an ambitious project to find more of them — all of them, in fact.
+
+Sporting shoulder-length white hair and a silver-and-turquoise bracelet, Carroll looks a bit like the godfather of viral research. And in a way he is: he spent a decade leading a $200m virushunting programme called "Predict" at the United States Agency for International Development. Now he is the head of the Global Virome Project, a research group with a mission to catalogue all the viruses that could pose a threat to human health.
+
+We speak via Zoom; a Tibetan thangka painting hanging on the wall behind Carroll signals how much time he has spent chasing viruses in various corners of the world. And while over recent months he has been sheltering on his houseboat on the Potomac River near Washington, the pandemic has lent a new urgency to the project.
+
+"The Global Virome Project is basically about going to the viruses before they come to us, and putting together a comprehensive database," he says. "If we had this data, we would have picked up Covid-19 in October [2019], for instance."
+
+That's a bold claim — but Carroll likes to dream big. He believes our response to novel viruses is limited because we don't know about them in advance, before they start infecting humans. "Whatever the next event will be — and we know there will be another event — it's already out there," he says. He refers to these unknown viruses as "viral dark matter".
+
+To build this database will be expensive. Carroll estimates it would take about $1.6bn and at least 10 years to find 75 per cent of the 1.6m viruses — or, if they can raise the funds, about $3bn to capture 90 per cent of viruses. The Global Virome Project is working on fundraising from governments, philanthropic foundations and tech companies.
+
+For years, the US was the biggest funder of this type of research through USAID's Emerging Pandemic Threats programme, which Carroll led. This included Predict, which catalogued and sequenced more than 900 novel viruses. But USAID decided to pull its funding for Predict under the Trump administration in 2019, just before the arrival of the Covid-19 pandemic. With the programme now shuttered, several of its leading scientists are working with the Global Virome Project to carry on the research.
+
+The Global Virome Project is considered something of a moonshot in the scientific community: even if all those viruses were identified, we might not be able to tell which ones are contagious and threatening to humans.
+
+"What is key to know is which ones are the viruses that can, for humans, not only infect but have the ability to be transmitted from humans to humans — and science is not yet there," says Piot. "Humans are probably becoming infected with viruses from animals all the time but in most cases it is aborted, in the sense that it may cause a problem in one person, but that is it."
+
+Some researchers say the funding could be better used elsewhere. "There is a huge amount of marketing around this idea that it could stop the next pandemic," says Kris Murray, who previously worked as part of the Predict programme and is an associate professor at the MRC Unit The Gambia, at the London School of Hygiene & Tropical Medicine. "The big problem is it is far, far too many viruses to shortlist. It starts to look like a very long list of things that will just never make it into people."
+
+Continued from page 14 But supporters say that the research at Predict has already helped in the fight against Covid-19, and the Global Virome Project will too.
+
+"We discovered more than 100 novel coronaviruses, we also identified more than 60 known coronaviruses and started to expand dramatically the information on what hosts they're in," says Jonna Mazet, a professor of epidemiology at the UC Davis School of Veterinary Medicine, who was the principal investigator for Predict and is now on the board of the GVP.
+
+Some of those coronaviruses were used to examine whether the drug remdesivir — currently the only retroviral approved for use against Covid-19 in the US — could be effective against coronavirus, she says, adding: "And even if it doesn't help us prevent, it prepares us to have the data to be ready to jump into action."
+
+One thing that scientists agree on is just how little we know about what's out there. We haven't identified all the mammals on the planet, let alone all the viruses. And even the viruses we have identified often remain mysterious. Ebola is one example: scientists have not been able to confirm which animal the virus resides in, also known as the reservoir host. Influenza viruses are another: because they mutate so quickly, a broad vaccine has never been possible.
+
+"Every time we're out there doing long-term surveillance, we're finding new species of vertebrates," says Tom Gillespie. Take bats: about 1,400 species have been identified so far, and that number goes up each year. Bats are particularly interesting to epidemiologists, because they harbour so many viruses that can be harmful for humans, including Sars and Ebola.
+
+Gillespie's work focuses on monkeys and great apes, which often act as sentinels for pathogens that impact humans because of their genetic similarity to us. Sometimes they can pass viruses to humans — HIV crossed over from chimpanzees — but humans can also pass viruses to apes (something of particular concern during Covid-19).
+
+Gillespie has done research in the trinational area in central Africa close to Dzanga-Sangha, a region famous for its gorillas. Research on the front lines is very difficult, he says, which is partly why he is among those sceptical of efforts to catalogue all the viruses in the world. Gillespie has been chased by elephants and armed poachers, and contracted a fair number of tropical diseases, including severe haemorrhagic dengue, which took several months to recover from. "We are going to the places no one wants to go," is how he puts it. "It's very uncomfortable."
+
+Viruses are even more diverse than mammals, he explains, because they do not have a common origin.
+
+"Every time we look for viruses, either in vectors or in hosts, we find new things, and they often challenge our understanding of the diversity of the viruses that are out there."
+
+Another thing scientists can agree on is that destruction of the natural world makes it more likely that new viruses will emerge and spill over into human populations. Cutting down forests, planting single-crop plantations for palm oil and operating large livestock farms can all increase human contact with emerging diseases.
+
+"It doesn't matter if you are a gorilla or a human, if you have a disturbed forest, you have a shift," says Fabian Leendertz, head of the Leendertz Lab at the Robert Koch Institute and Nobel's PhD adviser. "You suddenly have diseases which become very abundant which were not abundant before. Things come into contact which were not supposed to be in contact. Some things die out, others become superabundant ... So you have a higher likelihood of disease being transmitted, that is clear."
+
+Habitat destruction also means that only the hardiest species survive — the very species most likely to carry disease. One example is the multimammate mouse, a common species in west Africa and the carrier of Lassa fever. The mouse appears to thrive in degraded landscapes such as agricultural plantations and around households, and Lassa cases have been increasing over time, killing thousands of people each year.
+
+Another issue is landscape fragmentation: Gillespie's research shows that a tipping point occurs when about 40 per cent of an area has been destroyed. "That's when everything starts pouring out," he says. "Animals are behaving in very different ways than they normally would just to survive. They're looking for food."
+
+We do not yet know whether a similar dynamic might have contributed to the emergence of Sars-Cov-2, which is believed to reside in a type of horseshoe bat as its reservoir host. From there the virus may have crossed directly into humans, or transferred through an intermediary such as a pangolin. The suspected role of the pangolin in Covid-19 — although still unconfirmed — points to another factor which was almost certainly in play: the illegal wildlife trade. Trafficking rare animals also traffics their viruses.
+
+With the world in the grip of the Covid-19 pandemic, there is a focus on finding solutions like never before — and not just for this virus but for the viruses to come. Vaccine research is one area already benefiting from this surge in investment — and an area where the hunt for new viruses could help in the long term.
+
+One group in this field is the Coalition for Epidemic Preparedness Innovations (Cepi, which was set up with backing from the Gates Foundation to work on vaccines for emerging diseases. This year it is leading the Covax initiative, which is developing a vaccine for Sars-Cov-2. (Nine vaccines are under development, of which eight are already undergoing clinical trials.) Melanie Saville, Cepi's director of vaccine research, strikes a rare note of optimism. "Sars-Cov-2 is an example where things are getting better all the time in terms of vaccine development," she says, adding that knowing more about what viruses are out there is important because it can guide research.
+
+"There area finite number of virus families, 25 or 26, and people do see that some of those families are more likely to have an emerging epidemic," Saville says. "So working on viruses in those families you can learn an awful lot, even if that isn't an exact match of what will come in the future." When Sars-Cov-2 came along, previous research on Mers (Middle East Respiratory Syndrome), which is also caused by a type of coronaright virus, helped accelerate vaccine development.
+
+Cepi and others are also trying to develop vaccines that could target entire families of viruses, though that goal has been elusive so far. Sometimes the barriers to development are not just scientific: pharmaceutical companies have been reluctant to invest in vaccines for diseases that impact poor and remote populations. One example is Lassa fever, which has been around for 50 years but with no vaccine developed yet. Part of the reason Cepi was set up is to address these gaps. (It has six vaccines in progress for Lassa fever.) Developing futuristic broad vaccines and cataloguing every zoonotic virus on the planet are both compelling ideas — but many years away from becoming reality. What else can be done in the meantime? Addressing the environmental destruction at the root of many new diseases is one option, albeit a difficult one. The logging of the Amazon rainforest — another hotspot for disease emergence — is of particular concern now for ecologists and epidemiologists. But two approaches stand out that may be able to make a difference in the near term. One is to monitor human health more closely in hotspot areas so that new diseases can be spotted and treated more quickly. Another is to incorporate ecology more closely into public health decisions.
+
+Tying human health programmes together with wildlife monitoring is already starting to happen in some areas. In some parts of Brazil, for example, primates are tested for yellow fever, so that humans living nearby can be vaccinated if necessary. Climate patterns and seasonal weather variations can be used to predict the timing and intensity of diseases such as dengue and cholera.
+
+Researchers on the front lines say it is impossible to separate human health from the health of our natural world. Christian Happi, head of the African Center of Excellence for Genomics of Infectious Diseases in Ede, Nigeria, is setting up an early-warning programme that will detect disease in humans and report the findings to local health authorities.
+
+"I don't think the next pandemic is going to be predicted by some machine learning or some algorithm," says Happi, a professor of molecular biology, whose lab diagnosed the first case of Ebola in Nigeria. "You have to be on the ground. What is needed is to set up a very solid and strong surveillance system that enables people to detect these pathogens in real time, and then make this information available."
+
+Growing up in Cameroon, Happi wanted to study biology after watching many of his childhood friends die from malaria. Now he is on a mission to set up more diagnostic capacity in Africa so that samples don't have to be sent off to labs in Europe. "These outbreaks always start in small places and we need to empower people working there, those front-line healthcare workers," he says.
+
+He also is setting up a new surveillance network called Sentinel, aimed at improving detection of known and unknown viruses across western and central Africa.
+
+The economic devastation caused by Covid-19 has also renewed discussion about ways to decrease the risk of viruses spilling over closer to their source. A recent paper in Science estimated that spending about $30bn annually on measures such as reducing deforestation and curbing wildlife trafficking would pay for itself many times over by decreasing the risk of the next pandemic. "A major effort to retain intact forest cover would have a large return on investment, even if its only benefit was to reduce virus emergence events," it stated.
+
+As the world fights on against Covid-19, researchers say that there are some silver linings. It has triggered a huge amount of investment and research. Scientists are collaborating more across fields ? critical for an area such as zoonotic disease, which cuts across ecology, epidemiology and molecular biology. Advances in genetic sequencing could arm us better when the next virus arrives. And there is a fresh acknowledgment that human health is deeply connected to the health of our planet. "A wake-up call is an understatement," says Piot, director of LSHTM. "If Covid doesn't do it, I don't know what it will take."
+
+Leslie Hook is the FT's environment and clean energy correspondent. 

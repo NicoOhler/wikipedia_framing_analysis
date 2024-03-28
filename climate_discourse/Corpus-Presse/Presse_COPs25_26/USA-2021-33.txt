@@ -1,0 +1,84 @@
+I tried to buy a climate-friendly refrigerator from GE. What I got was a carbon bomb.
+
+Phil McKenna | Inside Climate News
+Nearly all refrigerators in use in the United States today use chemical refrigerants that are some of the most potent greenhouse gases on the planet.
+Yet, a growing number of manufacturers now offer new models with an alternative refrigerant that has little to no climate impact.
+But none of the major appliance makers, including GE Appliances, were advertising which fridges are climate-friendly, and which are carbon bombs. In some cases, it seems they themselves don't know which is which.
+I found this out the hard way when I recently tried to replace my aging refrigerator. I went first to Future Proof, a website offering product reviews of consumer goods with a focus on sustainability.
+I quickly found a page on the site touting "The Most Climate-Friendly Refrigerators for 2020" and read descriptions of several different fridges, all of which were said to use isobutane, a benign refrigerant with a climate impact similar to that of carbon dioxide.
+Elon Musk trolls GM, Chrysler on Twitter: Ford CEO responds with 1 word.
+Could these long-gone vehicles make a comeback?: Chevrolet, Cadillac, Dodge classic cars offer opportunity
+The refrigerators were no more expensive than other models, and with a few clicks I was able to order the one I wanted through Home Depot.
+A few days before my new GE Appliances refrigerator arrived, I got nervous. What if the reviews were wrong? What if my fridge used the more common hydrofluorocarbons -- chemical refrigerants that are thousands of times more potent at warming the planet than carbon dioxide?
+I reached out to customer service at GE. A representative assured me they stopped using hydrofluorocarbons (HFCs) in "100% of all newly manufactured U.S. refrigerators" more than a year ago.
+Soon after, our new fridge arrived on the back of a large delivery truck early on a Friday morning. I popped the front door of our home in the Boston suburbs off its hinges and gazed at the new climate-friendly behemoth. I opened the refrigerator's "French doors" and marveled at its bright, shiny interior.
+
+
+My eyes quickly went to the serial number sticker on its sidewall -- the only way to tell for certain what refrigerant your device actually uses. I was aghast.
+The refrigerator I'd purchased, which the delivery men had just spent the past half-hour wedging into my home, listed "r134a" as the refrigerant. R-134a, or HFC-134a, is a chemical 3,710 times more potent than carbon dioxide at warming the planet over the near term.
+The refrigerator only used 127 grams -- roughly one-quarter of a pound -- of HFC-134a, and the coolant was tightly sealed in a network of pipes somewhere deep inside. But, at some point, maybe not until my new fridge is crushed for scrap metal at the end of its useful life, that 127 grams of refrigerant will likely be released into the atmosphere.
+When it is, the chemical will produce the greenhouse gas equivalent of burning 519 pounds of coal, or setting an entire barrel of oil on fire.
+It was as if the shippers didn't just drop off a refrigerator but left a steel drum full of west Texas sweet crude behind and lit a slow-burning fuse.
+They sold me one thing and delivered another
+Within minutes I was on the phone with GE customer service. The unfortunate person on the other end said she was surprised to hear the fridge I purchased used HFCs.
+I told her that I would like GE to pay to have the fridge returned to the big box store that it came from. She said she couldn't do that but could have a service technician come and "look" at the appliance.
+I told her I didn't need a technician; the issue was plain as day. GE had sold me one thing and delivered another. What I needed, I told the representative, was some corporate responsibility.
+I let my consumer rage cool over the weekend before putting my reporter hat back on. The following week I spoke with Julie Wood, a spokeswoman for GE Appliances.
+Wood apologized profusely and explained how it came to be that the company's customer service department provided the wrong information.
+Wood said more than half of all models sold in the U.S. by GE now use a climate-friendly refrigerant. GE Appliances published a list of all HFC-free refrigerator models it produces, refrigerators that use isobutane, or "R-600a," as the refrigerant, on Friday, March 12, after a version of this article first appeared in Inside Climate News.
+Wood said the company is in the process of converting the rest over in the next year or two.
+"We have moved ahead to many of the low-GWP (Global Warming Potential) refrigerants before we were required to," Wood told me. "We are actually ahead of a lot of other companies."
+
+
+I also spoke with Kevin Messner, the senior vice president of policy and government relations with the Association of Home Appliance Manufacturers, an industry group.
+Messner confirmed GE and all other refrigerator manufacturers are in the process of switching from HFCs to isobutane or other climate-friendly alternatives.
+The companies are driven by requirements recently adopted by California and are now being taken up by a number of other states.
+The regulations required small refrigerators and freezers to be HFC-free by Jan. 1, 2021, and will require full-size refrigerators and freezers to make the switch by the beginning of 2022. Larger, built-in units have until 2023 to be HFC-free.
+Messner couldn't, or wouldn't, say which company was in the lead. But, when I did some further digging I was surprised to find it was GE who spearheaded the ongoing changeover to climate-friendly refrigerators more than a decade ago.
+In 2008, GE applied to the Environmental Protection Agency to use small amounts of isobutane in refrigerators at a time when the chemical wasn't yet allowed.
+Messner also said a far bigger greenhouse gas emissions problem with refrigerators had already been resolved. HFCs were historically used not only for the refrigerant but also for the foam insulation sprayed into the units to trap in the cold.
+Dig Deeper
+You may also be interested in
+A typical refrigerator used one to three pounds of HFCs in the foam insulation, far more than the quarter pound of HFC refrigerant GE delivered to my door. State regulations banned the use of HFC-based foam in refrigerators and freezers as of Jan. 1, 2020.
+Chemical refrigerants are "usually" removed from refrigerators and properly destroyed at the end of the refrigerator's useful life, Messner said.
+However, the EPA notes that such proper disposal occurs in less than 600,000 of the roughly 9 million refrigerators and freezers discarded in the U.S. each year.
+How to tell if your fridge is climate-friendly? Fuhgeddaboudit
+What mystifies me is why GE and other manufacturers haven't used their conversion to climate-friendly alternatives as a selling point in their marketing.
+As a climate journalist, one of the most common questions I get from friends and family is, "What can I do to address climate change?"
+It's a question I've grown to hate as the readily-available options -- using LED-lightbulbs and reusable grocery bags, driving less and walking more -- are simply window-dressing for a much larger, systemic problem.
+
+
+But if there was a choice when buying a common household appliance between one that was climate-friendly and one that would release emissions equal to burning a barrel of oil, I'm pretty sure it's one that environmentally conscious consumers would want to know about.
+They may even pay a premium for such products.
+Yet, manufacturers not only have not advertised their conversion to climate-friendly alternatives, they have made it nearly impossible to figure out whether a model is clean or dirty until it arrives at your home.
+As I found out.
+And it's not just me who has struggled to find a climate-friendly fridge.
+In 2018, employees at the Environmental Investigation Agency, a nonprofit environmental advocacy organization based in Washington, went on a quest to buy an HFC-free refrigerator when their office fridge stopped working.
+The group had just helped change U.S. safety standards to raise the limit on the amount of climate-friendly refrigerants allowed in refrigerators. Buying an HFC-free model should have been easy.
+"When we told our office manager, `Just make sure that the fridge you get does not contain HFCs,' we did not think that we were signing up for months and months and months of our office manager's time as well as our time," said Avipsa Mahapatra, who leads EIA's climate campaign.
+The group finally got through to a Bosch representative who found a reference to isobutane, a climate-friendly alternative to HFCs, buried within a technical repair manual and sent a scanned copy of the page to Jill, the office manager.
+"I still remember Jill saying, `The Holy Grail of refrigeration is here!'" Mahapatra said.
+The group has since published an HFC-free refrigerator buyers guide listing the growing number of climate-friendly refrigerator models they have identified by the only means they know of -- poking their heads inside refrigerators at big box stores and recording refrigerant information listed on the serial plate stickers.
+Unfounded fears, stoked by the chemical industry, led to decades-long delay
+It didn't have to be this way. In 1993, a German appliance manufacturer started selling an HFC-free refrigerator whose very name -- "Greenfreeze" -- touted its use of a climate-friendly refrigerant
+More than 1 billion HFC-free refrigerators have now been sold worldwide, including units sold overseas by U.S. manufacturers, at a time when climate-friendly refrigerators are just becoming available in the U.S.
+
+
+A recent Inside Climate News investigation found the decades-long delay in the use of climate-friendly refrigerants in America has been driven largely by the U.S. chemical industry, which manufactures HFCs.
+HFCs are multibillion-dollar products that would likely be replaced by less expensive and more efficient climate-friendly alternatives if standards put forth by Underwriters Laboratories didn't until recently limit their use, likely at the behest of chemical companies.
+Underwriters Laboratories, now known as "UL," is a private company that provides independent safety certifications for thousands of consumer products.
+When GE first submitted its application to EPA in 2008 to use only small amounts of isobutane as a refrigerator coolant, Honeywell International, one of the leading HFC manufacturers, opposed the rule change.
+The company claimed that isobutane is "highly flammable and explosive even in small amounts," a claim that has not been substantiated by the more than 1 billion isobutane refrigerators in safe operation worldwide. The agency finally granted the request in 2011.
+When I asked Julie Wood at GE Appliances why the company wasn't now advertising the environmental benefit of its climate-friendly refrigerator models, she said she didn't think there would be much interest.
+"At the end of the day, there is just low consumer awareness," Wood said.
+That may be the case. It's also possible that appliance manufacturers prefer to quietly make the switch to climate-friendly alternatives without raising the ire of chemical manufacturers.
+In my own case, Wood offered to assist me in returning my HFC refrigerator to Home Depot, where I bought it, and to help me find a climate-friendly model. By the time we spoke, however, I'd already ordered an HFC-free fridge from another manufacturer and spoken to a Home Depot representative about returning the one from GE that ran on HFCs.
+When I described the problem with the first fridge to the Home Depot representative, I was fairly certain her eyes glazed over the moment I began to speak. Then she put me on hold while she rang GE asking if they would cover the cost of the return.
+When she resumed our call, much to my surprise, she said it was no problem, GE would pay for the return. I asked her if she had told them everything, how I was sold an HFCfree fridge and instead got one with HFCs.
+"No," she said. "I (simply) told them it was not cooling properly; it was not cooling the way that it should."
+To me, that was the best, most truthful explanation anyone could give.
+
+
+
+
+

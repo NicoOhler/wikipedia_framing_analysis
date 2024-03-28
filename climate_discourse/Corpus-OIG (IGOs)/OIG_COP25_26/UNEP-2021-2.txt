@@ -1,0 +1,549 @@
+Nature-based solutions for climate change mitigation
+
+This publication may be reproduced in whole or in part and in any form for educational or non-profit services without special permission from the copyright holder, provided acknowledgement of the source is made. The United Nations Environment Programme would appreciate receiving a copy of any publication that uses this publication as a source. No use of this publication may be made for resale or any other commercial purpose whatsoever without prior permission in writing from the United Nations Environment Programme. Applications for such permission, with a statement of the purpose and extent of the reproduction, should be addressed to the Director, Communication Division, United Nations Environment Programme, P. O. Box 30552, Nairobi 00100, Kenya.
+
+The designation of geographical entities in this report, and the presentation of the material, do not imply the expression of any opinion whatsoever on the part of IUCN or other participating organizations concerning the legal status of any country, territory, or area, or of its authorities, or concerning the delimitation of its frontiers or boundaries. The views expressed in this publication do not necessarily reflect those of IUCN or other participating organizations.
+Published by: United Nations Environment Programme (UNEP), Nairobi and International Union for Conservation of Nature (IUCN), Gland
+Citation: United Nations Environment Programme and International Union for Conservation of Nature (2021). Nature-based solutions for climate change mitigation. Nairobi and Gland.
+Authors: Lera Miles1, Raquel Agra1, Sandeep Sengupta2, Adriana Vidal2, Barney DicksonThe designations employed and the presentation of the material in this publication do not imply the expression of any opinion whatsoever on the part of the Secretariat of the United Nations concerning the legal status of any country territory or city or area or its authorities, or concerning the delimitation of its frontiers or boundaries. For general guidance on matters relating to the use of maps in publications please go to  english/htmain.htm Mention of a commercial company or product in this document does not imply endorsement by the United Nations Environment Programme or the authors. The use of information from this document for publicity or advertising is not permitted. Trademark names and symbols are used in an editorial fashion with no intention on infringement of trademark or copyright laws. The views expressed in this publication are those of the authors and do not necessarily reflect the views of the United Nations Environment Programme. We regret any errors or omissions that may have been unwittingly made.
+
+1 UNEP World Conservation Monitoring Centre, Cambridge 2 IUCN, Gland 3 UNEP, Nairobi
+
+UN Environment Programme promotes environmentally sound practices
+globally and in its own activities. Our distribution policy aims to reduce
+UNEP'S carbon footprint. The report is printed on recycled paper.
+
+Key Messages
+
+1 2 3 The Intergovernmental Panel on Climate Change (IPCC) scenarios for emission reductions are clear. In order to keep temperature rise close to the Paris Agreement goal of 1.5°C we must achieve net zero CO2 emissions by 2050. The scenarios show that this will require, in addition to a massive and rapid decarbonization, a significant contribution from landbased options. Nature-based solutions provide the best way of delivering these land-based options, through protection, restoration and sustainable management of natural carbon sinks and reservoirs. Moreover, there is additional mitigation potential from nature-based solutions in coastal and marine ecosystems.
+A cautious interpretation of the existing evidence, taking account of associated uncertainties and the time needed to deploy safeguards, indicates that by 2030,nature-based solutions implemented across all ecosystems can deliver emission reductions and removals of at least 5 GtCO2e per year, of a maximum estimate of 11.7 GtCO2e per year. By 2050, this rises to at least 10 GtCO2e per year, of a maximum estimate of 18 GtCO2e per year. This is a significant proportion of the total mitigation needed.
+Approximately 62 per cent of this contribution is estimated to come from nature-based solutions related to forests, about 24 per cent from solutions in grasslands and croplands, and 10 per cent from additional solutions in peatlands. The remaining 4 per cent will come from solutions implemented in coastal and marine ecosystems. The balance of actions to `Protect, Manage and Restore' different ecosystems will vary.
+This contribution by nature-based solutions will require adherence to strict social and environmental safeguards to avoid harm. Much careful work has already been undertaken on the formulation of such safeguards. This is reflected in tools such as the International Union for Conservation of Nature (IUCN) Global Standard for Nature-based Solutions, and in more ecosystem-specific instruments such as the Cancun safeguards for REDD+ (Reducing Emissions from Deforestation and forest Degradation, plus the sustainable management of forests, and the conservation and enhancement of forest carbon stocks). The implementation of these safeguards should be undertaken with equal care and determination.
+
+5 6 7 Countries frequently reference nature-based solutions for mitigation in their Nationally Determined Contributions (NDCs) to combating climate change and its effects. The 100 NDCs reviewed for this report showed a greater focus on actions in forest than in other ecosystems, and there were slightly more commitments to Manage and Restore than to Protect carbon stocks in ecosystems.
+Nature-based solutions, when done well, can deliver many different benefits, including for climate change adaptation and biodiversity conservation. They should therefore be planned, designed and implemented so as to deliver those benefits.
+The contribution from nature-based solutions needs additional finance. This will require action by and close coordination between public and private actors. It is essential that where the private sector purchases nature-based solutions offsets as part of its pathways to achieve net zero, these offsets are in accordance with social and environmental safeguards and, moreover, are a small part of a wider mitigation strategy focused primarily on deep decarbonization. The development of rules and guidance in this area is now underway.
+The value and importance of nature needs to be better reflected in economic and political decision-making and in a stronger integration between the biodiversity, climate change and development agendas. Failure to achieve this will exacerbate climate change and other important societal challenges, and the Sustainable Development Goals will not be achieved.
+
+1 Introduction
+
+The need to mitigate climate change, and the role that nature can play in doing so, are recognized under multilateral agreements, including the United Nations Framework Convention on Climate Change (UNFCCC) and the Convention on Biological Diversity (CBD). However, we are collectively on a path towards failing to meet the UNFCCC's Paris Agreement commitment to limit warming to well below 2°C, preferably 1.5°C, as well as CBD targets on biodiversity. So far, human activities have been responsible for a global mean temperature rise of nearly 1.1°C relative to 1850­ 1900 levels. If we continue on the current course, it is increasingly likely that the 1.5°C limit will be exceeded in the next 20 years (Intergovernmental Panel on Climate Change [IPCC] 2021).
+Immediate, far-reaching action to rapidly cut greenhouse gas emissions and remove CO2 from the atmosphere is necessary if the worst consequences of climate change are to be avoided. Transformative changes of a type never before attempted are required (Pörtner et al. 2021). The 2020 Emissions Gap Report showed that countries need to collectively increase their mitigation ambitions "threefold to get on track to a 2°C goal and more than fivefold to get on track to the 1.5°C goal" (United Nations Environment Programme [UNEP] 2020, p.21). A key action needed to achieve these goals is decarbonizing our economy ­ radically reducing and eliminating emissions from fossil fuels in energy generation, industry and transport.
+
+While nature-based solutions are a necessary complement to decarbonization, they can only be relied upon when combined with rapid, wide-ranging emissions reductions from energy, industry and transport. Without this dual approach, the total mitigation achieved will be insufficient to avoid climate-related risks (such as changes in temperature and rainfall) that reduce the ability of nature-based solutions to contribute to climate change mitigation (Pörtner et al. 2021).
+Despite growing political support for the use of nature-based solutions in climate change mitigation, a number of concerns have been raised. These include: uncertainties about the scale of the contribution, especially given challenges with implementation and financing; doubts about whether the necessary safeguards will be put in place; and worries about the use of offsets by the private sector. This report will assess the current state of knowledge on the size of the contribution thatnature-based solutions can make and the types of action they will involve. It will discuss the importance of social and environmental safeguards, hownature-based solutions can be financed and the role of offsets. Most importantly, it will consider the potential of nature-based solutions for mitigation to also contribute to climate adaptation and other pressing challenges.
+
+All IPCC mitigation pathways consistent with limiting temperature rise to 1.5°C involve, in addition to decarbonization, very significant changes in current land-use trajectories to tackle and reverse these emissions. Although the IPCC does not call them `nature-based solutions', these pathways do include actions of this type, including a halt to deforestation. Achieving the Paris Agreement target of 1.5°C will therefore require a significant contribution from nature-based solutions, as well as the rapid decarbonization of our economies.
+
+2 What are nature-based solutions?
+
+This report uses the definition of nature-based solutions adopted by the International Union for Conservation of Nature (IUCN) at its 2016 World Conservation Congress. According to this definition, nature-based solutions are "actions to protect, sustainably manage, and restore natural or modified ecosystems, that address societal challenges effectively and adaptively, simultaneously providing human well-being and biodiversity benefits"1 (IUCN 2016). The definition does not include `nature-derived' solutions, such as the use of wind, wave and solar energy, or `nature-inspired' solutions, such as design of materials modelled on biological processes (IUCN 2020a). Further, the IUCN Global Standard for Nature-based Solutions includes eight specific criteria2 and 28 indicators, intended to enable the coherent design, execution and evaluation of nature-based solutions (IUCN 2020b), while complementary guidelines3 (Seddon et al. 2021) have been adopted by the `Together With Nature' campaign4. Well-designed and -implementednature-based solutions deliver multiple benefits, enabling synergies and minimizing trade-offs in achieving different global development objectives as set out in the Sustainable Development Goals. Nature-based solutions can simultaneously address societal challenges, including climate change mitigation and adaptation, natural disasters, human health, food and water security, and biodiversity loss. This potential has encouraged widespread adoption of the concept, including in resolutions by the G7, the G20, the United Nations General Assembly, and in international dialogues and private sector guidance (World Business Council for Sustainable Development [WBCSD] 2020; UNEP 2021a).
+While some nature-based solutions are primarily intended to contribute to climate mitigation, others may provide mitigation as an additional benefit to their main goal. Given the ability of nature-based
+
+solutions to contribute to more than one goal, in practice the distinction between these different types of solutions is not always clear. Nevertheless, in the context of climate action, the specific concept of nature-based solutions for mitigation is useful, as it highlights the differences between this solution and other approaches to mitigation. In line with the overall IUCN definition, nature-based solutions for mitigation include actions to protect natural ecosystems from loss and degradation, restore ecosystems that have been degraded, and more sustainably manage working lands such as fields and managed forests. These three categories encompass many specific types of action ­ or `response options', as they are commonly known ­ ranging from Avoided Forest Conversion to Improved Rice Cultivation. Together, they can reduce greenhouse gas emissions arising from the loss, degradation and mismanagement of ecosystems, and increase natural CO² sequestration.
+A related concept is that of `natural climate solutions' (Griscom et al. 2017), described as a subset of nature-based solutions focused on climate change mitigation (Girardin et al. 2021), though there is one difference in the way that these two concepts are often understood. The IUCN Global Standard expects all nature-based solutions to have a net positive impact on biodiversity, and to include and empower all affected stakeholders with mutual respect and equality, regardless of gender, age or social status. In contrast, the World Business Council for Sustainable Development (WBCSD) suggests that, as a minimum, natural climate solutions need only result in zero net loss for biodiversity, although it does encourage "high-quality" natural climate solutions that are "netpositive for nature and biodiversity, and also support people and local communities" (WBCSD 2020, p.4).
+A consequence of the IUCN definition of nature-based solutions used here is that a number of land uses,
+
+1This definition is closely aligned with European Commission (EC) and Organisation for Economic Co-operation and Development (OECD) definitions, which also reference economic dimensions (OECD 2020; EC 2021), with the EC adding a focus on building resilience. 2 Criteria: (1) effectively address societal challenges; (2) design is informed by scale; (3) result in a net gain to biodiversity and ecosystem integrity; (4) economically viable; (5) based on inclusive, transparent and empowering governance processes; (6) equitably balance trade-offs between achievement of their primary goal(s) and the continued provision of multiple benefits; (7) managed adaptively, based on evidence; (8) sustainable and mainstreamed within an appropriate jurisdictional context. 3 The Nature-based Solutions to Climate Change guidelines were originally developed in February 2020 as a letter to the President of CoP26, Alok Sharma, to encourage other Parties to the UN Framework Convention on Climate Change (UNFCCC) to adopt these solutions. Available at:  and in Seddon et al. (2021). 4 The `Together With Nature' campaign, a call to corporate leaders to commit to four principles for investing in nature-based solutions, adopted the Nature-based Solutions to Climate Change guidelines in May 2020. See: 
+including some that feature in the aforementioned IPCC mitigation pathways, do not qualify asnature-based solutions. One such land use involves the carbon dioxide removal (CDR) technology `bioenergy with carbon capture and storage' (BECCS), which, to date, exists only in pilot projects. This technology uses bioenergy instead of fossil fuels for power generation, and stores the emissions in underground geological formations. BECCS features in the IPCC pathways at a very large scale, and it is therefore essential that land-demanding measures of this type deliver positive overall outcomes, including for food security, poverty alleviation and biodiversity conservation. However planting bioenergy crops (trees, perennial grasses or annual crops) for BECCS over a large share of land is harmful to natural ecosystems and their services, and competes with food production for both land and water (Harper et al. 2018; Fajardy et al. 2019; Pörtner et al. 2021; Stenzel et al. 2021).
+Nature-based solutions that absorb carbon from the atmosphere are sometimes considered alongside more industrial carbon dioxide removal options including BECCS, direct air capture and storage of CO², and enhanced weathering of crushed silicate rocks (Field and Mach 2017). For any of these latter options to make a significant contribution to mitigation they would need to be scaled up dramatically from current trials. Not only do we have much more practical experience with nature-based solutions, but their capacity to deliver multiple benefits far outweighs that of these industrial options.
+How much can nature-based solutions contribute to mitigation?
+
+3.1 The climate change mitigation challenge
+
+Halting climate change will require radical and transformative change. There is an urgent need to: (1) enhance the NDCs that countries have committed to, but which collectively fall far short of meeting the Paris Agreement goals (Fekete et al. 2021); (2) deliver on these NDC commitments; (3) develop and implement ambitious Long-Term Low Emission Development Strategies, (4) promote behavioural change and new social norms5; and (5) invest in low-carbon post-COVID-19 recovery measures across sectors (UNEP 2020; UNEP 2021b).
+
+from fossil fuels and the remainder included methane (CH4), nitrous oxide (N2O) and fluorinated gases as well as CO2 from land-use change (UNEP 2020) (Figure 1). Agriculture, forestry and other land use (AFOLU) activities were responsible for around 23 per cent of the net anthropogenic greenhouse gas emissions between 2007 and 2016 (12.0 ±2.9 GtCO2eq yr-1) (IPCC 2019)6. This proportion is gradually decreasing as a result of an overall increase in emissions, rather than a decrease in emissions from AFOLU including land-use change (Figure 1).
+
+For an 83 per cent chance of limiting warming to 1.5°C, the IPCC estimates that, from 2020, total emissions must be no more than 300 GtCO2 (the `global carbon budget') (IPCC 2021). The same calculations for 2°C yield a 900 GtCO2 budget. However, the added half-degree of warming brings with it much greater risk, including from wildfire, permafrost degradation and food insecurity (IPCC 2019; IPCC 2021). To stay within the 1.5°C limit, we need to reach global net zero targets for CO2 emissions by 2050 and strongly reduce emissions of other greenhouse gases (IPCC 2018).
+Between 1990 and 2019, greenhouse gas emissions from all sources increased. In 2019, 59.1 (±5.9) GtCO2e were emitted, of which 65 per cent was CO2,
+
+The Earth's marine and terrestrial ecosystems take up around 56 per cent of anthropogenic CO2 (IPCC 2021). In recent decades, while the annual global sink has increased, there has been a trend of increasing absorption in the northern hemisphere and a decrease in the southern hemisphere (Ciais et al. 2019), the causes of which include land cover changes (including patterns of loss and recovery of natural ecosystems) and a slow saturation of the Amazon forest carbon sink (Hubau et al. 2020). Nature-based solutions involve human interactions with the natural world, to protect, restore or better manage this natural capacity to absorb and store atmospheric carbon. These include AFOLU activities and the management of marine, coastal and freshwater ecosystems.
+3.2 Studies of the mitigation potential of nature-based solutions
+
+Several recent syntheses have provided estimates of the mitigation potential of nature-based solutions; here we provide an overview and comparison (Table 1). At the global scale, it is possible to jointly estimate the mitigation potential of many individual nature-based solutions, or response options (IPCC 2019). The studies compared in this report aimed to avoid any double-counting of this potential that could result from overlaps in land requirements between the options they included. Estimating the potential and avoiding overlaps often involved spatial analysis of areas suitable for different options. To enable comparison across studies, here we adopt the typology of options from Griscom et al. (2017). In modelling the land area available for each option, these analyses often approximate some of the IUCN Global Standard's criteria, for example by ruling out conversion of natural ecosystems. But it is only when planning, implementing and monitoring anature-based solution in a particular geographical context that it is possible to ensure that these criteria or other relevant safeguards are met in practice.
+Most of the nature-based solutions included, and most of the mitigation estimated, are terrestrial. All syntheses included conservation and restoration of some coastal ecosystems, but there is substantially more terrestrial than marine research on the potential scale of nature-based solutions, their benefits and risks, and related uncertainties. Some studies included land management response options that are not nature-based solutions and are unproven, such as BECCS. The studies also varied in the range of response options they considered. In the analysis below, we have extracted the information on the mitigation potential of nature-based solutions alone, while noting where the studies have also included options such as BECCS in calculating their results.
+The effectiveness of nature-based solutions for climate change mitigation is dependent on the resilience of the ecosystems to the impacts of climate change itself. Their ability to act as a sink for CO2 emissions is directly and indirectly affected by their climate change exposure, sensitivity and adaptive capacity (Seddon et al. 2020). Climate change can increase the exposure of ecosystems to pressures such as fire, drought, biotic agents, and other disturbances, and also to indirect impacts from human migration. These permanence risks are projected to increase in the twenty-first century (Anderegg et al. 2020). By enhancing the resilience of carbon stocks to the impacts of climate change, well-designed nature-based solutions can also reduce
+
+climate change feedbacks that release further CO2 (Pörtner et al. 2021). But this resilience can only go so far: nature-based solutions will only function reliably in a world that takes decisive action to decarbonize the economy. Neither climate impacts nor the effects of management on resilience are directly addressed in the analyses of the potential of nature-based solutions reviewed here.
+In a foundational study, Griscom et al. (2017) brought together estimates for the mitigation potential of 20 nature-based solutions response options (`pathways'). All the later syntheses reviewed here draw on at least some elements of this first study (hereafter, `Griscom'). First, Griscom calculated a maximum potential across all options and compatible with certain biodiversity and food security safeguards (23 GtCO2e per year). When parameters were further restricted to solutions that cost up to US$ 100/tCO2, 11.3 GtCO2e per year was found to be possible, or 4.1 GtCO2e per year if only budgeting for US$ 10/tCO2. In a widely cited conclusion, this study estimated that these solutions could contribute 37 per cent of the greenhouse gas mitigation needed at 20307 for a >66 per cent chance of remaining below a 2°C global mean temperature increase, at a cost of no more than US$ 100/tCO2. The projected carbon benefits from nature-based solutions increased linearly from 2016 to 2025, were maintained until 2060, and were then assumed to decline as the capacity of ecosystems to absorb CO2 saturated. Given the 2016 start year, this degree of scaling up by 2030 now looks optimistic.
+Roe et al. (2019) built on this analysis to identify potential land sector contributions to a mitigation objective of limiting global mean temperature rise to no more than 1.5°C. This study (hereafter `Roe') integrated some additional agricultural studies, as well as demand-side response options such as dietary shift and reduction in food waste, and a BECCS response option. In our focus on nature-based solutions, we exclude BECCS and the demand-side options from our summary. Roe selected a set of response options, taking into account feasibility, risks and multiple benefits, to contribute `wedges' of emissions reductions at 2050. The total 2050 mitigation potential for nature-based solutions was slightly higher than in Griscom, at 12.1 GtCO2e per year. The biggest difference for 2050 was in the scope of the Protect actions included, which in Griscom were constrained to a cost of US$ 100/tCO2, and in Roe were not. However, in Roe the solutions, especially for Manage and Restore, are scaled up more slowly than in Griscom. As a result, Roe
+
+7 The overall emissions reduction trajectory used here follows Meinshausen et al. (2009)
+estimates a much smaller 2030 mitigation potential than any of the other studies (at least 5 GtCO2e per year, see Table 1).
+Also in 2019, an IPCC special report on climate change and land included a detailed review of different land sector response options, including their benefits for climate change mitigation, adaptation and avoiding desertification and land degradation (IPCC 2019). The report reviews technical potential for the different options, and the scale of the multiple benefits they may deliver. However, it does not include an overall estimate of land-based mitigation potential.
+Girardin et al. (2021) focused on evaluating the impact of nature-based solutions on global temperature rather than emissions, using scenarios that limit temperature rise to no more than 1.5°C and 2°C. In addition, this study (hereafter `Girardin') updated the Griscom mitigation potential estimates at US$ 100/tCO2. However, it did not integrate four Griscom response options that feature non-CO2 emissions reductions. Hence, the study reported a 2030 mitigation potential of 10.1 GtCO2 per year (Table 1), while the same updates made to the original synthesis would have yielded a potential 11.1 GtCO2e per year. Notably, Girardin allocates a much greater potential to agroforestry (1.86 versus 0.44 GtCO2 per year) and a smaller potential to reforestation (1.48 versus 3.04 GtCO2 per year) and to coastal wetland restoration (0.08 versus 0.20 GtCO2 per year) than Griscom (Figure 2). The study updated both tropical and temperate reforestation estimates. No boreal reforestation and no afforestation of natural ecosystems or of croplands was included in either Griscom or Girardin.
+The <1.5°C scenario developed in Girardin assumed a far greater implementation both of nature-based solutions and of BECCS than the <2°C scenario. In the 1.5°C scenario, nature-based solutions were allowed to reach 10 GtCO2 per year by 2025, and 20 GtCO2 per year by 2055. By interpolation, this yields an estimate of 11.7 GtCO2 per year by 2030, and 18.3 GtCO2 per year by 2050 (Table 1). A higher value (US$/tCO2e ) was assigned to emissions reductions and removals in this scenario. From 2055, the CO2 removal technology known as `direct air capture' was assumed to mature and deliver more of the required mitigation. There may be conflict between the land expected for BECCS under this scenario and that for nature-based solutions implementation.
+
+of mitigation potential and integrated assessment model estimates, both allocated across 200 countries and smaller territories (Roe et al. 2021). As well as options that could be seen as nature-based solutions, these include dietary shifts, food waste reduction and, in the integrated assessment models, a small contribution from BECCS. The new study finds a potential of 8 to 13.8 GtCO2e per year between 2020 and 2050, at a cost of up to US$ 100/tCO2e, across all these response options. While it has not been possible to analyse these results in detail in the current report, the range is broadly consistent with earlier studies of nature-based solutions potential.
+In addition to the traditional peer reviewed literature, two further syntheses have been developed, with contrasting results. Both draw on Griscom for some response options. First, for the non-profit Project Drawdown, a large set of response options were considered, encompassing climate change mitigation across sectors (Wilkinson 2020). These are quantified to develop two emissions scenarios, roughly consistent with limiting global mean temperature rise to no more than 1.5°C or 2°C. The analysis is an outlier, with, notably, a much greater nature-based solutions mitigation potential by 2050 in the <1.5°C scenario compared to the other syntheses. While direct comparison of potential GtCO2e per year at 2030 and 2050 is difficult, it is noticeable that this study considered more agricultural land management options and identified a much greater proportion of potential from Manage actions and a smaller proportion from Protect actions than the other studies did.
+Second, in an analysis for the World Economic Forum (WEF), only eight response options are contemplated, roughly matching up with nine of the Griscom options (McKinsey & Company 2021). Partly as a consequence of this smaller number, this analysis has a lower estimate of mitigation potential by 2030, at 6.7 GtCO2/year. It also takes a different approach to estimating `practical' mitigation potential, usually focused on `land rent': the agricultural return value per hectare. Practical areas for implementation were those with land rents up to US$ 45 per hectare. The analysis investigates only two of the Manage options from Griscom: agroforestry and conservation agriculture. Unsurprisingly, it finds much less potential in ecosystem management actions than the other synthesis studies. Its overall estimates for Protect and Restore options are close to those of Girardin.
+
+We have seen that one reason for the wide range of mitigation potential identified in these studies (Table 1) are the different assumptions made about the global willingness to fund climate change mitigation in general and nature-based solutions in particular. Whether covered by public or private means, this can be represented by a US$ value (cost or price) per tonne of emissions reductions and removals. A cost of no more than US$ 100/tCO2e has frequently been used as a basis for estimating `feasible' mitigation potential, within biophysical, social and environmental constraints. In half of all tropical countries, over 50 per cent of national emissions could be mitigated through nature-based solutions at a cost of less than US$ 100/tCO2e (Griscom et al. 2020). However, Girardin envisaged that achieving a 1.5°C scenario would require doubling the acceptable cost of mitigation to US$ 200/tCO2e. This approximately doubled the global mitigation from nature-based solutions available by 2050.
+
+US$ 200/tCO2e is very high in comparison to available payments for nature-based solutions in the present day, such as the US$ 10/tCO2e minimum price available for forest emissions reductions via the Lowering Emissions by Accelerating Forest finance (LEAF) Coalition (LEAF Coalition 2021). While an increased willingness to pay for mitigation could incentivize greater use of nature-based solutions, it would also incentivize a suite of other climate change mitigation actions. The financing of nature-based solutions may depend, in part, on their cost-effectiveness compared with these other options. Although nature-based solutions can deliver a range of benefits in addition to climate change mitigation, many of these are not captured by traditional cost-benefit analysis, even though they can make a tangible difference to peoples' lives.
+
+3.3 How can different nature-based solutions contribute to climate change mitigation?
+
+The response options included in the studies reviewed here can be compared through different lenses: (i) options to Protect, Manage and Restore ecosystems; and (ii) the way that these are divided among different ecosystems. These comparisons will help to clarify the potential carbon benefits from, and the scope for strengthening effort towards, different types of nature-based solutions.
+Here we summarize some of the nature-based solutions with the greatest mitigation potential, highlight some enabling conditions for each major group of solutions and suggest some research priorities.
+Solutions that Protect Ecosystems
+In general, reducing emissions by preventing the loss or degradation of natural ecosystems is more cost-effective and immediate than restoring carbon to damaged ecosystems. This is consistent with a mitigation hierarchy approach to impacts on biodiversity and ecosystem services, which indicates that impacts should first be avoided; when that is not possible, they should be minimized; and when they do occur, restoration should take place (Ekstrom, Bennun and Mitchell 2015; Tallis et al. 2015). If impacts remain, they should be offset by equivalent action elsewhere. All else being equal, it follows that the first priority is to Protect ecosystems from conversion, the second step is to tackle the drivers of ecosystem degradation, and the third is to Restore ecosystems.
+Tropical forests, peatlands, and mangroves have the highest carbon stocks per hectare of all natural terrestrial/coastal ecosystems (Epple et al. 2016). In the latter two ecosystems, much of the carbon is held in soil organic carbon: 1375 tonnes/hectare on average for peatlands worldwide (Joosten and Couwenberg 2008) and 361 tonnes/hectare for mangroves (Sanderman et al. 2018). When peatlands and coastal wetlands are drained or otherwise degraded, they lose their soil organic carbon stores to the atmosphere through oxidation and sometimes burning. However, given the different areas of the ecosystems under pressure (Epple et al. 2016), the response option of Avoided Forest Conversion has a potential four to five times that of Avoided Peatland Impacts, and 10 to 12 times that of Avoided Coastal Wetland impact, including mangroves, saltmarshes and seagrass beds (Griscom et al. 2017; Roe et al. 2019; Girardin et al. 2021). Most estimates for avoided forest conversion are focused on a range of actions to reduce tropical deforestation, although Project Drawdown considers all forests but only in the context of declaring protected areas and establishing
+
+indigenous peoples' tenure.
+Nature-based solutions that require ecosystem loss to be avoided are only possible on a global scale if action is taken to tackle demand for agricultural land, the largest driver of land use change (the same will often be true for Restore actions). On the supply side, this can involve sustainable intensification, which seeks to improve crop yields without increasing carbon emissions. Unsustainable production and consumption patterns need to be addressed at the same time. Land demand and emissions can be reduced, for example, by (i) action on food waste and (ii) a shift towards plant-based diets, which results in a net decrease in land demand as grazing and feed production reduce (Bajzelj et al. 2014; IPCC 2019). If half of all people adopted a plant-rich diet and food waste was halved, this could produce an emissions reduction of 1.8 GtCO2e per year (Roe et al. 2019), as well as freeing land to deliver nature-based solutions. One radical scenario suggests that a transition away from animal agriculture could happen naturally, as animal protein sources are replaced with cheaper synthetic protein (Arbib, Dorr and Seba 2021).
+Solutions that Manage Ecosystems
+The potential contribution of different sustainable management options varies among the studies. Options with the largest potential include Natural Forest Management, which envisages reduced impact logging and longer timber harvest cycles in natural forests that are under extractive management; and agricultural options, such as agroforestry (Trees in Agricultural Lands) and Cropland Nutrient Management to reduce nitrogen dioxide emissions, as well as actions that increase carbon stocks in soils, such as Conservation Agriculture and Biochar. Girardin et al. (2021) are unusual in seeing a much greater potential for agroforestry than for reforestation; this is consistent with remotely sensed analysis of the potential for trees to be added to agricultural lands (Chapman et al. 2020). Agroforestry is indeed a popular option among tropical treeplanting organizations (Martin et al. 2021).
+Nature-based solutions that better manage agricultural land will often increase productivity at the same time as yielding climate benefits, further contributing to reduced land conversion pressure. However, given that a key feature of nature-based solutions is a net gain to biodiversity and human well-being, not every instance of improved land management will count as a nature-based solution. For example, biochar involves adding charcoal to the soil, to improve soil quality and fertility and also enhance carbon storage. Biochar can be considered a nature-based solution only when the overall impact of producing, harvesting and using the biomass feedstock is beneficial to biodiversity. It is critical to avoid degrading natural ecosystems to source feedstock for charcoal. In the synthesis studies, this risk is minimized by restricting biochar to using crop residues.
+Governments can support nature-based solutions in agriculture in several ways: by repurposing agricultural subsidies to encourage sustainable management practices, by supporting extension programmes to provide training, and by ensuring that farmers have secure tenure. Land holders can be resistant to or incapable of embracing nature-based solutions due to various constraints. Although vulnerable to climate change impacts, farmers may: lack the human, technical or financial resources to adopt innovations; be unable to perceive the advantages in the long-term; have farming structures that are not conducive to new practices; exist in a policy framework that does not incentivize the change (Pagliacci et al. 2020); and/or be understandably reluctant to risk changing practices underpinning their livelihoods without persuasive proof of concept. Furthermore, while women and men are jointly responsible for the management of agricultural ecosystems and food production, formal and informal land rights in developing countries can be skewed in favour of men. Legislation and customary practices that prohibit women from owning land or limit their freedom to claim and protect their assets need to be addressed to give women the security to plan for the long term (United Nations 2013; Doss et al. 2018).
+
+hydrology is to halt the ongoing emissions from oxidation of their organic soils and reduce the risk of fire, rather than to increase carbon sequestration. Any accumulation of additional carbon stocks by rewetted peat soils is very gradual and not typically factored into mitigation potential calculations.
+Reforestation encompasses a range of practices. In general, natural regeneration is a more cost-effective approach than planting (Crouzeilles et al. 2020), delivering more resilient, biodiverse forests (Chazdon and Uriarte 2016). Planting results in more rapid absorption of CO2 over the first twenty years (Bernal, Murray and Pearson 2018). Under IPCC definitions, `reforestation' is carried out on lands which have been forested at some point in the previous 50 years, while `afforestation' involves creating a forest on other non-forested lands (Penman et al. 2003). If these lands were forested more than 50 years ago, afforestation may function as a nature-based solution, but the term is often used to describe afforestation of natural grasslands, wetlands or savannas, often with monocultures. While this practice can contribute to climate change mitigation, it is often harmful to biodiversity (Pörtner et al. 2021) and is therefore not seen as a nature-based solution.
+Across most studies, Coastal Wetland Restoration and Peatland Restoration have a smaller role to play in mitigation than Reforestation. Drained peatlands emit some 1.91 (0.31­3.38) GtCO2e per year (Leifeld and Menichetti 2018). For peatland restoration, the most optimistic of the synthesis studies combined agricultural land values with this emissions estimate to calculate a mitigation potential of around 1 GtCO2e per year (McKinsey & Company 2021).
+
+Solutions that Restore Ecosystems
+As net CO2 removals (`negative emissions') are envisaged in all IPCC scenarios that limit global warming to +1.5°C, ecosystem restoration is an essential complement to protecting intact ecosystems. Some guiding principles have been established under the United Nations Decade on Ecosystem Restoration, drawing on a wide range of existing guidance, and emphasizing that restoration with a mitigation objective will only be successful in the context of a wider transition towards a nature-positive, net zero economy (Food and Agriculture Organization of the United Nations [FAO] 2021). Options that Restore ecosystems can take many years to reach their full potential, as carbon stocks accumulate and contribute to mitigation over decades to centuries. Drained peatlands are a special case, as the principal aim in restoring their
+
+As with options to Protect and Manage ecosystems, ecosystem restoration requires the right enabling conditions to be realised at scale. The business case for restoration can be difficult for land holders, with returns usually accumulating only over the long term. This makes it harder to cover the up-front costs, which may include the opportunity costs of lost agricultural revenue if land is being restored from productive use to a more natural land cover, and the costs of the restoration intervention itself. Governments can help by putting policies in place to incentivize ecosystem restoration, offering rewards for the public goods delivered; for the Manage options, governments can improve the security of land tenure to facilitate long-term planning (Sewell, Bouma, and Esch 2016).
+3.4 Further nature-based solutions could be possible in marine ecosystems
+
+In addition to the nature-based solutions included in the synthesis studies, there are other possible options that so far lack sufficient information to allow the global potential to be quantified. Several of these are found in coastal and marine ecosystems. On the sea floor, protection of marine sediment from industrial trawling and dredging could prevent 0.58 to 1.47 GtCO2 from being released into the water column each year (Sala et al. 2021). However, we would need to know how much of this CO2 reaches the atmosphere to quantify the mitigation potential of reducing the area trawled each year (currently 4.9 million km²). As a precautionary measure, prevention of trawling in areas of high-carbon sediment along the continental shelf8 would safeguard these carbon stocks from disturbance (Atwood et al. 2020). Deepsea mining may represent a further future threat to carbon stocks in benthic sediment and should therefore also be avoided.
+None of the synthesis studies include an estimate for protection of seaweeds, although they form the most widespread of coastal ecosystems, covering perhaps 3.5 million km² and do sequester carbon through sediments drifting to the seafloor. As there is no estimate of the rate of loss of seaweed habitats, it is not yet possible to estimate the impacts on their biomass and sequestration functions (HoeghGuldberg et al. 2019).
+Seaweed aquaculture or `ocean afforestation' has been proposed as a means to sequester carbon by contributing to ocean sinks, while also providing a resource for other response options as it can be used as a source of biomass for energy production, as an alternative fertiliser, or a livestock feed supplement to reduce enteric methane emissions (N'Yeurt et al. 2012; Duarte et al. 2013; Hoegh-Guldberg et al. 2019). Potential multiple benefits of seaweed farming include improving water quality in polluted and low-oxygen areas, at a minimum cost of US$ 71/tCO2 (Froehlich et al. 2019). However, analysis of an algal bloom in the Great Atlantic Sargassum Belt concluded that after accounting for knock-on effects elsewhere in the ecosystem, seaweed farming could represent either a sink or source of CO2 (Bach et al. 2021). Albedo effects were very uncertain, but could boost the mitigation impact. Careful investigation of the overall impacts of seaweed aquaculture is still needed before this can be proposed as a large-scale mitigation activity.
+
+Protection and restoration of marine fauna (fish and mammals) could be another response option for climate change mitigation. By reducing the population size and changing the demographic structure of a wide range of species, fishing also contributes directly to changes in marine carbon stocks and sequestration. The net outcome for carbon is not well understood due to the intricate ecological interactions involved. Carbon is stored in the living biomass of fished species, and fish also contribute to the downward flux of carbon through faecal pellets, estimated at 1.5 ± 1.2 GtC per year (Saba et al. 2021). Fished species can have a range of roles in maintaining carbon sink potential (e.g. predation of grazers, reducing algal blooms and maintaining water quality) and their removal can have trophic cascade effects that differ in carbon impact depending on species and ecosystems (Martin et al. 2021). Phytoplankton and krill may have declined in response to the missing nutrient mixing function of hunted-out whales (Roman et al. 2014). However, while stocks of marine biomass have been depleted by whaling and fishing, some may have been replaced in the form of other species, responding to reduced predator pressure or decreased competition for resources. It is therefore difficult to properly assess the net carbon storage potential of restoring marine vertebrate populations. We do know that when carcasses of whales and large fish sink to the ocean bed, there are long-term deposits of carbon. A conservative estimate of the annual mitigation potential of these deposits from fully restored populations of baleen whales is only 0.0006 GtCO2 per year, and of course it would take some time for populations to return to their original levels (Pershing et al. 2010). Similarly, sequestration by the sinking carcasses of large marine fish (tuna, mackerel, billfish and shark) is estimated at 0.08 GtCO2 from 1950 to 2014 (Mariani et al. 2020). However, this data offers only a very narrow window on the role of marine species in the carbon cycle, and there is a need for further research and modelling in this area.
+
+3.5 How much mitigation can we expect from nature-based solutions?
+
+Across the syntheses, the total mitigation potential of options to Protect natural ecosystems from conversion is fairly consistent, with a range from 3.4 GtCO2e at 2030 to 4.6 GtCO2e at 2050 (Figure 3).
+There is a strong consensus that Avoided Forest Conversion holds the greatest mitigation potential, because of the extent of forest that continues to be lost and the immediate benefits of retaining existing forest compared to waiting for new forest to grow. Preventing deforestation avoids a pulse of carbon emissions, which would take years to recover if the same site were then reforested. As the synthesis studies have been refined through time, estimates of the overall potential from options to Restore ecosystems have decreased, especially for reforestation, while still remaining substantial. Estimates for the potential mitigation benefits from options that Manage ecosystems are very variable, being influenced by the number of response options included and assumptions about how fast they can be scaled up.
+When comparing across different ecosystems, forests predominate, typically representing 62 per cent (58-65 per cent) at 2050 of the annual mitigation potential across studies (Figure 2). Response options based in croplands and grasslands, including agroforestry, provide the second highest contribution in the majority of the synthesis studies, around 24 per cent at 2050 (22-28 per cent). In addition, although the Fire Management option includes fire control practices both for forest and savanna, these studies focus entirely on forest. Given the relatively small global area of degraded and threatened peatlands, their potential contribution to mitigation is very high, 10 per cent of the total at 2050 (9-11per cent). Although peatlands overlap with forest, grassland and cropland, by focusing on their organic soil carbon the synthesis studies minimize any overlap in the calculation of potential. Finally, coastal wetlands (conservation and restoration of mangroves, salt marshes and seagrasses) represent around 4 per cent at 2050 (3-4 per cent) of the total mitigation potential. In the future, nature-based solutions in marine ecosystems may further add to this potential.
+The synthesis studies reviewed here identify a striking range of total mitigation potential, from around 5-11.7 GtCO2e at 2030 to 10-18 GtCO2e at 2050. The studies vary in their assumptions about how quickly different types of nature-based solutions can be implemented and financed on a large scale, and the relative potential of different solutions (Figure 2).
+Some studies concentrate on CO2 alone, while others factor in the potential for reducing emissions of other greenhouse gases. As will be discussed below, robust safeguards are needed to ensure that nature-based solutions live up to their bold promise to deliver multiple societal benefits. All forms of mitigation need to be implemented at their maximum capacity if we are to limit global temperature rise to no more than 1.5°C. The time required to ensure that new nature-based solutions are properly planned and implemented with inclusive governance means that by 2030 the lower end of this range (5 GtCO2e) may be the most realistic estimate of that capacity, scaling up to at least 10 (maximum 18) GtCO2e by 2050.
+
+Nature-based solutions offer multiple benefits
+
+A major attraction of nature-based solutions as a strategy for climate change mitigation is that they can deliver multiple benefits. These benefits include retained and restored ecosystem services from forests, croplands, grazing lands, wetlands and other coastal ecosystems that support human health and well-being (Anderson et al. 2019), as well as biodiversity conservation and sustainable livelihood development. Well-designed nature-based solutions can also improve human resilience, helping people to face the challenging impacts of climate change. Nature-based solutions can increase our capacity to adapt to those impacts of climate change that will still be present in a net zero world, reduce exposure to climate-related risks such as flooding and lower the sensitivity of human communities to climate change and shocks, for example by diversifying income (Seddon et al. 2020).
+Similarly, nature-based solutions developed with a focus on other objectives, such as Ecosystem-based Adaptation, can deliver climate change mitigation benefits (Chausson et al. 2020). Nature-based solutions focused on food security in farmlands can, likewise, provide a climate dividend (for disaster risk reduction, adaptation and mitigation) while conserving water and biodiversity (Miralles-Wilhelm 2021). Nature-based solutions for water security can similarly yield additional social, economic and environmental benefits, including for climate change mitigation and adaptation (United Nations World Water Assessment Programme/UN-Water 2018). If planned well, with considerations for those left furthest behind, these benefits will improve the lives of women, indigenous peoples, poor farmers and local communities whose livelihoods and well-being are closely tied to natural resources (UNEP 2021b).
+It has already been noted that Avoided Forest Conversion and Reforestation make up a substantial part of the global potential for mitigation from nature-based solutions. Natural and planted forests cover 31 per cent of the terrestrial area worldwide (FAO and UNEP 2020). Protecting and restoring large tracts of forest can be especially beneficial. Forests interact with carbon, water and energy cycles in different ways, generating large parts of the Earth's rainfall through evapotranspiration, which can be transported over long distances in `flying rivers' (Schwarzer 2021). But the value of forests goes well
+
+beyond their well-known roles in climate change mitigation and biodiversity conservation. Globally, an estimated 880 million people collect fuelwood or produce charcoal from forests and over 90 per cent of the extreme poor rely on forests for at least part of their livelihoods (FAO and UNEP 2020). Cookstoves with improved combustion efficiencies compared to traditional stoves or fires use less fuelwood and charcoal (Urmee and Gyamfi 2014). This saves time and labour gathering fuel, a burden which often falls upon women and children, as well as benefiting women's health through reducing indoor air pollution. Adopting improved cookstoves is the means of implementation for the Avoided Woodfuel Harvest response option of Griscom et al. (2017), and features in several developing countries' NDCs.
+The UNFCCC encourages forest-based nature-based solutions through its REDD+ framework, which covers "reducing emissions from deforestation and forest degradation and the role of conservation, sustainable management of forests and enhancement of forest carbon stocks in developing countries" (UNFCCC 2021). REDD+ can yield non-carbon benefits including biodiversity conservation, enhancement of forest ecosystem services, and socio-economic developments including poverty reduction, gender equality and women's empowerment, and promotion of an economy supported by sustainable forest management. In applying the safeguards required by the UNFCCC, REDD+ should deliver these environmental and social benefits, ensure the rights of indigenous peoples and local communities and avoid or mitigate relevant social and environmental risks. For example, agroforestry is often included in the scope of REDD+ and can deliver a range of environmental and social benefits. Developing agroforestry within existing perennial crop plantations over seven West African countries could absorb 0.14 GtCO2 per year over twenty years, as well as connecting forest remnants, providing fuelwood, improving soils, protecting crops against climate extremes and enhancing local food and energy security (Tschora and Cherubini 2020). In an urban context, forests and parks can contribute to cooling cities, mitigating flood risks, and enhancing health through better air quality and provision of leisure spaces (European Environment Agency 2021).
+
+Table 2 describes the multiple benefits delivered by selected nature-based solutions. It brings together three existing reviews of these benefits (MirallesWilhelm 2021; Seymour and Langer 2021; World Economic Forum [WEF] 2021) and complementary studies. The ecosystem service benefits shown will often ultimately improve the resilience of people and ecosystems to climate change, and thus also represent adaptation benefits. The delivery of the different benefits is classified qualitatively into low, medium and high levels. For a given nature-based solutions, the benefits may vary depending on how and where the nature-based solution is delivered, e.g. different levels of management intensity in the Natural Forest Management response option. Table 2 can be used to shortlist valuablenature-based solutions approaches for different circumstances. It can be seen, for example, that just as avoided loss of natural habitats is the most rapid route (per hectare) to climate change mitigation impact, retaining the threatened biodiversity and ecosystem services in these places is a faster route to social and environmental benefits than waiting for habitat restoration to take effect.
+Nature-based solutions for climate change mitigation
+
+Environmental benefits
+
+Socioeconomic benefits
+
+Biodiversity and
+
+Biodiversity
+
+ecosystem services conservation
+
+Avoided Forest Conversion
+
++ + +
+
+(often feed into adaptation benefits, including through improved resilience of natural, seminatural and modified ecosystems)
+
+Climate stability
+
+Soil health
+
+Water quality Reduced risks Food and/or Cultural
+
+of extreme energy
+
+services and
+
+events
+
+provision health security
+
++ + +
+
++ + +
+
++ + +
+
++ + +
+
++ + +
+
++ + +
+
+Reforestation
+
++ + / + + +
+
++ + +
+
++ +
+
++ + / + + +
+
++ +
+
++ + / + + +
+
++ + +
+
+Improved Plantations + / + +
+
++ + +
+
++
+
++
+
++ +
+
++ + +
+
++
+
+Natural Forest Management
+Conservation Agriculture (cover crops)
+
++ / + +
+
++ +
+
++
+
++ +
+
+Trees in Croplands
+
++ +
+
++ +
+
++ / + +
+
++
+
++ +
+
++ +
+
++ +
+
++ +
+
++ / + +
+
++ +
+
++ + + + + + + +
+
+Avoided Peatland Impacts
+
++ + +
+
++ + +
+
++ + +
+
++ + +
+
++ + +
+
++ + +
+
++ + +
+
+Peatland Restoration
+
++ + +
+
++ / + + / + + +
+
++ +
+
++ + +
+
++ + +
+
++ / + + / + + +
+
++ +
+
+Avoided Coastal Impacts
+
++ + +
+
++ + +
+
++ + +
+
++ + +
+
++ + +
+
++ + +
+
++ + +
+
+Coastal Restoration + / + + / + + +
+
++ + +
+
++/++/+++ +/++/+++ +++
+
++ + +
+
++ + +
+
+Table 2: Multiple benefits of selected nature-based solutions for climate change mitigation (qualitative scale: +++ high benefits; ++ medium benefits; + low benefits) (Sources: Miralles-Wilhelm 2021; Seymour and Langer 2021; WEF 2021; and others detailed in supplementary table.)
+Further details on the scale of benefits available can be found in a supplementary table, at: ; lists of nature-based solutions and benefits are not exhaustive.
+
+5 Social and environmental safeguards
+
+To ensure that nature-based solutions live up to their promise to deliver on multiple local and global agendas over the long-term, robust safeguards are needed to guide their design and implementation. Safeguards can help to manage social and environmental risks as well as to achieve multiple benefits that strengthen the case for scaling up. REDD+ already has this type of safeguards framework, agreed under the UNFCCC, but there is not yet an equivalent for non-forest ecosystems (Seddon et al. 2020). Some countries are already choosing to apply REDD+ safeguards beyond forests, for example, Honduras, which is working on a single framework for all climate change projects and programmes. Safeguards for nature-based solutions for mitigation can also build on those detailed in the guidelines for ecosystem-based approaches for climate change adaptation and disaster risk reduction adopted under the CBD (CBD 2018; Secretariat of the Convention on Biological Diversity 2019). Meanwhile, IUCN has consulted widely on its Global Standard for Nature-based Solutions (IUCN 2020a; IUCN 2020b) and is working with partners to integrate this into existing certification schemes that could then be used to demonstrate that a given intervention meets the standard (IUCN 2021).
+Nature-based solutions provide benefits for biodiversity and human well-being while addressing other societal challenges. However, discussions under the CBD have highlighted specific concerns. Some indigenous peoples and civil society groups have argued against any form of carbon trading, being concerned not only that market-oriented nature-based solutions may involve privatization of natural resources held in common, with some stakeholders benefiting at the expense of others, but that offsets would be used to delay action to reduce emissions (Tugendhat 2021). There is a concern that the need to engage indigenous peoples and local communities in decision-making will be not be taken seriously, but reduced to a box-ticking exercise (Seddon et al. 2021). Many of these concerns are addressed under the IUCN Global Standard, which expands on the IUCN definition of nature-
+
+based solutions in a way that reflects existing CBD Decisions. For example, the principles of the CBD's Ecosystem Approach ­ that ecosystem management should be done "in a fair and equitable way", pursuing objectives which "are a matter of societal choices" and "involve all relevant sectors of society" (CBD 2007) ­ are addressed in the Standard, which inter alia calls for involving stakeholders at all stages, upholding the right of indigenous peoples to `free, prior and informed consent', prioritizing the most pressing societal challenges according to rightsholders and potential beneficiaries, identifying the benefits and costs of each solution and ensuring these are equitably shared amongst stakeholders.
+Safeguards are also needed to ensure the climate change mitigation benefits of nature-based solutions. UNFCCC discussions are focused on its primary objective to stabilize "greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic interference with the climate system" (UNFCCC 1992, p.9). Safeguards are needed to address `leakage', `additionality', permanence and double-counting . Whennature-based solutions are applied over small scales and in a context of continuing land demand, `leakage' (displacement of the original land-uses) can undo some of the carbon savings made. To ensure `additionality', the solutions must deliver carbon benefits compared to the business-as-usual situation, without the intervention. If the achievements of nature-based solutions are reversed through human action or even as a result of climate change itself, permanence questions are raised around whether there have indeed been net emissions reductions. If carbon credits from nature-based solutions are traded and used for offsets, without reliable accounting systems, there is a risk of the mitigation benefit being over-stated, lessening pressure to reduce emissions elsewhere. While safeguards for leakage and permanence are in place for REDD+, the rules intended to avoid double-counting and ensure additionality within international emissions trading under Article 6 of the Paris Agreement are still under negotiation (Asian Development Bank [ADB] 2020).
+
+These various issues must be tackled in safeguards and in carbon accounting, both for nature-based solutions and other response options.
+As well as helping to ensure that nature-based solutions for mitigation are genuinely beneficial for people and nature, adopting appropriate safeguards makes it clear that, as noted earlier, not all land-based response options for climate change mitigation should be counted as nature-based solutions. Options that enhance carbon sinks without regard to biodiversity conservation needs, plant trees in peatlands or natural grasslands whose carbon stocks are vulnerable to disturbance, or plant large areas of monocultures for biomass energy, are unlikely to qualify as nature-based solutions. To secure societal benefits and avoid risks may require an analysis of social and cultural factors that result in exclusion and discrimination based on gender or other factors. Top-down land-use planning that blocks the participation of vulnerable groups such
+
+as women, youth, indigenous peoples and local communities is not likely to yield a set of proposed solutions that meets their needs. Moreover, such planning could well present risks to land rights, food security and ecosystem services that communities depend upon. If governments are able to apply or adapt the safeguard approaches developed for initiatives such as REDD+ to accommodate other nature-based solutions, this could go a long way towards reducing these social and environmental risks.
+
+
+6.1 Nature-based solutions in national mitigation commitments
+
+The Paris Agreement offers a concrete opportunity to scale up nature-based solutions for both climate change mitigation and adaptation, in that it requires all countries (Parties) to submit their NDCs in support of the goals of the Agreement. The Agreement's Article 6 also allows for Parties to finance mitigation in other nations, both through market and nonmarket approaches. In the NDCs, Parties set out their mitigation commitments as well as (in most cases), their adaptation priorities and targets.
+As well as expecting that NDCs are updated at least every five years with progressively more ambitious pledges, the Paris Agreement invited countries to set out "long-term low greenhouse gas emission development strategies" (2015, p.4). These strategies may include a long-term vision to guide the definition of successive NDCs, including goals for both mitigation and adaptation, such as the target date for achieving net zero ambitions across sectors.
+The role of nature-based solutions in NDCs has increased through time. In 2017, only 38 of 160 NDCs assessed specified land-sector mitigation contributions (Griscom et al. 2017). By 2019, the majority of NDCs included actions that could be interpreted as nature-based solutions, but these largely lacked quantifiable targets and were more common in developing than developed countries (Seddon et al. 2019). More than two thirds of NDCs appeared to refer to mitigation in forests, although they may not all involve nature-based solutions. Only 20 per cent included quantifiable targets for forests, and only 8 per cent expressed these targets in tCO2e. Ecosystems other than forests were less well represented. In the NDCs of developing countries, targets are often presented as conditional on international finance. By 1 May 2021, 55 Parties had submitted updated or revised NDCs. Of these, 44 referred to nature-based solutions for mitigation, with an increasing number including quantifiable targets (Bakhtary, Haupt and Elbrecht 2021). The number of NDCs that referenced wetlands or coastal ecosystems also increased.
+
+Elbrecht 2021) as well as selected others. In selecting additional NDCs for review, we focused on those covering a large geographical area and including land-use, land-use change and forestry (LULUCF) or agriculture in their sectoral scope, according to the Institute for Global Environmental Strategies (IGES) database (IGES 2021). We assessed whether each NDC included actions to Protect, Manage or Restore each of four broad ecosystem types, noting that many used broad language that made it difficult to specify a category (Figure 4). Some NDCs continue to make commitments on tackling emissions from the LULUCF sector without being explicit that this involves nature-based solutions or specifying targets for particular ecosystems. The European Union notably includes a stringent provision on LULUCF becoming net zero, making individual member states responsible for determining how this will be implemented ­ commitments of this nature do not feature in our summary. Due to huge variation in the way that actions are described within NDCs, we did not attempt to summarize the intended impact of the actions. Overall, there were slightly more commitments to Manage and Restore than to Protect ecosystems. Forest-based options were overwhelmingly the most common, followed by grassland and agriculture, coastal ecosystems and finally wetlands.
+
+
+6.2 Private sector commitments on climate change mitigation
+Achieving the mitigation promises made in NDCs will require countries to adjust regulation, taxes and incentives to encourage private sector action. Nature not only has a place in NDCs, but also in private sector climate change mitigation strategies. The United Nations `Race to Zero' campaign has brought together net zero initiatives that represent at least 3,067 businesses and 173 large investors, alongside cities, regions and universities. All have committed to achieving net zero emissions by 2050, with some making more ambitious commitments to absolute zero emissions, or to becoming `climate positive', absorbing more greenhouse gases than they emit. Interim targets for the coming decade are required of members9 (United Nations [UN] 2021). Nature-based solutions can be used in corporate net zero strategies in different ways (Pineda, Chang and Faria 2020): by reducing land-based emissions that companies are responsible for (e.g. from deforestation in their supply chains); as a means of `compensating' for ongoing emissions as the company moves towards net zero; and to `neutralize' any emissions that remain when the net zero deadline is reached (see section 8).
+6.3 Partnerships for nature-based solutions
+
+Collaboration between governments, corporates,
+
+initiatives involve the non-profit Emergent Forest
+
+scientists and civil society is key for the successful Finance Accelerator, which was established to act as
+
+deployment of nature-based solutions at scale. Since an intermediary to sell tropical forest carbon credits
+
+2017, a number of collaborative initiatives have
+
+to the private sector.
+
+been founded to promote nature-based solutions in
+
+different ways, often with an emphasis on providing LEAF places restrictions on both buyers and
+
+finance through carbon credits. The Natural Climate suppliers of credits. Suppliers must meet the
+
+Solutions Alliance, convened by the WEF and WBSCD, provisions of the ART-TREES standard (Architecture
+
+is focused on facilitating discussion between
+
+for REDD+ Transactions - The REDD+ Environmental
+
+suppliers, buyers and other parties interested in
+
+Excellence Standard) to measure emissions
+
+carbon credits from nature-based solutions (WEF
+
+reductions performance and report on how they
+
+2021). The Alliance provides guidance to businesses are implementing the UNFCCC's safeguards. ART-
+
+on including nature-based solutions within their
+
+TREES is especially focused on transparency and
+
+climate strategies, and on the use of carbon credits environmental integrity, establishing provisions on
+
+from credible, safeguards-compliant nature-based
+
+leakage, permanence, uncertainty calculation and
+
+solutions to neutralize or compensate for their
+
+avoidance of double counting. LEAF buyers may
+
+emissions (Natural Climate Solutions Alliance
+
+be countries (`sovereign contributors') or private
+
+[NCSA] 2021). The Nature4Climate partnership,
+
+sector buyers that have committed to strong
+
+hosted at The Nature Conservancy (TNC), advocates decarbonization targets for their own emissions,
+
+and communicates the value of nature-based
+
+including net zero targets by 2050. To connect the
+
+solutions for climate change. It comprises two types of buyer, LEAF offers four transaction
+
+conservation, multilateral and business organizations, pathways (LEAF Coalition 2021): (1) a traditional
+
+including the CBD, IUCN, UN-REDD Programme,
+
+donor pathway, in which sovereign contributors
+
+UNEP, UNDP, WBCSD, WWF and the World Resources fund emissions reductions that the supplier country
+
+Institute (WRI).
+
+retires and may include in its NDC accounting; (2)
+
+the same approach, with a private sector buyer;
+
+Other initiatives aim to foster particular types of
+
+(3) a market transaction in which the private
+
+nature-based solutions. Jurisdictional approaches
+
+sector buyer takes title to the emissions reduction
+
+account for changes in ecosystem carbon over
+
+credits, while the supplier country still includes the
+
+entire jurisdictions ­ which may be provinces, or
+
+underlying mitigation in accounting for its NDC;
+
+even countries ­ rather than within a single project
+
+(4) a transaction in which the private sector buyer
+
+site. One advantage of this approach is that it
+
+takes title of the credits, and can use these towards
+
+eliminates the risk of leakage being unaccounted
+
+its compliance targets, and the supplier country
+
+for within the jurisdiction. For forests, the Green
+
+makes a `corresponding adjustment', not counting
+
+Gigaton Challenge, initiated in 2020 by the UN-
+
+the mitigation towards its NDC. Final decisions on
+
+REDD Programme together with several non-profit
+
+the rules for international transfers of mitigation
+
+organizations, aims to support governments in their outcomes under Article 6 of the Paris Agreement may
+
+efforts to halt deforestation (Edwards 2021). The
+
+influence which of these pathways are most viable in
+
+challenge is to fund 1 GtCO2e of jurisdictional-scale the future (ADB 2020).
+
+emissions reductions per year by 2025, with the
+
+intention of demonstrating that both supply and
+
+In 2021, the European Carbon+ Farming Coalition was
+
+demand can function at scale. The LEAF Coalition,
+
+launched as part of a larger effort to transform global
+
+launched in 2021, brings together government (United food systems, under the auspices of the WEF. It aims
+
+States of America, United Kingdom and Norway)
+
+to promote regenerative and climate-smart practices
+
+and private sector partners with a similar objective
+
+to better Manage Europe's farmlands, contributing
+
+of mobilizing both private and public sector funds to to the decarbonization of the European food system,
+
+Protect tropical forests at scale. The Green Gigaton healthier soils and more resilient farms. In the marine
+
+Challenge focuses on making the case for investment realm, the Blue Natural Capital Financing Facility
+
+in nature, promoting minimum donor-funded prices managed by IUCN became operational in 2018. It
+
+for carbon results, and private sector demand at
+
+is helping to Protect, Restore and Manage marine
+
+higher prices. The LEAF coalition has established
+
+ecosystems by financing climate change mitigation
+
+a new framework for results-based payments
+
+and adaptation efforts that meet its Positive Impacts
+
+for REDD+. A call for proposals to supply future
+
+framework, for example, generating carbon credits
+
+emissions reductions received applications from 30 from seagrass ecosystems in Kenya's Vanga Bay.
+
+jurisdictions, of which 21 have passed the first stage. Similar initiatives in the land-use finance space
+
+Many large companies have joined the coalition
+
+include Indonesia's Tropical Landscapes Finance
+
+with an interest in participating in transactions. Both Facility and the Rabobank-led Agri3 fund.
+
+7 Financing needs
+
+Nature-based solutions receive a small proportion of existing public and private climate-mitigation financing. Finance for climate change mitigation flows from public funds, development finance institutions, state-owned enterprises and financial institutions, private corporations and even private individuals investing in low carbon technologies such as electric cars (Climate Policy Initiative [CPI] 2020). Overall, only 3 per cent of all climate finance (for mitigation or adaptation) in 2017­2018 was directed towards AFOLU and natural resource management, categories which include some (unknown) proportion of nature-based solutions. Of the US$ 532 billion per year invested in mitigation, most was for renewable energy and low-carbon transport. Only 2 per cent was invested in AFOLU and natural resource management (CPI 2020). In contrast, the proportion for the much smaller pot of adaptation funding was around 16 per cent. According to global models, around US$ 2.4 trillion per year between 2016 and 2035 is needed for supply-side energy system investments alone, for limiting global warming to 1.5°C (IPCC 2018). This indicates that the finance currently available for nature-based solutions is far below the level needed, consistent with the broader findings of the State of Finance for Nature report (UNEP 2021a).
+Finance for nature and nature-based solutions has been identified as one of eleven public finance priorities by the COP26 Presidency, which called for an increase from both public and private sources (COP26 Presidency 2021). The need is especially great for tropical countries, where the median cost
+
+of implementing nature-based solutions for climate change mitigation is US$ 100/tonne, equivalent to nearly 6 per cent of national GDP, with outliers up to 46 per cent of GDP (Griscom et al. 2020). International transfers, whether public or private, will be needed to support nature-based solutions in these countries.
+Governments can also influence the financing needed for nature-based solutions by reducing their costs: transforming subsidies and incentive systems to encourage nature-positive land and sea-use. In 2020, 91 states committed to do just this, in the Leaders' Pledge for Nature, also signed by the President of the European Commission. The Pledge further commits countries to enhance resource mobilization, scaling up public and private sector support for biodiversity, including nature-based solutions.
+Even with this additional effort from governments, if nature-based solutions are to deliver on their climate change mitigation promise, all sources of finance will be needed, from public to private, domestic to international (Girardin et al. 2021). A substantial increase in private sector investment is needed to complement public funding (Carney 2020; Seddon et al. 2021) including actions within companies' own value chains and as a means of compensating for and neutralizing residual emissions en route to net zero.
+
+8 How can offsets play a role?
+
+A debate is underway about the role of emissions reductions and removals from nature-based solutions in offsetting emissions from other parts of the economy. While proponents believe that this approach can quicken our progress to net zero, reducing the risk of dangerous climate change, critics are concerned that offsetting will instead reduce ambitions for emissions reduction, thus "letting polluters off the hook". In addition, it is argued that excessive confidence in the future potential for carbon dioxide removals, whether through natural solutions or nascent technological approaches, can diminish the perceived urgency of action on emissions (Dyke, Watson and Knorr 2021).
+An IUCN survey held between June and September 2021 canvassed views on the use of nature-based solutions for carbon offsetting, and received 569 responses from a wide range of actors10.
+The survey first solicited general views on the use of nature-based solutions for carbon offsetting. It then unpacked the conditions under which respondents felt that this could be acceptable. Over 80 per cent of respondents expressed support for the use of nature-based solutions for carbon offsetting purposes, whether by state or non-state actors. However, 75 per cent expressed concern that such use could reduce overall mitigation ambition or have other harmful consequences. To address this concern, 93 per cent of respondents supported allowing the use of nature-based solutions for carbon offsetting only if certain conditions were fulfilled, while 7 per cent opposed all use of nature-based solutions for these purposes.
+Respondents were then invited to review 10 possible conditions, in the form of solution statements. These aimed to address four thematic categories of risks: (1) of delay to broader decarbonization of the economy; (2) of harm to natural ecosystems and biodiversity; (3) of harm to local communities and indigenous peoples and (4) of lack of long-term commitment and quality and integrity assurance. Overall, there was broad support for the possible
+
+conditions. On average, 69 per cent expressed their clear agreement with the statements, and 93 per cent either agreed or partially agreed.
+The highest support (>80 per cent) was expressed for conditions establishing that the use of nature-based solutions for carbon offsetting (i) must support and enhance biodiversity, and should not contribute to the conversion or loss of existing natural ecosystems; and (ii) must ensure full protection of the rights of indigenous peoples and local communities, cause no harm to them, and assure equitable benefit sharing of any revenues generated through such measures. These conditions are consistent with the IUCN Global Standard for Nature-based Solutions.
+A high level of support (>70 per cent) was also expressed for conditions establishing that the use of nature-based solutions for carbon offsetting (i) not act as a substitute for cutting greenhouse gas emissions or delay wider decarbonization; (ii) be certified by programmes with robust systems that can assure high quality, high integrity carbon credits for nature-based solutions11; (iii) if transacted under voluntary schemes, be linked eventually to carbon accounting systems under Article 6 of the Paris Agreement to avoid double-counting; and (iv) adhere to the IUCN Global Standard to provide overall quality assurance.
+Over 3000 comments on the 10 possible conditions were received. For instance, it was highlighted that although the use of nature-based solutions for carbon offsetting focuses on climate mitigation per se, these activities need to also include adaptation and resilience objectives in order to fully contribute to the goals of the Paris Agreement. Likewise, it was noted that nature-based solutions interventions must be appropriate for their areas of implementation, and that beyond the generation of carbon offsets, companies and governments should also have strict overall policies for stopping deforestation and habitat conversion. It was commented that specifying and calculating a price premium for nature-based solutions carbon offsets would likely require a mix of measures, including regulation, incentives, consumer influence, and adequate measurement and monitoring systems for the various benefits of nature-based solutions. It was noted by some that the IUCN Global Nature-based Solutions Standard should be used to complement existing carbon measurement and verification standards and platforms, to help improve and assure the ecosystem and social integrity of offsetting activities claimed. Some respondents questioned the need for nature-based solutions carbon offsets generated through voluntary schemes to be strictly linked to compliance and carbon accounting systems being set up under Article 6 of the Paris Agreement. While further analysis will be conducted by IUCN, the survey findings are indicative of the views that currently exist within IUCN's constituencies on the main conditions that are needed to ensure high-quality, environmentally and socially responsible use of nature-based carbon offsetting. Moreover, the findings highlight areas of consensus and of possible debate.
+
+Figure 5 (continued): IUCN survey responses to possible conditions (solution statements) under which the use of nature-based solutions (NbS) for carbon offsetting may be allowed
+As standards and norms surrounding the use of nature-based solutions, whether as offsets or within value chains, continue to develop, companies can signal demand for high-quality nature-based solutions and advocate robust rules for offsetting (Seymour and Langer 2021).
+The Science Based Targets initiative (SBTi)12 is working on criteria for companies that wish to set net zero targets. The initiative aims to reduce confusion among consumers and stakeholders and to bring more clarity to corporate commitments (Voluntary Carbon Markets Integrity Initiative [VCMII] 2021a). The lack of a single clear definition of net zero for corporate action means that differences can be found in the way that companies include emission sources and gases in their target boundaries, scope and ambition (Pineda, Chang and Faria 2020). Besides net zero commitments to achieve emissions reductions in the future, corporate voluntary climate commitments may include emissions reductions for current activities, such as carbon neutrality at the company level, for specific products or services and also `beyond carbon neutrality', which implies reducing emissions in excess of current emissions, for example covering historical years (VCMII 2021b). There is an emerging consensus that, first and foremost, companies must make all efforts to reduce emissions within their value chain, including those that they are directly responsible for (Scope 1 emissions), those from energy that they purchase (Scope 2 emissions) and those from other parts of their value chains (Scope 3 emissions).
+SBTi is currently undertaking a public consultation process and aims to release a corporate net zero standard in November 2021 (VCMII 2021b). Its working definition for a net zero company requires deep decarbonization of value chain emissions in line with limiting warming to 1.5°C, and the neutralization of any residual emissions with permanent carbon removal (VCMII 2021b). It is recognized that this is a process of transition, and that carbon offsets can be used to compensate for remaining emissions as companies put measures in place to eliminate them. SBTi encourages companies to directly finance innovative projects and programmes as well as purchasing high-quality carbon credits during their net zero transition, to help deliver positive outcomes beyond a company's value chain. Companies need to be explicit about the role of offsets as they move towards net zero (Carney 2020; Seddon et al. 2021), showing that they are not a means to avoid emissions reduction, but a means to reduce emissions more rapidly and finally to `neutralize' unavoidable emissions.
+There are differences of view over whether avoided emissions from natural habitat loss are appropriate for use as offsets or should be separately funded as an essential part of achieving net zero emissions. SBTi's current draft guidance limits companies to using removals, not reduced emissions, when offsetting their own emissions to achieve net zero targets. That is, their accounting approach considers that only `neutralization' efforts that remove carbon from the atmosphere can be used to counteract any residual emissions that cannot be tackled (VCMII 2021a; VCMII 2021b). As presently formulated, this approach limits `neutralization' to nature-based solutions that Restore or sometimes Manage ecosystems, thus potentially limiting the scope for the private sector to scale up nature-based solutions for climate change mitigation. This position contrasts with the approach of the ART-TREES standard, which requires a jurisdiction to show that emissions from deforestation and forest degradation are being tackled before credits can be issued for removals from reforestation. This latter approach is consistent with the mitigation hierarchy.
+There is a need to develop an infrastructure for scaling up high-quality and functioning carbon markets, and a set of rules and guidance that allow funding to be directed towards well-plannednature-based solutions that do not delay the urgently needed decarbonization (Carney 2020; Seddon et al. 2021), as well as ensuring demand-side integrity, as seen in the SBTi corporate net zero standard. The private sector-led Taskforce for Scaling Voluntary Carbon Markets is consulting on a blueprint for a voluntary market infrastructure of this type, and a roadmap to implementation (Taskforce on Scaling Voluntary Carbon Markets 2021). Again, the precise implementation may be influenced by final decisions on the rulebook for Article 6 of the Paris Agreement.
+
+9 Conclusion
+
+Nature-based solutions have a vital role to play in mitigating climate change, while simultaneously providing adaptation and other benefits. We conclude that at least 5 GtCO2e per year by 2030 and 10 GtCO2e per year by 2050 is feasible, taking a conservative outlook across the several published studies. The underlying estimates have a wide range, which reflects the uncertainties regarding the types of intervention considered, the speed at which they can be scaled up, the global willingness to pay for nature-based solutions, represented by assumptions about the value assigned to climate change mitigation (US$/tCO2e) and the impact that strict adherence to safeguards will have. In the light of these uncertainties, we can have more confidence in the estimates at the lower end of the ranges provided.
+However, while nature-based solutions have a necessary role to play, achieving the Paris Agreement goal will require, above all, a rapid, ambitious and sustained abatement of fossil fuels and other industrial emissions, as called for by the latest science (Pörtner et al. 2021; Seymour and Langer 2021). Without this ambitious action to decarbonize national economies taken by governments and corporates and supported by civil society, it will be impossible to limit global temperature rise to below 1.5°C in the coming years. This would undermine the capacity of the biosphere/ecosystems to draw down and store carbon, and likely turn the biosphere into a net source of greenhouse gases.
+Nature-based solutions can be implemented across terrestrial and marine ecosystems, although we understand far more about the terrestrial response options. Across ecosystems, the overall mitigation potential is highest in forests, and then in grasslands and agriculture, with peatlands and coastal wetlands representing a very high potential per hectare, but a
+
+lower overall potential due to their smaller area. This understanding is broadly reflected in NDCs, which more frequently put forward solutions for mitigation centred on forests, grasslands and agriculture than for other ecosystems. If nature-based solutions are to deliver on this contribution to mitigation, then the necessary safeguards, carbon accounting frameworks and governance schemes that have been identified here need to be in place and strictly enforced. Moreover, the finance must be available to ensure delivery. Initiatives such as LEAF and the Green Gigaton Challenge offer promising ways forward, at least for forests. A proportion of the necessary finance could be delivered through the responsible use of nature-based solution offsets, provided that new and emerging frameworks are utilized to ensure that the achievement of net zero targets is not compromised and biodiversity and local communities benefit. These initiatives for forests should be adapted for use in other systems, particularly in agricultural lands and degraded peatlands of all types, to allow nature-based solutions to be advanced there.
+Equitable and resilient nature-based solutions can mitigate climate change while simultaneously strengthening both ecosystems and communities' resilience to climate change, promoting biodiversity conservation and reducing the risk of climate change feedbacks and impacts (Seddon et al. 2021). We have an opportunity now, while rebuilding economies in a post-Covid-19 world, to deploy robust and resilient nature-based solutions. With strategic planning, evidence-based action, and engagement of local communities, solutions based on nature can create jobs and stable livelihoods, and better manage our food and forestry systems, all while addressing the urgent challenges of climate breakdown and biodiversity loss.
+
+

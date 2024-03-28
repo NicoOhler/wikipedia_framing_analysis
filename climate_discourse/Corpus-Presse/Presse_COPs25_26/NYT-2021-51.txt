@@ -1,0 +1,185 @@
+
+
+The New York Times
+Late Edition - Final
+Business/Financial, Tuesday, February 23, 2021 1822 mots, p. B 1
+
+The Climate Talk vs. the Walk
+
+By Peter Eavis and Clifford Krauss
+
+For   the   past   several   years,   BlackRock,   the   giant   investment   ﬁrm,   has   cast   itself   as   a   champion   of   the
+transition to clean energy.
+
+Last month, Laurence D. Fink, BlackRock's chief executive, wrote that the coronavirus pandemic had "driven
+us   to   confront   the   global   threat   of   climate change   more   forcefully,"   and   the   company   said   it   wants
+businesses it invests in to remove as much carbon dioxide from the environment as they emit by 2050 at the
+latest.
+
+But crucial details were missing from that widely read pledge, including what proportion of the companies
+BlackRock invests in will be zero-emission businesses in 2050. Setting such a goal and earlier targets would
+demonstrate the seriousness of the company's commitment and could force all sorts of industries to step up
+their efforts. On Saturday, in response to questions from The New York Times, a BlackRock spokesman said
+for the ﬁrst time that the company's "ambition" was to have "net zero emissions across our entire assets
+under management by 2050."
+
+As the biggest companies strive to trumpet their environmental activism, the need to match words with
+deeds is becoming increasingly important.
+
+Household names like Costco and Netﬂix have not provided emissions reduction targets despite saying they
+want to reduce their impact on climate change. Others, like the agricultural giant Cargill and the clothing
+company   Levi   Strauss,   have   made   commitments   but   have   struggled   to   cut   emissions.   Technology
+companies like Google and Microsoft, which run power-hungry data centers, have slashed emissions, but
+even they are ﬁnding that the technology often doesn't yet exist to carry out their "moonshot" objectives.
+
+"You can look at a company's website and see their sustainability report and it will look great," said Alberto
+Carrillo Pineda, a founder of Science Based Targets, a global initiative to assess corporate plans to reduce
+emissions. "But then when you look at what is behind it, you'll see there is not a lot of substance behind
+those commitments or the commitments are not comprehensive enough."
+
+President Biden is also placing a big emphasis on climate change and has rejoined the Paris agreement. But
+determining   how   hard   companies   are   really   trying   can   be   very   difﬁcult   when   there   are   no   regulatory
+standards that require uniform disclosures of important information like emissions.
+
+Institutional Shareholder Services, a ﬁrm that advises investors on how to vote on board elections and other
+corporate matters, uses company data and its own analysis to assess what corporations are doing to reduce
+emissions. Just over a third of the 500 companies in the S&amp;P 500 stock index have set ambitious targets,
+it found, while 215 had no target at all. The rest had weak targets.
+
+"To realize the necessary emission reductions, more ambitious targets urgently need to be set," said Viola
+Lutz, deputy head of ISS ESG Climate Solutions, an arm of Institutional Shareholder Services. "Otherwise, we
+project emissions for S&amp;P 500 companies will end up being triple of what they should be in 2050."
+
+There has been some progress by companies that have rigorous targets. In a report last month, Science
+Based   Targets,   which   was   started   by   the   environmental   groups   and   hundreds   of   businesses   brought
+together by the United Nations, said the 338 large companies around the world for which it had sufﬁcient
+emissions data collectively reduced their emissions by 25 percent between 2015 and 2019.
+
+Often large companies in the same industry have very different records.
+
+For example, Walmart discloses its targets for emissions reductions and the progress it has made to the
+Carbon Disclosure Project, including a goal for emissions from its suppliers, and its plan has been vetted by
+Science Based Targets. But Costco doesn't expect to have commitments to reduce emissions until the end of
+next year. Costco executives declined to comment.
+
+ 
+
+
+
+
+
+Netﬂix is often compared to technology giants like Google and Microsoft. But Netﬂix has yet to set a target
+for reducing the emissions caused by its ofﬁces, production activities and the computer servers it uses.
+"Climate action is important, and we'll announce our plans in the spring, which will include targets based on
+climate science," the company said in a statement.
+
+
+Slashing   emissions   is   difﬁcult.   Businesses   must   reliably   measure   how   much   carbon   dioxide   and   other
+greenhouse gases they are responsible for. Then companies have to ﬁnd cleaner energy sources without
+hurting their operations. Where they can't ﬁnd cleaner substitutes, businesses often pay others to reduce
+emissions or remove carbon from the atmosphere.
+
+The task gets even harder when companies begin the process of reducing so-called Scope 3 emissions --
+pollution   caused   by   suppliers   and   customers.   At   oil   companies,   for   example,   Scope   3   would   include
+emissions from cars that use gasoline.
+
+BlackRock, with $8.7 trillion of assets under management, including stakes in many companies, clearly faces
+a daunting task. The company doesn't directly own most of the shares or bonds it buys -- it manages them
+for pension funds, other corporations and individual investors -- limiting how much climate activism it can
+pursue. In addition, most of its investment products track indexes like the S&amp;P 500, so it inevitably ends
+up managing stocks of fossil fuel companies.
+
+Many Wall Street ﬁrms have made pledges to get to net zero emissions from their lending and other
+ﬁnancial activities but have not made clear whether that goal applies to the stocks and bonds they manage
+for customers. BlackRock's decision to include all the assets it manages could pressure other ﬁnancial giants
+to make similar commitments, but it could rankle fossil fuel industries and their political supporters in
+Congress.
+
+Later this year, BlackRock is going to announce an interim target for how many of its investments will have
+achieved, or be on their way to, zero emissions in 2030.
+
+Still, BlackRock is careful about the language it uses when describing what it will do to push businesses in its
+portfolios to reduce emissions -- for which it has been criticized by people who want the ﬁrm to take a more
+activist   stand.   In   a   recent   letter,   the   company   said   it   was   intent   on   "increasing   the   role   of   votes   on
+shareholder proposals in our stewardship efforts around sustainability."
+
+"This could mean a lot of things and -- as always -- the proof is in the pudding," Ms. Lutz of ISS said.
+
+Ed Sweeney, a company spokesman, said BlackRock had recently voted for a signiﬁcantly higher number of
+shareholder proposals aimed at making companies greener compared with previous years. And in a client
+memo sent Wednesday, the ﬁrm said it might vote against directors and management at companies that it
+determines do not have clear climate disclosures and credible environmental plans.
+
+"While we recognize that the transition to net zero is at different stages based on industry and region,
+through   a   combination   of   engagement   with   management   teams   and   boards   of   directors   and   holding
+companies accountable for insufﬁcient progress through our voting on director elections and shareholder
+proposals, BlackRock will continue to focus on this important issue," Mr. Sweeney said in an email.
+
+Other companies that have pledged to cut emissions face different challenges, including coordinating with
+suppliers and partners.
+
+Consider the apparel industry. Much of its contribution to climate change comes from its supply chain. The
+clothes that Levi Strauss and others put their labels on are often made in factories in places like China,
+Pakistan and India that remain reliant on coal-ﬁred power plants. The clothes are transported on ships and
+planes that burn diesel and jet fuel.
+
+Even so, when Levi Strauss rolled out its 2025 climate action strategy three years ago, its chief executive, Chip
+Bergh, said, "We believe it's time for businesses to start playing a larger role in ﬁghting the world's most
+pressing problems, like climate change."
+
+The company set a Scope 3 emissions target. But Science Based Targets said in January that emissions from
+Levi's supply chain were not falling and had grown by 13 percent between 2016 and 2019.
+
+Jeffrey Hogue, Levi Strauss's chief sustainability ofﬁcer, said that calculation was incomplete because the
+company could not yet take credit for many interventions and investments it has made with suppliers. He
+said   that   would   happen   once   the   apparel   industry   decides   on   a   method   for   calculating   the   advances
+
+ 
+
+
+
+
+
+suppliers have made in cutting emissions, particularly for factories that sell to multiple companies.
+
+
+"We believe we are way better than 13 percent," Mr. Hogue said. But he said he could not conﬁdently give his
+own estimate, adding, "We are working with the industry to create more accuracy and precision in the
+number."
+
+Gary Cook, the global climate campaigns director of Stand.earth, an environmental group, was skeptical.
+"They set an aggressive target and they are struggling with that," he said.
+
+Cargill, one of the largest privately owned American companies and a major middleman that works with
+farmers and food companies around the world, has attempted to become a strong voice on climate change
+but has struggled to meet its goals.
+
+The company is a big purchaser of Brazilian soybeans, which are often grown on land that was previously
+forested. In 2010, Cargill promised to meet a "net zero" deforestation goal by 2020, but the company did not
+succeed and has extended its target to 2030. "Our commitment on deforestation has not wavered," said Jill
+Kolling, Cargill's vice president for global sustainability.
+
+The company's plans show how emissions could go up over all even when a business has set a goal to cut
+them. Cargill wants to reduce its emissions in its global supply chains by 30 percent per ton of production by
+2030, a target it made no progress on at the time of measurement in 2019, according to Science Based
+Targets. But overall emissions in its supply chains may not fall by that amount because of increases in
+production. "It depends on how our business grows, and that's hard to predict," Ms. Kolling said.
+
+By contrast, deep-pocketed tech ﬁrms have probably made the most progress. Now they are setting even
+more ambitious targets.
+
+Google wants all its operations to be consistently powered by renewable energy by 2030, but that could be
+difﬁcult to achieve because the output of wind and solar farms is still small in some countries. Microsoft
+wants to be "carbon negative" by 2030 even including Scope 3 emissions. That goal will almost certainly
+require extracting carbon dioxide from the atmosphere. Those technologies are nascent and could be very
+expensive.
+
+And for all these ambitious targets, even some executives argue that the current voluntary approach won't
+ensure the required reduction in emissions.
+
+"If we are going to achieve a net-zero carbon economy for real, we will need everyone to act," said Lucas
+Joppa,   Microsoft's   chief   environmental   ofﬁcer.   "And   that   means   action   can't   be   voluntary.   We   need
+requirements and standards that everyone is expected to meet."
+
+
+

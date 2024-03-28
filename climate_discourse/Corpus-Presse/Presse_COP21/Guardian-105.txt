@@ -1,0 +1,44 @@
+The Guardian (UK) (web site) 
+Friday, November 20, 2015 - 06:04 UTC -0500
+Will politicians embrace open data at the COP21 climate talks?
+At the end of the month, world governments will convene at the UN COP21 conference in Paris for the next round of binding emission commitments aimed at restricting global warming to no more than two degrees by the end of the century.
+
+When it comes to agreeing potentially tougher targets, both policymakers and members of the public will now be armed with the COP21 climate change calculator, developed by the Climate-KIC, the EU’s main climate innovation research centre, in collaboration with Imperial College, London and FT.com.
+
+Using data on the emission reduction pledges made to date and scientific forecasts on future warming, it aims to inform the public and policymakers on the impact a variety of choices by individual countries would have on overall global warming.
+
+Users can track the progress of current pledges until 2030 and then see what other action is needed by sliding countries’ individual emissions up and down to see the overall impact on the two degree target.
+
+The project was led by Jeremy Woods, co-director of the Centre for Energy Policy and Technology at Imperial College London, which also developed the Global Calculator from open data made available by the International Energy Agency and the Department of Energy and Climate Change. It allows users to change emissions from different contributors, such as transport and land use, to see how changes in behaviour, across the globe could impact climate change.
+
+“The calculators shows that it’s still possible to hit two degrees warming but the big take out is [that] though it’s not too late, we need some major commitments from the biggest emitters, they’ve got to lead the way,” he says.
+
+“The beauty of the open data and scientific forecasts we’ve put in to the calculators is it empowers people to have a go for themselves and see how individual changes can add up to make an overall change. It means the policymakers and the public can be well informed with free, simple-to-use tools.”
+
+Mapping risks
+
+At the European Environment Agency the emphasis is on taking the data on pollution levels EU countries must supply to the Copenhagen-based organisation and combining them with other sources of open data, such as population statistics, held by Eurostat. This information can be cross-referenced with freely available satellite imagery which shows land use and soil conditions.
+
+This end result are fascinating maps where multiple layers of data can be added or taken away by any member of the public, as well as policymakers, to answer all manner of environmental enquiries. Typical areas of investigation include the level of soil permeability, which is useful for flood risk evaluation, to temperature variations in cities which could lead to health issues, as Birgit Georgi, EEA project manager, explains.
+
+“We don’t make decisions or predictions, we put the data in the hands of the public and policymakers,” she says.
+
+“We have maps which show where the surface can absorb less water and also where there is likely to be a scarcity of water, both now and predicted in the future. We are also working on showing how urbanisation can mean towns and cities have so much built up areas without green spaces to let them cool down.
+
+“Our maps show the cities which are 10 degrees warmer than the surrounding rural areas at night. It’s important because in 2003 there was a heatwave across Europe which was linked to thousands of premature deaths. When cities can’t cool down at night, citizens’ bodies don’t have a chance to rest and it risks the health of vulnerable people.”
+
+Lifting the lid on pollution
+
+The EEA also produces pollution maps which track, in near real time, levels of ozone, sulphur dioxide, carbon monoxide and nitrous oxide in addition to any airborne particles that are smaller than 10 micrometres in size. According to Alberto Gonzalez Ortiz, project manager for air quality data and policy assessment, the maps can show citizens, as well as policymakers, where areas change colour to reveal levels at which governments are legally obliged to take remedial action.
+
+“Most of the EU countries provide near real time information so we can show the latest situation for each pollutant with a sliding scale for the past week, so you can see how levels have built up or gone down,” he says.
+
+“Nitrous oxide is a very important one because it comes from traffic pollution and there are levels, which we show, that member states can only exceed for 18 hours in a year or, at the top level, they are obliged to take immediate action. The information we are supplied from monitoring stations was undoubtedly part of the decision for Paris to recently ban cars from the city for a day and to make public transport free. The authorities would have had the data internally but we make it publicly available for free.”
+
+More data coming soon
+
+The good news for open data and the environmentally-minded is that over the next couple of years the European Space Agency’s ongoing Copernicus project will make imagery from a new family of six earth observation satellites freely available. Two are already launched and four more are expected to follow by 2021. They will allow more detailed research with imagery updated far quicker than ever before as gaps between satellite “footprints” get smaller, according to Karin Viergever, an analyst specialising in land use at environmental software company Econemtrica, which provides environmental services for governments, NGOs and corporates.
+
+She predicts that ESA’s commitment to open data, which follows in the footsteps of NASA’s imagery having been free for many years, will greatly increase our understanding of the links between land use and the environment with the bonus of also providing data on marine conditions.
+
+In the meantime, when the global governments meet in Paris at the end of the month, they will find that not only are they better informed on climate change than ever before, so too are citizens, thanks to researchers combining multiple streams of open data and making them freely available and available to explore online by an ever-curious public.

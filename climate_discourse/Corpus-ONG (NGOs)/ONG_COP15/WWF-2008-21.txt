@@ -1,0 +1,1011 @@
+Ensuring access to environmental justice in
+England and Wales
+May 2008
+Report of the Working Group on Access to Environmental Justice
+
+Foreword
+
+When it signed up to  nearly a decade ago the United Kingdom undertook to ensure that ordinary members of the public who wished to pursue environmental law challenges should have access to procedures that were "fair, equitable, timely and not prohibitively expensive".
+Few would dispute that our procedures in the Administrative Court, while by no means perfect, are, for those who can afford to use them, "fair and equitable"; and despite the pressures on the Administrative Court's list, they are capable of being "timely" in really urgent cases. But who, apart from the very rich or the very poor, can afford to use them? For the ordinary citizen, neither wealthy nor impecunious, can there be any real doubt that the Court's procedures are prohibitively expensive?
+
+Hesitant steps have been taken to remedy the imbalance. This report discusses the extent to which current approaches to costs and case management in judicial review, including a more generous use of Protective Costs Orders, might be developed to provide more assistance in environmental challenges. Unless more is done, and the Court's approach to costs is altered so as to recognise that there is a public interest in securing compliance with environmental law, it will only be a matter of time before the United Kingdom is taken to task for failing to live up to its obligations under Aarhus.
+The Hon. Mr Justice Sullivan Royal Courts of Justice
+
+One of the refreshing aspects of EC law, and environmental law in particular, is that it challenges too ready an acceptance of the adequacy of our own domestic law, and compels us to see our own legal system as others in the EC see it. Our current costs rules may well strike a fair balance in private law cases, where individuals are pursuing their own private interests in litigation, but they take no account of the recognition in Aarhus that there is a public interest in ensuring that environmental laws are not contravened. Unless it is changed, our costs regime will perpetuate the inevitable inequality of arms between the publicly funded bodies that take decisions in the environmental field and the individuals and environmental groups who have to rely on their own resources if they wish to challenge those decisions.
+
+Aarhus and access to justice
+
+Claimants without legal aid
+
+1.
+
+The third pillar of 
+
+is concerned with access to environmental justice.
+
+It gives rights to members of the public, including
+
+environmental organisations, to challenge the legality
+
+of decisions by public authorities to grant consent for
+
+a wide range of activities as well as any other acts
+
+or omissions that are contrary to the provisions of
+
+national laws relating to the environment. Article 9(4)
+
+of the Convention requires that procedures for rights
+
+to access must "provide adequate and effective
+
+remedies, including injunctive relief as appropriate
+
+and be fair, equitable, timely, and not prohibitively
+
+expensive".
+
+2.
+
+The UK government has ratified the Aarhus
+
+Convention and is largely relying on existing judicial
+
+review procedures to fulfil these access to environ-
+
+mental justice requirements. The liberal approach
+
+generally taken by the courts in England and Wales
+
+to questions of standing for judicial review in environ-
+
+mental cases reflects the Aarhus obligations in this
+
+respect.
+
+3.
+
+We consider that the requirement under
+
+Aarhus that procedures must not be prohibitively
+
+expensive is not limited to the court fees involved in
+
+making a judicial review application, but is related to
+
+the total costs of making an application including the
+
+exposure to the risk of costs should the application
+
+fail. These cost requirements equally apply to the
+
+obtaining of interim injunctive relief, which can be of
+
+critical environmental importance where irreparable
+
+or significant damage may be caused before the full
+
+case is heard.
+
+Legal aid
+
+5.
+
+But legal aid cannot be relied on as the
+
+only funding mechanism to secure compliance with
+
+Aarhus. Overall, we consider that the costs, whether
+
+actual or risked, would be "prohibitively expensive" if
+
+they would reasonably prevent an `ordinary' member
+
+of the public who would not be entitled to legal aid
+
+from embarking on the challenge falling within the
+
+terms of Aarhus, including obtaining any appropriate
+
+interim relief.
+
+6.
+
+We doubt whether for a significant number of
+
+members of the public or non-governmental organi-
+
+sations the current practices concerning costs in
+
+environmental judicial review cases ­ and especially
+
+the uncertainties and potential exposure to the costs
+
+of the other parties involved should an application fail
+
+­ can be said to be consistent with Aarhus. Our view
+
+concurs with a recent comparative study on access
+
+to environmental justice commissioned by the Euro-
+
+pean Commission which concluded that the UK was
+
+one of only five Member States whose provisions on
+
+access to environmental justice under Aarhus were
+
+unsatisfactory.
+
+7.
+
+Aarhus does not entitle members of the
+
+public to bring frivolous or unwarranted claims, and
+
+the requirement for permission for judicial review will
+
+remain an important stage of the procedure. But to
+
+those cases to which it applies, the Aarhus Conven-
+
+tion does imply a fresh evaluation of conventional
+
+approaches to costs issues in public law cases.
+
+Throughout this report we have deliberately focused
+
+on measures that could be introduced without undue
+
+difficulty within the existing procedural framework
+
+for judicial review, and which, if adopted, would go a
+
+long way to meeting the requirements of Aarhus.
+
+4.
+
+Aarhus expressly recognises that the public
+
+may need assistance in order to secure their rights to
+
+environmental justice. In this context the availability
+
+of legal aid under the Community Legal Service will
+
+remain significant in securing access to environ-
+
+mental justice for individuals in many environmen-
+
+tal cases. We are pleased that the Legal Services
+
+Commission has now made explicit reference to the
+
+requirements of Aarhus in its guidance on legal aid.
+
+4
+Executive Summary
+
+8.
+
+Arrangements under which each party
+
+agrees to bear its costs whatever the result may
+
+continue to be appropriate for some types of environ-
+
+mental judicial review cases, particularly those involv-
+
+ing larger environmental organisations. But such an
+
+approach is unlikely to be appropriate to be applied
+
+in all environmental cases to which Aarhus applies.
+
+Provided that the overall level of costs including the
+
+risk and uncertainties of exposure does not make
+
+litigation prohibitively expensive, some exposure to
+
+costs can provide an important incentive to ensure
+
+commitment by the claimant and avoid frivolous
+
+claims.
+
+Protective Costs Orders
+
+9.
+
+The availability of a Protective Costs Order
+
+(PCO) at an early stage in proceedings can provide
+
+an important mechanism in meeting the require-
+
+ments on access to justice, in that a PCO provides a
+
+cap and advance certainty on the potential exposure
+
+to costs should an application fail. But the current
+
+judicial principles on PCOs were not developed with
+
+Aarhus in mind, and contain constraints that are not
+
+consistent with Aarhus.
+
+11. The Aarhus requirements that procedures are not prohibitively expensive are not confined only to cases once they have been granted permission, but will equally apply to the claimant while establishing whether a case does have merit. Costs at the permission stage should be proportionate, and in the case of Aarhus claims should generally be set at a very modest level.
+Limited companies as claimants and security for costs
+12. Case law has held that it is acceptable for members of the public to form a limited company to act as a claimant in judicial review cases, and this can provide a valuable mechanism to reduce personal exposure to costs. In such cases, issues concerning costs should the case fail are generally dealt with by the provision of advanced security for costs. For environmental cases to which Aarhus applies, the level at which security is set should reflect the requirements of Aarhus that the procedures are not prohibitively expensive.
+Cost awards against defendants
+
+10. Rather than reformulate the general principles of PCOs, specific principles concerning PCOs should be applied to those environmental judicial reviews to which Aarhus applies. It would follow that in a case falling within the terms of Aarhus and where a PCO is sought, the overarching requirement must be for a PCO that secures compliance with Aarhus. Conditions relating to the requirement of `general public importance' and `no private interest' that might still be applicable to PCOs in other types of cases but which are inconsistent with Aarhus would not apply. If the individual Aarhus claimant, acting reasonably in the circumstances, would be prohibited by the level of costs or cost risks from bringing the case, then the court must make some form of PCO to ensure compliance.
+
+13. As to principles concerning the award of costs against defendants where an application is successful, the general rule that costs follow the event should continue to apply. But Aarhus should be taken into account in deciding whether it is appropriate to depart from the normal rule. In particular, the court should be more reluctant to depart from the general rule where a claimant has been substantially successful in an environmental challenge ­ especially where the court has agreed with the claimant's analysis of the law in play but then withheld relief on discretionary grounds.
+
+5
+Executive Summary
+
+Interim injunctions
+14. The Aarhus requirements that procedures are not prohibitively expensive also apply to applications for interim relief such as injunctions, and Aarhus recognises the importance of injunctions to protect the environment. The normal requirement that a claimant for an interim injunction provides a cross-undertaking in damages should no longer apply to an Aarhus case where the injunction is necessary to prevent significant environmental damage taking place before the full case is heard. In such cases, it is incumbent on the court and its administration to ensure that the full case is heard as quickly as possible to reduce potential unfairness to third parties, and is consistent with the requirements for timeliness under Aarhus.
+Timeliness
+15. Aarhus requires that procedures are "timely" and the current lengthy delays in the Administrative Court are of particular concern in the environmental field. Very urgent cases are expedited, but this delays the less urgent environmental challenges still further. Unless something is done to speed up the judicial review process overall, there is a real risk that the Court's procedures will not comply with Aarhus in terms of timeliness.
+Improved case management
+16. The case management of judicial reviews to which Aarhus applies can be strengthened, assisting in early resolution of Aarhus issues and reducing the overall costs of environmental litigation for all parties involved. The parties and the judge involved need access to basic and easily identifiable information at an early stage, and guidance should be developed on the sort of information that all potential parties should be expected to seek or to provide in a case to which Aarhus applies.
+17. Public authorities responding to a request for information in a pre-action protocol letter should comply with the duty of candour and timescales required under the Judicial Review Pre-Action Protocol, and avoid treating such requests as applications under the Environmental Information Regulations or Freedom of Information Act.
+
+18. Judicial consideration of the orders needed to comply with Aarhus requirements should be considered at the earliest stage possible that an Aarhus case reaches the court. Particularly at these initial stages, Aarhus judicial reviews should be handled by judges with experience and expertise in environmental law. This will provide an important safeguard for all parties concerned that only cases of sufficient merit go forward and that they do so on an appropriate basis in line with Aarhus.
+Implementation of recommendations
+19. These principles should eventually be reflected within a Practice Direction and/or the Civil Procedure Rules, but it may be preferable if they were introduced initially by the judiciary in the Administrative Court under their discretionary powers. This would allow for a period of practical experience and learning before their codification.
+Numbers of Aarhus cases and cost implications
+20. The recommendations in this report are likely to lead to some increase in the numbers of legitimate environmental judicial reviews. But whatever the position on costs, litigation is resource intensive and a matter of last resort. Our judgement is that any increase will be modest and can be handled by the Administrative Court, especially if our recommendations on improved case management are adopted.
+21. It also needs to be recognised that compliance with Aarhus ­ and the re-evaluation of conventional costs principles that it implies ­ will inevitably impose some extra costs on individual public authorities and third parties who are involved in environmental judicial reviews. These costs, though, have to be set against the goal of improving the protection of the environment that underlies the Aarhus requirements on access to environmental justice.
+
+6
+Background
+
+1 Background
+
+1.
+
+A Working Group under the chairmanship of
+
+Mr Justice Sullivan was convened in October 2006 to
+
+consider issues of access to legal justice in envi-
+
+ronmental matters in England and Wales. Members
+
+of the Working Group have acted in their individual
+
+capacity, but bring together a wide range of relevant
+
+legal experience and expertise gained from the di-
+
+verse perspectives relevant to environmental judicial
+
+review (JR), including that of claimants (both individu-
+
+als and environmental organisations), public authority
+
+defendants, interested third parties such as develop-
+
+ers, the judiciary, and the wider public interest.
+
+2.
+
+Our remit was:
+
+(1) To consider whether current law and practice
+
+creates barriers to access to justice in environmental
+
+matters in the context of .
+
+(2) To make practical recommendations for changes
+
+in law and/or practice that might overcome any such
+
+barriers.
+
+3.
+
+There have, in recent years, been a number
+
+of publications and evaluations of relevance to our
+
+work. These include:
+
+(1) Using the Law: Barriers and Opportunities for
+
+Environmental Justice (Capacity Global).
+
+(2) Environmental Justice (the Environmental Justice
+
+Project comprising the Environmental Law Founda-
+
+tion, Leigh, Day & Co Solicitors and WWF-UK).
+
+(3) Civil Law Aspects of Environmental Justice (Envi-
+
+ronmental Law Foundation).
+
+(4) Modernising Environmental Justice ­ Regulation
+
+and the Role of an Environmental Tribunal (Macrory
+
+and Woods).
+
+(5) Access to Justice: Making it Affordable (Coalition for Access to Justice for the Environment). (6) Access to Justice in Environmental Matters (Professor Nicolas de Sadeleer, CEDRE). (7) Litigating the Public Interest ­ Report of the Working Group on Facilitating Public Interest Litigation (Liberty and the Civil Liberties Trust). (8) In addition to these reports, in October 2007 the European Commission published a report entitled Measures on Access to Justice in Environmental Matters (Article 9(3)), which addressed the issue of access to environmental justice in the 25 EU Member States, including the UK.
+
+4.
+
+Our focus has been on judicial review as a
+
+legal remedy and on the operation of the Administra-
+
+tive Court. The legal cases involved are thus those by
+
+which people (whether individuals, groups or organi-
+
+sations) challenge the decisions, actions or inaction
+
+of public authorities. In the context of environmental
+
+challenges, the bodies in question will include central
+
+government, local authorities and regulators such as
+
+the Environment Agency. Very often the focus of the
+
+challenge will be some form of consent given by one
+
+of those bodies to enable an activity which is alleged
+
+to cause environmental harm; or the failure by such
+
+bodies to take action in relation to the harm alleged
+
+to be caused by such activities.
+
+5.
+
+We have concentrated on identifying meas-
+
+ures that can be taken relatively easily and quickly
+
+within the existing legal framework. Although more
+
+substantial changes may be needed in the longer
+
+term, they have not been the focus of our work and
+
+they can be considered if and when our recommen-
+
+dations have been implemented.
+
+ The first two of these reports can be accessed via the Defra website at: www.defra.gov.uk/environment/enforcement/justice.htm  Available from ELF at Suite 309, 16 Baldwins Gardens, London, EC1N 7RJ.  Available online at ucl.ac.uk/laws/env/tribunals/docs
+
+ Available from WWF-UK at Panda House, Weyside Park, Godalming, Surrey GU7 1XR.  Available at: http://ec.europa.eu/environment/aarhus/pdf/accesstojustice_final.pdf  This report has been described by the Court of Appeal as providing a valuable discussion of the issues arising from the Corner House case on Protective Costs Orders, which we consider further below: England v Tower Hamlets [2006] EWCA Civ 1742. The report can be accessed at: www.liberty-human-rights.org.uk/publications/6-reports/litigating-the-public-interest.pdf  Available at: http://ec.europa.eu/environment/aarhus/study_access.htm
+
+he UNECE Aarhus Convention on infor-
+
+mation, public participation in decision making and
+
+access to justice in environmental matters entered
+
+into force in October 2001. It was ratified by the UK
+
+in February 2005, and by the EC in the same month.
+
+As of September 2007, there were 41 parties to the
+
+Convention.
+
+7.
+
+The preamble to the Convention includes the
+
+following:
+
+Affirming the need to protect, preserve and improve the state of the environment and to ensure sustainable and environmentally sound development,
+
+Recognising that adequate protection of the environment is essential to human well-being and the enjoyment of basic human rights, including the right to life itself,
+
+Recognising also that every person has the right to live in an environment adequate to his or her health and well-being, and the duty, both individually in association to others, to protect and improve the environment for the benefit of present and future generations,
+
+Considering that, to be able to assert this right and observe this duty, citizens must have access to information, be entitled to participate in decision-making and have access to justice in environmental matters, and acknowledging in this regard that citizens may need assistance in order to exercise their rights,
+
+Recognising that, in the field of the environment, improved access to information and public participation in decision-making enhance the quality and the implementation of decisions, contribute to public awareness of environmental issues, give the public the opportunity to express its concerns and enable public authorities to take due account of such concerns,
+
+Concerned that effective judicial mechanisms should be accessible to the public, including organisations, so that its legitimate interests are protected and the law is enforced.
+
+8.
+
+Article 9 contains two broad rights of access
+
+to environmental justice that are of concern to us.
+
+First, under Art 9(2) members of the public having
+
+a sufficient interest10 must have access to a court
+
+of law or other independent and impartial body to
+
+challenge the substantive and procedural legality of
+
+a decision to permit a proposed activity specified in
+
+Annex I as well as other proposed activities not listed
+
+but which are determined by a party to the conven-
+
+tion to have significant effects on the environment.
+
+The Annex I list contains some 19 classes of activi-
+
+ties, including chemical installations, waste manage-
+
+ment facilities, intensive agriculture, and motorway
+
+construction, and is similar to those installations
+
+subjects to environmental assessment under EC law.
+
+Second, and in addition to these rights, under 9(2)
+
+members of the public, where they meet the criteria,
+
+if any, laid down in national law, must "have access
+
+to administrative or judicial procedures to challenge
+
+acts or omissions by private parties and public au-
+
+thorities which contravene provisions of its national
+
+laws relating to the environment".
+
+ In line with the Convention's procedures the UK became a full party to the Convention in May 2005, 90 days after the date of ratification.
+
+ Art 9(1) also contains a right to challenge the refusal to grant a request for environmental information. This right of appeal, now handled by the Information Commissioner, is not the focus of this report. 10 Or alternatively, maintaining impairment of a right where this is required by the administrative law of a party to the Convention. As the Aarhus Implementation Guide to the Convention indicates, this alternative was devised for those countries with legal systems that require a person's rights to be impaired before they can gain standing: "Considering the clause's purpose, it is not an invitation for Parties to introduce such a fundamental legal requirement where it does not already exist, and to do so would in any case run foul of article 3 (6) of the Convention" (p 129).
+
+8
+
+
+In relation to challenges to consent decisions, Article 9(2) expressly provides that non-governmental organisations (NGOs) promoting environmental protection and meeting any requirements under national law are deemed to have sufficient interest. The additional more general right under 9(3) to challenge contraventions of national environmental law refers only to members of the public, but we agree with the conclusion of the Aarhus Compliance Committee that this should not be read to exclude non-governmental organisations.11
+
+9.
+
+Article 9(4) then provides that the procedures
+
+for rights of access to justice under 9(2) and 9(3) shall
+
+"provide adequate and effective remedies, including
+
+injunctive relief as appropriate, and be fair, equita-
+
+ble, timely, and not prohibitively expensive". It is this
+
+requirement, and in particular the obligation to ensure
+
+that procedures, including those for injunctive relief,
+
+are not prohibitively expensive, that has been the
+
+main concern of the Working Group.
+
+10. Aarhus is an international convention, and the parties to the convention have established a Compliance Committee that can investigate alleged instances of non-compliance. But the European Community has also ratified Aarhus, giving the European Commission the right to ensure that Member States comply with the Aarhus obligations in areas within Community competence,12 using its enforcement mechanisms under Article 226 of the Treaty, which can eventually lead to action before the European Court of Justice.
+
+11. The Working Group is also conscious that the provisions concerning access to justice have now been inserted into two key EC environmental directives. Art 10A of the 1985 EC Directive on Environmental Assessment13 provides that Member States must ensure that members of the public have access to a review procedure before a court of law or other independent body to challenge the substantive or procedural decisions, acts or omissions subject to the public participation provisions of the Directive, and that "any such procedure shall be fair, equitable, timely, and not prohibitively expensive".14 Directive 96/61/EC on Integrated Pollution Prevention and Control, which provides for a consent system for a wide range of industrial activities, is similarly amended with a new Article 15a, which also provides that procedures for legal challenges must be fair, equitable, timely, and not prohibitively expensive.
+12. The Aarhus requirements concerning access to justice are therefore not simply a matter of obligation under international public law, but are now requirements under European Community law. As a matter of Community law, Member States have a duty to ensure that they are given effect, and in line with the developing jurisprudence of the European of Court of Justice, this would include the national courts where they have the power to do so.15
+
+11 "The Parties may not take the clause "where they meet the criteria, if any, laid down in its national law" as an excuse for introducing or maintaining so strict criteria that they effectively bar all or almost all environmental organizations from challenging acts or omissions that contravene national law relating to the environment." Report to 12th Meeting of Compliance Committee, 14-16 June 2006 concerning Communication ACCC/C/2005/11 (Belgium) at para 35. 12 See Commission v France Case C-239/03 2004 ECR I-09325.
+
+13 Inserted by Directive 2003/35/EC of 26 May 2003. 14 The Working Group is aware that the European Commission is currently investigating a complaint as to whether JR in England and Wales meet these requirements under the Directive. 15 See, for example, Factortame (I) (Case C-213/89), Landelijke Vereniging (Case C-72/95), and Kraaijeveld (Case C-437/97) esp. at para 55 : "It should be recalled that the obligation of a Member State to take all the measures necessary to achieve the result prescribed by a directive is a binding obligation imposed by the third paragraph of Article 189 of the EC Treaty and by the directive itself (see Case 51/76 Verbond van Nederlandse Ondernemingen [1977] ECR 113, paragraph 22, and Case 152/84 Marshall [1986] ECR 723, paragraph 48). That duty to take all appropriate measures, whether general or particular, is binding on all the authorities of Member States including, for matters within their jurisdiction, the courts."
+
+9
+
+
+13. The only significant judicial observations to date on the application and effect of those provisions of the Convention in the UK were from the Court of Appeal (Brooke LJ) dealing with costs in Burkett16 thus:
+"74 ... The 1998 Aarhus Convention, to which this country is a party, contains provisions on access to justice in environmental matters. (The full title is the "UNECE Convention on Access to Information, Public Participation in Decision-Making and Access to Justice in Environmental Matters".) In particular, it requires each signatory to have in place judicial procedures allowing members of the public to challenge acts of public authorities that contravene laws relating to the environment; and that those procedures should be "fair, equitable, timely and not prohibitively expensive" (para 4).
+"75. A recent study of the environmental justice system (Environmental Justice: a report by the Environmental Justice Project, sponsored by the Environmental Law Foundation and others) recorded the concern of many respondents that the current costs regime "precludes compliance with ". It also reported, in the context of public civil law, the view of practitioners that the very limited profit yielded by environmental cases has led to little interest in the subject by lawyers "save for a few concerned and interested individuals". It made a number of recommendations, including changes to the costs rules, and the formation of a new environmental court or tribunal.
+
+"76. We would be troubled if the effect of our ruling on this appeal were left uncorrected by other means, because of the importance of maintaining the viability of the few legal practices which operate in the field of publicly funded environmental litigation. On the other hand, if the figures revealed by this case were in any sense typical of the costs reasonably incurred in litigating such cases up to the highest level, very serious questions would be raised as to the possibility of ever living up to the Aarhus ideals within our present legal system. And if these costs were upheld on detailed assessment, the outcome would cast serious doubts on the cost-effectiveness of the courts as a means of resolving environmental disputes.
+"80. We would strongly welcome a broader study of this difficult issue, with the support of the relevant government departments, the professions and the Legal Services Commission. However, it is important that such a study should be conducted in the real world, and should look at the issue not only from the point of view of the lawyers involved, but also taking account of the likely practical benefits to their clients and the public. It may be thought desirable to include in such a study certain issues that relate to a quite different contemporary concern (which did not arise on the present appeal), namely that an unprotected claimant in such a case, if unsuccessful in a public interest challenge, may have to pay very heavy legal costs to the successful defendant, and that this may be a potent factor in deterring litigation directed towards protecting the environment from harm."
+We hope that our recommendations can form at least part of the wider evaluation that the Court of Appeal had in mind.
+
+16 R (on the application of Sonia Burkett) v London Borough of Hammersmith and Fulham [2004] EWCA Civ 1342.
+
+
+
+3 Is the UK in compliance with Aarhus on access to environmental justice?
+
+"In conclusion, it can be said that the potential costs of bringing an application for judicial review to challenge the acts or omissions of public authorities is a significant obstacle to access to justice in the United Kingdom."
+
+14. The UK government is currently largely relying on the judicial review process as fulfilling the Aarhus requirements on access to justice: "Our administrative and judicial systems are fully compliant with the requirements for access to review."17 The liberal approach generally taken by the courts in England and Wales to questions of standing for judicial review in environmental cases reflects the Aarhus obligations in this respect. It has not been suggested that the procedures for obtaining judicial review are inherently unfair or inequitable. In really urgent cases they are capable of being "timely" (though see further below at paras 82 and 84). But we doubt whether, for a significant number of non-legally aided claimants, the current procedures can be said to meet the general requirement that they are "not prohibitively expensive".
+15. Our concerns are reinforced by a recently published comparative study on EU Member States and access to justice in environmental matters, commissioned by the EC. In relation to the UK the report concluded:
+"...the main obstacle to access to justice for members of the public or NGOs is the issue of costs in judicial review cases. The problem is one of exposure and of uncertainty. At the beginning of a case it is impossible for the member of the public or the NGO to know how much money they will have to find if they lose. The possibility of having to pay a large (and uncertain) bill means that people are unwilling to risk bringing legal proceedings to hold a public body to account for breaking the law. Studies have indicated that a substantial number of potential applicants for judicial review in environmental matters have not proceeded because of the risk of costs involved ...
+16. The report concluded that costs of procedures were considered to constitute an obstacle to access to justice in 12 EU Member States, including the UK. When linked to problems of obtaining interim relief, the UK was one of only five countries18 considered to be unsatisfactory overall.
+17. The Working Group was also able to examine the position in a number of EU states: France, Germany, Hungary, Italy, the Netherlands and Spain.19 This confirmed our own view, and that of the EC study, that the current UK position does not meet the requirements that procedures must not be "prohibitively expensive". We note the following general features in these other jurisdictions.
+18. Most of the other jurisdictions we examined have a `loser pays' principle that would apply in environmental public law proceedings. But in most cases this is tempered by a number of factors. In particular: (1) It is more usual for the court to decide that the parties are to bear their own costs in public law proceedings - this being the general rule rather than the exception (France, Italy).
+(2) In all jurisdictions examined, the costs payable are capped by a professional body/statutory scale and, in comparison to the UK, such costs are usually very limited (i.e. in the low thousands of euros).
+18 The others were Hungary, Austria, Germany and Malta, with questions of legal standing rather than costs being the key obstacle in the last three. 19 The selection was based on the jurisdictions in which the Working Group had ready access to lawyers. We are grateful to James Kennedy and colleagues in European offices of Freshfields Bruckhaus Deringer who provided us with information.
+
+11
+The implications of Aarhus for access to environmental justice
+
+(3) There is no formal equivalent to the Bolton guidelines (see para 24(2) below) in the jurisdictions examined and therefore, in theory, a claimant could be liable for the costs of both a defendant public authority and an interested party. But in practice a similar approach to that contained in the Bolton guidelines is applied, and claimants are rarely required to pay an interested party's costs. (4) In some of the jurisdictions examined, natural persons challenging public law decisions can be ordered to pay costs only in exceptional circumstances (the Netherlands, Spain). (5) Although in all the other jurisdictions we examined an injunction would be available to a claimant in a public law environmental case, as a general rule no cross-undertaking in respect of damages or surety would be required to obtain it. Such a concept is unknown in France, Germany, Hungary and the Netherlands (although it would be open to the interested party to sue for damages if it considered the injunction obtained by the claimant had given rise to damages to the interested party). Furthermore, although in Italy and Spain it is possible to seek `surety' from a claimant as the price for obtaining an injunction, in Italy this does not apply to environmental and public health cases, and in Spain such an order would be the exception rather than the rule.
+19. Our investigation is thus consistent with that undertaken for the EC in showing that as a general matter the costs rules in the other jurisdictions examined do not present a significant barrier to access to justice in environmental public law cases because: (i) as a general rule it is much less likely that a claimant would be ordered to pay the costs of a defendant public authority and/or an interested party; and (ii) the consequences of bearing that reduced risk are less because the likely costs, if payable, are significantly lower in most cases, often by several orders of magnitude.
+
+20. In assessing the adequacy of current procedures in England and Wales, and suggesting means of addressing the Aarhus obligations, we have considered a number of general implications of the Aarhus requirements concerning access to justice.
+(1) Aarhus does not require members of the public to be entitled to bring manifestly bad challenges ­ the requirement for an arguable case and thus JR permission remains legitimate. (2) We agree with the view of the Court of Appeal in Burkett that the "not prohibitively expensive" obligation arising under the Convention is not limited the court fees involved,20 but is to be seen in relation to the actual costs of funding and more particularly the cost implications of losing an environmental judicial review challenge. The costs involved are the total costs associated with bringing the claim in question, including the claimant's liability to their own lawyers (as well as under a Conditional Fee Arrangement (CFA)) and, should the case fail, to other parties. (3) Aarhus expressly preserves the power of national courts to award `reasonable' costs in judicial proceedings.21 We consider that what is reasonable must be judged in the light of the overall requirement that procedures are "not prohibitively expensive".22
+20 We note that the government's published summary of implementing measures refers only to the court fees: "Court fees are reasonable. Certain applicants will be exempted from court fees, others will have court fees remitted on grounds of hardship, or will receive public funding" op.cit. footnote 17. However, the most recent government Implementation Report on Aarhus (January 2008) now also refers to costs, and the discretion available to the courts to depart from the normal costs in the cause rule: www.defra.gov. uk/environment/internat/aarhus/pdf/aarhus-convention-implementation-report.pdf 21 Article 3(8). 22 In Sweetman v An Bord Pleanala and the Attorney General [2007] IEHC 153 the Irish High Court considered Aarhus provisions as they related to costs awards. To the extent that the judgment of Clarke J implies that Article 9(4) relates only to court fees, we respectfully disagree with the interpretation.
+
+
+(4) We consider that the requirement for procedures not to be prohibitively expensive applies to all proceedings, including applications for injunctive relief and not merely the overall application for final relief in the proceedings. (5) As both the preamble to Aarhus and Article 9(5) recognise, citizens may need assistance in order to exercise their rights of access to justice in environmental matters (which we consider can come from mechanisms such as legal aid or from ensuring that, for example, the costs regimes allow claimants to engage lawyers, say through CFAs). (6) Overall, we consider that such costs, whether actual or risked, would be "prohibitively expensive" if they would reasonably prevent an `ordinary' member of the public23 from embarking on the challenge falling within the terms of Aarhus. (7) It unavoidably follows that the successful defendant in such a case (or, for that matter, the successful interested party developer) is unlikely to recover more than a small fraction of the costs it has incurred in resisting a claim to which Aarhus applies and which has been given JR permission.
+
+22. We suggest a number of recommendations below that could be fairly swiftly and easily introduced initially by the judiciary under their discretionary powers and later incorporated into a Practice Direction and/or the Civil Procedure Rules. We feel these would go a long way to meeting our concerns about compliance with Aarhus on access to environmental justice. We have considered the sorts of numbers of cases that might be involved, and recognise that there will concerns that compliance with Aarhus might give rise to a large number of new environmental judicial reviews that have been inhibited by current costs procedures. But, for the reasons discussed in paras 101-107 below, we feel that the `floodgates' argument is likely to be unfounded.
+
+21. Public bodies that successfully defend their environmental decisions are unable to recover costs against legally aided defendants (see discussion at para 30 below). We recognise that, to the extent that compliance with Aarhus and our recommendations may imply some increase in the cost of defending decisions taken by public bodies, some additional funding from charge-payers or the public purse will be required.
+
+23 That elusive concept of a member of a public who is neither very rich nor very poor, and would not be entitled to legal aid ­ see the figures at footnote 33 below.
+
+13
+Current barriers to access to environmental justice
+
+5 Current barriers to access to environmental justice
+23. We thus turn to the particular issues that have been identified as providing obstacles to the achievement of access to environmental justice in England and Wales.
+24. In the context of concern about costs, we note the following general features of the judicial review regime, including those as conventionally applied to environmental judicial reviews: (1) The general rule is that the loser pays the winner's costs (CPR Part 43). In environmental judicial review this generally means that a person or organisation that brings the challenge will pay the public authority's costs of defending the challenge if they lose ­ unless the claim is brought with the benefit of legal aid or a Protective Costs Order (PCO) or another similar costs order/agreement is in place. (2) The challenger is also potentially exposed to the costs incurred by interested parties, such as the beneficiary of the consent which is under challenge. Whether or not they will eventually be liable will be informed by what the House of Lords said in Bolton24, but unless that evaluation is done at the outset of the proceedings (say as part of a PCO), the challenger remains exposed to what is likely to be a low, but not an insignificant, risk of paying what could be very substantial25 costs. Such liabilities can also arise at the permission stage and may be a significant deterrent even to the commencement of a challenge.26
+
+(3) Where a claimant has been held liable for the costs incurred by a defendant or developer, the court will consider whether the costs claimed were "proportionate to the matters in issue"27 and (assuming the "standard basis") "proportionately and reasonably incurred"28 and "proportionate and reasonable in amount".29 Those principles do not, of course, expressly reflect the requirement by Article 9(3) that costs should not be "prohibitively expensive". (4) If an appropriate PCO is made at or near the outset of proceedings then those impacts can be mitigated but, as considered in paras 41-49 below, very few such orders have actually been made, and the current principles concerning PCOs have not been developed with Aarhus in mind. Moreover the nature of the particular PCO involved is critical to whether it actually leads to access to environmental justice. (5) The solution may be somewhat different for an NGO bringing a challenge (and indeed different for differently resourced NGOs) in comparison with the position of an individual or local group. For example, an agreement made at the outset of litigation that each party will pay its own costs or a PCO to that effect may be entirely satisfactory for a large NGO that can meet its own costs but will be of little benefit to an individual, local group or specialist NGO that can only secure legal support through, say, a Conditional Fee Agreement (which, in turn, relies on the possibility of a positive costs order in the event of success).
+
+24 Bolton Metropolitan Borough Council v Secretary of State for the Environment: Same v Same (No. 2) (1995) LTL 25/5/95. 25 For example, in R (on the application of Friends of the Earth) v Environment Agency (2003), the interested third party, the developer, served Friends of the Earth with a Schedule of Costs for slightly over £100,000 for a one-day judicial review hearing on a preliminary issue, on which the company chose to instruct leading Counsel and two junior barristers. 26 Recent examples include a claim by a developer (beneficiary of a challenged consent) for £31,000 for preparing an Acknowledgment of Service and £36,000 for resisting an application for interim injunction.
+
+
+
+(6) Nor can there be any significant reliance on lawyers, whether solicitors or barristers, agreeing to undertake such work at significantly reduced, let alone zero, rates. There are relatively few expert practitioners in this area of law,30 where expertise is essential, particularly those willing to act for claimants. As Brooke LJ noted at paragraph 76 of Burkett, maintaining the viability of their practices is an important aspect of ensuring access to environmental justice. Nor does the existing level of `pro bono' support from practitioners in other practice areas, while laudable in itself, provide a consistent or long-term solution to this problem. (7) The position is likely to be very different where the claimant is eligible for and supported by legal aid (i.e. funding from the Community Legal Service provided by the Legal Services Commission (LSC)). However, eligibility for legal aid is severely restricted and brings with it particular difficulties which we consider further below at paras 27-35. (8) In many instances the claimant's legal team will be acting on a basis that relies (if not in the individual case then certainly in cases overall) on a costs order being made in favour of the challenger where the challenge is successful. The complexity and uncertainty of environmental litigation makes it particularly difficult under the existing costs jurisdiction to be confident of full costs recovery even if a challenge is successful in substance.
+
+(9) A further critical `costs' issue for many environmental judicial reviews is the general requirement that an interim injunction is only available to a claimant who provides a cross-undertaking in damages.31 This is relevant because, in many environmental cases, the consent being challenged allows the beneficiary of the consent to undertake some irreversible or significantly damaging process ­ for example, destroying the natural habitat or species that the challenge seeks to protect. Unless prevented from doing so until the judicial review is completed, success in the judicial review can be entirely academic.32 Being able to obtain an injunction (or, alternatively, access to court procedures so speedy that the case can be determined before the damaging process is commenced) is key to that. Indeed Aarhus specifically recognises the need for procedures to be "timely". In this context, however, it is rare that a challenger, whether an individual or group, could bear the risk of giving a cross-undertaking in damages. We consider this issue further at paras 73-84 below. (10) A claimant may succeed (or substantially succeed) in the underlying issues of the claim but nonetheless `fail' because discretionary relief is withheld with costs being awarded against the claimant. This uncertainty presents a further potential barrier to access to justice in environmental law cases. The discretionary withholding of relief may be appropriate where it has taken a long time to determine the claim and things have materially moved on. But the cost consequences that may follow under current practice, often through no fault of the claimant, can prejudice the requirement for `effective' remedies as well as creating uncertainty of outcome.
+
+30 A paper presented by Professor John Bonine of Oregon University to the 2nd annual meeting of the UNECE Aarhus Convention Task Force on Access to Justice in September 2007 reported that there are in the region of 20 practising public interest environmental lawyers in England and Wales, in contrast to some 500 in the US.
+
+31 A commitment on the part of the claimant, in the event of losing the case, to reimburse any loss sustained or cost incurred by the defendant and/or an interested party as a result of prohibiting work on the project in question until the substantive hearing has been concluded. 32 See thus, for example, the decision in Lappel Bank in which, by the time the RSPB's challenge to the legality of a planning permission had been upheld, the development had taken place, in the absence of an injunction (a cross-undertaking in damages having been insisted upon as a precondition to an injunction) and the protected habitat had been destroyed: R v Secretary of State for the Environment ex parte the Royal Society for the Protection of Birds [1997] Env L.R. 431.
+
+15
+Legal aid and public funding
+
+25. Our overall view is that the key issue limiting access to environmental justice and inhibiting compliance with Article 9(4) of Aarhus is that of costs and the potential exposure to costs. What is notable about the problem is that, by and large, it flows from the application of ordinary costs principles of private law to judicial review and, within that, of ordinary principles of judicial review to environmental judicial review. We consider that the first of those does not take proper account of the particular features of public law. And that the latter is only acceptable in so far as it maintains compliance with Aarhus.
+26. In that context, and despite the views of the Master of the Rolls in the same case, we have sympathy with Sedley LJ's observations in Davey v Aylesbury Vale District Council [2007] EWCA Civ 1166, when considering costs issues arising from a judicial review challenge to a planning permission:
+"Planning cases tend ... to lie on or near the boundary between private or commercial judicial review and public interest litigation. Many, including the present one, straddle it: they are brought by a personally interested individual, typically a neighbouring landowner or occupier, but raise issues of local or general environmental concern. Insofar as they do so, it is right to bear in mind what this court said in R (Corner House Research) v Secretary of State for Trade and Industry [2005] EWCA Civ 192, 1 WLR 2600, §69-70:
+
+27. Both the preambles to Aarhus and Article 9(5) expressly recognise that members of the public may need assistance in order to secure their rights of access to environmental justice. The Civil Legal Aid Scheme, namely public funding as part of the Community Legal Service under the Access to Justice Act 1999, is clearly critical in that regard and will remain of vital importance to securing access to justice in many environmental cases. The availability of public funding is capable of ensuring compliance with Article 9(4) for those people and in those cases to which it applies.
+28. However, the Community Legal Service, like any legal aid scheme, is not unrestricted and has limitations in terms of financial eligibility, merits criteria and scope (including being restricted to supporting individuals rather than bodies such as NGOs).33 It is therefore important that legal aid is not seen as, and does not become, `the only game in town' for environmental litigation and ensuring compliance with Aarhus. Proper and effective access to justice is likely to require a range of funding options.
+
+"We are satisfied that there are features of public law litigation which distinguish it from private law civil and family litigation ... The important difference here is that there is a public interest in the elucidation of public law by the higher courts in addition to the interests of the individual parties. One should not therefore necessarily expect identical principles to govern the incidence of costs in public law cases ..."
+
+33 In this context we note the current eligibility limits for legal representation in judicial reviews. Applicants with a gross income of £2,435 or more a month are not eligible for funding, nor will an applicant with disposable income exceeding £672 a month receive any funding, and with contributions payable where disposable income is between £290 and £672 a month. A claimant's disposable capital must not exceed £8,000, including the claimant's main dwelling but with an equity disregard of £100,000 (source Legal Services Commission). According to government national statistics, the average (median) disposable income in the UK for 2004-05 was £1,699 a month (Hansard 29 June 2006), though the figures are not directly comparable because of different calculations for `disposable'. The mix adjusted average house price in August 2007 England and Wales in 2007 was £226,902 (source: Dept of Communities and Local Government, October 2007).
+
+
+29. Features of the modern legal aid scheme were described at paragraphs 21 to 40 of the Working Group chaired by Maurice Kay LJ34 in relation to protective costs orders and need not be repeated here. Legal aid remuneration issues are discussed in the context of costs orders generally. But it is worth drawing attention to three features of legal aid that are of particular significance to environmental cases: costs protection, public interest and alternative funding.
+Costs protection 30. This is the statutory protection that legally aided clients have always enjoyed against liability to pay other side costs ordered against them. Section 11 of the 1999 Act and related regulations ensure that a legally aided party is liable to pay any costs order only to the extent that it is reasonable in all the circumstances including his or her financial situation. For practical purposes, bearing in mind the limited means which legal aid clients inevitably have, it is very rare for clients to be required to make any payment in relation to inter partes costs under these rules. Hence section 11 gives something close to complete protection from costs. Insofar as the general high level of costs ordered against unsuccessful parties is seen as an undue deterrent that inhibits the access to justice required by Aarhus, legal aid appears to be a partial solution. However, because legal aid cannot cover all cases, inter partes orders remain a major deterrent under all other funding models.
+
+Public interest 31. Taking account of the wider public interest is an innovation under the LSC's Funding Code introduced from April 2000. Traditionally, legal aid entitlement was based on the private client test under which only the benefits of the case to the claimant were strictly relevant in justifying the likely costs. Wider public interest is now defined in the Funding Code to mean: "the potential of the proceedings to produce real benefits for individuals other than the client (other than benefits to the public at large which normally flow from proceedings of the type in question)".35
+32. This definition allows for a wide approach to recognition of benefits. The LSC has had no difficulty in acknowledging cases with environmental benefits as falling within this test, as illustrated by the reports of the LSC's Public Interest Advisory Panel which has a specific category for environmental cases.36 Under the Funding Code where a case is considered to have a significant wider public interest, it has a lower merits threshold, requiring only `borderline' prospects of success rather than a strict 50% merit threshold. And further, any wider benefits to the environment and others can be taken into account in a more discretionary costs benefit test than applies to other funded cases. This flexible approach to public interest greatly assists in meeting the Aarhus obligations.
+
+35 Legal Services Commission Funding Code Criteria, section 2.4. 36 See the Public Interest Report section of the LSC's website: www.legalservices.gov.uk
+
+17
+The `loser pays' principle
+
+Alternative funding 33. This is a general legal aid criterion under which the LSC can require any persons or bodies who might benefit from the outcome of funded proceedings to make a contribution towards the costs. The LSC's current guidance on this criterion is attached to this report as Appendix 2. This regime is of particular importance in environmental cases since there will often be a wider community that benefits from the challenge and a `community contribution' is thus common. Issues arise as to how it should be calculated (and they are currently the subject of debate with, and we imagine within, the LSC). In our experience, detailed discussions take place on a case by case basis, with the LSC expecting evidence on a range of matters that affect how the contribution is to be calculated. But the key point is that, even where a claimant brings an environmental JR with the benefit of legal aid, there is very likely to have been a significant financial contribution from others and considerable discussion between the claimant's solicitors and the LSC about the principle of, and basis for, funding.
+34. Legal aid is only one of a number of possible funding options for environmental cases, and it is important that those options should not be seen as mutually exclusive. For example, the LSC's Guidance recognises that various combinations of funding may be possible within an individual case such as a partnership approach between legal aid and NGOs in supporting an important case. To date these partnerships have not been developed. We would encourage the LSC to develop that approach in cooperation with non-governmental organisations and other interested bodies in future environmental litigation.
+35. Until recently,  itself has not been referred to the LSC's Funding Code or Guidance. But we welcome the fact that this year express references to  have been included in the LSC material. The current LSC guidance on alternative funding is contained within Appendix 2.
+
+7 The `loser pays' principle
+36. As we have indicated, one of the core implications of Aarhus is that the costs, whether actual or risked, would be "prohibitively expensive" if they would prevent a member of the public or non-governmental organisation who would not be eligible for legal aid from embarking on the challenge in question. We consider it to be plain that any costs order made in proceedings to which Aarhus applies needs to secure compliance with Aarhus.
+37. We have considered whether, as some have suggested, it would be appropriate for cases of any particular type to be exempted altogether from the `loser pays' costs rule. Such a rule could, of course, always be qualified by the fact that a claimant who behaved unreasonably or vexatiously in the conduct of the litigation would nonetheless be at risk of an adverse costs order. Such a rule would essentially put the defendant and any interested third party in the same position they face when challenged by a legally-aided claimant with no realistic prospect of recovering their costs even if they succeed, at least in the High Court.
+38. However, we have concluded that such an approach is neither appropriate nor necessary ­ and is not, in our view, required by Aarhus ­ provided that the loser's potential liability does not make litigation prohibitively expensive in the way described above. Indeed, we consider that the requirement that a claimant be exposed to some costs risk promotes a number of objectives. It provides an important discipline against frivolous claims being brought and ensures a degree of engagement and commitment with the challenge which has an important place as part of the democratic structures within which Aarhus operates ­ much as does the `community contribution' that the LSC sometimes requires in order to support an individual claimant.37 But this view is premised on what we consider to be the required approach to "prohibitive expense".
+Protective costs orders
+
+39. That said, since uncertainty as to the eventual costs liability will be in itself part of the barrier to access to environmental justice, we consider that early resolution of costs issues is of particular importance.
+40. We thus turn to consider some of the mechanisms that have been identified for early resolution of costs questions for claimants not eligible for legal aid, whether individuals or organisations.
+
+8 Protective costs orders
+Current principles
+41. A protective costs order (PCO) is an order of the court by which it specifies or constrains at an early stage what the costs outcome of the case will be (usually depending on the merits outcome). Thus, the court can specify what costs and up to what limit each party will have to pay. A PCO can therefore provide early certainty on the limits of a claimant's costs liability and, by controlling the level involved, ensure that costs exposure will not be prohibitively expensive, in line with Aarhus.
+
+42. The natural starting point for any discussion about PCOs is the judgment in Corner House38 in which the Court of Appeal built on previous judicial thinking to develop some principles that have, in practice, been applied as principles of general application.
+
+43. The relevant passage of the judgment in the Court of Appeal is as follows: "Dyson J [in CPAG] emphasised that the guidelines related to public interest challenges, which he defined at p 353. We believe that this definition can usefully be incorporated into the guidelines themselves. Dyson J said that the jurisdiction to make a PCO should be exercised only in the most exceptional circumstances. We agree with this statement, but of itself it does not assist in identifying those circumstances.
+
+38 R (Corner House Research) v Secretary of State for Trade & Industry [2005] 1 W.L.R. 2600.
+
+19
+Protective costs orders
+
+"We endorse the first, third and fourth of the CPAG guidelines. We consider, however, that the second guideline needs to be recast. It commonly happens when a court has to take an important decision at an early stage of proceedings that it must do no more than conclude that the applicant's case has a real (as opposed to a fanciful) prospect of success, or that its case is "properly arguable". To place the threshold any higher is to invite heavy and time-consuming ancillary litigation of the type that disfigured the conduct of civil litigation 25 years ago. We realise that in CPR Part 54 the rule-maker prescribed no explicit criterion for the grant of permission to apply for judicial review, but we consider that no PCO should be granted unless the judge considers that the application for judicial review has a real prospect of success and that it is in the public interest to make the order.
+"We would therefore restate the governing principles in these terms:
+"1. A protective costs order may be made at any stage of the proceedings, on such conditions as the court thinks fit, provided that the court is satisfied that:
+i) The issues raised are of general public importance;
+ii) The public interest requires that those issues should be resolved;
+iii) The claimant has no private interest in the outcome of the case;
+iv) Having regard to the financial resources of the claimant and the respondent(s) and to the amount of costs that are likely to be involved it is fair and just to make the order;
+v) If the order is not made the claimant will probably discontinue the proceedings and will be acting reasonably in so doing.
+"2. If those acting for the claimant are doing so pro bono this will be likely to enhance the merits of the application for a PCO.
+
+The Court of Appeal went on to make the following statement regarding the corresponding impact of a PCO on the claimant's costs: "(i) When making any PCO where the applicant is seeking an order for costs in its favour if it wins, the court should prescribe by way of a capping order a total amount of the recoverable costs which will be inclusive, so far as a CFA-funded party is concerned, of any additional liability; (ii) The purpose of the PCO will be to limit or extinguish the liability of the applicant if it loses, and as a balancing factor the liability of the defendant for the applicant's costs if the defendant loses will thus be restricted to a reasonably modest amount. The applicant should expect the capping order to restrict it to solicitors' fees and a fee for a single advocate of junior counsel status that are no more than modest. iii) The overriding purpose of exercising this jurisdiction is to enable the applicant to present its case to the court with a reasonably competent advocate without being exposed to such serious financial risks that would deter it from advancing a case of general public importance at all, where the court considers that it is in the public interest that an order should be made. The beneficiary of a PCO must not expect the capping order that will accompany the PCO to permit anything other than modest representation, and must arrange its legal representation (when its lawyers are not willing to act pro bono) accordingly."
+Inconsistency of current principles with Aarhus
+44. Appendix 3 of this report elaborates a number of issues that have arisen in practice in the application of the Corner House principles to PCOs. These indicate the extent to which the existing principles do not appear to be consistent with the Aarhus requirement that procedures are not prohibitively expensive.
+
+"3. It is for the court, in its discretion, to decide whether it is fair and just to make the order in the light of the considerations set out above."
+
+
+
+45. Two core conditions under Corner House stand out in this context. First, that the issues raised must be of "general public importance". Many environmental challenges would not cross this threshold, where it is interpreted as meaning that a case must decide a new point of law, or be of widescale importance or affect people over a very wide area (in a recent case, the affected population was that of West Hertfordshire ­ some 500,000 people ­ and yet the Court of Appeal decided there was no "general public importance").
+46. The Aarhus obligation to ensure that procedures are not prohibitively expensive is not limited to any particular category of cases such as those of "general public importance". Indeed, the upholding of environmental law is itself considered to be a matter of "general public importance", hence the need for its protection under Aarhus generally and Art. 9 specifically. The recitals to the Convention make the point crisply:
+"... Recognising also that every person has the right to live in an environment adequate to his or her health and well-being, and the duty, both individually and in association with others, to protect and improve the environment for the benefit of present and future generations,
+"Considering that, to be able to assert this right and observe this duty, citizens must have access to information, be entitled to participate in decision-making and have access to justice in environmental matters, and acknowledging in this regard that citizens may need assistance in order to exercise their rights."39
+
+47. The second core requirement of Corner House that the claimant must have "no private interest" has been subject to criticism both judicially40 and extra-judicially.41 In the context of environmental judicial reviews, the requirement is particularly ill-suited to the underlying public policy context for the following reasons: (1) An application for judicial review that is brought for the purposes of protecting the environment is inherently a matter of public interest; (2) Standing requirements mean that a person who is not an NGO and is proposing to bring a judicial review may well have some form of private interest as a result, say, of living close to a development; (3) There are a range of private interests involved (amenity, financial, property owning) each of which engage wholly different public policy considerations in this context. We consider that the possibility that the person proposing to bring the judicial review may have a private (pecuniary) interest is a factor to be taken into account in considering the position in respect of the respective financial positions of the parties and may well contribute to the level at which the PCO would be set in the circumstances of the case.
+48. Again, we note that the Aarhus requirements contain no exclusion on cases involving private interests. If that condition were to remain, PCOs could not play a significant role in ensuring Aarhus compliance.
+
+
+40 Wilkinson v Kitzinger and Attorney-General and Lord Chancellor [2006] EWHC 2022. 41 Litigating the Public Interest: Report of the Working Group on Facilitating Public Interest Litigation (2006) (paras 77-86) op. cit. footnote 6.
+
+
+49. Questions of costs are, axiomatically, matters of judicial discretion, and that is particularly the case in a PCO context. However, we consider that the discretion should in future be exercised in accordance with principles that explicitly recognise the requirements of Aarhus.42
+The need for PCOs that are compliant with Aarhus
+50. In the light of these concerns and the issues elaborated in Appendix 3 of this report, one approach would be to express the hope that the Court of Appeal would find an early opportunity to reformulate the Corner House principles to meet the general concerns emerging from their application, and in respect of environmental cases in particular. This would have wider implications for public law beyond the remit of this Group. Given that the current PCO principles were not developed with Aarhus in mind and clearly contain constraints that are not consistent with the Convention, we recommend the preferable solution would be to adopt a bespoke approach to PCOs in environmental cases to which Aarhus applies.
+
+51. It would follow that in a case falling within the terms of Aarhus43 and where a PCO is sought, the overarching requirement must be for a PCO that secures compliance with Aarhus. Conditions relating to the requirement of general public importance and no private interest that might still be applicable to PCOs in other types of cases but which are inconsistent with Aarhus would not apply. If the individual Aarhus claimant, acting reasonably in the circumstances, would be prohibited by the level of costs or cost risks from bringing the case, then the court must make some form of PCO to ensure compliance.44 This echoes the fifth limb of the Corner House test ­ "if the order is not made the claimant will probably discontinue the proceedings and will be acting reasonably in so doing".
+52. Aarhus grants rights to individuals and nongovernmental organisations to access to justice. In that context, we do not think it would be consistent with Aarhus for a court to refuse a PCO to a particular claimant on the grounds that there was another more wealthy prospective claimant who might be able to pursue a similar claim without a PCO.
+
+42 We note that in R (Greenpeace) v. Secretary of State for Trade and Industry [2007] EWHC 311 (Admin) para. 49, the court observed that in the environmental field general public law principles concerning consultation had now to be considered in the light of Aarhus: "Whatever the position may be in other policy areas, in the development of policy in the environmental field consultation is no longer a privilege to be granted or withheld at will by the executive." The same approach by analogy would apply to conventional principles concerning costs.
+
+43 This would be a matter for judicial determination. For a case falling within Art 9(2) (challenges to consents for specified activities) or the EC Directives on Environmental Assessment or Integrated Pollution and Prevention Control, the question should be generally straightforward. For cases falling with Art 9(3), we recognise that there may be sometimes arguments as to whether it involves a contravention of a "national law relating to the environment", but again in the final analysis this would fall for judicial decision. 44 We have noted that there is an interpretation of Aarhus that suggests the test of whether procedures are "prohibitively expensive" is objective rather than subjective ­ i.e. the question is whether a case is prohibitively expensive in general terms or to a person of average means rather than to the individual claimant. However, because of the very low current eligibility levels for legal aid (see footnote 33 above), in practice there is unlikely to much difference between a subjective or objective interpretation.
+
+
+
+53. In the case of a non-governmental organisation promoting environmental protection, any decision whether the expense would be prohibitive must recognise that there are many calls on the funds of the organisation. An approach that was likely to prevent the NGO bringing the claim (for example, because it required such an organisation to reduce other areas of its work in order to incur risk of such liability) would not only be inconsistent with Art. 9 of  but also with Art. 3(4)45 which requires parties to provide support and recognition to such organisations "and to ensure that its national legal system is consistent with this obligation". 54. In summary, the award of a PCO would be subject to three conditions ­ (a) the case is one that falls within Aarhus; (b) permission is granted; and (c) the costs and risk of exposure to costs would be prohibitively expensive to the claimant. Appendix 4 of this report elaborates on the features that we suggest would be appropriate to apply to a PCO regime that is consistent with Aarhus.
+45 Article 3 (4): Each Party shall provide for appropriate recognition of and support to associations, organisations or groups promoting environmental protection and ensure that its national legal system is consistent with this obligation.
+
+55. We note, of course, that any claimant must still satisfy the court that they have an arguable case46 so as to secure permission for judicial review ­ Aarhus is not intended to facilitate the wholly unmeritorious challenge. But it is important to stress that the Aarhus requirements that procedures are not prohibitively expensive are not confined only to cases once they have been granted permission, but will equally apply to the claimant while establishing whether a case does have merit. The Court of Appeal's advice that costs at the permission stage should be proportionate needs to be particularly followed in the case of Aarhus claims, and costs at that stage should generally be set at a very modest level.
+46 As to which, see what the Court of Appeal said in Davey: "It may be helpful first to recall what Lord Diplock said in the National Federation of the Self-Employed case [1982] AC 617, 643-4: "... The whole purpose of requiring that leave should first be obtained to make the application for judicial review would be defeated if the court were to go into the matter in any depth at that stage. If, on a quick perusal of the material then available, the court thinks that it discloses what might on further consideration turn out to be an arguable case in favour of granting to the applicant the relief claimed, it ought, in the exercise of a judicial discretion, to give him leave to apply for that relief. " In the same vein, Lord Woolf in his 1989 Hamlyn Lectures, Protection of the Public ­ a New Challenge, noted that the Justice All Souls Review had argued for the abolition of the leave requirement but said (p.21): "In practice the requirement, far from being an impediment to the individual litigant, can even be to his advantage since it enables a litigant expeditiously and cheaply to obtain the view of a High Court judge on the merits of his application." We have been shown in the course of argument the transcript of a permission application in the Administrative Court [2007] EWHC 2352 (Admin) in the course of which Burton J expressed a preference for the maximum amount of material on a contest at the permission stage. While there may be cases in which it is necessary or helpful to explore issues in depth at this stage, such cases must be quite exceptional. The proper place for a full exploration of evidence and argument is at the hearing of a claim which has been shown at the permission stage to be arguable. It follows that it ought not ordinarily to be necessary for a public body on which a claim for judicial review is served to do much additional work before completing its acknowledgment of service. In the nature of things it should already know what it has done and why. If on inspection it realises that it has slipped up, it may well not oppose the application. For the rest, its proper course is to explain its decision and any further grounds of opposition in short form and wait to see if, with or without a contested court hearing, permission is granted to challenge it.
+
+
+9 Limited liability companies as claimants
+
+10 Costs awards against defendants
+
+56. As an alternative to seeking a PCO, groups of claimants have sometimes formed a limited liability company as a vehicle for litigation. The logic of the approach is simple. For example, residents of an area affected by a proposed development may wish to challenge a planning permission, and would generally need to identify a small number of individuals to act as claimants, with those claimants then being fully exposed to the costs of losing. Instead, by pursuing their challenge through a company created for the purpose, such persons can channel and limit liability for costs through a single entity.
+57. It is now clear that such a company has the same standing in relation to the challenge that its members (e.g. the residents) would have and that it is not necessarily an abuse of the court process for a claim to be brought in that way. Any concern about the fact that costs liability would, all other things being equal, be no more than the value (often nominal) of the company can be dealt with through agreement about, or an order for, security for costs.47
+58. As far as we are aware, the level of security for costs in such cases has been based on conventional costs principles and not by reference to the requirements of Aarhus. We recommend that where a limited company is the claimant in a case to which Aarhus applies, judicial consideration is given to the level at which security for costs is set so as to ensure compliance with the requirements of the Convention. Provided this is done, we see no fundamental difficulty with that approach.
+
+59. Compliance with Aarhus, however, is unlikely to be achieved simply by limiting the exposure of the claimant to the other parties' costs. That is because the cost of funding their own legal team (and in a legal context where litigation `in person' is rarely realistic) on a conventional commercial basis would undoubtedly be prohibitively expensive for an ordinary member of the public.
+Legally-aided cases
+60. Aarhus recognises that members of the public may require support to secure access to environmental justice and that is provided by legal aid where that is available. But, even in a legally-aided case, claimants need to recover costs when their case succeeds. That is because for many years there has been a substantial gulf between costs recoverable between the parties in successful cases (i.e. at the normal inter partes rates allowed by the court) and the costs payable from the Legal Aid Fund if the case is lost (i.e. at rates prescribed by regulation or contract). This may be even more pronounced in `high cost cases'48 as called by the Legal Services Commission, for which even more restrictive `risk rates'49 are applied under individual case contracts, which ensure that the risk of losing the case is shared between the claimant's legal team and the taxpayer.
+
+47 Residents against Waste Ltd v Lancashire County Council [2007] EWHC 2558; R v Leicestershire County Council ex parte Blackfordby and Boothorpe Action Group Ltd [2001] Env LR 35.
+
+48 Generally those where claimant costs are likely to exceed £25,000. 49 The basic risk rate is £70 per hour for solicitors, £50 for junior counsel and £90 for senior counsel. The LSC can increase the rate by 30% in cases with only borderline prospects of success which are being funded on grounds of significant wider public interest, overwhelming importance to the client, or significant human rights issues.
+
+
+
+61. That differential between legal aid and `inter partes' rates,50 which creates a powerful disincentive against claimants (and their lawyers) running weak cases, is likely to remain a feature of the Legal Aid Scheme for the foreseeable future. It also means that, if claimants do not recover their costs on a full basis when their environmental judicial review is successful, or substantially successful, that will severely prejudice the ability of the lawyers in question to undertake the cases and thus compliance overall with Aarhus51.
+62. The general `rule' is that costs `follow the event' (i.e. the loser pays the winner's costs52), such that a successful environmental challenger should generally recover their costs. However, the recognised exceptions to that `rule' have a particular significance here. For example, if costs are awarded on an issues-based approach, that can have a dramatic effect for the claimant's lawyers, particularly in a high cost case. That is because the LSC will generally force them to choose either to be paid for the fraction being covered by the `inter partes' order, or to be paid by the LSC for the other fraction. Thus, for example, if a 50% order is made, the claimant's lawyers will be paid 50% of their normal rates at most53 such that it is those lawyers who, in the end, directly take the `hit' as a result of the order.
+Non legally-aided cases
+63. Where legal aid is not available (including, for example, for NGOs wishing to bring challenges) other funding approaches have been developed by claimants and their lawyers. In that context, increasingly litigation is funded under arrangements (as between the claimant and their lawyers) which depend, at least in part, on the recovery of costs from the defendant if the claim succeeds.
+50 The "indemnity principle" (which means that a successful party can normally only recover from the losing party the costs for which it would have been liable to its own lawyers) does not apply to a legally-aided claimant. 51 See also the discussion in Scott Baker J's judgment in Boxall v Waltham Forest 21 December 2000. 52 CPR 44.3(2). 53 In contrast to the position in ordinary, privately-funded litigation, where a 50% order would mean that the lawyers were paid 50% by the other side and 50% by their client.
+
+64. This is most clearly true for actions supported under a CFA where remuneration is entirely dependant on costs recovery. In that context it is important to note that the CFA mechanism was put in place by statute precisely to improve access to justice across the board and so should not be undermined by the practice of costs orders, particularly so as to prejudice Aarhus compliance.
+65. It is also important to note that CFAs are seldom used on their own in environmental challenges (because the claimant cannot take the risk of having to meet an adverse costs order if they lose54). In part this is because `after the event' insurance is unlikely to be available. But even if this can be overcome (say by a PCO), costs uncertainty will still be a major deterrent for the legal team.
+Uncertainty of costs orders
+66. It is not only `split' costs orders that cause problems as above. The discretionary nature of public law remedies adds to the uncertainty which further prejudices the ability and willingness of claimant lawyers to take on cases.
+67. A good example is where the court decides that there has been an illegality, but the public authority (or the beneficiary of the consent) persuades the court to withhold substantive relief such as an order quashing the decision or consent under challenge.55 In that situation the court conventionally treats the claimant as having lost for the purposes of costs.
+54 Occasionally, environmental challengers decide to take the risk because they have "nothing to lose", but that cannot be an answer in Aarhus terms. 55 Such withholding of relief may occur where, say, because of the time it has taken to hear the case, the relief in question has become academic, or where it would be grossly disproportionate to quash the permit given the wider impact that would have.
+
+
+68. That is particularly problematic where the claimant was seeking to establish a point of wider environmental importance and so cannot be truly said to have substantively `lost'. This matters when it comes to access to environmental justice and compliance with Aarhus because even claimants with a strong argument cannot be confident of being awarded their costs and/or not having an award made against them because of the huge uncertainty around the relief.56
+69. To date, the courts have not fully appreciated those matters and so have not been greatly swayed by arguments about remuneration when exercising discretion on costs payable between parties. Indeed, in the Burkett case, Brooke LJ said the following:
+
+71. We recommend that (whether the case is legally aided or the claimant proceeds on a CFA or other similar basis):57
+(1) Where a claimant has been substantially successful in their environmental challenge (such as where the court has concluded that the decision was unlawful) but the court has then withheld relief on purely discretionary grounds (i.e. the claimant has substantially won), the claimant should be treated as having `won' for the purposes of the general costs rule that the loser pays the winner's cost; and (2) Where the claimant has `won' (actually or substantially) the general position (i.e. that the loser pays the winner's costs, including any CFA uplift) should prevail.
+
+"71. We are, of course, troubled by the submissions we received to the effect that a judgment along the present lines may deter those solicitors and members of the Bar who would otherwise be willing to act for LSC funded clients. There can be no doubt that the present scarcity of public funding of such clients is inimical to the future potential of what used to be known as The Legal Aid Scheme, but issues relating to public funding are for others to take. Our task is to interpret the present statutory scheme as we find it."
+
+72. It is less clear whether such an approach should be applicable where cases settle before trial. There is an inherent problem with funding mechanisms that depend on between the parties costs recovery in that they tend to inhibit early settlement, although in legal aid cases there is a statutory objective to resolve cases without contested court proceedings.
+
+70. We believe it is now necessary for the court to take a different approach to recovery of costs between the parties in environmental cases to which Aarhus applies, so as to ensure compliance with its requirements.
+
+
+
+
+11 Injunctions and other remedies
+73. The issue of costs and costs exposure also arises where a claimant seeks an injunction to prevent irreversible or significant environmental impact with which their challenge is concerned taking place until the merits of their challenge have been determined. A claimant in judicial review proceedings can apply for interim relief under Part 54.3(1) of the CPR. But a significant problem associated with interim injunctions is that the court may, and usually does, require the claimant to give a cross-undertaking in damages. In planning cases, this may involve an entirely uncertain potential liability of several thousand, if not several hundreds of thousands of pounds. Developer third parties have an incentive not to underestimate the potential loss from the imposition of an injunction, precisely to scare the claimant away from seeking one. As a result, injunctions are rarely pursued by individuals and NGOs in environmental cases. The consequences of this can be irreversible ­ as witnessed by the RSPB's pyrrhic victory at Lappel Bank in Kent.58 The Working Group is aware of a recent private nuisance application concerning a potential failure to comply with the EIA Regulations 1999, in which the claimants have some £25,000 liability arising out of the discharge of an injunction in circumstances in which the High Court had previously concluded that the claimants were entitled to an injunction. The claimants are appealing the costs order on the grounds that it is prohibitively expensive and contrary to Articles 9(3) and (4) of .59 This is believed to be the first appeal against a costs order under the Convention.
+
+74. There is a critical link between timeliness and injunctive relief. If a case in which injunctive relief would be needed to ensure that the outcome of the case is not predetermined could be heard quickly, the potential losses suffered by a third party, and hence the probability that any surety would be required from the claimant (or at least very high levels of surety), could be significantly reduced. While there is a general case management discretion to consider prioritising urgent cases, there is currently a backlog in listing even expedited cases for hearing in the Administrative Court in which all environmental judicial reviews are heard.
+75. This delay contrasts sharply with trends in the town and country planning system, for which the courts represent the ultimate forum of appeal. For example, the government has cut the time taken to decide cases determined by the Secretary of State by half, with 85% of cases decided within 16 weeks in 2006. Similarly, some three quarters of local planning authorities are now meeting the government target of 60% of major applications being dealt with within 13 weeks.60 Furthermore, both the recent White Paper and the Barker Review of Land Use Planning61 seek to introduce further refinements to the town and country planning system to make it more efficient and responsive. It is regrettable that the `other end of the process' continues to fall further and further behind.
+
+
+
+Removing the barriers to injunctive relief
+76. Both  Implementation Guide62 and the Handbook on Access to Justice under 63 reinforce the unique aspects of injunctions in environmental litigation, while recognising that practice and experience vary greatly between contracting parties. The Handbook recognises the barrier that so-called `bond' payments represent, and makes a number of recommendations as to their use.
+77. The first suggestion is simply to eliminate bonds where they exist on the basis that they are not in use in many countries with well developed injunctive practice ­ such as France, Germany, Hungary and Italy. The Handbook suggests that a second option is to `cap' or fix a limit on the amount of surety that can be required (sometimes referred to as a `symbolic bond'), which sets the limit at an amount that can be raised by many individuals and/or NGOs. None of the jurisdictions the Working Group examined adopted such an approach and, as a result, we are reluctant to comment on its potential suitability in the UK.
+
+79. While the wording of the standards varies from country to country, the end result is the same. Injunctions are used in limited circumstances, when the potential for significant harm is great, and only after a variety of factors, including economic impact, are considered. The Handbook points out that, if consistently applied, these standards enable the effective application of injunctive relief in all appropriate instances without imposing unreasonable financial burdens on claimants seeking it.
+80. In the UK, an Administrative Court judge will consider many, if not all, of these issues in deciding whether to grant injunctive relief. However, we see merit in formalising a `test' for the Court which sets out pre-determined factors which require the prevention of significant environmental harm and preservation of the factual basis of the legal proceedings until the case is concluded. Although we recognise that there will sometimes be competing public interests, in such cases the consideration of such interests should only form part of such a test on the basis that the upholding of environmental law is in itself considered to be a matter of general public importance.
+Automatic suspension
+
+78. A number of countries have adopted an entirely different approach to those outlined above, which seeks to protect third parties that have been forced to cease activities as a result of an injunction and that can suffer large financial losses as a consequence. These countries have responded to this problem by developing precise legal standards for when an injunction may, or may not, be issued.64
+62 Available on the UNECE website at www.unece.org/env/pp/ acig.htm 63 Available on the UNECE website at www.unece.org/env/pp/ publications.htm 64 The Handbook on Access to Justice under  lists Hungary, the United States and the Netherlands as examples of jurisdictions in which such an approach is adopted.
+
+81. Finally, a number of jurisdictions have adopted another approach to eliminating `bond' and defendant lawsuit problems by providing that bringing an action in an administrative court results in the suspension of the concerned administrative act. In that sense it acts as an automatic injunction. This automatic injunction remains in place until the final court decision, and, since the injunction actually directly refers to an administrative act rather than the economic activity enabled by such an act, there is no requirement for surety. In France, the commencement of an action does not trigger an automatic suspensive effect, but the judge may, at the request of the claimant, stay the execution of the decision (i) in case of emergency: and (ii) if there are sufficient grounds to doubt the validity of the said decision. No surety is required in this eventuality.
+
+28
+Timeliness and Aarhus
+
+82. Aarhus provides a robust justification for the removal of the need to provide a cross-undertaking in damages in environmental cases. We recognise that this may prejudice third parties in cases that can take many months to come to trial, and it is clear that timeliness has a critical role to play in environmental cases where interim injunctive relief in sought, and indeed is one of the express requirements of Aarhus. We recommend that the requirement to provide a cross-undertaking in damages should not apply in environmental cases falling within Aarhus where the court is satisfied that an injunction is required to prevent significant environmental damage and to preserve the factual basis of the proceedings. In such cases it will be incumbent on the court and its administration to ensure that the full case is heard promptly.
+83. We also note that the Aarhus restriction on prohibitively costly procedures applies equally to the costs associated with an injunction. It follows that a claimant in an environmental case should not be expected to pay the costs of defendants and third parties in resisting an injunction (whether granted or not) at the permission stage where those costs are judged to be prohibitively expensive.
+
+84. Timeliness is also an important factor in review procedures generally, and Article 9(4) of  expressly requires that procedures are "timely". Many countries have already recognised the importance of timeliness to the administration of justice. For example, in Belarus, appeals and complaints regarding environmental administrative decisions must be considered within one month, with a possible extension of an additional two months. In Ireland, courts have the discretion to pull certain cases from the docket queue and deal with them immediately when the case involves issues of an urgent and time-sensitive nature. The lengthy delays in the Administrative Court are of particular concern in the environmental field. Very urgent cases are expedited, but this delays the less urgent environmental challenges still further. Unless something is done to speed up the judicial review process overall, there is a real risk that the Court's procedures will not comply with Aarhus in terms of timeliness.
+
+
+13 Case management in environmental judicial review
+85. The judicial review procedures and the Administrative Court have become more efficient over recent years, but we feel there is still room for further improvement in order to meet the need to improve access to justice in line with Aarhus. Improved case management along the lines we suggest below will increase the efficiency in handling environmental cases, and assist in reducing overall costs for all parties involved.
+Early disclosure of information
+86. The importance of the prospective parties having full and proper information about the decision-making process to be challenged is well recognised. Where it applies,65 the Pre-action Protocol for Judicial Review66 recommends that the claimant's letter before claim includes both "details of information sought" and "details of any documents that are considered relevant and necessary". The protocol provides that, unless the claim is being conceded in full, the prospective defendant should "enclose any relevant documentation requested by the claimant, or explain why the documents are not being enclosed".
+
+87. The protocol is stated not to impose on public authorities a greater disclosure obligation than already provided for "in statute and common law". The protocol reflects the recognition that judicial review is intended to be "a process which falls to be conducted with all the cards face upwards on the table and [where] the vast majority of the cards will start in the [public] authority's hands"67 and the emphasis that is placed by the court on the defendant's duty of candour in the face of judicial review proceedings. That is the reason why court ordered disclosure in judicial review has generally been far more restrained than in general civil litigation.68
+88. Furthermore, there are strong practical reasons why it is important for the public authority to provide a claimant with full information as to the decision under prospective challenge before proceedings are issued. The provision of information at that stage allows the prospective claimant to assess the strength of his position before deciding whether to take the costly and time-consuming step of issuing proceedings. The absence of adequate information at a pre-action stage can either (a) have an inhibiting effect because a prospective claimant cannot justify the risk involved in issuing proceedings without knowing the full picture; or (b) have the opposite effect of proceedings being issued in circumstances where early disclosure would have made clear that the case had no real prospects of success. The problem is, of course, particularly acute in judicial review proceedings because of the strict time limits. Numerous examples exist of situations in which late disclosure of information has significantly affected the outcome of a case in either direction in such a way that significant time and costs could have been avoided had such information been made available at an early pre-action stage.
+
+Case management in environmental judicial review
+
+89. In theory, the introduction of the "right to know" provisions of the Environmental Information Regulations 200469 (EIR 2004), and to a lesser extent the Freedom of Information Act 2000 (FOIA 2000), should have assisted in that process. The EIR 2004 provide that a public authority shall make available environmental information on request (Reg. 5). The obligation is to make that information available "as soon as possible and no later than 20 working days after the date of receipt of the request" (Reg. 5(2)). Public authorities are entitled to extend that time by a further 20 working days where the complexity and volume of the information make such extension necessary (Reg. 7).70 Where a request under the EIR 2004 is refused or not responded to, then an application for an internal review may be made. The public authority then has a further 40 working days to deal with that request. Beyond that, a complaint may be made to the Information Commissioner and subsequently to the Information Tribunal ­ each being very lengthy processes.
+90. Difficulties arise because requests for information and documentation in a pre-action protocol letter are frequently and wrongly treated by the public authority as requests for information under EIR 2004/FOIA 2000. The material to be disclosed and exemptions of each type of disclosure duties are in fact different and overlapping. While that should not be problematic, claimant practitioners have noted an unfortunate unintended consequence of the introduction of that legislation and its interaction with judicial review. Public authorities in receipt of a pre-action protocol letter respond to the legal arguments but state erroneously that any requests for information/ documentation will be responded to in due course under the EIR 2004/FOIA 2000. That request is then handled under the authority's FOIA/EIR processes.
+
+As noted above, the timescales for responding to requests for information under EIR 2000 are much longer than under the pre-action protocol. While the EIR 2004 does provide that information should be provided "as soon as possible", the reality is that persons dealing with FOIA/EIR in public authorities tend to operate to the FOIA/EIR timescales (20 working days initially) and do not operate with the same sense of urgency as do those practising public law. No appropriate expedition procedures are in existence for urgent requests for information. The exemptions available to the public body under the FOIA/EIA provisions are significantly different from the criteria applied by the court in JR disclosure.
+91. These difficulties, combined with the strict time limits for bringing judicial review proceedings, mean that relevant information is often not provided within adequate time to assist the claimant to decide (a) whether to bring proceedings and, if so, (b) how to present the case. Even when the approach is contested, it results in further and unnecessary delay and pre-action procedural wrangling that ought not to occur.
+92. This practice has the potential seriously to undermine effective access to justice in environmental matters. Such an outcome is wholly contrary to the approach adopted in Aarhus under which it is recognised that the two pillars (access to information and access to justice) are closely linked. One of the purposes of access to environmental information is precisely to assist members of the public and representative groups to determine whether environmental law is being complied with and, if not, to challenge any breaches.71
+
+69 The Environmental Information Regulations 2004 implement Directive 2003/4/EC on public access to environmental information and repealing Directive 90/31/EEC (the Directive), which itself is a partial implementation of . 70 For non-environmental information, a public authority has far greater latitude to extend time for responding to information without any fixed time limit at all.
+
+71 Even in the non-environmental field, it is explicitly recognised that one of the main public interests underlying access to information held by public authorities is "allowing individuals and companies to understand decisions made by public authorities affecting their lives and, in some cases, assisting individuals in challenging those decisions" (Information Commissioner's Awareness Guidance Note 3 ­ The Public Interest Test).
+
+31
+Case management in environmental judicial review
+
+93. We consider that public authorities ought to ensure that their new additional obligations to release environmental (and other) information under EIR 2004/FOIA 2000 enhance rather than detract from their duty of candour in the face of anticipated judicial review proceedings and that when responding to a request for information/ documentation in a pre-action protocol letter, such information is provided within the timescales set out under the Judicial Review Pre-Action Protocol (i.e. usually 14 days).
+94. We also consider that the parties and the judge need access to basic and easily identifiable information from an early stage, which includes details about the claimant, the defendant, any interested parties (including the beneficiary of the decision under challenge) and any potential interveners; and their respective positions.
+95. Given its generic framework and stated applicability only to those decisions that the potential defendant has the power to change, the Protocol does not provide for such exchange. We believe some guidance focused on environmental law judicial reviews ­ which bring particular complexities ­ should in future be included in the Judicial Review Pre-Action Protocol, and would assist in ensuring compliance with Aarhus.
+
+96. We also see considerable benefit to all parties involved in an Aarhus environmental case including the court for there to be some guidance on the sort of information that all potential parties should seek or expect to be provided with, as well as offering or expecting to provide each other, whether voluntarily or in response to a clear question. The guidance need not be binding on either the parties to whom it is directed or on the judges dealing with cases to which it applied. But its existence ­ and the fact that all parties would be aware of it ­ would help to promote a consistency of approach to the exercise of discretions in this area and enable better decision-making, which we believe would be in the interests of all concerned. Appendix 5 contains a suggested framework for the information requirements.
+Early consideration of costs and related matters
+97. Early consideration of issues such as costs, injunctions and information improves access to environmental justice for claimants as well as providing greater predictability of process for defendants and interested parties.
+98. At the moment, all those questions can be considered within the existing framework and process of judicial review, but there is no guarantee that they will be. We recommend that there should be an expectation that there will be early consideration of those issues. We do not believe this requires any rule changes ­ merely a change in practice, perhaps based on judicial guidance.
+
+99. We recommend that, at the first point that an environmental judicial review to which Aarhus applies comes before a judge on the papers (whether for JR permission or an earlier application, say, for an injunction or directions), the judge should expressly consider what orders are needed to secure compliance with the requirements of Aarhus, including those relating to (1) costs, (2) timing, (3) interim relief, and (4) information and documentation. The parties should provide the judge with the information necessary to consider those matters, such as that contemplated by the guidance we recommend in para 94.
+
+
+Judges with expertise in environmental law
+100. Full compliance with Aarhus inevitably leads, in the context of the present JR arrangements in England and Wales, to potentially increased costs for defendants to environmental judicial reviews. As discussed in the following paragraphs, we do not consider that the likely numbers of cases involved will be unduly high. Nonetheless, we consider that it is necessary and appropriate for Aarhus judicial reviews to be handled, particularly at the initial stages during which questions such as permission, interim relief and costs are being considered, by judges with expertise and experience in such environmental cases. That will also provide an important safeguard for defendants, public funders (such as the LSC) and indeed the court to ensure that only cases of sufficient merit proceed and that they do so on an appropriate basis. We appreciate that to some extent this is to put such cases into a different category to other judicial reviews, but we consider that the need to comply with Aarhus justifies such an approach.
+
+14 Numbers of cases likely to be involved
+101. We have tried to gain a broad and up-to-date understanding of the current number of applications for environmental judicial reviews made in the Administrative Court on an annual basis and any predicted annual increase in cases that may result if prohibitive cost barriers were, in effect, removed.
+102. Previous reports have noted the absence of any centrally held judicial statistics on environmental law matters.72 However, in 2003, Macrory and Woods73 examined a number of cases from categories that would contain environmental cases74 and reported the number of environmental judicial review applications lodged in the Administrative Court between 1999 and 2002 as follows: 2000 ­ 13; 2001 ­ 23; 2002 ­ 19 (total 55 and average per year 18).
+103. The Working Group approached the Administrative Court for more recent data on environmental cases, but unfortunately environmental cases are still not categorised separately. However, figures are available by date lodged in the following relevant categories:
+
+
+
+104. Environmental cases comprise only a small proportion of the total number of cases; around 20 cases per year. These figures also confirm that there has been no great change in the volume or make up of cases in the last five years. These figures are supported by information provided by environmental NGOs that routinely consider judicial review as a mechanism to challenge the decisions of public bodies. Information supplied to WWF in 2007 from Friends of the Earth, Greenpeace and the Royal Society for the Protection of Birds on the number of JRs pursued between 1990 and 2007 shows that, at most, each organisation undertook an average of one environmental judicial review a year over the sample period, and in some years they brought no cases at all.
+
+106. It may be argued that the number of environmental cases pursued each year will substantially increase if costs barriers were removed or alleviated in the way we have suggested. However, the Working Group has found no basis for the `floodgates' argument. Judicial review is not undertaken lightly by individuals or NGOs, and such cases are resource intensive and inherently high risk. It is essentially a remedy of last resort in every sense.76 Our judgment is that there would be a modest increase in environmental applications, but, particularly if our recommendations concerning improved case management were adopted, not so large that they could not be handled by the Administrative Court.
+
+105. It would therefore appear that the number of cases that may be affected by the conclusions of this report will not be unduly high, and it needs to be seen against the much larger number of judicial review applications handled by the Administrative Court as a whole. In 2005, 1,981 applications for permission (excluding immigration and criminal cases) were received, of which 412 were granted.75
+
+75 Department of Constitutional Affairs Judicial Statistics (Revised) 2006.
+
+76 An interesting parallel can be drawn with the European Courts of Justice, in which the costs position is very different to the UK courts. The Rules of Procedure for the Court of First Instance and the Court of Justice restrict costs recovery for successful Community Institutions to internal expenses including mail, photocopying, travel and subsistence expenses. In a recent case, WWF-UK was requested to pay costs incurred by the European Council of 360 euros for a case in the Court of First Instance which included an oral hearing. With such low costs exposure, one might expect NGOs to pursue many more claims in the ECJ. However, this is not the case. In our sample above, only Greenpeace and WWF had ever pursued a case in the ECJ, despite the very low costs exposure. We recognise that standing barriers may also inhibit the number of cases pursued before the ECJ.
+
+34
+Conclusions
+
+107. If our judgment is wrong on this, it still does not detract from the need to comply with the Aarhus requirements concerning access to environmental justice. In this context we note that under sections 15-21 Courts and Tribunal Act 2007, the new Upper Tribunal will have jurisdiction to handle most types of judicial review applications, including environmental law cases, either in respect of classes of cases made in a direction by the Lord Chief Justice under the Constitutional Reform Act 2005, or in any particular case where on application the High Court decides to transfer the case to the Upper Tribunal because it determines "it is just and convenient to do so". If there was a substantial rise in environmental judicial review applications, it may be that the Upper Tribunal would provide a suitable forum for reducing an unacceptable overload on the Administrative Court.77 As we have indicated, however, our current view is that the number of additional cases in the immediate future is unlikely to be sufficiently large to require this to happen, but we recognise that the new Tribunal system could provide a valuable forum should it be needed in the future.
+
+15 Conclusions
+108.  and core EC Environmental Directives require that members of the public including environmental organisations have access to legal review procedures before the courts or other independent bodies that are "fair, equitable, timely and not prohibitively expensive". The UK government is currently relying on judicial review as satisfying these access to environmental justice requirements.
+109. We are satisfied that the requirement that procedures must not be prohibitively expensive relates not just to the size of the court fees required for lodging an application for judicial review, but includes the total exposure to costs, including the risk of being ordered to pay costs to other parties should the application fail, and any requirements concerning cost undertakings for interim injunctive relief.
+110. We welcome the fact that the Legal Services Commission has now made explicit reference to the requirements of Aarhus in its Guidance, but recognise that legal aid cannot provide the total answer to satisfying Aarhus. We consider that the costs, both actual and risked, would be prohibitively expensive under Aarhus if they would reasonably inhibit an `ordinary' person who would not be eligible for legal aid from embarking on an environmental challenge falling within Aarhus.
+
+77 We note that the intention behind the provisions was not to seek a wholesale transfer of judicial review cases to the Upper Tribunal, nor were environmental cases in mind. "The intention is to refer to the upper tier of the tribunal issues that are currently dealt with by the High Court; for example, specific tax questions or vires questions about, say, social security, and some immigration questions that, with the agreement of the Chief Justice and the Lord Chancellor, would be better dealt with by tribunals." (Lord Falconer of Thoroton, Hansard, House of Lords 29 Nov. 2006 col. 762.)
+
+111. We conclude that the current principles concerning costs and the potential exposure to costs in judicial review proceedings in England and Wales inhibit compliance with the requirements of Aarhus concerning access to environmental justice. `Walk away' agreements under which each party bears their costs whatever the outcome of the case may continue to be appropriate for cases taken by some larger environmental organisations, but are unlikely to provide an acceptable solution for individuals or smaller organisations.
+
+35
+Summary of key recommendations
+
+112. We have identified a number of principles and mechanisms that could be adopted within the current discretionary powers of the judiciary concerning costs. They build on existing practices, but are developed to reflect the requirements of Aarhus explicitly. We feel that these should eventually be reflected in a Practice Direction or the Civil Procedure Rules and applied to those cases to which Aarhus applies. But we recommend that they should first be applied by the judiciary within their existing discretionary powers to allow for a period of learning and refinement in practice before being codified.
+
+16 Summary of key recommendations
+
+1.
+
+We would encourage the Legal Services
+
+Commission to develop its initiatives concerning vari-
+
+ous combinations of funding, such as a partnership
+
+approach between legal aid and non-governmen-
+
+tal organisations, and to do so in cooperation with
+
+non-governmental organisations and other interested
+
+bodies in future environmental litigation.
+
+113. We also make a number of recommendations concerning the improvement of case management in environmental judicial review that will assist in early identification and resolution of Aarhus requirements, and lead to a more effective use of court time and resources.
+
+2.
+
+Given that the current Protective Costs Order
+
+(PCO) principles were not developed with Aarhus
+
+in mind and clearly contain constraints that are not
+
+consistent with the Convention, we recommend that
+
+a bespoke approach to PCOs be adopted in environ-
+
+mental cases to which Aarhus applies.
+
+114. We have emphasised that Aarhus does not entitle members of the public to bring manifestly unreasonable legal challenges, but does imply that procedures need to be developed to ensure that costs and the risk of exposure to costs are not so prohibitively expensive as to inhibit the Aarhus rights to environmental legal challenge. Throughout this report we have focused on approaches that could be reasonably and rapidly introduced within the existing procedural framework and which, if adopted, would in our view go a long way to ensuring that the UK complies with its Aarhus obligations in England and Wales.
+
+3.
+
+For a case falling within the terms of Aarhus
+
+and where a PCO is sought, the overarching require-
+
+ment must be for a PCO that secures compliance
+
+with Aarhus. Conditions relating to the requirement of
+
+general public importance and no private interest that
+
+might still be applicable to PCOs in other types of
+
+cases but which are inconsistent with Aarhus would
+
+not apply. If the individual Aarhus claimant, acting
+
+reasonably in the circumstances, would be prohibited
+
+by the level of costs or cost risks from bringing the
+
+case, then the court must make some form of PCO
+
+to ensure compliance.
+
+4.
+
+The Aarhus requirements that procedures
+
+are not prohibitively expensive are not confined only
+
+to cases once they have been granted permission,
+
+but will equally apply to the claimant while establish-
+
+ing whether a case has merit. The Court of Appeal's
+
+advice that costs at the permission stage should be
+
+proportionate needs to be particularly followed in the
+
+case of Aarhus claims, and should generally be set at
+
+a very modest level.
+
+36
+Summary of key recommendations
+
+5.
+
+We recommend that where a limited compa-
+
+ny is the claimant in a case to which Aarhus applies,
+
+judicial consideration is given to the level at which
+
+security for costs is set so as ensure compliance with
+
+the requirements of the Convention.
+
+6.
+
+In relation to costs awards against defend-
+
+ants, we do not suggest there is any fundamental
+
+change in the current principles but recommend that
+
+the Aarhus obligation must be taken into account in
+
+exercising the discretion on whether to depart from
+
+the usual rule that costs follow the event.
+
+10. We consider that public authorities ought to ensure that their new additional obligations to release environmental (and other) information under the Environmental Information Regulations 2004 and the Freedom of Information Act 2000 enhance rather than detract from their duty of candour in the face of anticipated judicial review proceedings and that when responding to a request for information and/or documentation in a pre-action protocol letter such information is provided within the timescales set out under the Judicial Review Pre-Action Protocol (i.e. usually 14 days).
+
+7.
+
+We recommend that (whether the case is
+
+legally aided or the claimant proceeds on a CFA or
+
+other similar basis):
+
+(1) Where a claimant has been substantially
+
+successful in their environmental challenge (such
+
+as where the court has concluded that the decision
+
+was unlawful) but the court has then withheld relief
+
+on purely discretionary grounds (i.e. the claimant has
+
+substantially won), the claimant should be treated as
+
+having `won' for the purposes of the general costs
+
+rule that the loser pays the winner's cost; and
+
+(2) Where the claimant has `won' (actually or
+
+substantially) the general position (i.e. that the loser
+
+pays the winner's costs, including any CFA uplift)
+
+should prevail.
+
+8.
+
+We recommend that the normal requirement
+
+to provide a cross-undertaking in damages where an
+
+interim injunction is sought should not apply in envi-
+
+ronmental cases falling within Aarhus where the court
+
+is satisfied that an injunction is required to prevent
+
+significant environmental damage and to preserve
+
+the factual basis of the proceedings. In such cases it
+
+will be incumbent on the court and its administration
+
+to ensure that the full case be heard promptly.
+
+11. We also consider that the parties and the judge need access to basic and easily identifiable information from an early stage, which includes details about the claimant, the defendant, any interested parties (including the beneficiary of the decision under challenge) and any potential interveners, and their respective positions.
+12. We believe some guidance tailored to environmental law judicial reviews ­ which bring particular complexities ­ should in future be included in the Judicial Review Pre-Action Protocol, and would be of benefit and assist in ensuring compliance with Aarhus.
+13. We also see considerable benefit for all parties involved in an Aarhus environmental case, including the court, for there to be some guidance on the sort of information that all potential parties should seek or expect to be provided with and to provide to each other, whether voluntarily or in response to a clear question.
+
+9.
+
+A claimant in an environmental case should
+
+not be expected to pay the defendant's (or interested
+
+party's) costs in resisting an injunction (whether
+
+granted or not) at the permission stage where those
+
+costs are judged to be prohibitively expensive.
+

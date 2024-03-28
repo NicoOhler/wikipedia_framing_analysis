@@ -1,0 +1,47 @@
+The Daily Telegraph (London, UK)
+Monday, November 28, 2016, p. 5
+From black bags to green gas: how rubbish could heat our homes
+A waste-to-energy plant offers a novel way to meet climate change targets, writes Emily Gosden
+
+Emily Gosden
+It is one of the biggest energy policy challenges facing the UK: how can we heat our homes without burning natural gas? The fossil fuel currently provides 85pc of our domestic heating needs, yet if we are to meet climate change targets we must drastically curtail its use within a few decades.
+
+According to National Grid, at least part of the answer could be found in a surprising location: your dustbin. Last week, the FTSE 100 utility giant announced a ?6.3m investment in the world's first commercially-operating plant to produce "green" gas from black bag rubbish.
+
+From dirty nappies to unrecyclable packaging, the new ?25m plant developed by Advanced Plasma Power (APP) in Swindon will take household and commercial waste and process it into gas pure enough to be used in your existing gas boiler or hob. National Grid claims enough gas could one day be made this way to heat a third of UK homes.
+
+On a sprawling industrial estate on the outskirts of the Wiltshire town, a ?5m pilot plant completed this summer with funding from energy regulator Ofgem has already proven that it is technically possible.
+
+In the corner of a warehouse, Andy Cornell, finance director of APP, points to a large open bag full of scraps of rubbish known as "refuse derived fuel" - essentially waste that has been dried and shredded. "This includes dog poo - anything that's going into black bags," he explains. "Don't stand too close."
+
+The waste is fed up a conveyor belt into a tall metal cylinder: the gasifier, where sand heated to 800C, oxygen and steam together break it down into synthetic gas. This "syngas" passes into a "plasma converter", where it is heated to 1200C, to break down remaining tar-like residues. Outside, the cooled syngas feeds into a metal hut where a maze of pipework converts it into methane and carbon dioxide, or "biogas". Further processing extracts the carbon dioxide to leave a predominantly methane gas, essentially identical to natural gas.
+
+It is hard to reconcile this small, rough-and-ready prototype with lofty aims of transforming Britain's energy mix. Even the ?25m, larger-scale project to be built here by 2018 will produce enough gas to heat just 1,500 homes. Heating 9m homes? It's a long way off.
+
+Yet National Grid, which has declared itself at the "forefront of a green gas revolution" by backing this project, claims that if we are to clean up Britain's heating this represents both the easiest and cheapest option.
+
+Although gas from waste still produces climate-harming carbon dioxide when burnt, the fact it is derived primarily from biomass plant matter, which absorbs carbon from the atmosphere as it grows, makes it renewable. By avoiding releasing carbon from fossil fuel reserves, the emissions are estimated to be at least 80pc lower than from natural gas.
+
+The main alternative would be electrification of heating - using technologies like heat pumps. But these would require existing household gas appliances and pipe networks to be ripped out and replaced, with billions of pounds of new power plants and networks needed for added electricity demand.
+
+Using greener gas means we can keep using existing infrastructure. "It's not disruptive in terms of the roads and our urban environments," says Chris Train OBE, chief executive of National Grid Gas Distribution Limited. "It's also not disruptive in the home, for customers. It allows us to use existing appliances."
+
+It would clearly also be less disruptive for the business model of National Grid, which owns and operates gas transmission and four gas distribution networks. It is currently selling a 51pc stake in the latter, valuing them at more than ?11bn.
+
+Backing renewable gas "reinforces the future role of gas in the energy mix", says Train. "That's good sense for us as a gas company."
+
+For the benefit of customers, he insists, it is also "by far the lowest cost pathway" to decarbonise heat - while helping deal with Britain's waste too.
+
+The idea of getting energy from waste is not new. The UK's rising tax on landfill rubbish means councils and businesses are willing to pay for waste to be disposed of in alternative ways. Encouraged also by renewable energy subsidies, companies like Suez, Veolia and Viridor have built or are building 55 incinerators that produce electricity by burning black bag waste.
+
+There is also an existing landfill gas industry, which extracts methane from dumps and burns it for power, and about 540 anaerobic digestion (AD) plants, which take food and agricultural waste or sewage and use bacteria to digest them into gas.
+
+Although some then purify the gas and inject it into the grid, most just burn it for electricity.
+
+The Swindon project's backers say the key advantages of their technology are that it can use a far broader range of waste types than AD plants and, by producing green gas rather than green electricity, it is solving a much trickier policy challenge.
+
+The economics of the Swindon green gas project are underpinned by getting paid for disposing of waste otherwise destined for landfill - and also, for now at least, renewable energy subsidies. The new ?25m plant will be able to claim Renewable Transport Fuel Certificate subsidies for the gas it injects into the grid.
+
+But APP chief executive Rolf Stein insists that, once established, it will "absolutely" be able to compete with natural gas without subsidy, assuming continued landfill taxes and a modest recovery in gas prices. "If we take the government gas price projections we can see us being commercially viable without subsidy by 2025," he says.
+
+'If we take gas price projections we can see us being commercially viable without subsidy by 2025'

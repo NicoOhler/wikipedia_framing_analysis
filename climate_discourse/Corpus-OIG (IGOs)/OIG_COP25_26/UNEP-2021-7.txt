@@ -1,0 +1,822 @@
+CHEMICALS, WASTES AND CLIMATE CHANGE
+INTERLINKAGES AND POTENTIAL FOR COORDINATED ACTION
+
+Climate change and management of hazardous chemicals and wastes are two of the many challenges facing policy and decision makers committed to meeting the Sustainable Development Goals, as set out in the 2030 Agenda for Sustainable Development. A number of global agreements have been established to address these issues. The United Nations Framework Convention on Climate Change seeks to both stabilize greenhouse gas (GHG) concentrations in the atmosphere and adapt to the eventual inevitable impacts of climate change. Falling within the scope of this study, hazardous chemicals related agreements include the Rotterdam Convention on the Prior Informed Consent Procedure for certain Hazardous Chemicals and Pesticides in International Trade, the Stockholm Convention on Persistent Organic Pollutants (POPs) and the Minamata Convention on Mercury. Finally, the Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and Their Disposal focuses specifically on waste-related issues.
+A number of interlinkages exist between climate change, hazardous chemicals and wastes are identified, including that:
+· Climate change can lead to increased releases of hazardous chemicals into the environment; · Chemicals production, chemicals containing products and product usage can give rise to both
+hazardous chemicals and GHGs; · The waste sector is a potential source of GHGs and hazardous chemicals; · There can be both synergies and sometimes trade-offs, between mitigation measures for releases
+of GHGs and hazardous chemicals; and · Opportunities exist for aligning inventories of GHGs and hazardous chemicals.
+In this report, an exploration of the technical aspects of these interlinkages is presented based on existing literature, towards ultimately supporting the identification of opportunities for taking action on both climate change and hazardous chemicals and waste, in a cost-effective, integrated manner.
+The impacts of climate change are already being observed, including increased temperature, changes to precipitation, shifts in ocean currents, melting of ice, rising sea levels and increased severity and frequency of sea level events, thawing permafrost, retreat of glaciers and ice sheets, increase in weather conditions conducive to fires and increased frequency and intensity of extreme weather events. The extent to which changes to these observed impacts will occur over time will vary significantly between regions, and will depend on the extent to which future growth in GHG emissions can be constrained.
+These climate change impacts are linked to increased primary releases of hazardous chemicals, being those associated with the intentional use of chemicals including pesticides and chemicals in many industrial applications. In terms of pesticide usage, it is highlighted that pests, diseases, and vectors for both crop and livestock diseases are likely to be altered by climate change. Although changes in usage will vary depending on local context, with increases in some situations and decreases in others, in general there is a greater likelihood of higher incidences of pest and disease outbreaks and associated pesticide usage. In terms of other chemical usage applications, a key driver of primary releases is that temperature increases can result in increases in the volatility of chemicals, thereby driving increased releases during usage and from stockpiles.
+Secondary releases of hazardous chemicals, from environmental reservoirs such as soil and glaciers, will also increase due to climate change impacts. Increased concentrations of some POPs are already being observed at one of the Arctic monitoring stations, which has been attributed to warming in the Arctic and retreating of sea ice and melting of glaciers, although these are an exception in the region, and modelling results differ on the potential future links between climate change and releases of POPs from Arctic and Alpine glaciers. Projections also suggest that mercury emissions to the atmosphere from permafrost regions are likely to grow as a result of climate change. Under a high GHG emissions scenario, mercury emissions from permafrost alone could reach a peak of 1.9±1.1 Gg Hg year-1 in 2200, which is similar to current global atmospheric emissions.
+In addition to increased primary and secondary releases of hazardous chemicals to soil, water and the atmosphere, climate change has implications for their long-range transport, including through changes in atmospheric circulation, ocean currents and circulation, precipitation, extreme weather events and migration of animals. Climate change will also affect how chemicals impact on various animal species and humans, with evidence thereof already being observed.
+Finally, the impacts of climate change are considered from the perspective of physical infrastructure and operations. In the waste sector, disruption of operations and mobilization of hazardous chemicals from waste and wastewater facilities can occur. Mine sites, tailing dams and other infrastructure can be disrupted, leading to hazardous chemicals releases.
+· Mitigating GHG emissions and hence future global climate change is a high priority not only for reducing the impacts of climate change on the planet, but also because of the benefit of avoiding increased movement and impacts of hazardous chemicals. The interlinkages between the two issues presented in this report thus provide additional support to the case for mobilizing resources to combat climate change.
+· Waste and wastewater management infrastructure and operations, mine waste sites, and industrial facilities need to be designed to be resilient to future climate impacts to prevent hazardous chemicals releases. Historical sites need to be evaluated to determine remediation requirements and retrofitting of infrastructure to make them resilient to climate change. Waste minimization should be pursued wherever possible, with waste disposal being the last and least preferred option.
+· Planning for hazardous chemicals management needs to take into account current and future impacts of climate change, to minimize the potential risks. Accounting for climate change in managing industrial/disaster risks also requires consideration of transboundary impacts thereof, and hence opportunities for international cooperation.
+The chemicals sector is a significant contributor to global GHG emissions, and has strong links to the fossil fuels sector. Releases of GHGs and hazardous chemicals occurring at all stages in the chemicals' life cycle, including production of input materials, primary and secondary production processes, use and disposal. Potential releases of hazardous chemicals and GHGs from the use phase of products can occur include application of pesticides, and during usage of high value chemicals in refrigeration and air-conditioning, fire suppression and explosion protection, foam blowing, and other applications. Chemicals are used in production of manufactured articles. For example, flame retardants in a variety of products and articles such as mattresses and textiles used in furnishings, aircraft, vehicles, construction of houses, agriculture and others have been shown to volatilise during the use phase, with releases increasing as a function of temperature.
+· Circular economy and life cycle approaches to design of systems, process and product design have the potential to simultaneously reduce potential for GHG and hazardous chemical releases (as well as other negative environmental externalities) associated with provisioning of goods and services to meet societal needs.
+· Mining and minerals processing operations, which provide raw material inputs for many chemical production processes as well as renewable energy and energy storage infrastructure, need to apply Best Available Technology/Best Environmental Practices (BAT/BEP) to ensure energy efficiency and minimization of releases of hazardous chemicals. Renewable energy rather than fossil energy should be adopted where feasible in the mining sector to reduce GHG and hazardous chemicals releases, or fuel switching from coal to gas should be evaluated where renewables are not feasible, recognizing that gas is a transition fuel which is not compatible with a net zero GHG emissions world.
+· Primary chemicals production and downstream industries also need to apply BAT/BEP, towards reducing energy inputs, avoiding releases of unintentional hazardous chemicals and GHG emissions and minimizing waste generation Where available, process and product changes to reduce production-related releases should be implemented. As with mining and minerals processing, renewable energy and fuel switching can result in further benefits.
+· Reductions in primary releases of hazardous chemicals in the use phase can be achieved by researching, developing and adopting alternatives to hazardous pesticides and other agricultural practices such as implementing integrated pest management; by implementing "Design-for-Environment" principles for manufactured products and by using low hazard, low Global Warming Potential chemicals in applications such as flame retardants, foam blowing and electronics.
+· Policy and management approaches that focus on the plastics issue are often focused on the plastic litter problem. Awareness is, however, growing about the negative impacts of plastics across their entire life cycles, including GHG and hazard considerations. Plastics policy and management approaches should also be expanded to take circular economy and life cycle considerations into account.
+The application of Life Cycle Thinking is demonstrated using the case of plastics, given the growing importance of this environmental issue, and its relevance to the different conventions covered by this study. Impacts of plastic waste on the oceans is a headline environmental issue, with increasing recognition of plastics' impacts on freshwater and terrestrial ecosystems, and even on human health. The impact of plastics on climate change has been less recognised, although recent studies have served to highlight the importance of looking at the climate impact of plastics over their life cycle, especially when taken in the context of the projected growth of the sector. Different plastics waste streams are highlighted to have different potentials for both releases of GHGs and contaminants. End of life management of plastics contributes around 10% to the life cycle greenhouse gas emissions, or 161 MtCO2e of emissions in 2015, from incineration, recycling and landfill, with potential negative impacts on land, aquatic and terrestrial ecosystems if not managed properly. Waste Electrical and Electronic Equipment products contain lead, mercury and other metals, flame retardants and certain phthalates, that may be released during end of life management, with some of these chemicals having high Global Warming Potentials. A total of 53.6 Mt, or an equivalent of 7.3 kilogram per capita, of e-waste is estimated to have been generated annually in 2019, up from 44.4 Mt in 2014, a figure that is expected to grow in the future. Hazardous materials from renewable energy installations need to also be managed properly, to avoid end of life products from entering the waste stream. Household wastes also have potential for releases of both hazardous chemicals and greenhouse gas emissions, depending on the options used in their management. Finally, management of hazardous health care wastes represent a major challenge in many parts of the world, if facilities are not available for proper disposal thereof.
+· Reducing demand for materials and circular economy approaches can help reduce waste generation across the economy.
+· BAT/BEP, Basel Convention Technical Guidelines and environmentally sound management guidelines should be applied as appropriate to identify, design and implement appropriate technologies for management of different waste streams, towards limiting releases of both GHGs and hazardous chemicals. What is deemed appropriate and feasible will vary between locations.
+GHGs and hazardous chemicals, including unintentionally produced POPs and heavy metals, can be released from the same sources. Mitigation options or integrated policy measures for reducing greenhouse gas emissions may have positive benefits for reducing emissions of hazardous chemicals, and vice versa. However, the opposite also holds true: certain GHG mitigation technologies can give rise to an increase in hazardous chemicals production and/or release, thus resulting in a trade-off between GHG and hazardous chemicals mitigation. Some examples of mitigation synergies and trade-offs include:
+· Across all sectors and applications, adoption of BAT/BEP technologies and approaches, and improving technologies and approaches over time, will help to minimize releases of both hazardous chemicals and GHGs, and ultimately move towards being consistent with pathways aligned with net zero greenhouse gas emissions.
+· Coal is a substantial contributor to both GHGs and mercury emissions, as well as to releases of other hazardous chemicals. Where feasible, reducing coal usage through a transition to low carbon energy in the energy sector and to alternative industrial feedstocks will thus contribute substantially to reducing GHGs, mercury and other hazardous chemical releases, with associated benefits for air quality and public health.
+· Shifting from other fossil fuels apart from coal to renewable energy will also contribute positively to reducing GHG and hazardous chemical releases.
+· Carbon capture, utilisation and storage (CCUS) can result in significant reductions in carbon dioxide emissions from both the energy and industrial sectors, and is considered to have an important role to play in meeting global emission reduction targets, particularly in hard to decarbonize sectors. CCUS can, however, have a significant energy penalty and hence lead to increased impacts associated with energy supply to meet additional energy requirements. This should be taken into account when evaluating these technologies.
+· Chemical process efficiencies and shifts to alternative feedstocks and alternative products can reduce both GHGs and hazardous chemicals. These should be sought out and implemented as soon as possible.
+· The cement sector is a significant emitter of both GHGs and hazardous chemicals, with a number of opportunities for mitigation that are being pursued to varying extents around the world, that should be supported. However, use of waste as fuel can result in increased hazardous chemicals releases if BAT/BEP approaches are not followed.
+· Production of metals from recycled material has significantly lower GHG emissions that from primary processes and should be implemented where feasible. These processes can, however, release hazardous chemicals if BAT/BEP approaches are not followed.
+· Replacing mercury lights with light emitting diodes (LEDs) reduces electricity demand, and reduces demand for mercury and end-of-life management impacts of mercury containing lamps. Phasing out of mercury lamps is thus desirable. However, LEDs do potentially contain other heavy metals, including nickel, lead and arsenic, and so should also be properly managed at end-of-life.
+· Biomass represents a low carbon energy source, although combustion of biomass can release hazardous chemicals if BAT/BEP approaches are not followed. Furthermore, production and use of biomass for bioenergy can have benefits and negative impacts linked to land degradation, food insecurity, livelihoods and other environmental and sustainable development goals, with the impacts being dependent on a range of context-specific considerations.
+· Addressing artisanal and small-scale gold mining will reduce mercury exposure for mine workers as well as emissions to the environment, while simultaneously addressing GHGs associated with land clearing that typically accompanies these activities.
+The final consideration relates to the potential synergies in compilation of emissions inventories. Inventory guidelines are available for compilation of inventories of GHGs, POPs, mercury and other pollutants, with a number of commonalities being observed, particularly with respect to activity data requirements. Exploitation of these commonalities can allow for efficiencies in data collection, streamline Quality Assurance/Quality Control (QA/QC) of inventories and potentially reduce uncertainty and misalignment.
+· Collection of data should be coordinated by establishing appropriate national and regional data management systems for common data. This will contribute to reducing data uncertainty, personnel and other resource requirements and costs, and areas of misalignment.
+· Similarly, systems and processes for QA/QC can be coordinated between the different inventories, thereby reducing resources required for compilation.
+Although a wide a range of information is available in the open literature on specific topics or regions, insufficient information is available to provide a full quantitative and coherent assessment of all the interlinkages between climate change and hazardous chemicals use and releases.
+· There is a need for generation of further relevant information and data on the links between climate change and hazardous chemicals to be gathered through targeted studies in areas less comprehensively addressed in the open literature. Examples of such areas include groundwater, freshwater systems, pesticide usage projections and desertification. A comprehensive needs assessment is required to identify specific R&D target areas.
+In conclusion, the report presents a comprehensive technical review of the literature on report on climate change and hazardous chemicals management, towards identifying a set of opportunities for simultaneously addressing these two critical elements of the broader sustainability challenge. It is hoped that the information presented will guide the development and implementation of cost-effective strategies, institutional capacity, enforcement mechanisms and other components of an enabling environment to address these issues at the global, regional, national and local levels, thereby supporting the concurrent implementation of the multitude of treaties that are already in place.
+INTRODUCTION
+
+CHAPTER 1 Introduction
+
+1 INTRODUCTION
+1.1 STUDY CONTEXT
+The earth's climate is changing as a result of increased levels of greenhouse gases (GHGs) and short-lived climate forcers in the atmosphere from anthropogenic or human-based activities. These activities include energy supply, industrial processes, waste management and land related activities (Fiedler et al., 2012; IPCC, 2013b, 2018b).
+Emissions of GHGs have continued to rise at an average of 1.5% per year in the last decade (UNEP, 2019a). Global emissions, including from land-use change, were a record high of 55.3 GtCO2e in 2018. Fossil CO2 emissions from energy use and industry dominate, making up 68% of global emissions in 2018. Emissions from these sources reached a record 37.5 GtCO2 that year, growing 1.5% per year in the last decade and 2.0% in 2018 alone, with the growth largely being driven by energy use. Emissions of methane (CH4), the next most important GHG, grew at 1.3 per cent per year in the last decade. Methane is a short-lived climate forcer and also affects local air quality. Nitrous oxide (N2O) emissions grew at 1.0% per year in the last decade. Finally, fluorinated gases (SF6, HFCs, PFCs) are the fastest growing GHGs, at 4.6% per year in the last decade (UNEP, 2019a).
+Projections of intensity and frequency of climate change impacts vary significantly between regions, and between longer-term scenarios of the extent to which these GHG emissions are likely to grow in the future. Projections are comprehensively documented by the Intergovernmental Panel on Climate Change (IPCC), through Assessment Reports published at regular intervals (IPCC, 2013a, 2014b)1, and through special reports including the Special Reports on Global Warming of 1.5° C (IPCC, 2018b), Climate Change and Land (IPCC, 2019b) and the Ocean and Cryosphere in a Changing Climate (IPCC, 2019c). There is no indication that global GHG emissions will peak in the next few years, with delays in peaking leading to a need for faster and deeper cuts in the future to limit global warming and its impacts. The United Nations Environment Programme's (UNEP's) most recent Emissions Gap Report suggests that emissions would need to be 25% lower by 2030 compared to 2018 levels to realize a least-cost pathway to limiting global warming to below 2°C. To move towards a 1.5° C pathway, 2030 emissions would need to be 55% lower than 2018 levels (UNEP, 2019a). While global emissions continue to grow, there are a number of developed countries where declines in carbon dioxide emissions have been observed as a result of renewables displacing fossil fuels (Le Quéré et al., 2019), while the 2020 global pandemic lockdowns resulted in large-scale temporary reductions in emissions (Le Quéré et al., 2020).
+The production and release of a range of hazardous organic and inorganic chemicals and wastes drive further global environmental change and pose threats to natural environments and animal and human life. Persistent Organic Pollutants (POPs) are chemicals of concern due to their potential for long-range transport, persistence in the environment, bio-magnification and bio-accumulation in living organisms, and negative effects on animal and human health and the environment. POPs enter the environment as agricultural chemicals (pesticides), industrial chemicals and through unintentional generation. POP pesticide production and use has declined in many parts of the world, due to legislative interventions and the introduction of safer alternatives. Production of industrial chemicals including perfluorinated chemicals and flame retardants for a range of applications has, however, grown. In 2017, global consumption of flame retardants, many of which are classed as hazardous, amounted to more than 2.25 million tonnes per year. Growth in demand for hazardous flame retardants could, however, slow in the future due to targeted legislation (UNEP, 2019b). Sources of unintentionally generated POPs, such as dioxins, furans, and polychlorinated biphenyls (PCBs), include power generation, combustion of fuels in other stationary and mobile applications, metallurgical processes and burning of wastes.
+Decreasing concentrations of POPs measured in air and in humans have been observed globally, indicating the effectiveness of intervention measures to reduce and ultimately eliminate environmental releases (UNEP, 2017). However, levels of dioxin-like compounds, PCB and in certain cases DDT, observed in human breast milk are above World Health Organization (WHO) safety standards, indicating that further remedial actions are necessary in all regions of the world (UNEP, 2013a). Releases and impacts of POPs have been widely studied, such as within the active ongoing programme in the Arctic regions being operated under the Arctic Monitoring and Assessment Programme (AMAP), and under the Cooperative Programme for Monitoring and Evaluation of the Long-range Transmission of Air Pollutants in Europe (EMEP).
+1 The most recent Assessment Report at the time of writing was the Fifth Assessment Report (AR5)
+
+CHAPTER 1 Introduction
+
+Heavy metals are a further class of hazardous chemicals of concern due to impacts on animal and human
+
+health and the environment. Human activity has resulted in atmospheric mercury levels being 450% higher
+
+than natural levels, with emissions of mercury in the environment rising by 20% between 2010 and alone. Stationary combustion of fossil fuels and biomass is responsible for about 24% of global mercury
+
+emissions, with coal burning being the primary contributor (21%). Under current policy scenarios, mercury
+
+deposition fluxes will grow in Asia but drop in North America and Europe by 2035. However, additional
+
+policies could go a long way to reducing future mercury fluxes across the world (UNEP, 2019c).
+
+1.2 GLOBAL RESPONSES
+
+In response to the challenges of climate change and hazardous chemicals, a number of international agreements have been implemented. The United Nations Framework Convention on Climate Change (UNFCCC) entered into force in 1994 to "stabilize greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic interference with the climate system". Parties to this Convention also make commitments to adapting to the eventual inevitable impacts of climate change. The UNFCCC has led to the establishment of the Paris Agreement the first universal, legally binding global climate change agreement, through which Parties agreed to various commitments, including to collectively limit "the increase in the global average temperature to well below 2° C above pre-industrial levels, and pursue efforts to limit the temperature increase to 1.5° C above pre-industrial levels" through peaking global emissions as soon as possible and rapidly reducing emissions thereafter. There are also provisions in the Agreement related to adaptation, transparency, loss and damage, and provision of support to developing countries.
+A number of global agreements have been established towards management of hazardous chemicals and wastes. This document focuses on four of the international treaties, which share the common aim of protecting human health and the environment from hazardous chemicals and wastes:
+· The Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and Their Disposal2;
+· The Rotterdam Convention on the Prior Informed Consent Procedure for certain Hazardous Chemicals and Pesticides in International Trade3;
+· The Stockholm Convention on Persistent Organic Pollutants4; and · The Minamata Convention on Mercury5.
+Various other agreements that have related objectives to the above four treaties6. Collecting and providing easy access to information related to releases of pollutants are covered by the Kyiv Protocol on pollutant release and transfer registers (PRTRs), covering GHGs, POPs, mercury, as well as transfers of waste. On the regional level, the United Nations Economic Commission for Europe (UNECE) Convention on Long-Range Transboundary Air Pollution promotes an integrated approach to environmental policymaking, striving to reduce key air pollutants, including those that are climate-relevant. The UNECE Convention on the Transboundary Effects of Industrial Accidents supports countries in the prevention of, preparedness for and response to industrial accidents, including those accidents caused by natural disasters. The Strategic Approach to International Chemicals Management (SAICM)7, hosted by UNEP, is a policy framework to promote global chemical safety. The Bamako Convention focuses on imports into and control of transboundary movement and management of hazardous wastes within Africa, with the Waigani Convention serving a similar function in the Pacific region. The International Labour Organization (ILO) have developed a number of legally binding instruments in the form of ILO Conventions that directly address chemicals and waste in the world of work as well as their impact on the environment, including the ILO Chemicals Convention, 1990 (No.170) and the Prevention of Major Industrial Accidents Convention, 1993 (No. 174)8.
+
+6 For an extensive list, please see  
+CHAPTER 1 Introduction
+
+1.3 INTERLINKAGES BETWEEN THE IMPACTS OF CLIMATE CHANGE, HAZARDOUS CHEMICALS AND WASTE
+
+The projected impacts of climate change are directly linked to hazardous chemicals and waste management. Table 1 provides an overview of the major impacts as a result of climate change in different regions (IPCC, 2014c), that have potential links with and hazardous chemicals and waste management. In addition to the links that arise as a result of these impacts, sound management of chemicals and wastes is intrinsically linked to the climate agenda in that there is the potential to work in a cost-effective, integrated manner to address both chemicals and wastes and climate mitigation, towards meeting the Sustainable Development Goals as set out in the 2030 Agenda for Sustainable Development.
+
+CHAPTER 1 Introduction
+
+
+This report presents a comprehensive technical review of the interlinkages between climate change, hazardous chemicals and waste. It is based on information available in the open literature, and thus topics on which published literature is limited will not be addressed. Examples of such areas where climate change and hazardous chemicals interlinkages are not well explored include groundwater, desertification and freshwater systems. As identified previously, the report focuses on the UNFCCC and four of the chemicals' treaties, being the Basel, Rotterdam, Stockholm and Minamata Conventions, towards identifying areas where there are overlaps, thereby supporting concurrent implementation of the treaties. A schematic representation of the interlinkages between the four chemicals treaties covered by this report is shown in Figure 1. It is noted that, although not covered in the study, many other treaties also have links to climate change. Notable here is the Vienna Convention and associate Montreal Convention on Ozone Depleting Substances, which is already well understood in terms of its links with climate change9.
+FIGURE 1: COVERAGE OF THE FOUR CHEMICALS TREATIES CONSIDERED IN THIS STUDY
+
+The report is structured as follows. Chapter 1 provides an overview of the context in which this document has been prepared, and the purpose thereof. Chapter 2 explores the impacts of climate change on releases and transport of hazardous chemicals. In Chapter 3, the relationships between hazardous chemicals production and use and climate change are discussed. Chapter 4 explores synergies and trade-offs between GHG and hazardous chemicals mitigation options, while Chapter 5 presents the links between environmentally sound management of waste and climate change. In Chapter 6, an overview of opportunities for aligning emissions accounting for GHGs and hazardous chemicals is presented. Finally, Chapter 7 presents a summary and set of conclusions which will serve to guide policy and decision makers in streamlining action on these issues.
+
+CHAPTER 1 Introduction
+
+IMPACTS OF CLIMATE CHANGE ON THE RELEASE, FATE AND TRANSPORT OF HAZARDOUS CHEMICALS
+2 IMPACTS OF CLIMATE CHANGE ON THE RELEASE, FATE AND TRANSPORT OF HAZARDOUS CHEMICALS
+Climate change has the potential to change both the release patterns of hazardous chemicals and their environmental fate, and their transport through the environment. Furthermore, impacts on various classes of infrastructure and operations will occur. Each of these topics is explored separately in the following sub-sections.
+2.1 RELEASES AND FATE OF HAZARDOUS CHEMICALS
+Both primary and secondary releases of hazardous chemicals into the environment can be impacted by climate change. Primary releases include direct dispersion on soils and into air (for example, through the application of pesticides), volatilization into air during use of chemical products (semi-volatile technical chemicals), and leaching into water (through use of water soluble technical chemicals) (see Figure 3.1 in UNEP/ AMAP (2011) for a graphical representation of long range transport mechanisms of hazardous chemicals). Secondary releases on the other hand refer to volatilization and mobilization from environmental reservoirs of hazardous substances such as snow and ice.
+Primary releases of chemicals are linked to the impacts of climate change in the following ways: · Pests, diseases, and vectors for both crop and livestock diseases are likely to be altered by climate change. Specific changes will vary depending on local context, with increases in some locations and decreases in others. In general, however, there is a greater likelihood of higher incidences of pest and disease outbreaks, as increased distribution, growth and reproduction of pests is observed at higher temperatures and wetter conditions, and efficacy of pesticides decreases with increased temperature. These factors could lead to changes to the types, timing and frequency of pesticide application, with concurrent negative impacts on biodiversity and ecosystem services (Boxall et al., 2009; UNEP/AMAP, 2011; IPBES, 2019). One study in China highlighted that pesticide usage as a result of both increased temperature and precipitation could rise by 1.1 to 2.5% by 2040 and 2.4 to 9.1% by 2070, despite current efforts to reduce pesticide usage (Zhang et al., 2018). Robust strategies are thus required for pest and disease mitigation to avoid excessive growth in pesticide use (Kattwinkel et al., 2011; Wang, Sun and Yao, 2016a; IPCC, 2019b; Matzrafi, 2019; Mbow et al., 2019). · DDT is the only POP pesticide that is still produced and applied in appreciable amounts, for the purposes of malaria control. Some studies suggest climate change could lead to an increased spread of malaria and other vector-borne diseases (see for example (Hundessa et al., 2018; Karypidou et al., 2020)), although there is still disagreement as to how extensive such spread will be. In the event, however, that they are observed, larger areas may need malaria control than at present, which could lead to enhanced demand for DDT and, consequently, may lead to higher emissions of and exposure to this chemical (Bouwman, van den Berg and Kylin, 2011). · The rate of volatilization of chemicals is directly linked to temperature, with a temperature increase of 1° C potentially resulting in a 10% to 15% increase in the volatility of typical semi-volatile POPs, such as PCBs (Lamon, Von Waldow, et al., 2009; UNEP/AMAP, 2011; Gouin et al., 2013). Temperature increases as a result of climate change will thus result in increased emissions of POPs used in open applications, such as PCBs used as plasticizers in paints and joint sealants, and PBDEs used as flame retardants. · Increased mobilization and volatilization of chemicals from materials storage and stockpiles will occur as temperatures rise. These effects will be most relevant in the case of chemicals with relatively low direct emissions during manufacturing and chemicals which are not readily incorporated into materials. For example, it is estimated that 240,000 tonnes of obsolete pesticides are stockpiled in Eastern Europe alone, and that between 4 and 7 million tonnes of HCH isomers, generated as a byproduct of Lindane manufacture, have been stockpiled globally since the 1950s. -HCH is volatile and so has potential to increasingly be released into air as temperatures increase, while -HCH is more water soluble. Abandoned stockpiles of compounds containing heavy metals, which may include mercury, are also found in parts of the world. The volatilization of mercury also increases with increasing temperature (Vijgen et al., 2011, 2018; Gouin et al., 2013; Wöhrnschimmel, 2013).
+Of the above impacts, it is noted that the effect of temperature on emissions of semi-volatile POPs is considered to be the most important factor linking climate change and the environmental cycling of POPs (UNEP/AMAP, 2011).
+
+
+
+Links between secondary releases and climate change include:
+
+· Melting of polar and alpine glaciers, permafrost and ocean ice will result in releases of trapped
+
+hazardous chemicals, including POPs and mercury, into freshwater systems, and allowing for air-
+
+water and air-soil exchanges (specifically for volatile and semi-volatile chemicals) (Noyes et al., 2009;
+
+UNEP/AMAP, 2011; Stern et al., 2012; Ma, Hung and Macdonald, 2016; Hock et al., 2019; Meredith
+
+et al., 2019; Potapowicz et al., 2019).
+
+· Changes in characteristics of snowpack and sea-ice and increases in precipitation in the Arctic which
+
+are linked to climate change, have been found to be primary contributors to changes in mercury
+
+concentrations in air, and in mercury deposition processes (Goodsite et al., 2013; Hock et al., 2019;
+
+Meredith et al., 2019). Higher precipitation rates may be especially important in causing increased
+
+releases of both mercury and organic matter, which together result in increased concentrations of
+
+methyl mercury in water bodies which is then available to aquatic food chains (Chen et al., 2018;
+
+Schartup et al., 2018). Furthermore, based on soil measurements, it has been estimated that 1,± 962 kilo tonnes of mercury are stored in the top three meters of soil in the permafrost regions
+
+alone, which represents nearly double the mercury as all other soils, the ocean, and the atmosphere
+
+combined. Of this, 793 ± 461 kilo tonnes of mercury is frozen in permafrost. This mercury is vulnerable
+
+to release as permafrost thaws over the next century (Schuster et al., 2018; Meredith et al., 2019;
+
+Schaefer et al., 2020). Projections suggest that under a high GHG emissions scenario, mercury
+
+emissions from permafrost could reach a peak of 1.9±1.1 Gg Hg year-1 in 2200, the equivalent of
+
+current global atmospheric emissions (Schaefer et al., 2020). The potential also exists for climate
+
+change to lead to increased releases of mercury into the environment from terrestrial soils, other
+
+than those in permafrost regions.
+
+· Observed changes in many biogeochemical and ecological processes that drive mercury cycling
+
+have already been attributed to climate change. Increased secondary releases of chromium, nickel,
+
+copper, lead and cadmium from permafrost and soils could also be seen in Arctic regions as a result of
+
+climate change (Stern et al., 2012; McKinney et al., 2015; AMAP/UNEP, 2019; Potapowicz et al., 2019).
+
+· The chemistry of seawater is projected to change, in part due to melting of glaciers (IPCC, 2019c).
+
+Salinity and pH changes impact on the solubility of chemicals in water and, as a result, air-water
+
+partitioning. For example, solubility of POPs decreases as salinity increases (Lamon, Dalla Valle, et
+
+al., 2009).
+
+· Mobility of water-soluble chemicals, such as PFOS and PFAS, present in both contaminated and
+
+uncontaminated soils, may increase with temperature. This is due to the exponential increase in
+
+vapor pressure with temperature, which affects the partitioning between air and soil and between
+
+air and water.
+
+· Land use changes, land degradation and erosion (for example, due to growth of agriculture, tourism
+
+and spread of communities in the Arctic and high latitude regions as the climate warms (Alvarez,
+
+Yumashev and Whiteman, 2020)) will change vegetation cover, affect environmental reservoirs such
+
+as surface water, soils, vegetation, permafrost, snow and ice, and modify secondary emissions of
+
+POPs (IPCC, 2019b). They may also impact on deposition from the atmosphere into foliage, and
+
+formation of long-term soil reservoirs may be impacted by modification of land uses associated with
+
+climate change (Ma, Hung and Macdonald, 2016).
+
+· Higher temperatures are likely to increase degradation of chemicals; including reservoirs of POPs
+
+in soils, vegetation and seawater. However, although the activity of microorganisms which degrade
+
+chemicals may increase with temperature contributing to this effect, the possibility also exists that
+
+microorganisms may experience thermal stress under a warming climate thereby reducing degradation.
+
+Microorganisms are also impacted by changing precipitation (UNEP/AMAP, 2011). Global warming,
+
+which is linked to the rate of heat uptake of the ocean, marine heat waves, deoxygenation, acidification
+
+and reduced ventilation, has already, and will continue to, impact on marine biological productivity
+
+and consequently the POP storage capacity of the ocean (Wang, Sun and Yao, 2016b; IPCC, 2019c).
+
+· Droughts, floods and other weather events that are projected to increase in both intensity and
+
+frequency (IPCC, 2019b, 2019c) can result in redistribution of hazardous chemicals through mechanisms
+
+such as increased soil erosion, flooding and air transport of dust.
+
+· Forest and peat fires, which are already becoming more frequent and intense with climate change
+
+(IPCC, 2019b, 2019c), can result in releases of POPs, including PCB, polychlorinated naphthalene
+
+(PCN), and polybrominated diphenyl ether (PBDE) as well pesticides (Wang et al., 2017), while at the
+
+same time releasing methane (Kohlenberg et al., 2018). They also give rise to low particulate but
+
+high gaseous mercury releases, regardless of the combustion temperature or fuel moisture content.
+
+
+
+Estimates vary between studies, with one estimate suggesting global annual emissions of mercury in the early 2000s from forest fires to be 612 Mg/year. This same study suggested that climate change would contribute to a global increase in emissions of mercury from forest fires of 14% between 2000 and 2050, with large regional variations being seen (Kumar et al., 2018). Drying of wetlands as a result of climate change could result in increased burning and associated releases of mercury from this repository, although no quantitative estimates of the potential for these releases were found.
+A range of studies consider potential current and future releases of POPs via secondary pathways from frozen reservoirs including the Arctic and Alpine glaciers. Observed levels of PCB 52 and PCB 101 in the atmosphere at the Arctic station of Stórhöfði in Iceland (Figure 2) have demonstrated a steady increasing trend since just before the turn of the century. These trends have been attributed to re-emissions of these compounds that were previously deposited and accumulated in water, ice and soil to the air due to warming in the Arctic and retreating of sea ice and melting of glaciers, noting, however, that the Stórhöfði site is an exception in the region as, in general, declining trends in air are being monitored (UNEP, 2017). Models of Arctic and Alpine glaciers have suggested that changes in seasonal melt profiles, snowfall and other precipitation, which are impacted by climate change, will disrupt cycles of releases and absorption of POPs into glacial ice (Steinlin et al., 2014; Miner et al., 2017), with the net impacts depending on a range of assumptions. It is thus not possible to make conclusive statements on this topic. However, while impacts of climate change on secondary releases of POPs from ice reservoirs remain uncertain, studies comparing primary and secondary releases as a result of climate change suggest that increased primary releases as a result of changing land uses, including agriculture, and increased resource exploitation in Arctic regions, will be the dominant cause of increased selected POP releases (Wöhrnschimmel et al., 2012).
+FIGURE 2: LEVELS OF PCB 52 (TOP) AND PCB 101 (BOTTOM) AT THE ARCTIC STATION OF STÓRHÖFÐI IN ICELAND
+
+SOURCE: (Hung et al., 2016)
+
+
+
+2.2 LONG-RANGE TRANSPORT OF HAZARDOUS CHEMICALS
+
+Climate change will also result in changes to environmental transport pathways across the globe, including
+
+through moving air masses and ocean currents (UNEP/AMAP, 2011; Teran, Lamon and Marcomini, 2012; Ma,
+
+Hung and Macdonald, 2016; Pacyna et al., 2016; Wang, Sun and Yao, 2016b; Obrist et al., 2018; Bindoff et
+
+al., 2019; Collins et al., 2019):
+
+· Changes in temperature were highlighted above to affect partitioning of chemicals between phases
+
+in environmental compartments (air, water, soil, vegetation), through an increase in vapor pressure
+
+of volatile compounds with increasing temperature. A shift towards higher gaseous fractions and
+
+increased concentrations in water make hazardous chemicals more available for long-range transport.
+
+Furthermore, a higher temperature of surface water may increase the presence of particulate organic
+
+matter which can associate with hazardous chemicals, thereby leading to a reduction of freely
+
+dissolved water concentrations and increased transfers to sediments, which will have implications
+
+for long-range water transport.
+
+· Changes in atmospheric circulation and ocean currents have already, and will continue to, impact
+
+on the global transport of POPs and other volatile and water-soluble chemicals and plastic pollution.
+
+The effectiveness of airborne transport of volatile compounds is determined by a number of factors
+
+including wind speed and direction; degradation; dry and wet removal from air by deposition of
+
+gases and aerosols, and rate of volatilization as a function of temperature. Increased wind speeds
+
+as a result of climate change can lead to faster and more distant transport of chemicals to locations
+
+away from current primary and secondary sources.
+
+· It has been suggested that climate change will have high impacts on mercury cycling, linked to
+
+changes in ecosystem function; global atmospheric and ocean circulation; changes to vegetation
+
+cover and atmospheric oxidants; and enhanced air­seawater exchange.
+
+· Increased rainfall and other precipitation can result in deposition of volatile chemicals from air to
+
+surface, whereas low or no precipitation can support airborne transport.
+
+· Increased frequency and/or intensity of extreme weather events, including storms, floods and forest
+
+fires as a consequence of global warming, as well as sea level rise and sea level events, can result
+
+in remobilization and subsequent bioavailability of hazardous chemicals. Flooding events have the
+
+potential to contribute to re-emission and transport of chemicals from sediments and agricultural soils.
+
+· Altered migration patterns of contaminated species (e.g., fish and seabirds) may result in long-range
+
+transport of hazardous chemicals.
+
+
+
+BOX 1: CLIMATE CHANGE, EXPOSURE ROUTES AND TOXICOLOGICAL AND ECOTOXICOLOGICAL EFFECTS OF EXPOSURE FOR WILDLIFE AND HUMANS IN THE ARCTIC REGIONS
+Climate change can alter exposure routes and toxicological/ecotoxicological impacts of chemicals on humans and wildlife. Examples of such interlinkages, relevant to the Arctic regions, include (UNEP/ AMAP, 2011; Stern et al., 2012; AMAP, 2019; IPBES, 2019; Meredith et al., 2019):
+· Changes to aquatic and terrestrial food-chain structures can lead to biomagnification of hazardous chemicals in ecosystems. An example here is in Arctic environments, where climate change is likely to increase species diversity and the geographical distribution of existing species. Together these factors increase food-chain length, which in turn results in greater mercury bioaccumulation within predatory species. Such impacts have already been witnessed in marine mammals that rely on sea-ice, such as beluga whales and seals, with changes in their habitat choices and food sources affecting dietary mercury intake.
+· Toxicity of air pollutants and pesticides and absorption by animals and humans can be increased at higher temperatures. Toxicity increases with increased temperatures have been observed for toxins across a wide range of species, including: dieldrin in freshwater darters, atrazine in catfish, endosulfan in freshwater fish, and endosulfan in bollworms. Changes in absorption mechanism is demonstrated by one study, which considered PCB biotransformation in rainbow trout. This study found that in higher water temperatures, rainbow trout biotransformed a greater amount of absorbed PCB to hydroxylated PCB metabolites, which has greater toxicity.
+· Increased temperatures impact the ability of animals and humans to cope with toxicity, through changing metabolism and excretion processes. Temperature increases may initially increase metabolic removal and excretion of toxins; however, further temperature increases have been found to induce metabolic stress, which leads to greater toxin accumulation. Studies have noted these impacts in fish, such as Arctic char, where temperature linked metabolic stress results in enhanced mercury bioaccumulation. Temperature increases also impact overall growth rates and food intake requirements, which in turn impacts toxin bioaccumulation. An example is lake trout which grow less efficiently in higher temperatures, which is likely to result in greater bioaccumulation over the trout's lifetime. Similarly, a study has found that POP levels in common eiders is linked to temperature, with POP levels likely increasing during periods where greater food consumption and hence greater bioaccumulation occur.
+· Suppressed immune systems in chemically compromised bodies are more susceptible to the effects of climate change such as extreme temperatures, severe storms, polluted water and food shortages, as well as stresses and diseases. Immunosuppression is caused by various hazardous chemicals across a wide range of species. For example, PCB and mercury exposure has been linked to reduced immune responses in humans, polar bears, beluga whales, seals and sled dogs. POPs and mercury have also been shown to suppress immune systems in fish.
+· Changes in social and migratory behavior of animals due to changing sea-ice regimes or temperature regimes can affect dietary exposure to hazardous chemicals and pathogens: As noted above, changes in habitat choices and food sources have been linked to changes in mercury intake for sea-ice dependent mammals, such as beluga whales and seals. Changes in polar bear POP levels have been noted as their food sources have shifted from ice-bound seal species to open-water seal species, while changes in black-legged kittiwake mercury exposure has been linked to Arctic cod consumption, which is closely linked to sea-ice levels.
+
+
+
+2.3 IMPACTS OF CLIMATE CHANGE ON INFRASTRUCTURE AND OPERATIONS
+
+The impacts of climate change, including extreme temperatures, increased sea levels and sea level events,
+
+flooding, heavy rainfall (leading to landslides) and development of conditions conducive to increased fires
+
+have the potential to disrupt various classes of infrastructure that can in turn result in releases of hazardous
+
+chemicals into the environment. Examples here include waste management activities and chemicals
+
+production plants, storage facilities and transport infrastructure such as pipelines, containers and ships
+
+(see Table 1). The extent of impact does, however, depend on the levels of appropriate adaptation actions
+
+that are undertaken, and the extent to which such potential impacts are incorporated into design of such
+
+infrastructure (IPCC, 2014c). It is recognized that infrastructure design is often based on past experience, and
+
+many existing installations, constructed in the past, may not have addressed climate change issues. Climate
+
+change is a new phenomenon with significant future uncertainty, . Thus, aside from issues of inadequate
+
+or poor design and construction based on existing data, there is also the problem of adequately designed
+
+installations that had not consider the events and uncertainty that climate change introduces.
+
+2.3.1 DISRUPTION OF LANDFILL SITES AND OTHER WASTE MANAGEMENT INFRASTRUCTURE AND OPERATIONS
+
+Historically, landfill sites were often located within flood plains and low-lying coastal areas where land was cheaper due to flood risks, with one study suggesting that there are many hundreds of thousands of such landfills in such areas globally (Brand et al., 2018). Rising sea levels and flooding have the potential to erode and physically disrupt both general and hazardous landfill sites, which could result in release of wastes previously contained in these sites into the environment. Increased releases are as a combination of both leaching and erosion, although the latter has been suggested to be more significant of a threat than the former (Brand and Spencer, 2020). The challenge of avoiding releases from historical landfills is compounded by the fact that they were often poorly constructed with inadequate or no linings and leachate management systems, and have limited records on the types of wastes that were disposed of therein. These challenges still apply in many parts of the developing world (Brand et al., 2018; O'Shea, Cundy and Spencer, 2018).
+Floods, heatwaves, droughts, windstorms and fires also all have the potential to damage waste management infrastructure and equipment other than landfills, as well as supporting infrastructure such as that required for power supply. Daily waste collection and processing activities could also be interrupted by extreme weather events (IPCC, 2014b; Dawson et al., 2018), including management of hazardous waste during such events.
+
+2.3.2 FLOODING AND DISRUPTION OF MINES AND TAILINGS DAMS
+
+Mining operations often dispose of process wastes in dumps and tailings dams. If these are properly planned, designed, constructed and managed both during operation and post-closure, releases of hazardous chemicals into the environment can be limited. If not, however, flooding, heavy rain and snow falls, landslides, and other events which may increase in frequency and intensity as a result of climate change, have the potential to disrupt this infrastructure, releasing heavy metals and other chemicals (Odell, Bebbington and Frey, 2018). Similarly, droughts can dry out tailings dams, allowing for increased transport of hazardous particulates by wind. Transport in water and air can occur over long distances, including across national boundaries.
+As with landfill sites, dumps and tailings dams may historically not have been properly constructed, and still today in parts of the world insufficient provision is made to put infrastructure in place to ensure environmental protection, putting such installations at increased risks due to the impacts of climate change (UNECE, 2014). A further consideration relates to mining operations themselves that have not been properly remediated after mining has ceased. Water that enters into abandoned mining operations potentially leaches out hazardous chemicals, due to formation of acid mine drainage (AMD). When the mines are full, AMD can decant into the environment, impacting negatively on natural systems and infrastructure. The potential for generation of AMD will increase in areas where rainfall increases as a result of climate change, but will drop in areas where rainfall decreases (ICMM, 2013).
+Countries like Papua New Guinea are using Deep Sea Tailings Disposal (DSTP) to dispose of mining wastes into the ocean (Vare et al., 2018)k. Research on these practices is limited, and there would be value in understanding how climate change can impact the viability of DSTP as an environmentally sound disposal method.
+
+
+
+2.3.3 IMPACTS ON WASTEWATER TREATMENT SYSTEMS
+Climate change and extreme weather events have the potential to impact domestic and industrial wastewater treatment systems in a number of ways, with examples of such impacts already having been observed around the world (Kirchhoff and Watson, 2019). Flooding, fires and extreme weather events can damage wastewater treatment plant infrastructure. Droughts and fluctuating moisture contents in shrink-swell soils such as clays can cause cracking of sewer systems, and higher temperatures and droughts can result in increased pollutant concentrations, longer retention times, and sedimentation of solids, which in turn may increase corrosion of sewers. Increased rainfall can add to the load on wastewater treatment plants and sewer systems as stormwater penetrates these systems, causing overflows of untreated effluent into water bodies. Sea level rise can result in the increased salinity load on wastewater treatment systems (IPCC, 2014b; Dawson et al., 2016; Kirchhoff and Watson, 2019).
+2.3.4 IMPACTS ON CHEMICALS AND ASSOCIATED FACILITIES
+Natural events are already recognized as an important contributor to incidents at industrial facilities, including production plants and storage areas. The so-called "natural hazard triggering technological" ("NaTech") risks, whereby environmental disasters such as floods or earthquakes trigger major accidents at industrial sites or other technological facilities, can be aggravated by increased frequency and intensity of extreme weather events due to climate change. These accidents place significant pressure on emergency response services, governments, businesses, industry and communities, both within and across country borders. An interrogation of industrial accident databases indicated that up to 5% of industrial accidents that impact facilities that process or store hazardous substances were triggered by natural events (Krausmann et al., 2011). Hurricane Harvey, which hit the United States coast near Houston, Texas, in August 2017 resulted in multiple leaks and industrial spills, polluting the local environment (Kiaghadi and Rifai, 2019). The extreme rainfalls experienced have been directly attributed to global warming (Van Oldenborgh et al., 2017). A further study identified 872 highly hazardous chemical facilities as being located within 50 miles of the hurricane-prone U.S. Gulf Coast alone, with approximately 4,374,000 people, 1,717 schools, and 98 medical facilities being within 1.5 miles of these facilities. As natural disasters become more severe and extreme weather events become more frequent, the public and environmental health risks of disruptions to these facilities grows (Anenberg and Kalman, 2019). A recent oil spill into in Siberia which resulted from collapse of a storage tank has been suggested to have occurred as a result of the thawing permafrost in the area10.
+
+Chapter 2 Impacts of climate change on the release, fate and transport of hazardous chemicals
+
+RELEASES FROM CHEMICALS PRODUCTION AND USE
+
+CHAPTER 3 Releases from chemicals production and use
+
+3 RELEASES FROM CHEMICALS PRODUCTION AND USE
+The global chemicals is inextricably linked to the entry of hazardous chemicals into the environment. It is also an important contributor to GHG emissions, being the single biggest industrial user of fossil fuels for both energy and feedstock purposes. It thus has an important role to play in contributing to meeting of the Paris Agreement, through both uptake of renewable energy alternatives and changes to chemicals processes and products. The organizational and institutional structure of the chemicals industry, which is currently highly integrated with and completely dependent upon the oil and gas industries, must be addressed as a fundamental issue to manage the range of environmental problems, ranging from air and water pollution to GHG emissions throughout the value chain. To this end, circular economy thinking (Box 2), Life Cycle Thinking (LCT) and Life Cycle Assessment (LCA) all offer opportunities for understanding the systemic nature of impacts associated with provision of products and services, thereby identifying opportunities for reducing these impacts.
+BOX 2: THE ROLE OF CIRCULAR ECONOMY THINKING IN ADDRESSING GHG AND HAZARDOUS CHEMICALS RELEASES
+The circular economy refers to an economic system which deviates from the current linear take-makewaste industrial model (Ellen Macarthur Foundation, 2019. The concept is based on three principles, being:
+· Designing out waste and pollution through designing for circularity, eliminating waste and substituting materials;
+· Reusing products and recirculating materials to retain the embodied energy; and · Regeneration of agricultural systems.
+Circular economy approaches can make substantive contributions to both reducing GHG emissions and achieving climate targets, and to reducing releases of hazardous chemicals, through transforming the way goods are produced and used (Ellen Macarthur Foundation, 2019). For example, the textile industry is responsible for 1.2 billion tonnes of CO2e (in 2015), approximately 2% of the global carbon budget, discharges high volumes of hazardous chemicals into the environment, accounting for 20% of global industrial water pollution, and is a major contributor to ocean plastic (Ellen MacArthur Foundation, 2017). Based on circular economy principles, there are several actions the textile industry could implement to reduce emissions and harmful waste products:
+· Phase out harmful substances and microfibre releases, · Increase clothing utilisation, · Increase recycling, and · Make effective use of resources and move to renewable inputs.
+These actions could be achieved through the adoption of technologies that capture microfibres when released unavoidably (phase out harmful substances and microfibre releases), scale-up short-term clothing rental (increase clothing utilisation), design and develop clothing and recycling technologies to be compatible (increase recycling) and move to renewable feedstocks from plastic-based fibres (make effective use of resources and move to renewable inputs) (Ellen MacArthur Foundation, 2017).
+Through these actions, in addition to reduction of GHGs; the circular economy can achieve additional environmental and social benefits. These can include, but are not limited to, increased access to goods, increased mobility and connectivity and reduced air pollution and biodiversity loss. In addition, it can address resource scarcity, waste and pollution. Consequently, the circular economy has the potential to help achieve several UN Sustainable Development Goals (SDGs), contributing to at least 12 of 17 SDGs (mainly SDG 12 ­ responsible consumption and production) (Ellen Macarthur Foundation, 2019).
+Other examples where circular economy thinking might be relevant to this current study include developing lighter, cheaper, more readily available and recyclable batteries, bioplastic derived from sugarcane combined with recycling and amino acid-enriched animal feed which results in a lower requirement for raw feed material and arable land (ICCA, 2019).
+
+CHAPTER 3 Releases from chemicals production and use
+
+3
+LCT and LCA frameworks and tools are used to assess a product, process or service across all of the stages in its Life Cycle, from extraction of raw materials to processing, manufacturing, distribution, use, and recycling or final disposal. Furthermore, LCA allows for the quantification of a range of environmental impacts rather than focusing on a particular issue11. LCA has already been extensively applied to the chemicals sector towards improving environmental and economic performance as evidenced in the review articles produced by Santos, Barbosa-Póvoa and Carvalho (2019) and Fantke et al. (2020). Applying an LCT/LCA perspective to assessing the contribution of the chemicals sector to GHG emissions and hazardous chemicals releases (Figure 3) begins by considering the supply of raw materials inputs. Many of the inputs for chemicals production originate from the mining and minerals processing sector, including mercury, asbestos, lead, coal and fluorite for production of fluorine. Mining is energy intensive, requiring inputs of liquid fuels (largely diesel) and electricity, which lead to GHG emissions, mostly carbon dioxide. Energy consumption for mining and quarrying represents about 2.7% of global industrial energy use. There are substantial variations in regional contributions, with the sector representing 80% of total consumption in Namibia and Botswana and 50% in Chile (IPCC, 2014a). Coal mining is associated with methane emissions from coal seams. These occur in active, as well as in closed mines. Technologies are available, but not consistently deployed, to manage both. Mining and minerals processing has also long been responsible for releases of hazardous chemicals, notably heavy metals, from byproducts, wastes and abandoned sites. Mercury releases to terrestrial and freshwater environments from artisanal and small-scale gold mining were about 1,220 tonnes in 2015 (UNEP, 2019c).
+
+Mercury, lead and other metals are further refined via pyrometallurgical processing, which requires further fossil inputs, giving rise to GHGs, and also results in generation of GHG emissions due to chemical reactions. Heavy metals are present in solid and liquid waste streams and air emissions from these processes, as are POPs produced through products of incomplete combustion.
+
+Natural gas is the most widely used energy feedstock in the chemicals sector, followed by coal (IEA, 2020). Gas and coal not only provide energy sources for chemicals production, but also form the basic building blocks for many organic compounds, including compounds classed as hazardous chemicals. Leaks of natural gas, largely methane, occur along the gas supply chain, contribute to GHG emissions from the sector. Estimates suggest that between 1 and 5% of the total gas that is produced globally is lost as fugitive emissions along the supply chain (IPCC, 2014a). Abandoned gas wells are a significant further source of emissions from the natural gas sector (Boothroyd et al., 2016; Riddick et al., 2020).
+
+During chemicals manufacture, GHG and hazardous chemicals emissions arise directly from combustion of fossil fuels (coal, gas, liquid fuels), from electricity that is supplied from fossil fuels, from non-energy uses of fossil fuels (i.e. fossil fuels used as chemical feedstocks) and as by-products of chemical reactions.
+
+The chemicals sector contributed 15% of global industrial sector GHG emissions in 2010, a total of
+
+approximately 10 Gt CO2e (Figure 4), while the industrial sector contributed 21% to global emissions in that
+
+year (Figure 5). Direct CO2 emissions from primary chemical production12, including energy and process
+
+emissions, were 880 Mt CO2 in 2018. Of these emissions, 622 Mt CO2 were associated with ammonia and
+
+methanol production. The remaining 258 Mt CO2 was from production of high value chemicals, which are
+
+used directly or are further processed or used to produce other products (IEA, 2020).
+
+FIGURE 5: BREAKDOWN OF CONTRIBUTORS BY ECONOMIC SECTOR TO GHG EMISSIONS IN SOURCE: (IPCC, 2014a)
+Whilst the discussion above focuses broadly on chemicals manufacturing, individual chemical processes, operating conditions, products and feedstock choices result in different GHG (as shown in Figure 6) and hazardous chemicals emission profiles. Examples include the following. Chlorine, a key input for the production of chlorinated organic products, including a number of the hazardous chemicals covered under the different conventions, is produced via electrolysis of brine solutions which is electricity intensive. Processes for producing vinyl chloride monomer have historically been coal-based and use mercury catalysts. In chlor-alkali production, the mercury cell process is one of three production methods, and represents both a potential source of mercury releases into the environment and a high user of electricity.
+Some of the chemical products from primary chemicals production are used directly, while others are sent for further downstream processing and manufacture. In downstream industries, chemicals are used to produce plastics (discussed further below), textiles, electronics, furniture, mattresses and a wide range of other products. During processing and manufacture, GHG releases will be linked energy consumption, and there is potential for release of hazardous chemicals which many also have high Global Warming Potentials (GWP)13 from processes. The use phase of products gives rise to further releases of hazardous and high GWP chemicals. Pesticides enter the environment directly through application on land (Section 2.1). Hydrofluorocarbons (HFCs) and perfluorocarbons (PFCs), which can be both toxic and have high GWPs, are used in the electronics industry for plasma etching of silicon containing materials in microelectronic and semiconductor manufacturing and cleaning of tools where silicon has been deposited by chemical vapor deposition (CVD) (IPCC, 2006b). HFCs, PFCs and fluorinated ethers (HFEs) are also used in a number of other sectors (Table 2) (IPCC, 2006c):
+· Refrigeration and air-conditioning; · Fire suppression and explosion protection; · Aerosol propellants and solvents; · Solvent cleaning; · Foam blowing; · Sterilization equipment; and · Solvents for adhesive, coating and ink manufacture.
+13 GWP is a metric developed to allow for comparisons of the global warming impacts of different gases. The GWP reflects how much energy the emissions of 1 ton of a gas will absorb over a given period of time, relative to the emissions of 1 ton of carbon dioxide (CO2). GWPs are presented for different time periods, for example 25 year or 100-year periods, which takes into account the longevity of the gas in the atmosphere.
+
+CHAPTER 3 Releases from chemicals production and use
+
+Release of compounds in certain applications is almost instantaneous (e.g. aerosol propellants, tracer research, magnesium manufacture), or instantaneous releases occur due to leakage during processing (e.g. solvent etching, solvent cleaning) (IPCC, 2006c, 2006b). In other applications (e.g. foam blowing, refrigeration), releases can be short term, or occur over multiple years. Finally, in applications such as fire suppression and refrigeration systems there can be long-term storage or "banking" of compounds. Here, compounds may be stockpiled for multiple decades, resulting in phased-out compounds being present for years after they are no longer produced or used. Compounds in these banks will slowly leak into the atmosphere (as described in Chapter 2) and may eventually be released in large quantities due to system activation (e.g. fire suppression system activation) or product end-of-life (e.g. scrapping of equipment). However, such banks can be effectively managed through incineration or other treatment routes.
+
+
+In addition to direct releases in the use phase, chemicals incorporated into manufactured products can also enter the environment. Flame retardants, including a range of halogenated compounds, are commonly used in mattresses and textiles used in furnishings, aircraft and vehicles. These have been shown to volatilise during the use phase, with releases increasing as a function of temperature, suggesting that temperature increases linked to climate change could play a role in increasing these emissions (Oz et al., 2019).
+Emissions from the end of life phase of chemicals are discussed in Chapter 4. Finally, GHG and hazardous chemicals that are associated with the chemical life cycle include those from road, rail and maritime transport at all steps in the value chain.
+The case of GHG emissions from plastics is used to illustrate the application of LCT to the chemicals sector, given the growing importance of this environmental issue, and its relevance to the different conventions covered by this study. Impacts of plastic waste on the oceans is a headline environmental issue, with increasing recognition of plastics' impacts on freshwater and terrestrial ecosystems, and even on human health. The impact of plastics on climate change has been less recognised, although recent studies have served to highlight the importance of looking at the climate impact of plastics over their life cycle, especially when taken in the context of the projected growth of the sector. If plastics continue their current growth trajectory, annual emissions across the plastics life cycle are predicted to reach 2.8 to 6.5 Gt CO2e by 2050; some 10 to 15% of the global carbon budget (CIEL, 2019a; Zheng and Suh, 2019; Shen et al., 2020).
+GHGs are emitted at every stage of the plastics life cycle. The production of resins accounts for the largest share (see Figure 7). Resin production consists of the extraction and transport of fossil fuels, followed by refining (cracking of alkanes into olefins), and the polymerisation and plasticisation of olefins into plastic resins. Some 108 Mt CO2e per year are attributable to the extraction and refining of oil for plastic production, with a further 9.5 to 10.5 Mt CO2e estimated for production of plastic feedstocks in the US (from fracked gas) (CIEL, 2019b). Sources of greenhouse gas emissions include methane leakage and flaring, emissions from fuel combustion from energy consumed in the processes of drilling, refining and other chemical processes, and emissions caused by land clearing for wellpads and the laying of pipelines. In 2015, emissions from cracking to produce ethylene were around 200 Mt CO2e, equivalent to 45 million passenger vehicles driven for one year. These emissions are set to rise dramatically, with more than 300 new petrochemical
+
+CHAPTER 3 Releases from chemicals production and use
+
+plants being built in the US alone, primarily for the production of plastics and plastic feedstocks (CIEL, 2019b). Converting plastic resins into plastic products contributes the next largest share of greenhouse gas emissions, due to the large amount of energy consumed in these manufacturing processes (see Figure 7).
+
+Managing plastics at end-of-life contributes around 10% to the life cycle GHG emissions of plastics.
+
+Incineration accounts for the largest share, followed by recycling and landfill (Figure 7). Plastic products
+
+made from recycled plastics have lower GHG emissions over their life cycle. Including the avoided
+
+virgin polymer production (i.e. providing the associated carbon credits to recycling) decreases the
+
+estimate life cycle emissions from the end-of-life management of plastics in 2015 from 161 MtCO2e to 45 MtCO2e (Zheng and Suh, 2019).
+
+Incineration of plastic waste is set to grow dramatically in the coming decades, with emissions
+
+from the incineration of plastic packaging - which account for 40% of plastic demand - estimated
+
+at 16 Mt CO2e in 2015 (CIEL, 2019b). Furthermore, emissions from unmanaged plastic waste, that is, plastics that are littered or burnt in open dumps, are most often missed in GHG assessments of
+
+plastics. To the order of 2.9 tonnes of GHG are released for every million tonnes of plastic burnt (the
+
+same amount as when plastics are incinerated without offsets for energy recovery) (CIEL, 2019b).
+
+Recent research suggests that plastic that ends up in the natural environment will continue to have
+
+climate impacts as it degrades. Plastic at the ocean's surface continually release methane and other GHGs, with emissions increasing as the plastic breaks down further. Plastics on coastlines,
+
+riverbanks and in other terrestrial environments were also found to release GHGs, at a higher rate
+
+than plastics in the ocean (Royer et al., 2018). But far more concerning still is emerging evidence
+
+that microplastics in the marine environment may interfere with the ocean's capacity to absorb
+
+and sequester carbon. Although this has to date only been demonstrated at the laboratory scale,
+
+microplastics are thought to reduce the ability of phytoplankton to fix carbon, as well as affect the
+
+metabolic rates and reproductive success of zooplankton (responsible for transferring carbon to
+
+the deep ocean) (CIEL, 2019a; Shen et al., 2020).
+
+Mitigation strategies include a switch to bio-based plastics, where biomass feedstocks, such as corn and sugarcane, substitute the fossil fuels currently used to produce plastics. Whilst bio-based plastics offer a potential solution for mitigating the GHG emissions associated with fossil fuel extraction, it needs to be recognised that these systems have environmental and socio-economic impacts of their own, including an increase in the demand for arable land, water and agrochemicals to grow the feedstocks. Furthermore, emissions from downstream processes in many cases remain unchanged regardless of the primary feedstocks used in production. Increased use of renewable energy in the energy mix of the plastics supply chain will also mitigate GHG emissions in resin production and plastics conversion to a degree (although it will not mitigate process emissions). Increased recycling is the strategy most widely promoted for mitigating GHG emissions at end-of-life, recognising the need for controlling recycling of plastics containing hazardous constituents. Certain plastics, including older plastics and those used in electronics, may contain toxic organic and inorganic additives, which can be released at all stages of the plastics lifecycle, including during recycling, or be introduced into the recycled material (Hahladakis et al., 2018).
+
+However, waste management strategies alone will not be effective in reducing plastic waste impacts (Borrelle et al., 2020; Lau et al., 2020). A common thread in recent analyses is that aggressive and immediate implementation of multi-layered strategies and regulations are required, including those with a focus on reducing plastics production (CIEL, 2019a; Zheng and Suh, 2019; Shen et al., 2020).
+
+4 WASTE MANAGEMENT AND CLIMATE CHANGE
+The waste sector is linked to releases of both hazardous chemicals and GHGs in a number of ways. Plastics waste has been discussed in Chapter 3, where it was highlighted that end-of-life management of plastics contributes around 10% to the life cycle GHG emissions of plastics, or 161 MtCO2e of emissions in 2015, from incineration, recycling and landfill. Plastic that is not properly managed at end-of-life can also have negative impacts on land and terrestrial ecosystems. Reducing volumes of plastic waste in circulation, and proper end of life management, including disposal, are thus required to minimise the multiple impacts. In recognition of the global importance of the plastics waste issue, a plastic waste partnership was established under the Basel Convention in late 2019 to mobilise action towards preventing and minimising generation thereof14.
+Waste Electrical and Electronic Equipment (WEEE) products contain lead, mercury and other metals, flame retardants and certain phthalates, that may be released into the natural environment during end of life management, particularly if the wastes are not processed or disposed of properly. Open burning presents a particular concern in this regard. In addition to being hazardous, many flame retardants used in electrical and electronic equipment have high GWPs. A total of 53.6 Mt, or an equivalent of 7.3 kilogram per capita, of e-waste is estimated to have been generated annually in 2019, up from 44.4 Mt in 2014. This figure is projected to rise to 74.7 Mt total, and 9 kg per capita, by 2030 (Forti et al., 2020), although estimates do vary between reference sources. A new partnership has been formed under the Basel Convention to support action on computing equipment15. Linked to this issue, discarded refrigeration and air conditioning equipment that is not managed properly can release high GWP refrigerants into the atmosphere.
+Household wastes are identified as being relevant to this study, with hazardous chemicals releases and GHG emissions being dependent on the options used in their management16. When consigned to landfill, there is potential for degradation of the organic constituents of household waste to form methane, a high GWP GHG. GHG emissions from the waste sector (including waste and wastewater) contributed to the order of 2.9% in 2010, or 1.4 GtCO2eq. Management of hazardous health care wastes represents a major challenge in many parts of the world, if facilities are not available for proper disposal. BAT for health care wastes includes incineration, which produces CO2 emissions, although if coupled with energy recovery it can be used to offset fossil fuels demand. Box 3 illustrates considerations related to medical waste in the context of the Covid-19 pandemic.
+For many waste streams Environmentally Sound Management practices have been developed under the Basel Convention, with Technical Guidelines having been produced on topics such as management of plastic17, mercury18 and POP19 wastes and on specially engineered landfills and incineration on land20.
+
+BOX 3: IMPLICATIONS OF COVID-19 PANDEMIC FOR SOLID WASTE GENERATION
+
+The Covid-19 pandemic has led to a dramatic increase in the demand for single use plastics (and other materials) as personal protective equipment (PPE) in both the healthcare sector as well as by individuals. While reusable textile masks are being encouraged for the general population, the demand for single use PPE by hospitals and healthcare facilities is still staggering: the WHO estimates that the monthly demand for single use masks is 89 million with a further 79 million examination gloves and 1.6 million goggles also required. To meet this demand requires a 40% increase in global production of PPE21. It is recognized that over time, however, innovative options are evolving to allow for reuse and recycling of PPE.
+
+In some countries, the pandemic has also seen the stalling or even reversal of policies limiting the use of other single use plastic products, such as plastic grocery bags. Even though experts have tried to placate the public regarding the relatively low risks of Covid-19 transmission through single use items, the trend continues. There has also been a marked increase in demand for other household and medical products including cleaning chemicals and disinfectants, hand sanitizers, wipes and thermometers.
+
+One of the climate change implications of increased demand for single used plastics and PPE is linked to GHG emissions released during production. GHG emissions from plastics production are discussed in Chapter 3. Production of other single use items will have similar energy and material inputs that give rise to GHGs. UNEP is committed to working with countries to maximize the circularity of their medical sectors and thus reducing demand for single use items. However, the challenge is keeping these environmental priorities in the forefront in an emergency situation where the focus has necessarily shifted to reducing the spread of the virus.
+
+In addition to an increased demand for certain materials, the pandemic has also resulted in the
+
+concurrent generation of infectious, sharps, chemicals and other healthcare-related wastes including
+
+PPE, which in turn has given rise to mounting waste management challenges due to the volumes and
+
+rate of generation. The challenges include the risk of an overwhelmed waste management sector,
+
+which can lead to open dumping and the open burning or uncontrolled incineration of wastes. Open
+
+dumping of infectious material can cause a public health risk, while inefficient burning and incineration
+
+can release toxic emissions such as dioxins. A further challenge is the contamination of recyclable
+
+streams with used PPE or other infectious materials or the decrease in source separation behavior,
+
+which further puts strain on waste management systems.
+
+Although challenging, it is important that the end-of-life treatment of wastes follows best practice guidance to avoid impacts on both human health and the environment, utilizing best available technologies (BAT) for their management. BAT/BEP at the national level can be identified through Sustainability Assessment of Technologies (SAT). The GHG implications and potential for hazardous chemicals releases for different waste management technology choices are explored in Table 3. Source separation of wastes is a critical component of the Covid-19 response to minimize cross-contamination of different waste streams.
+
+Various guidance documents have been developed on waste management under the Covid-19 pandemic, including under the Basel Convention22 and UNEP23.
+
+The preferred technologies and process routes for treating different waste streams depend on factors including compatibility between technology and waste type; local applicability and availability of the technology; cost; and public acceptability. Table 3 presents a summary of waste management options, waste streams to which the different options are suited, potential for generation or savings of emissions from these options, and potential for releases of hazardous chemicals. A breakdown of the percentage of waste treated via different disposal routes is shown in Figure 8, noting that there are significant differences between regions and between developed and developing countries.
+Clearly the avoidance of waste is the best option for avoiding emissions of both GHGs and hazardous chemicals from the waste sector, and SDG 12 calls for substantial reduction of waste generation through prevention, reduction, recycling and reuse. The United Nations Framework Classification for Resources (UNFC) developed by UNECE and implemented in the European Union, African Union and many countries worldwide provides a framework for sustainable development of resources, which focuses on minimization of wastes (UNECE, 2018).
+
+
+Technology category
+Waste collection, transport and shipping/ transboundary movement
+Landfill The requirements for lining, construction, operation and management of the landfill site depend on the type of waste being deposited, with hazardous waste landfill requirements being more stringent than those for municipal wastes.
+Incineration, including mass-burn incineration of waste, with and without energy recovery (as electricity only and combined heat and power - CHP), refusederived fuel combustion and pyrolysis and gasification.
+
+Applicability
+
+Potential for generation or savings of GHG emissions*
+
+Potential for releases of hazardous chemicals
+
+All waste streams
+
+Generation: Waste collection vehicles typically run on fossil fuels, which give rise to CO2 Savings: Fuel and emissions savings can be achieved through smart routing of collection vehicles, use of transfer stations for long range transport and use of waste collection vehicles that run on clean fuels.
+
+Transport vehicles are a recognised source of POPs
+
+MSW, toxic, poisonous, plastics Not suited to: Flammable, explosive
+
+Generation: Methane is generated in landfills through anaerobic decomposition of biodegradable waste constituents (mainly paper and food and garden wastes ­ the latter known collectively as putrescible waste). In well-managed sites methane may be captured (landfill gas capture) and either flared or used for electricity generation ­ converting it back into CO2. CO2 released from landfill sites is considered biogenic carbon (IPCC, 2006a). Savings: Recovery of energy from landfills can also offset fossil fuel requirements for power generation. Some slowly degrading carbon is locked up into landfill sites.
+
+If landfills are not properly lined and covered and leachates are not captured and treated properly, there is potential for mobilisation and release of hazardous chemical constituents of the wastes into the environment (Weber et al., 2011; UNEP, 2013b).
+
+MSW, infectious, certain chemicals, plastics, sewage sludge, waste wood, biomass Not suited to: Wastes without an organic component, wastes with high levels of mercury and other heavy metals
+
+Generation: Emissions of fossil-derived CO2 from the combustion of plastics and some textiles (Shen et al., 2020) Emissions of methane and nitrous oxide (IPCC, 2006a). CO2 emissions from combustion of biological wastes are considered biogenic (IPCC, 2006a). Savings: Incineration with energy recovery can offset fossil fuel usage and the associated emissions.
+
+Potential for generation of dioxins and furans with release in waste gases, fly ash, bottom ash. Toxic metals contained in the waste stream will report to fly ash or bottom ash (UNEP, 2008, 2013b). Waste gases from incineration may also contain metals such as mercury or lead.
+
+CHAPTER 4 Waste management and climate change
+
+Technology category
+
+Applicability
+
+Co-firing of wastes in cement kilns,
+
+Used tyres, organic
+
+industrial boilers and other high temperature wastes
+
+applications
+
+Composting: Composting produces a bulk-reduced stabilised humus residue of compost that is of sufficient quality to be marketed as a soil conditioner or growing medium in agriculture or horticulture. Options of centralised composting facilities and home composting are possible.
+
+Good quality garden and food wastes that have been segregated at source
+
+Mechanical biological treatment (MBT), where mixed waste is first mechanically separated and then undergoes a prolonged composting or digestion process which reduces the biodegradable materials to an inert, stabilised compost residue. Typically the compost, which cannot be used in agriculture or horticulture because of its poor quality, is then landfilled (Smith et al., 2001; UNEP, 2010).
+
+Bulk MSW, or residual wastes enriched in putrescible materials after the removal of dry recyclables
+
+Anaerobic Digestion (AD) produces a methane-rich biogas and compost product from source separated biological wastes. The biogas is collected and used as a fuel for electricity generation or CHP, while the compost is used in agriculture or horticulture applications. In AD, waste is digested in sealed vessels under anaerobic conditions.
+
+Organic wastes with no toxic constituents
+
+Potential for generation or savings of GHG emissions*
+
+Potential for releases of hazardous chemicals
+
+Generation: CO2 from organic waste is biogenic, while CO2 from the fossil fraction of tyres is not. Emissions of methane and nitrous oxide Savings: Use of wastes for energy in such applications offsets the combustion of fossil fuels and their associated emissions.
+
+Potential for generation of POPs during combustion if equipment is not operated according to strict guidelines. Potential generation from stockpiles. Hazardous metals contained in wastes will be found in final products or ash residues (UNEP, 2008)
+
+Generation: CO2, methane and nitrous oxide can be released during composting. Methane emissions from composting are minimised through ensuring the compost remains aerobic through regular turning. Savings: Use of compost avoids emissions associated with the production and use of fertiliser that it displaces. Some of the carbon in compost is incorporated into stable humus in the soil
+
+Should the feedstock contain hazardous chemicals, these can be leached out during the composting process, or during the use of the compost. However, good quality, uncontaminated organic material which is free of such components should have the lowest potential for containing hazardous chemicals (UNEP, 2013b).
+
+Generation: CO2, methane and nitrous oxide can be released from MBT, depending on how it is managed. However MBT results in a significant reduction in methane forming potential of the final compost in the landfill compared with untreated waste.
+
+Depending on the feedstocks, hazardous chemicals could be contained in the compost or leachate from the process.
+
+Generation: Methane is produced in the anaerobic digester, although if the unit operates efficiently then the methane is captured and combusted, generating CO2. Some potential for leakage nonetheless remains. Nitrous oxide emissions are assumed to be negligible (IPCC, 2006a). Savings: Biogas from AD can offset fossil fuel usage and the associated emissions.
+
+Ideally uncontaminated wastes should be used in AD. However if there is contamination with hazardous chemicals, these will report to either the compost or liquid outputs from the AD.
+
+CHAPTER 4 Waste management and climate change
+
+Technology category
+Recycling of paper, glass, metals, plastics, tyres, textiles and waste electrical and electronic equipment
+
+Applicability
+Any products that can be recovered for either their original use or alternative applications
+
+Potential for generation or savings of GHG emissions*
+
+Potential for releases of hazardous chemicals
+
+Generation: Energy (electricity and liquid fuels) is required as an input to many recycling processes, which gives rise primarily to CO2 emissions. Emissions of halogenated compounds with high global warming potentials from recycling of electrical equipment (for example as refrigerants and insulating foam) Savings: Recycling avoids energy and process GHG emissions associated with producing materials from primary resources (Shen et al., 2020).
+
+Recycling of materials of unknown composition, including older materials containing now banned chemicals, can lead to risks and reintroduce contaminants into recycled products. Releases of halogenated compounds used as refrigerants and insulating foam during recycling. Burning of waste wire and circuit boards during e-waste recycling can give rise to PCDD/PCDF (UNEP, 2013b)
+
+Chemical recycling
+
+Chemicals suited to either open or closed loop recycling
+
+Generation: Energy (electricity and liquid fuels) is required as an input to many recycling processes, which gives rise primarily to CO2 emissions. Chemicals being recycled that have high GWP could be released into the environment during the recycling process. Savings: Recycling avoids energy and process GHG emissions associated with producing chemicals from primary resources
+
+Depending on the process being used, there is the potential for releases of chemicals into the environment. Recycling process may also result in production of residual waste streams.
+
+Open burning of mixed wastes
+
+Not a preferred waste management approach due to lack of control. Used in developing countries with limited formal waste management infrastructure
+
+Generation: CO2, CH4, N2O, and particulate matter given off during combustion. Emissions of methane and nitrous oxide (IPCC, 2006a).
+
+Potential for generation of a wide range of hazardous compounds which may include mercury and dioxins depending on the waste composition, and as a result of incomplete combustion due to lack of control of combustion conditions.
+
+* Biogenic CO2 emissions from waste management activities are not included in waste sector emissions in national greenhouse gas inventories, but are rather included in the Agriculture, Forestry and Other Land Use (AFOLU) sector. Reporting in both sectors would be considered double counting.
+SOURCE: Adapted from (Smith et al., 2001; UNEP, 2010; IPCC, 2019a; Shen et al., 2020)
+
+
+The calculation of emissions of GHGs and hazardous wastes arising from different processing routes depends on the location and wastes being treated. One estimate suggests that 1.6 billion tonnes of CO2e of GHG emissions were generated from solid waste treatment and disposal in 2016, driven primarily by open dumping and disposal in landfills without landfill gas capture systems. This figure represented about 5% of global emissions (Kaza et al., 2018). Johnke et al. (2000) estimates emissions to the order of 0.415 kg of CO2 per kg of waste is released during incineration, the technology used for 22% of the waste treated in high income countries. In low income countries to the order of 92% of waste is dumped (Kaza et al., 2018). At the same time, incineration gave rise to 8.9 to 32.3 tonnes of mercury in emissions in 2015, with other waste sector activities resulting in emissions of 120 to 223 tonnes of mercury in that same year (UNEP, 2019c). Waste fly ash can contain dioxin concentrations of up to 858 ng I-TEQ/kg (Dopico and Gómez, 2015).
+
+
+5 GHG AND HAZARDOUS CHEMICALS MITIGATION
+GHGs and hazardous chemicals, including unintentionally produced POPs and heavy metals, can be released from the same sources. Mitigation options or integrated policy measures for reducing greenhouse gas emissions may therefore also have positive benefits for reducing emissions of hazardous chemicals, and vice versa. However, the opposite also holds true: certain GHG mitigation technologies can give rise to an increase in hazardous chemicals production and/or releases, thus resulting in a trade-off between GHG and hazardous chemicals mitigation. Co-benefits do, however, occur in more situations than do trade-offs (UNEP/AMAP, 2011).
+Fossil heat and power generation, including from coal, fuel oil and natural gas, contributed to the order of 25% of global GHGs in 2010 (IPCC, 2014a). At the same time, combustion of fossil fuels results in emissions of both mercury and other heavy metals and unintentional POPs (Meij and te Winkel, 2007; UNEP, 2013b). Power generation from coal alone contributed 13.1% of total global emissions of mercury in 2015 (UNEP, 2019c). Efficient use of energy across all sectors is often the most cost effective way to reduce the consumption of fossil fuels and hence emissions of GHGs and hazardous chemicals. In fossil fuel energy supply, high efficiency, low emission (HELE) coal-fired power plant technologies offer an alternative to conventional power stations through producing more power per unit of coal. Carbon Capture and Storage (CCUS) is a group mitigation technologies where CO2 from large point sources of emissions, including electricity generation and industrial processes, is captured, compressed and either used in a variety of applications (utilisation) or pumped into underground geologically stable reservoirs (storage), with many of the existing successful installations using deep sea oil and gas mining sites for storage. CCUS requires additional energy inputs of between 10% and 20% depending on the technology and configuration, which, when delivered by fossil fuels, can also result in both GHG production and an increase in heavy metals and hazardous organic compounds reporting to both the solid and the gaseous waste streams from power stations (Vasudevan et al., 2016). There are also concerns about risks associated with stability of underground storage reservoirs used for Carbon Capture and Storage.
+A further transition alternative for mitigation of emissions linked to fossil fuel energy supply is to switch between fossil fuels. Emissions from combustion of natural gas are to the order of 60% of the GHG emissions of coal and 72% of the GHG emissions of fuel oil on a per TJ basis (IPCC, 2006a), recognising, however, that methane emissions from all along the gas supply chain can reduce the life cycle greenhouse gas benefits of gas over coal. Fuel switching can also result in reductions of emissions of polychlorinated dibenzo-pdioxin (PCDD) and polychlorinated dibenzofuran (PCDF): emissions of these compounds from coal are 10 g TEQ/TJ of fossil fuel burned, from fuel oil 2.5 g TEQ/TJ and from gas 0.5 TEQ/TJ (UNEP, 2019d). Despite these benefits of natural gas, it needs to be recognised that a reduction in the global use of natural gas is necessary to achieve the emissions reductions needed to limit global temperature increases (Rogelj et al., 2018). Use of gas is required to peak and then fall to below current levels by 2050, and continue to decline In the second half of the century (IPCC, 2014a). Natural gas may thus only have a role as a bridging fuel from coal to renewables, and investments in gas infrastructure should take this consideration into account.
+In combustion of fossil fuels, BAT/BEP guidelines for fossil fuel-fired utility and industrial boilers to minimize production of POPs propose that boilers be operated at high temperatures and under consistent combustion conditions, including adequate oxygen and mixing, to limit potential for formation of PCDD, PCDF, PCB and hexachlorobenzene (HCB) (UNEP, 2019d). High temperatures and optimised operating conditions have the co-benefits of limiting potential for production of black carbon, particulate matter that contributes to global warming24, and nitrous oxide (N2O), a high GWP GHG. While these and other mitigation options are available to the fossil fuels sector, it is recognised that globally there is a shift away from using fossil fuels towards renewable alternatives, which can achieve far greater positive outcomes in terms of reducing GHG mitigation and hazardous chemicals releases. Having said that, renewable technologies require various inputs from the mining sector, and can be considered hazardous wastes at end-of-life that need to be properly managed, due to inclusion of various heavy metals.
+
+CHAPTER 5 GHG and hazardous chemicals mitigation
+
+Moving to other sources of emissions, polychlorinated biphenyls (PCBs) have historically been used in electrical transformers, capacitors and other applications, with potential for release into the environment when such equipment is damaged or improperly disposed of. Despite production of PCBs having stopped in many countries, legacy installations containing PCBs still exist. Work is underway in many parts of the world, including in developing countries25, to remove and dispose of PCBs in line with BAT/BEP and Environmentally Sound Management (ESM) practices, thereby avoiding unintentional releases into the environment. Replacement of old transformers has the co-benefits of GHG emission savings from electricity supply and distribution as new technologies are more energy efficient than their older counterparts.
+
+Mercury-containing lamps have historically been used in outdoor, industrial and commercial applications and accounted for between 112 and 173 tonnes of mercury consumption in 2015 (AMAP/UNEP, 2019). Replacement of these lamps with more efficient LED lighting will lead to reduced demand for electricity and its associated GHG and hazardous chemicals emissions. It will also reduce demand for mercury and end-of-life disposal requirements for lamps. However, LEDs can potentially contain other heavy metals, including nickel, lead and arsenic, and so should also be properly managed at end-of-life.
+
+Other processes, such as cement kilns, are a source of POPs, heavy metals and GHGs. Cement contributed to the order of 2.7% of direct global GHG emissions in 2010, representing to the order of 13% of industrial sector GHG emissions (Figure 4). At the same time, cement production contributes to the order of 11% of global mercury emissions (UNEP, 2019c). GHG mitigation options in the cement sector include increasing energy efficiency of plants, introducing clinker substitutes for cement production, the use of lower carbon fossil fuels, and use of wastes as fuel inputs. Energy efficiency options have clear synergies between GHG emission and POP reductions. The use of wastes as fuel substitutes can, however, result in increased hazardous chemicals production depending on waste and control measures that are implemented. Following BAT/BEP guidelines for use of wastes as fuels in the cement industry will minimize emissions of POPs, including PCDD, PCDF, PCB and HCB (UNEP, 2019d).
+
+In addition to energy efficiency as discussed above, chemicals sector mitigation measures include process efficiency and replacing fossil fuel feedstocks, such as in the manufacture of ammonia using hydrogen produced from solar power (IEA, 2020). A shift away from fossil fuel inputs will have the synergistic cobenefits of reducing GHG emissions and reduction in unintentional POPs and releases of heavy metals, and reduction in hazardous waste generation. Alternative processes for production of chlor-alkalis are more energy efficient, and those that are used for vinyl chloride monomer (VCM) production which do not use coal and mercury catalysts have lower GHG emissions and reduce mercury demand and releases into the environment.
+
+Incineration is a waste management technology that can be used to destroy POPs, but can also result
+
+in emissions of production of unintentional POPs and heavy metals reporting to flue gases and fly ash, if
+
+not operated properly (see Chapter 4). Incineration also presents a GHG mitigation opportunity, in that it
+
+reduces the methane generation potential of waste that would otherwise be committed to landfill, and when
+
+coupled with energy recovery can offset requirements for fossil fuel energy recovery. Each technology
+
+and installation thus needs to be assessed on a case-by-case basis (UNEP, 2013b). Further aspects of
+
+the relationship between mitigation of GHGs and hazardous chemicals are found in the waste sector, as
+
+discussed in Chapter 4.
+
+Combustion of biomass for generation of electricity and heat is considered as CO2 neutral under many emissions accounting frameworks, although incomplete combustion of biomass can give rise to other GHGs, notably methane and nitrous oxide emissions, and other air pollutants, such as particulate matter, including black carbon. Furthermore, unintentional POPs can be formed during the process of biomass combustion, which report to the gas or solid waste streams along with biomass contaminants such as heavy metals, including mercury. BAT/BEP to reduce PCDD/PCDF emissions include controlling the quality of the fuel through removal of treated woods, non-virgin biomass and other waste, optimizing the combustion technology, and optimizing plant operation including air supply, mixing and residence time (GEF-STAP, 2009; UNEP, 2013b). Following these guidelines can also reduce methane and nitrous oxide GHG emissions.
+
+
+CHAPTER 5 GHG and hazardous chemicals mitigation
+
+Wider considerations that need to be taken into account with respect to use of biomass include the need for sustainable land management practices, and potential impacts of growing biomass energy crops on adaptation potential, food security and preservation of ecosystems and biodiversity (IPCC, 2019b).
+Secondary or recycled steel, copper, aluminium, zinc, and lead products represent a GHG mitigation option in the minerals sector, as secondary materials have lower GHG emissions than those produced via primary metal production. However, there is the potential for production of hazardous compounds, notably PCDD/ PCDF in these processes. BAT/BEP measures can help to minimize unintentionally produced hazardous chemicals from these processes (UNEP, 2019d). Also related to the mining sector, regulation of artisanal and small-scale gold mining can have the co-benefits of reducing emissions associated with deforestation and reduce mercury usage and releases into the environment (Diringer et al., 2019).
+Renovation of older buildings to make them more energy efficient, and hence reduce their GHG footprint, can result in removal of asbestos sheeting which, if not managed and disposed of properly, can be released into the environment.
+Table 4 presents a summary of findings of this Chapter in terms the mitigation opportunities for hazardous chemicals and GHGs, showing whether synergies and trade-offs exist with respect to mitigation.
+
+Parties to the Minamata and Stockholm Conventions have requirements and obligations for preparing chemical inventories, and Parties to the UNFCCC are required to prepare GHG inventories. This Chapter explores the areas of intersection of the different inventory reporting requirements, towards seeking opportunities for harmonisation and alignment of data collection efforts to meet reporting requirements.
+6.1 UNITED NATIONS FRAMEWORK CONVENTION ON CLIMATE CHANGE (UNFCCC)
+Parties to the United Nations Framework Convention on Climate Change (UNFCCC) are required to submit inventories of national GHG emissions by sources and removals by sink. Annex I parties, being industrialised countries and those that were in transition in 1992, must submit GHG inventories annually, and must take on board the outcomes of an annual extensive GHG inventory review process. Non-Annex I parties need only submit GHG inventories as part of their national communications (NCs) and biennial update reports (BURs), but do not have to submit separate stand-alone GHG inventories. The frequency of submission of their NCs and BURs depends on the support of international funds. For non-Annex I Parties, only BURs are subject to technical analysis, limited to transparency and completeness of information submitted, with the scope limited to providing an assessment of information and to identifying capacity building needs. The differentiated requirements for inventory preparation are, however, changing with the Paris Agreement making provision for an enhanced transparency framework whereby all parties are required to report GHG inventories based on common modalities, procedures and guidelines (MPGs) as set out by decision 18/CMA.1, with some flexibility in implementation for those developing country Parties that need flexibility in the light of their capacities and in particular small island developing states. Key elements of the MPGs are described in the table below (UNECE, 2017; UNFCCC, 2018).
+
+Methodologies, parameters and data
+
+Mandatory use of the 2006 IPCC Guidelines, and any subsequent version or refinement of the IPCC guidelines agreed upon by the Conference of the Parties shall be used. Each Party is also encouraged to use the 2013 Supplement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories: Wetlands. (Annex, paragraph 20). Nationally appropriate methodologies may be used if they better reflect national circumstances and are consistent with the above IPCC guidelines (Annex, paragraph 22) Use of country-specific and regional emission factors and activity data is encouraged (Annex II, paragraph 24)
+
+Time series consistency
+
+To ensure time-series consistency, each Party should use the same methods and a consistent approach to underlying activity data and emission factors for each reported year.
+
+Key category analysis
+
+Each Party shall identify key categories for the starting year and the latest reporting year, including and excluding land use, land-use change and forestry (LULUCF) categories, for both level and trend assessment, by implementing a key category analysis consistent with the IPCC guidelines
+
+Uncertainty assessment
+
+Each Party shall quantitatively estimate and qualitatively discuss the uncertainty of the emission and removal estimates for all source and sink categories, including inventory totals, for at least the starting year and the latest reporting year of the inventory time series. Each Party shall also estimate the trend uncertainty of emission and removal estimates for all source and sink categories, by including totals, between the starting year and the latest reporting year of the inventory time series, as provided in accordance with the IPCC guidelines, for both level and trend assessment. Those developing country Parties that need flexibility in the light of their capacities with respect to this provision have the flexibility to instead provide, at a minimum, a qualitative discussion of uncertainty for key categories, using the IPCC guidelines, where quantitative input data are unavailable to quantitatively estimate uncertainties, and are encouraged to provide a quantitative estimate of uncertainty for all source and sink categories of the GHG inventory (Annex, paragraph 29).
+
+
+Requirement*
+To report aggregate emissions and removals of GHGs, expressed in CO2 e.q., the 100-year time-horizon GWP values from the IPCC Fifth Assessment Report, or 100-year time-horizon GWP values from a subsequent IPCC assessment report as agreed upon by the CMA are to be used (Annex, paragraph 37)
+Estimates of emissions and removals are to be reported for all categories, gases and carbon pools considered in the GHG inventory throughout the reported period on a gas- by-gas basis in units of mass at the most disaggregated level (Annex, paragraph 47) Gases to be reported (CO2, methane (CH4), nitrous oxide (N2O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), sulfur hexafluoride (SF6) and nitrogen trifluoride (NF3)) Developing countries needing flexibility in the light of their capacities shall report at least (CO2, CH4 and N2O) as well as any of the additional four gases (HFCs, PFCs, SF6 and NF3) that are included in the Party's Nationally Determined Contribution (NDC), or have been previously reported (Annex, paragraph 48) If reporting HFCs, PFCs, SF6 and NF3, the actual emissions of the gases must be reported, providing disaggregated data by chemical (e.g. HFC-134a) and category in units of mass and in CO2 eq (Annex, paragraph 49) Emissions must be reported for the following sectors: energy, industrial processes and product use, agriculture, LULUCF and waste, in accordance with the IPCC guidelines referred to above (Annex, paragraph 50) Information should be provided on the following precursor gases: carbon monoxide (CO), nitrogen oxides and non-methane volatile organic compounds (NMVOCs), as well as sulfur oxides. (Annex, paragraph 51)
+Each Party shall report a consistent annual time series starting from 1990. Developing country Parties that need flexibility in the light of their capacities have the flexibility to instead report data covering, at a minimum the reference year/ period for a country's NDC under the Paris Agreement together with a consistent annual time series from at least 2020 onwards (Annex, paragraph 57) The latest reporting year shall be no more than two years prior to the submission of the country's national inventory report. For developing country Parties that need flexibility in the light of their capacities, the latest reporting year can be three years prior to the submission of their national inventory report. (Annex, paragraph 58)
+Each Party shall elaborate an inventory QA/QC plan in accordance with the IPCC guidelines and shall implement and provide information on general inventory QC procedures, as well as should apply category-specific QC procedures for key categories and for those individual categories in which significant methodological changes and/or data revisions have occurred. In addition, Parties should implement QA procedures by conducting a basic expert peer review of their inventories in accordance with the IPCC guidelines. (see Annex II, paras 34-36)
+
+* "Shall" language refers to a mandatory reporting element in accordance with the provisions of the MPGs. SOURCE: (UNFCCC, 2018)
+6
+The 2006 IPCC Guidelines for GHG inventory preparation, along with the 2019 Refinement thereof, provide methodological guidance for reporting across all categories of emissions and removals, including energy; industrial processes and product use; agriculture, land use, land use change and forestry; and waste. The guidelines provide three tiers of reporting, which are progressively more demanding in terms of data requirements and analytical complexity.
+· Tier 1 provides for use of default emission factors and other parameters as provided in the IPCC guidelines. It also allows for simplifying assumptions about some carbon pools.
+· Tier 2 generally uses similar methodological approach as Tier 1 but applies country-specific emission factors and other parameters, and a higher level of disaggregation.
+· Tier 3 employs higher-order methods such as country-specific models and direct measurements.
+Uncertainty generally reduces when moving from Tier 1 to Tier 3, providing the data is available to apply the higher tier methodologies. Accordingly, it is good practice to keep enhancing the GHG inventory over time, moving from lower to higher tier estimates. Countries can use different tiers for reporting against different emissions categories and/or regions, within the same inventory, as more data may be available in some categories, and/or regions, than others.
+
+
+The information required for inventory preparation depends on the source/sink category and the reporting tier. In general, however, calculation requires activity data and emissions factors. Examples of activity data include tonnes of coal or fuel burned, tonnes of products produced, waste deposited in landfill or areas of land cleared. Emissions factors are used to convert activity data into GHG emissions, and are expressed as, for example, kg of CO2 per terajoule of fuel burned.
+6.2 STOCKHOLM CONVENTION
+The Stockholm Convention requires "development and maintenance of source inventories and release estimates", and provides guidance documents for preparation of inventories for a wide range of individual POPs. A toolkit is provided for Identification and Quantification of Releases of Dioxins, Furans and Other Unintentional POPs (UNEP, 2013b). The possible source categories for POPs are listed in Table 6.
+
+In terms of approaches to developing inventories of POPs, a similar approach is used to that of GHG and mercury inventories. Activities which give rise to POPs are identified, levels of activity are determined and the relevant emission factors applied. Examples of activity data includes "unit per year of product manufactured" (e.g., steel, sinter, cement, pulp, compost, etc.) and "feed material processed" (e.g., municipal waste, hazardous waste, coal, diesel fuel, bodies cremated, etc.)" (UNEP, 2013b).
+
+6.3 MINAMATA CONVENTION
+
+Articles 8 and 9 of the Minamata Convention introduce an obligation for each Party to establish and maintain emissions and releases inventories of mercury. Preparation of the inventory is required to be done as soon as practicable and no later than five years after entry into force of the Convention, that is by 2022 (Minamata Convention, 2013). Methodological guidance for preparing emissions inventories is provided in the guidance document adopted by the COP, which refers to the Toolkit to support inventory preparation26 (Minamata Convention, 2017). The Convention requires that emissions should be calculated for the following point source categories:
+· Coal-fired power plants; · Coal-fired industrial boilers; · Smelting and roasting processes used in the production of non-ferrous metals; · Waste incineration facilities; and · Cement clinker production facilities.
+The methodological guidance for preparing inventories of emissions in line with the Minamata Convention allows for multiple approaches to be used in establishing national mercury emission inventories. Ideally, an inventory should be based on direct measurement for the point source emissions identified above. Where data is sparse, other indirect techniques, such as engineering estimates or mass balance calculations, can be used. The UNEP toolkit for identification and quantification of mercury releases27 can support inventory compilation where no local approaches are available. The guidance also highlights that Parties that have developed a pollutant release and transfer register (PRTR) covering several pollutants are likely to have included data about point source mercury emissions, which provides a source of information for collation of national mercury inventories. As for GHG inventories, a combination of approaches can be used by a country.
+
+6.4 OPPORTUNITIES FOR STREAMLINING INVENTORIES
+
+Table 7 shows the common activity data under the frameworks for POPs, Mercury and GHGs. It can be
+
+seen that there is a high degree of overlap in terms of the sources and categories of emissions. In addition,
+
+the required activity data is often very similar. What is not shown in the table is the underlying data and
+
+information that is either required in inventory compilation or is used for further analysis and reporting.
+
+This relates to, for example, the location, capacity and technology of industrial facilities and power plants.
+
+Activity data for inventory compilation is often available disaggregated by facility or location and is then
+
+aggregated for use in the inventory calculations. Estimating mercury emissions also requires process-specific information as mercury can be released at various processing stages. For example, coal washing and ash
+
+collected via air pollution control technologies.
+
+Table 7 highlights the benefit in aligning and streamlining data collection to support the development of the various inventories. Alignment of inventories will also provide additional information for reporting or developing policy and targeted actions to mitigate emissions of GHGs or chemicals. The benefits of aligned data collection include optimising resources for data collection, reducing uncertainty in the data across inventories, ensuring consistency across reporting frameworks, and reducing investment requirements in both data collection and quality assurance/quality control (QA/QC). It is recognised, however, that the level of quality assurance and quality control (QA/QC) varies between frameworks. The UNFCCC QA/QC requirements for GHG inventories are rigorous and advanced. This is in part due to the fact that the methodologies to calculate GHG emissions from activity data are detailed and tiered, as described previously. The QA/QC process for GHG inventories submitted to the UNFCCC is also formalised, and according to MPG, Parties should implement QA procedures by conducting a basic expert peer review of their inventories in accordance with the IPCC guidelines. For the Toolkit for Identification and Quantification of Releases of Dioxins, Furans and Other Unintentional POPs, guidance is given on appropriate QA and QC considerations. However, as the underlying methodology is simpler (the application of default emission factors to each source category), QA/QC requirements are less onerous. For mercury emissions, the guidance documents recognise that there "are significant deficiencies in the coverage and quality of data in some areas" (UNEP, 2019e). Given the high-level nature of the methodology to estimate mercury releases, no detailed guidance on QA/QC is provided, nor is there a requirement for a formal QA/QC process.
+7 CONCLUSIONS AND FURTHER ACTION
+Climate change is irreversible, with the level of future global warming and associated climate related risks that will be experienced in the future depending on future levels of GHGs. If emissions can be constrained, and net zero global CO2 emissions achieved by around 2050, the level of global warming can be stabilised. However, regardless of the levels of future emissions, the planet is already committed to a degree of global warming, and there will be long lasting changes to atmospheric composition, oceans, the cryosphere, and some level of sea level rise.
+With a change in the global climate, comes the potential for increased mobilization of hazardous chemicals from both primary and secondary sources, as well as impacts on the fate and transport of chemicals ­ with a trend largely (but not always) towards greater mobility and movement. Such behaviors have already been observed.
+· Mitigating GHG emissions and hence future global climate change is a high priority not only for reducing the impacts of climate change on the planet, but also due to the benefit of avoiding increased movement and impacts of hazardous chemicals. The interlinkages between the two issues presented in this report thus provide additional support to the case for mobilizing resources to combat climate change.
+· Waste and wastewater management infrastructure and operations, mine waste sites, and industrial facilities need to be designed to be resilient to future climate impacts to prevent hazardous chemicals releases. Historical sites need to be evaluated to determine remediation requirements and retrofitting of infrastructure to make them resilient to climate change. Waste minimization should be pursued wherever possible, with waste disposal being the last and least preferred option.
+· Planning for hazardous chemicals management needs to take into account current and future impacts of climate change, to minimize the potential risks. Accounting for climate change in managing industrial/disaster risks also requires consideration of transboundary impacts thereof, and hence opportunities for international cooperation.
+The chemicals sector is a significant contributor to GHG emissions and releases of hazardous chemicals, and is currently highly integrated with the fossil fuels industry. Opportunities exist at all stages of the life cycle for minimizing releases, with life cycle assessment presenting an important tool in ensuring that improving performance in one part of the materials value chain does not result in unacceptable unintended consequences elsewhere in the value chain, or shifting of environmental burdens from one impact category to another.
+· Circular economy and life cycle approaches to design of systems, process and product design have the potential to simultaneously reduce potential for GHG and hazardous chemical releases (as well as other negative environmental externalities) associated with provisioning of goods and services to meet societal needs.
+· Mining and minerals processing operations, which provide raw material inputs for many chemical production processes as well as renewable energy and energy storage infrastructure, need to apply Best Available Technology/Best Environmental Practices (BAT/BEP) to ensure energy efficiency and minimization of releases hazardous chemicals. Renewable energy rather than fossil energy should be adopted where feasible in the mining sector to reduce GHG and hazardous chemicals releases, or fuel switching from coal to gas should be evaluated where renewables are not feasible, recognizing that gas is a transition fuel which is not compatible with a net zero world.
+· Primary chemicals production and downstream industries also need to apply BAT/BEP, towards reducing energy inputs, avoiding releases of unintentional hazardous chemicals and GHG emissions and minimizing waste generation Where available, process and product changes to reduce productionrelated releases should be implemented. As with mining and minerals processing, renewable energy and fuel switching can result in further benefits.
+· Reductions in primary releases of hazardous chemicals in the use phase can be achieved by researching, developing and adopting alternatives to hazardous pesticides and other agricultural practices such as implementing integrated pest management; by implementing "Design-for-Environment" principles for manufactured products and by using low hazard, low Global Warming Potential chemicals in applications such as flame retardants, foam blowing and electronics.
+· Policy and management approaches that focus on the plastics issue are often focused on the plastic litter problem. Awareness is, however, growing about the negative impacts of plastics across their entire life cycles, including GHG and hazard considerations. Plastics policy and management approaches should also be expanded to take circular economy and life cycle considerations into account.
+
+CHAPTER 7 Conclusions and further action
+
+Plastics, WEEE, household waste and health care wastes, among other waste streams, all have potential for releases of GHG emissions and hazardous chemicals into the environment, both as a result of their chemical composition, and through management thereof. A wide range of treatment options, each with different GHG and hazardous chemicals emissions profiles, have been identified.
+
+· Reducing demand for materials and circular economy approaches can help reduce waste generation across the economy.
+· BAT/BEP, Basel Convention Technical Guidelines and ESM guidelines should be applied as appropriate to identify, design and implement appropriate technologies for management of different waste streams, towards limiting releases of both GHGs and hazardous chemicals. What is deemed appropriate and feasible will vary between locations.
+
+There are numerous synergies between GHG and hazardous chemicals mitigation options. An understanding and communication of such opportunities can increase support for implementing mitigation opportunities. Trade-offs do, however, also exist, and understanding these allows for avoiding situations where mitigation of GHGs increases emissions of hazardous chemicals, or vice versa. Some examples of mitigation synergies and trade-offs include:
+
+· Across all sectors and applications, adoption of BAT/BEP technologies and approaches, and
+
+improving technologies and approaches over time, will help to minimize releases of both hazardous
+
+chemicals and GHGs, and ultimately move towards being consistent with pathways aligned with
+
+net zero CO2 emissions. · Coal is a substantial contributor to both GHGs and mercury emissions, as well as to releases of
+
+other hazardous chemicals. Where feasible, reducing coal usage through a transition to low carbon
+
+energy in the energy sector and to alternative industrial feedstocks will thus contribute substantially
+
+to reducing GHGs, mercury and other hazardous chemical releases, with associated benefits for
+
+air quality and public health.
+
+· Shifting from other fossil fuels apart from coal to renewable energy will also contribute positively to
+
+reducing GHG and hazardous chemical releases.
+
+· Carbon capture, utilisation and storage (CCUS) can result in significant reductions in carbon dioxide
+
+emissions from both the energy and industrial sectors, and is considered to have an important role to
+
+play in meeting global emission reduction targets, particularly in hard to decarbonize sectors. CCUS
+
+can, however, have a significant energy penalty and hence lead to increased impacts associated
+
+with energy supply to meet additional energy requirements. This should be taken into account when
+
+evaluating these technologies.
+
+· Chemical process efficiencies and shifts to alternative feedstocks and alternative products can
+
+reduce both GHGs and hazardous chemicals. These should be sought out and implemented as
+
+soon as possible.
+
+· The cement sector is a significant emitter of both GHGs and hazardous chemicals, with a number of
+
+opportunities for mitigation that are being pursued to varying extents around the world, that should
+
+be supported. However, use of waste as fuel can result in increased hazardous chemicals releases
+
+if BAT/BEP approaches are not followed.
+
+· Production of metals from recycled material has significantly lower GHG emissions that from primary
+
+processes and should be implemented where feasible. These processes can, however, release
+
+hazardous chemicals if BAT/BEP approaches are not followed.
+
+· Replacing mercury lights with LEDs reduces electricity demand, and reduces demand for mercury
+
+and end-of-life management impacts of mercury containing lamps. Phasing out of mercury lamps
+
+is thus desirable. However, LEDs do potentially contain other heavy metals, including nickel, lead
+
+and arsenic, and so should also be properly managed at end-of-life.
+
+· Biomass represents a low carbon energy source, although combustion of biomass can release
+
+hazardous chemicals if BAT/BEP approaches are not followed. Furthermore, production and use
+
+of biomass for bioenergy can have benefits and negative impacts linked to land degradation, food
+
+insecurity, livelihoods and other environmental and sustainable development goals, with the impacts
+
+being dependent on a range of context-specific considerations.
+
+· Addressing artisanal and small-scale gold mining will reduce mercury exposure for mine workers
+
+as well as emissions to the environment, while simultaneously addressing GHGs associated with
+
+land clearing that typically accompanies these activities.
+
+CHAPTER 7 Conclusions and further action
+
+Finally, there are potential opportunities for streamlining development of GHG and hazardous chemical inventories given commonalities in the activity data required for calculation of emissions of a wide range of releases.
+· Collection of data could be coordinated by establishing appropriate national and regional data management systems for common data. This will contribute to reducing data uncertainty, reducing personnel and other resource requirements and costs, and reduce areas of misalignment.
+· Similarly, systems and processes for QA/QC can be coordinated between the different inventories, thereby reducing resources required for compilation.
+During the course of the study it was highlighted that, although a wide range of information is available in the open literature on specific topics or regions, insufficient information is available to provide a full quantitative and coherent assessment of all the interlinkages between climate change and hazardous chemicals use and releases.
+· There is a need for generation of further relevant information and data on the links between climate change and hazardous chemicals to be gathered through targeted studies in areas less comprehensively studied in the open literature. Examples of such areas include groundwater, freshwater systems, pesticide usage projections and desertification. A comprehensive needs assessment is required to identify specific R&D target areas.
+This report presents a comprehensive technical review of the literature on report on climate change and hazardous chemicals management, towards identifying a set of opportunities for simultaneously addressing these two critical elements of the broader sustainability challenge. It is hoped that the information presented here will guide the development and implementation of cost-effective strategies, institutional capacity, enforcement mechanisms and other components of an enabling environment to address these issues at the global, regional, national and local levels, thereby supporting the concurrent implementation of the multitude of treaties that are already in place.
+
+CHAPTER 7 Conclusions and further action
+
+

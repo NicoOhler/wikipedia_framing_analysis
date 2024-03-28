@@ -1,0 +1,245 @@
+
+
+Financial Times
+Features, Saturday, February 20, 2021 2726 mots, p. 1,2
+
+Life and Arts
+
+Bill Gates: My green manifesto
+Many of us feel powerless in the face of the climate crisis. Here the billionaire philanthropist
+and Microsoft co-founder offers four bold ideas to help business take on the challenge Bill
+Gates: My green manifesto
+
+In the conversations I have about climate change, one question comes up more than any other: "How can I
+help?"
+
+Sometimes it's an individual who simply wants to know whether to stop buying plastic straws. (Answer: it
+doesn't do much for climate change, but it helps the environment in other ways.) Just as often, though, the
+question comes from someone working on a larger scale ? for example, a chief executive who wants to know:
+"What can my company do that will really make a difference?"
+
+Unfortunately, even the most dedicated climate change advocates have struggled to ﬁnd satisfying answers
+to that question. But there are in fact things businesses can do to make a measurable difference for the
+climate. They will not come easily, though. Avoiding a climate disaster requires a different way of doing
+business, the courage to take on risks that many CEOs are not used to taking ? and that investors are not
+used to rewarding.
+
+It   took   me   years   to   come   to   this   point   of   view.   I   became   interested   in   climate change   not   as   an
+environmentalist, but as an advocate for global health and development. Since the early 2000s, my wife
+Melinda and I have been funding efforts to improve health and ﬁght poverty in lower- and middle-income
+countries. A few times a year, I would travel abroad for the chance to see the work in action. Often, I'd ﬂy into
+a country at night and be struck by the immensity of the darkness. A billion people, I learnt, did not have
+access to reliable electricity. Around half of them lived in sub- Saharan Africa. (Today the global number is
+about 860m people.)
+
+It became obvious that it would be virtually impossible to make real inroads on disease and poverty when
+more than one in 10 people on Earth did not have reliable access to all the beneﬁts of energy ? lights for
+schools and health clinics, transport between work and home, fertiliser for crops, even air-conditioning to
+withstand rising temperatures.
+
+But achieving a modern lifestyle depends on fossil fuels. And the problem is simple: we can't afford to release
+more greenhouse gases. In fact, we need to stop releasing them altogether, and do it by 2050. Think of the
+climate like a bathtub that's slowly ﬁlling up with water. Even if we slow the ﬂow of water to a trickle, the tub
+will eventually ﬁll up and water will spill all over the ﬂoor. To stop temperatures rising and avoid disaster, we
+have to turn off the tap entirely ? we have to get to zero greenhouse gas emissions.
+
+I wrote my new book to propose a practical plan for eliminating emissions and developing and deploying the
+tools we need to so. While I'm optimistic that we can do that, it's going to take a lot of effort from the only
+groups capable of operating at a global scale ? governments, non-proﬁts and businesses.
+
+How hard will it be? In the course of writin'How to Avoid a Climate Disaster, I developed away to answer that
+question.   I   call   it   Green   Premiums   ?   the   differences   in   cost   between   a   fossil-fuelbased   way   of   doing
+something and the clean, non-emitting way of doing the same thing.
+
+Green Premiums tell us how much it will cost to zero-out emissions in all the sectors of the economy where
+fossil fuels are involved ? including producing electricity, manufacturing, agriculture, transportation, and
+heating and cooling. Armed with these Green Premiums, we can see which zero-carbon tools are practical
+now, and which ones we still need to improve or invent.
+
+In my research, I found some pleasant surprises. For example, in the US, switching to a clean electricity grid
+using current technology (wind, solar, hydropower and nuclear) would raise electricity prices by about 15 per
+cent over current retail rates. That's a relatively small hike for many people ? roughly $18 a month ? though
+we'd need to make sure that lower-income families wouldn't be burdened by it. Europe, with its abundant
+
+ 
+
+
+
+
+
+sources of renewables, is in a similar position.
+
+
+Unfortunately, many countries don't have as much wind and sunlight as the US and Europe do. In those
+places, the Green Premiums on electricity will be quite a bit higher, and they'll need innovation to close the
+gap. In fact, the relatively low Green Premiums for electricity in the US and Europe are the except- ion, not
+the rule. For a large majority of activities that cause emissions ? everything from making cement and steel to
+ﬂying jetliners ? we don't have clean options that are remotely as cheap as their conventional counterparts.
+
+For example, cargo ships run on a fuel that costs about $1.29 per gallon in the US. The clean versions of this
+fuel cost from $5.50 to $9.05 per gallon, depending on how they're made ? an increase of 300 to 600 per
+cent. No shipping line is going to voluntarily increase its fuel costs by such a huge margin.
+
+Why are most of the Green Premiums so high? Because green products face stiff competition from their
+polluting counterparts. Fossil fuels are readily building the infrastructure to extract, process and move them
+around the world. In addition, their prices don't reﬂect the damage they do to people or the environment.
+And they do their job very effectively ? a single litre of petrol contains as much energy as 34 sticks of
+dynamite. Virtually all the clean alternatives are less powerful.
+
+This is why we need energy innov- ation. Clean tech has to be so cheap that everyone adopts it.
+
+It   is   hard   to   overstate   the   magnitude   of   this   challenge.   Energy   is   a   $5tn-a-year   business,   and   it   is   not
+accustomed to rapid change. It will take time to achieve the scale of change we need, so we should get to
+work now on creating the policies, technologies and market structures that will make it possible.
+
+The good news is that there is growing interest among the groups best suited to drive this change ?
+corporations and governments. The bad news is that right now we don't have the economic structures to
+allow them to have an impact, and so they often do things that may look good on paper but don't actually
+help solve the problem.
+
+Planting trees, for instance. It sounds like a simple ﬁx and it has obvious appeal for all of us who love trees ?
+but its impact on climate change is overblown. Although trees absorb some carbon, they can never take in
+enough   to   offset   the   damage   from   our   modern   lifestyle.   To   absorb   the   lifetime   emissions   that   will   be
+produced by every American alive today ? just 4 per cent of the global population ? you'd need to plant and
+permanently maintain trees on more than 16bn acres, roughly half the landmass of the world.
+
+Yet if you're a business leader looking to do something about climate change, planting trees looks like an
+attractive Continued on page 2
+
+Continued from page 1 option. That's not a failure on your part ? it just means the world hasn't given you a
+way to do something that has more impact.
+
+So what can you do that will have impact? There are four areas where companies can make a practical
+difference. Not all of them will apply to every business, but there is something on this list for most of them.
+
+The ﬁrst area involves mobilising capital to reduce the Green Premiums. For some products ? like wind, solar
+and electric cars ? the Green Premiums are already low, but will go down even further if more companies
+buy them. In other cases, such as low-carbon steel and fuels for shipping and aviation, the Green Premiums
+are prohibitively high. These are the sectors where we need to invest the most money and effort.
+
+In practice, this means companies need to be willing to ﬁnance innovative low-carbon solutions where the
+Green Premiums are highest. Investors, for instance, can lower the cost of capital for these technologies and
+make ﬁnancing easier for them as they get to large-scale demonstration projects.
+
+In some cases, investors may need to accept lower returns too. This is inherently risky ? I've already lost more
+money on battery companies than I ever thought I would. But pooling resources and investing together
+instead of individually will lower the risk for any single investor. By providing low-cost capital and other
+ﬁnancial   concessions   along   multiple   stages   of   a   technology's   deve-   lopment,   you   can   help   promising
+innovators navigate the obstacles that keep them from getting their ideas out of the lab and into the market.
+You can also mentor clean energy entrepreneurs, sponsor pilot projects and put money into innovative funds
+that prioritise climate impact.
+
+The second way your company can have an impact is through the products it buys. If your company runs a
+ﬂeet of vans, for example, you can commit to buying electric vehicles. You'll not only meaningfully reduce
+your company's emissions, you'll also send a signal to auto manufacturers that there's a growing market for
+
+ 
+
+
+
+
+
+electric vehicles, which will in turn drive competition and push prices down. Procurement is a powerful tool
+to start building markets for other products too, such as hydrogen fuels and greener alternatives to steel and
+cement.
+
+
+Another example of using procurement to drive down Green Premiums involves the airline industry. Your
+company can offset the emissions from employees' travel by buying sustainable aviation fuel for the miles
+they ﬂy. That creates demand for clean fuels, attracting more innovation in that area, and it makes travel-
+related emissions a factor in your company's business decisions. Microsoft and Alaska Airlines signed a deal
+like this for certain routes last year. Other businesses are putting a price on the carbon emitted by all their
+divisions, forcing each team to consider its emissions. Swiss Re recently imposed a cost of $100 per tonne
+emitted by each of its divisions.
+
+There are many other examples of companies making a measurable difference by paying for early-stage
+techno- logies that reduce or offset emissions. Some, including Stripe, are supporting carbon capture, a
+promising technology that needs investment to scale up. Through the Hybrit project, some steel companies
+are   integrating   clean   hydrogen   into   their   production   methods.   And   utility   companies   are   buying   long-
+duration storage solutions for clean electricity, as Great River Energy recently did with Form Energy.
+
+The   third  area   is  expanding   research  and  development.   Consider   Impossible   Foods,   one   of  the   leading
+producers of plant-based meat, in which I was an early investor. (Cattle are a major producer of methane, a
+greenhouse gas.) In 2020, Impossible announced plans to double the size of its R&D team with a goal of
+reducing the price of its burgers and expanding market share. Last March, its products were available in just
+150 grocery stores. Today they're available in more than 15,000.
+
+The ﬁnal way you can help drive down the Green Premiums is to help shape public policies. You can make it
+clear that governments need to invest in public R&D for clean energy, and call on ofﬁcials to give the private
+sector incentives to innovate in this area and to help clean energy compete by putting a price on carbon or
+setting minimum requirements for the use of clean energy.
+
+Working in these four areas will not always be comfortable. If your bank loans money to a company that goes
+under, your bottom line will take a hit. If you assign your best researchers to a clean-energy project, they
+might end up going down a dead end. Time spent talking to a politician about climate policy is time you
+could spend discussing your core business instead.
+
+But these are the short-term costs required of every business leader who wants to do more than pay lip-
+service to climate change. It takes courage for CEOs to bear these costs ? and patience for board members
+and investors to reward them for it. Yet in the long run, these risky steps will be good for business. The Green
+Premiums will come down, and consumers will remember which companies were serious about helping
+avoid a climate disaster. Of course, governments have to play an essential role too. Like the business leaders
+who are taking this seriously, policymakers need to factor climate change into many of the decisions they
+make. For example, they need to dramatically increase funding for clean energy research and development ?
+in the US, a ﬁvefold increase would put energy on par with federal health research. That level of funding
+would demonstrate that governments are committed to solving the toughest climate problems.
+
+They   should   also   use   their   procurement   power   to   drive   up   demand   for   lowand   zero-carbon   products.
+Governments   buy   huge   numbers   of   products,   from   ofﬁce   supplies   to   airplanes,   and   are   especially   big
+customers   in   many   of   the   sectors   that   are   hardest   to   decarbonise,   such   as   cement   and   steel.   Major
+commitments to buy green will send a clear market signal that there's demand for these products.
+
+Governments should also eliminate unproductive policies that prevent new technologies from emerging.
+And   they   should   level   the   playing   ﬁeld   for   clean   technology   by   adopting   policies   such   as   clean   fuel
+standards, expanding tax credits for the technologies we need to develop, and raising the cost of emitting
+greenhouse gases through a price on carbon.
+
+Finally, those of us who can make big individual commitments also have a responsibility to step up. As
+someone who has a large carbon footprint, I wanted to ﬁnd the most effective way to address my family's
+emissions. I'm buying enough clean aviation fuel to offset emissions from any ﬂights my family and I may
+take. I'm also buying offsets through a direct air-capture company and supporting a non-proﬁt that installs
+clean-energy upgrades in low-income housing in Chicago.
+
+Although I think this approach is effective, it's far too expensive to be scalable. (Most offset programmes cost
+about $10 for each ton of carbon averted. I'm paying about $400 per ton.) We need programmes that allow
+lots of people to contribute ? which will drive down the per-ton cost ? and direct their resources toward
+
+ 
+
+
+
+
+
+funding the breakthroughs that will have the most impact. I'm working with partners on creating such a
+programme.
+
+
+In my experience, it's rare to have a cause in which the entire world wants to participate. I'm used to working
+in global health, where rich-world governments and companies occasionally need to be reminded why they
+should care.
+
+Not so with climate change. People around the world from all walks of life want to do something meaningful
+about it. Now, after years of uncertainty, we are ﬁnally seeing what meaningful action looks like for business
+leaders. It is having the courage to take risks.
+
+Bill Gates is the co-founder of Microsoft and co-chairman of the Bill & Melinda Gates Foundation. His book
+'How to Avoid a Climate Disaster: The Solutions We Have and the Breakthroughs We Need' is published by
+Penguin
+
+Investing in innovative tech is inherently risky ? I've lost more money on battery companies than I ever
+thought I would Consumers will remember which companies were serious about helping avoid a climate
+disaster The arc of energy history, 1840-present Share of global energy supply (%) 50 Coal 40 Oil 30 Natural
+gas 20 10 Modern renewables 0 1840-1900 60 0 1910-1970 60 0 1930-1990 60 0 2015 60 Source: Vaclav Simil,
+'Energy Transitions' Government support for energy innovation Global public expenditure on energy
+technology R&D* ($bn) 20 Cross-cutting, unallocated, other Peak in 2009 was due to post 2007-08 ﬁnancial
+crisis stimulus funding Electricity and storage 15 Hydrogen fuel cells and CCUS Nuclear 10 Renewable energy
+5 Energy efﬁciency Fossil fuels 0 1977 1980 1990 2000 2010 2019 Source: IEA * Includes spending on
+demonstration projects
+
+
+
+
+
+ 
+
+
