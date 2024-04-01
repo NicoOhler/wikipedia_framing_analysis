@@ -171,7 +171,7 @@ def compareAll(scale, starts_with=""):
         compare.append(name)
     for i, df in enumerate(dfs):
         if len(df) != 1:
-            g = compare_plots(dfs[i], pairs[i], scale, compare= compare[i], save2= True)
+            g = compare_plots(dfs[i], pairs[i], scale, compare= compare[i], save= True)
             plt.title(f'Comparing {compare[i]}')
             print(f"\t\t- " + str({compare[i]}))
             plt.savefig("plots/Press_ONG_OIG_Climate_change/compare/" + compare[i] + ".png",bbox_inches='tight')
@@ -181,30 +181,12 @@ def compareAll(scale, starts_with=""):
             print(f"\t\tskipping- " + str({compare[i]}))
 
 
-def compare_plots(dfs, titles, scale, colors=list(mcolors.TABLEAU_COLORS),save = False, compare = None, save2 = False):
+def compare_plots(dfs, titles, scale, colors=list(mcolors.TABLEAU_COLORS),save = False, compare = None):
     name_left = dfs[0].columns.map(lambda x: x[1])
     name_right = dfs[0].columns.map(lambda x: x[0])
     means = [df.mean() for df in dfs]
     intens = [(df.var().fillna(0) + 0.001) * 50_000 for df in dfs]
     if save:
-        l = len(means)
-        framing_values = 5*[0]
-        for i in range(l):
-            framing_values[0] += means[i].values[0]
-            framing_values[1] += means[i].values[1]
-            framing_values[2] += means[i].values[2]
-            framing_values[3] += means[i].values[3]
-            framing_values[4] += means[i].values[4]
-        for i in range(5):
-            framing_values[i] = framing_values[i] / l
-        path = "dumps/df_dumps/grouped_by_name/grouped_by_" + compare +".csv"
-        with open(path, mode='w', newline='') as file:
-            writer = csv.writer(file)
-            writer.writerow(["Care", "Fairness", "Loyalty", "Authority", "Sanctity"])
-            writer.writerow(["Harm", "Cheating", "Betrayal", "Subversion", "Degredation"])
-            writer.writerow(framing_values)
-            #writer.writerow(str(framing_values[0])+","+str(framing_values[1])+","+str(framing_values[2])+","+str(framing_values[3])+","+str(framing_values[4]))
-    if save2:
         path = "dumps/df_dumps/grouped_by_name/grouped_by_" + compare + ".csv"
         dfs[0].to_csv(path, index=False)
         for df in dfs[1:]:
