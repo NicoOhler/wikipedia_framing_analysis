@@ -151,13 +151,14 @@ def compareAll(scale, starts_with=""):
     compare = []
     names = set()
     for filename in filenames:
-        if starts_with != "":
-            if not filename.startswith(starts_with):
+        if filename.endswith(".csv"):
+            if starts_with != "":
+                if not filename.startswith(starts_with):
+                    continue
+            name = filename.rsplit('_', 1)[-1].split('.')[0]
+            if name.startswith("COP"):
                 continue
-        name = filename.rsplit('_', 1)[-1].split('.')[0]
-        if name.startswith("COP"):
-            continue
-        names.add(name)
+            names.add(name)
     for name in names:
         df = []
         pair = []
@@ -176,6 +177,8 @@ def compareAll(scale, starts_with=""):
             plt.savefig("plots/Press_ONG_OIG_Climate_change/compare/" + compare[i] + ".png",bbox_inches='tight')
             pickle.dump(plt.gcf(),
                         open("dumps/plt_dumps/compare/" + "compare_" + compare[i] + "_scale_" + str(scale)[2:], "wb"))
+        else:
+            print(f"\t\tskipping- " + str({compare[i]}))
 
 
 def compare_plots(dfs, titles, scale, colors=list(mcolors.TABLEAU_COLORS),save = False, compare = None):
