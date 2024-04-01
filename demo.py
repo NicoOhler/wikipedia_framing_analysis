@@ -226,10 +226,10 @@ def compare_plots(dfs, titles, scale, colors=list(mcolors.TABLEAU_COLORS),save =
 
 
 if __name__ == '__main__':
-    frame = True
-    custom_compare = False
+    frame = False
+    custom_compare = True
     sub_folders = True
-    compare_all = True
+    compare_all = False
     if frame:
         path_to_plt_directory = "plots/Press_ONG_OIG_Climate_change/"
         directories_to_frame = ["data/Corpus-Presse","data/Corpus-ONG (NGOs)","data/Corpus-OIG (IGOs)"]
@@ -247,6 +247,6 @@ if __name__ == '__main__':
         scale = 0.1
         compareAll(scale)
     if custom_compare:
-        paths = ["dumps/df_dumps/grouped_by_name/grouped_by_WB.csv","dumps/df_dumps/grouped_by_name/grouped_by_UNEP.csv","dumps/df_dumps/grouped_by_name/grouped_by_WMO.csv"]
-        compareCustom(paths,0.1)
+        paths = ["dumps/df_dumps/grouped_by_name/grouped_by_IPCC.csv","dumps/df_dumps/grouped_by_name/grouped_by_USAToday.csv","dumps/df_dumps/grouped_by_name/grouped_by_NYT.csv","dumps/df_dumps/grouped_by_name/grouped_by_FT.csv"]
+        compareCustom(paths,0.1,title="IPCC vs NEWS")
     pass
