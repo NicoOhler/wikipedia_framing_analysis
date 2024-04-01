@@ -1,0 +1,58 @@
+ Foreign, Saturday, November 21, 2009 941 mots, p. A 1
+
+Hacked E-Mail Is New Fodder For Climate Change Dispute
+By ANDREW C. REVKIN
+
+Hundreds of private e-mail messages and documents hacked from a computer server at a British university are causing a stir among global warming skeptics, who say they show that climate scientists conspired to overstate the case for a human influence on climate change.
+
+The e-mail messages, attributed to prominent American and British climate researchers, include discussions of scientific data and whether it should be released, exchanges about how best to combat the arguments of skeptics, and casual comments -- in some cases derisive -- about specific people known for their skeptical views. Drafts of scientific papers and a photo collage that portrays climate skeptics on an ice floe were also among the hacked data, some of which dates back 13 years.
+
+In one e-mail exchange, a scientist writes of using a statistical "trick" in a chart illustrating a recent sharp warming trend. In another, a scientist refers to climate skeptics as "idiots."
+
+Some skeptics asserted Friday that the correspondence revealed an effort to withhold scientific information. "This is not a smoking gun; this is a mushroom cloud," said Patrick J. Michaels, a climatologist who has long faulted evidence pointing to human-driven warming and is criticized in the documents.
+
+Some of the correspondence portrays the scientists as feeling under siege by the skeptics' camp and worried that any stray comment or data glitch could be turned against them.
+
+The evidence pointing to a growing human contribution to global warming is so widely accepted that the hacked material is unlikely to erode the overall argument. However, the documents will undoubtedly raise questions about the quality of research on some specific questions and the actions of some scientists.
+
+In several e-mail exchanges, Kevin Trenberth, a climatologist at the National Center for Atmospheric Research, and other scientists discuss gaps in understanding of recent variations in temperature. Skeptic Web sites pointed out one line in particular: "The fact is that we can't account for the lack of warming at the moment and it is a travesty that we can't," Dr. Trenberth wrote.
+
+The cache of e-mail messages also includes references to journalists, including this reporter, and queries from journalists related to articles they were reporting.
+
+Officials at the University of East Anglia confirmed in a statement on Friday that files had been stolen from a university server and that the police had been brought in to investigate the breach. They added, however, that they could not confirm that all the material circulating on the Internet was authentic.
+
+But several scientists and others contacted by The New York Times confirmed that they were the authors or recipients of specific e-mail messages included in the file. The revelations are bound to inflame the public debate as hundreds of negotiators prepare to negotiate an international climate accord at meetings in Copenhagen next month, and at least one scientist speculated that the timing was not coincidental.
+
+Dr. Trenberth said Friday that he was appalled at the release of the e-mail messages.
+
+But he added that he thought the revelations might backfire against climate skeptics. He said that he thought that the messages showed "the integrity of scientists." Still, some of the comments might lend themselves to being interpreted as sinister.
+
+In a 1999 e-mail exchange about charts showing climate patterns over the last two millenniums, Phil Jones, a longtime climate researcher at the East Anglia Climate Research Unit, said he had used a "trick" employed by another scientist, Michael Mann, to "hide the decline" in temperatures.
+
+Dr. Mann, a professor at Pennsylvania State University, confirmed in an interview that the e-mail message was real. He said the choice of words by his colleague was poor but noted that scientists often used the word "trick" to refer to a good way to solve a problem, "and not something secret."
+
+At issue were sets of data, both employed in two studies. One data set showed long-term temperature effects on tree rings; the other, thermometer readings for the past 100 years.
+
+Through the last century, tree rings and thermometers show a consistent rise in temperature until 1960, when some tree rings, for unknown reasons, no longer show that rise, while the thermometers continue to do so until the present.
+
+Dr. Mann explained that the reliability of the tree-ring data was called into question, so they were no longer used to track temperature fluctuations. But he said dropping the use of the tree rings was never something that was hidden, and had been in the scientific literature for more than a decade. "It sounds incriminating, but when you look at what you're talking about, there's nothing there," Dr. Mann said.
+
+In addition, other independent but indirect measurements of temperature fluctuations in the studies broadly agreed with the thermometer data showing rising temperatures.
+
+Dr. Jones, writing in an e-mail message, declined to be interviewed.
+
+Stephen McIntyre, a blogger who on his Web site, climateaudit.org, has for years been challenging data used to chart climate patterns, and who came in for heated criticism in some e-mail messages, called the revelations "quite breathtaking."
+
+But several scientists whose names appear in the e-mail messages said they merely revealed that scientists were human, and did nothing to undercut the body of research on global warming. "Science doesn't work because we're all nice," said Gavin A. Schmidt, a climatologist at NASA whose e-mail exchanges with colleagues over a variety of climate studies were in the cache. "Newton may have been an ass, but the theory of gravity still works."
+
+He said the breach at the University of East Anglia was discovered after hackers who had gained access to the correspondence sought Tuesday to hack into a different server supporting realclimate.org, a blog unrelated to NASA that he runs with several other scientists pressing the case that global warming is true.
+
+The intruders sought to create a mock blog post there and to upload the full batch of files from Britain. That effort was thwarted, Dr. Schmidt said, and scientists immediately notified colleagues at the University of East Anglia's Climatic Research Unit. The first posts that revealed details from the files appeared Thursday at The Air Vent, a Web site devoted to skeptics' arguments.
+
+At first, said Dr. Michaels, the climatologist who has faulted some of the science of the global warming consensus, his instinct was to ignore the correspondence as "just the way scientists talk."
+
+But on Friday, he said that after reading more deeply, he felt that some exchanges reflected an effort to block the release of data for independent review.
+
+He said some messages mused about discrediting him by challenging the veracity of his doctoral dissertation at the University of Wisconsin by claiming he knew his research was wrong. "This shows these are people willing to bend rules and go after other people's reputations in very serious ways," he said.
+
+Spencer R. Weart, a physicist and historian who is charting the course of research on global warming, said the hacked material would serve as "great material for historians."

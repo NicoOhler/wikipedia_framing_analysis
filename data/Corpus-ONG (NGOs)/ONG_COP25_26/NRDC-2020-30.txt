@@ -1,0 +1,1309 @@
+                  JANUARY 2020
+                       R: 19-11-C
+
+
+
+
+R E P O R T 
+
+
+
+
+OCEAN-CLIMATE
+GUIDE TO ACTION
+ACKNOWLEDGMENTS
+We would like to acknowledge reviewers from the Ocean Protection Council, the Ocean Science Trust, the California Air
+Resources Board, the California Department of Fish and Wildlife, the Resources Legacy Fund, as well as Geraldine Knatz,
+Michelle Passero, and Leila Seivenan for reviewing select chapters of this Guide to Action.
+
+
+
+
+About NRDC
+The Natural Resources Defense Council is an international nonprofit environmental organization with more than 3 million members and online
+activists. Since 1970, our lawyers, scientists, and other environmental specialists have worked to protect the world’s natural resources, public
+health, and the environment. NRDC has offices in New York City, Washington, D.C., Los Angeles, San Francisco, Chicago, Montana, and Beijing.
+Visit us at nrdc.org.
+
+About Ocean Conservancy
+Ocean Conservancy is working to protect the ocean from today’s greatest global challenges. Together with our partners, we create science-based
+solutions for a healthy ocean and the wildlife and communities that depend on it.
+
+
+NRDC Chief Communications Officer: Michelle Egan
+NRDC Managing Directors of Communications: Lisa Goffredi and Jenny Powers
+NRDC Publications Director: Mary Annaïse Heglar
+NRDC Policy Publications Editor: Leah Stecher
+
+
+Design and Production: www.suerossi.com
+Cover image © Robert Bohrer/123RF
+© Natural Resources Defense Council 2020
+Table of Contents
+
+Introduction.............................................................................................................................................................5
+
+
+CHAPTER 1: Governance and Funding.....................................................................................................................7
+Founding Innovative Institutions for Ocean Science and Protection ..........................................................................................7
+California’s Cap-and-Trade Program and California Climate Investments..................................................................................9
+Financing Natural Resource Investments with Bonds................................................................................................................. 11
+
+
+CHAPTER 2: Mitigation.......................................................................................................................................... 13
+Promoting Blue Carbon Solutions to Mitigate Climate Change................................................................................................... 13
+Marine Renewable Energy: Fostering Offshore Wind Development through Multiagency Initiatives....................................... 15
+Requiring Cargo Ships to Use Shoreside Power...........................................................................................................................17
+Cleaner Fuel in Ocean-Going Vessels........................................................................................................................................... 19
+Voluntary Vessel Speed Reduction Program................................................................................................................................ 21
+
+
+CHAPTER 3: Adaptation......................................................................................................................................... 23
+Adopting a Statewide Climate Adaptation Strategy ....................................................................................................................23
+Creating Marine Protected Areas.................................................................................................................................................25
+Preparing for Sea Level Rise........................................................................................................................................................27
+Addressing the Threat of Ocean Acidification and Hypoxia....................................................................................................... 29
+Adapting Fisheries Management to the Effects of Climate Change............................................................................................. 31
+
+
+Conclusion............................................................................................................................................................... 33
+
+
+
+
+Page 3	 	 OCEAN-CLIMATE GUIDE TO ACTION                                                                                                            NRDC       OCEAN CONSERVANCY
+                                                                     © Blue Plant Archive via Alamy
+
+
+
+
+Page 4	 	 OCEAN-CLIMATE GUIDE TO ACTION   NRDC   OCEAN CONSERVANCY
+INTRODUCTION
+
+
+
+
+I
+        n 2015 at COP21, nearly 200 countries adopted the Paris Agreement. Parties to
+        this historic accord committed to take steps both to limit warming to well under
+        2 degrees Celsius above preindustrial levels and to increase resilience to the
+        impacts of climate change. Healthy oceans are a crucial component in the global
+        fight against climate change, but only a handful of countries currently include
+meaningful ocean-based mitigation and adaptation actions in their plans to meet their
+Paris goals.
+
+This Ocean-Climate Guide to Action provides options
+for addressing this omission, which carries a heavy cost.
+Globally, ocean-based economic activities are estimated to
+be worth over a trillion dollars annually (USD), supporting
+hundreds of millions of jobs and providing protein to
+billions of people.1 More fundamentally, our oceans
+provide services that make life on earth possible, such
+as producing oxygen and storing excess heat and carbon
+dioxide, thereby slowing the rate of catastrophic warming.
+The oceans are critical to the global fight against climate
+change.
+One example of their importance in that fight is through
+the conservation and restoration of coastal “blue carbon”
+ecosystems, which is an essential pillar of a strong climate
+mitigation strategy. Seagrasses, mangrove forests, and
+salt marshes are particularly effective at capturing and
+sequestering carbon dioxide. When they are degraded,
+they not only fail to act as carbon sinks but also become
+sources of greenhouse gas emissions.
+In addition, countries must also act to adapt to the
+impacts of climate change that we are observing in the
+oceans and along our coasts. Greenhouse gas emissions
+are causing an increasingly warm, deoxygenated, and
+acidic marine environment. Consequently, coral reefs are
+bleaching, marine ecosystems are degrading, and fisheries      This Ocean-Climate Guide to Action is a partial snapshot
+are moving poleward. We are observing more rapid and           of California’s efforts to preserve natural carbon stores
+intense ice sheet melting, leading to faster and higher        in marine and coastal habitats, reduce carbon emissions
+projections of sea level rise. We must prepare our coastal     in ocean industries, and protect marine ecosystems
+communities for these changes.                                 and coastal communities from the most severe impacts
+Long regarded as a leader in climate policy and ocean          of climate change. These case studies are meant to
+conservation, the state of California has become a             introduce nations, states, local governments, and
+pioneer in the intersection of these fields. Over the          others to a wide variety of tested and effective
+past two decades, California has steadily developed            ocean-climate actions that they might take.
+a comprehensive vision of ocean-climate action that            Ultimately, the oceans sustain us all. We hope this guide
+could serve as a model to other subnational and national       will inspire jurisdictions everywhere, whether coastal
+governments seeking to protect the oceans and use their        or not, to support policies, practices, and projects that
+power to combat climate change.                                ensure healthy and thriving oceans.
+
+
+
+
+Page 5	 	 OCEAN-CLIMATE GUIDE TO ACTION                                                          NRDC    OCEAN CONSERVANCY
+California’s
+Ocean-Climate Contribution
+
+                                                                                                                                         Legend        Location of ocean-climate actions is illustrative.
+
+                         1. Conduct feasibility study for                                                                                Mitigation                        Adaptation
+                         offshore renewable energy
+                                                                                                                                         1. Conduct feasibility study      5. Preparation for and
+                                                                                                                                         for offshore renewable            adaptation to sea level rise
+                                                                                                                                         energy                            6. Climate-ready fisheries
+                                                                                                                                         2. At berth port regulations      management
+                                                                                                                                         to reduce emissions
+                                                                                                                                                                           7. Ecosystem protection by
+                                                                                                                                         3.Offshore ocean-going            establishing a network of
+                                                                                                                                         fuel rule                         MPAs
+
+                                                                                   C                                                     4. Nature-based mitigation to     8. Ocean acidification and
+
+
+                                                                                         a
+       4. Nature-based                                                                                                                   ocean acidification               hypoxia monitoring network
+       mitigation
+                                                       San Francisco
+                                                                                                 li
+       to ocean
+       acidification
+
+                                                                                                    for
+                                                                                                        nia
+                                                                            5. Preparation for
+                                                                            and adaptation to
+                                                                            sea level rise
+
+                            MPA
+
+
+
+
+                                                                                                                                                     4. Preparation for
+                                                                                                       Long Beach                                    and adaptation to
+                                                                                                                                                     sea level rise
+                                                                                                                    Los Angeles
+                                                            MPA
+
+                                                                           2. At berth
+                                                                           port
+                                                                           regulations to
+                                                                           reduce in-port                                                                      San Diego
+                                                                           emissions
+                                                  8. Ocean acidification
+                                                  and hypoxia monitoring
+                                                  network                                                              6. Climate-
+                                                                                       MPA                             ready fisheries
+                                                                                                                       management
+
+
+
+
+                                                                                                 7. Ecosystem                                           MPA
+                                                                                                 protection by
+                                                        3. Offshore                              establishing a
+                                                        ocean-going                              network of MPAs
+                                                        fuel rule
+
+
+
+
+Page 6	 	 OCEAN-CLIMATE GUIDE TO ACTION                                                                                                                     NRDC            OCEAN CONSERVANCY
+CHAPTER 1: GOVERNANCE AND FUNDING
+
+
+FOUNDING INNOVATIVE INSTITUTIONS FOR OCEAN SCIENCE
+AND PROTECTION
+
+
+
+I
+          n 2004 the California Legislature adopted the California Ocean Protection Act (COPA), creating
+          the Ocean Protection Council (OPC).2 This first-of-its-kind governmental institution was
+          intended to promote comprehensive and coordinated ocean and coastal management as the
+          ocean program of the California Natural Resources Agency. Chaired by the secretary for Natural
+          Resources, the seven-member council includes the secretary for Environmental Protection
+as well as representatives from the state legislature and the public. OPC is charged with coordinating
+state policy and scientific data collection related to coast and ocean resources among agencies as well as
+identifying and recommending changes in law to the legislature to improve coastal and ocean management.
+OPC helps coordinate activities of state agencies that work on ocean and coastal issues, including the
+California Coastal Conservancy, California Coastal Commission, the San Francisco Bay Conservation and
+Development Commission, State Water Board, Department of Fish and Wildlife, and others.
+
+
+COPA also required OPC to establish a multidisciplinary     Key Elements of Success
+team of science advisers to help it meet its                n	   Inclusive structures that ensure coordination across
+                                                                 
+
+responsibilities. Established in 2008, the Ocean                 all branches of government
+Protection Council Science Advisory Team (OPC SAT)
+provides scientific analysis and advice to OPC and works
+                                                            n	   Significant funding that, when leveraged with additional
+                                                                 
+
+
+to ensure that OPC decisions are informed by the best            funding and the work of partner organizations, helps to
+available science. Its members come from academic                address the complex problems facing California’s vast
+institutions, state and federal agencies, and California         coastline4
+tribes. OPC SAT has provided scientific advice and          n	   A foundation in and access to science via OPC SAT and
+                                                                 
+
+evaluation on a wide range of topics to address issues           OST, which helps to inform and shape effective policy
+impacting coastal and marine ecosystems in California.
+In addition, the California Ocean Science Trust (OST), an
+independent nonprofit, was created by statute to provide
+independent science to support state decisions.3 Its
+executive director serves as a science adviser to OPC.
+
+
+
+
+Page 7	 	 OCEAN-CLIMATE GUIDE TO ACTION                                                         NRDC    OCEAN CONSERVANCY
+                                                                     © Russell Kord/Alamy
+
+
+
+
+Page 8	 	 OCEAN-CLIMATE GUIDE TO ACTION   NRDC   OCEAN CONSERVANCY
+GOVERNANCE AND FUNDING
+
+
+
+CALIFORNIA’S CAP-AND-TRADE PROGRAM AND CALIFORNIA
+CLIMATE INVESTMENTS
+
+
+
+C
+                    alifornia’s path to a cap-and-trade program formally began in 2006 with the passage of AB
+                    32, the nation’s first comprehensive climate change policy. AB 32, and subsequent climate
+                    legislation, set state greenhouse gas (GHG) emission reduction targets and charged the
+                    California Air Resources Board (CARB) with identifying strategies to meet those targets.5
+
+
+The cap-and-trade program is a key element of California’s
+climate plan. It sets a statewide limit on the GHG sources
+responsible for 85 percent of California’s emissions, with
+the limit declining over time. The program also establishes
+the carbon price signal needed to drive long-term
+investment in cleaner fuels and energy efficiency. CARB
+spent more than two years in a public process designing
+the initial cap-and-trade program.6 It considered other
+examples and structured California’s program to eliminate
+deficiencies that had plagued other initiatives.7 The result
+is an expansive cap-and-trade program that is regarded as
+one of the best designed in the world.
+In addition to placing a firm limit on GHG emissions,
+the cap-and-trade program also generates funds for the
+state. Each quarter, CARB holds an auction to sell a
+portion of cap-and-trade emissions allowances into the
+market. The proceeds from the sale of the state-owned
+emissions allowances are deposited into the Greenhouse
+Gas Reduction Fund, or GGRF, to be used by the state
+for California Climate Investments (CCI). In 2014, the
+California Legislature dedicated 60 percent of each cap-
+and-trade auction’s proceeds to reducing GHG emissions
+in the transportation sector.8 Portions of the funds are       Key Elements of Success
+also set aside for a manufacturer tax credit, certain          Two key factors have been critical to the success
+fire prevention activities, coastal adaptation, and safe       of California’s cap-and-trade program:
+drinking water protections.9 The remaining funds are           n	   bold leadership
+                                                                    
+
+appropriated on an annual basis to a suite of programs,
+spanning multiple sectors of the economy that facilitate       n	   thoughtful and detailed design
+                                                                    
+
+
+GHG emissions reductions. As required by statute, funds        Other jurisdictions considering a cap-and-trade program
+appropriated to CCI programs must be used to facilitate        should assess whether they can create the necessary
+GHG emission reductions, benefit priority populations,         leadership to drive implementation, whether and to what
+and maximize other environmental, public health, and           extent the California model or other models can serve the
+economic benefits. As of August 2019, almost $12 billion       jurisdiction, and what priorities and safeguards should
+in funding had been deposited into the GGRF. These have        be integrated into the program to help ensure political
+included funds for coastal planning.                           viability and long-term success.
+
+
+
+
+Page 9	 	 OCEAN-CLIMATE GUIDE TO ACTION                                                              NRDC   OCEAN CONSERVANCY
+                                                                      © Nature Picture Library via Alamy
+
+
+
+
+Page 10	 	 OCEAN-CLIMATE GUIDE TO ACTION   NRDC   OCEAN CONSERVANCY
+GOVERNANCE AND FUNDING
+
+
+
+FINANCING NATURAL RESOURCE INVESTMENTS WITH BONDS
+
+
+
+
+C
+                alifornia’s push to use bonds to finance investments in the state’s natural resources began
+                in the late 1920s but accelerated in the late 1980s when the state struggled through two
+                economic recessions. During those recessions it became clear that natural resource
+                investments would fall far down the list of budget priorities when state funds were
+                limited.10 In response to the need for dedicated funding, California state legislators and
+environmental advocates began working outside the state budget process to craft language for, campaign
+for, and work to implement natural resource bond measures.
+
+Since 1988 California voters have approved nearly $26.6      Other jurisdictions interested in pursuing bond funding
+billion in general obligation bonds for investment in a      for ocean and coastal climate adaptation work should
+broad range of natural resource projects through a series    compare the cost of financing general obligation bonds
+of successful statewide ballot measures.11 The most          with the cost of other potentially more sustainable and
+recently approved bond, Proposition 68 (2018), included      less expensive ways of investing in adaptation.14 Other
+more than $200 million for ocean, bay, and coastal           important considerations include the need to conduct
+protection programs, approximately 5 percent of the total    broad stakeholder outreach, and the jurisdiction’s
+$4 billion approved.12 California resource bonds often       willingness and capacity to oversee and administer
+include efforts to protect or restore coastal and ocean      funding when it becomes available.
+areas. The two resources bonds prior to that, Proposition
+1 (2014) and Proposition 84 (2006), allocated between 1
+to 8 percent in ocean and coastal work, with investments
+largely driven by legislative priorities, environmental
+advocates, and campaign donors.13
+Successful implementation of a natural resources bond
+requires tracking funding through the state budget process
+and monitoring funding program development; it may also
+include stakeholder advocacy to provide guidance on how
+to spend funds. Ideally, programs should be coordinated
+and leveraged across California’s state agencies.
+
+
+Key Elements of Success
+n	   Opinion research on voter priorities to guide ballot
+     
+
+     measure drafting
+n	   Environmental advocates with expertise to pursue
+     
+
+     dedicated funding for their priorities and capacity
+     to execute campaigns in support of bond measures
+n	   Ocean and coastal champions in the legislature
+     
+
+
+n	   Capacity of California state agencies to administer
+     
+
+     funding programs and projects in partnership with
+     community-based organizations
+n	   Strong public support for environmental protection
+     
+
+
+
+
+Page 11	 	 OCEAN-CLIMATE GUIDE TO ACTION                                                      NRDC    OCEAN CONSERVANCY
+                                                                      © Scott Sady/Alamy
+
+
+
+
+Page 12	 	 OCEAN-CLIMATE GUIDE TO ACTION   NRDC   OCEAN CONSERVANCY
+CHAPTER 2: MITIGATION
+
+
+
+PROMOTING BLUE CARBON SOLUTIONS TO MITIGATE
+CLIMATE CHANGE
+
+
+
+I
+          n 2015, Governor Jerry Brown proposed ambitious greenhouse gas reduction goals for the state
+          of California and called for policies that would use the carbon storage ability of natural and
+          working lands to help achieve those goals. In 2016 the California legislature reinforced this
+          vision by passing Senate Bill 1386, which identifies the preservation and enhancement of natural
+          carbon stores as a key strategy to reduce emissions.15 In 2019 the state released the draft 2030
+Natural and Working Lands Climate Change Implementation Plan.16 This plan sets out to double the pace
+and scale of wetland and seagrass conservation by 2030 and identifies a potential pathway to success.
+
+
+
+
+On an areal basis, coastal vegetated habitats, such as         Acidification and Hypoxia Reduction Program, the Ocean
+wetlands and seagrass beds, hold some of the highest           Protection Council, in consultation with the California
+concentrations of organic carbon of any ecosystem on           State Coastal Conservancy, was tasked with exploring
+the planet and serve as globally important sinks for           how submerged aquatic vegetation (e.g., seagrass beds
+carbon.17 Because California is pursuing an integrated         and kelp) might ameliorate ocean acidification and
+and multi-benefit approach to nature conservation,             hypoxia locally through photosynthesis.19 The resulting
+the state is prioritizing the conservation of these “blue      report, Emerging Understanding of the Potential Role of
+carbon” habitats, which offer numerous co-benefits             Seagrass and Kelp as an Ocean Acidification Management
+including increasing the capacity of coastal communities       Tool in California, is the first step toward developing
+to withstand the impacts of storms and sea-level rise,         local management strategies to reduce the risk of ocean
+providing critical nursery habitat for fishes, and improving   acidification in select coastal habitats.20
+water quality. Significant investments in wetland
+restoration are already underway in the San Joaquin
+Delta, for example, via the Wetlands Restoration for           Key Elements of Success
+Greenhouse Gas Reduction Program.18                            n	   Engagement of scientific experts, coastal partners,
+                                                                    
+
+                                                                    and leadership
+California is also exploring cutting-edge techniques
+to use natural habitats to mitigate the effects of ocean       n	   Education of policymakers on the specific attributes
+                                                                    
+
+
+acidification. With the passage of SB 1363, the Ocean               and benefits of a blue carbon approach
+
+
+
+Page 13	 	 OCEAN-CLIMATE GUIDE TO ACTION                                                           NRDC    OCEAN CONSERVANCY
+                                                                      © Jep Worthing /Alamy
+
+
+
+
+Page 14	 	 OCEAN-CLIMATE GUIDE TO ACTION   NRDC   OCEAN CONSERVANCY
+MITIGATION
+
+
+
+MARINE RENEWABLE ENERGY: FOSTERING OFFSHORE WIND
+DEVELOPMENT THROUGH MULTIAGENCY INITIATIVES
+
+
+
+C
+                alifornia’s renewable energy legislation—the California Global Warming Solutions Act—
+                became law in 2006. Spurred by California’s ambitious renewable energy targets, state
+                agencies began to evaluate how they could harness offshore winds and waves to produce
+                marine renewable energy alongside land-based renewables.21 By 2018, with legislation
+                requiring California to transition to 100 percent renewable energy by December 31, 2045,
+commercial and state interest in offshore wind development in California has increased greatly.22 Today
+the California Energy Commission (CEC) leads the state’s offshore wind efforts, and the Ocean Protection
+Council (OPC) works to ensure that any offshore wind development minimizes impacts to marine life,
+fisheries, and cultural resources.
+
+In 2010, OPC established the California Marine Renewable
+Energy Working Group (CMREWG). The CMREWG is
+comprised of state agencies working to improve regulatory
+coordination among state and federal agencies with
+jurisdiction relevant to marine renewable energy.23 In
+addition to addressing regulatory issues around offshore
+wind development, the working group is currently
+identifying and prioritizing information, research, and
+planning needs for permitting offshore wind energy
+projects.24
+In 2016 then governor Jerry Brown requested that the
+secretary of the U.S. Department of the Interior establish     Key Elements of Success
+a marine renewable energy task force, primarily in             n	   Creation of a California Intergovernmental Renewable
+                                                                    
+
+response to a proposal by Trident Winds LLC to build a              Energy Task Force with federal, state, and tribal
+765-megawatt wind farm on the Outer Continental Shelf.25            government participation to foster collaboration at
+The request was granted. California’s Intergovernmental             all levels of government
+Renewable Energy Task Force (RE Task Force), is a
+partnership of federal, state, tribal, and local governments
+                                                               n	   Legislation to set robust renewables and emissions
+                                                                    
+
+
+that is jointly led by the CEC and the Bureau of Ocean              reductions targets
+Energy Management (BOEM). The RE Task Force is a               n	   State leadership with money to invest in environmental
+                                                                    
+
+forum where members can offer critical information to               data collection, development of monitoring technology,
+inform planning efforts, raise concerns, share data, and            and marine renewable energy technology research
+identify information gaps.26 California’s RE Task Force
+                                                               n	   Government-funding for research institutions to
+                                                                    
+positions California to better influence BOEM’s Outer
+                                                                    undertake needed studies
+Continental Shelf leasing decisions.
+                                                               Jurisdictions that are contemplating advancing marine
+OPC is providing funding for a variety of studies, including
+                                                               renewables should consider how existing or new policies
+an offshore wind feasibility analysis for Northern
+                                                               might drive development of marine renewables, how to
+California, a synthesis of relevant environmental data for
+                                                               create leadership necessary to drive working group and
+Central and Northern California, and an assessment of
+                                                               task force products, how jurisdictions can partner with
+jobs that offshore wind could provide the state.27
+                                                               research institutions to acquire information needed to
+                                                               make decisions, and how to engage all parties in the
+                                                               process.
+
+
+
+Page 15	 	 OCEAN-CLIMATE GUIDE TO ACTION                                                           NRDC   OCEAN CONSERVANCY
+                                                                      © Leigh Green /Alamy
+
+
+
+
+Page 16	 	 OCEAN-CLIMATE GUIDE TO ACTION   NRDC   OCEAN CONSERVANCY
+MITIGATION
+
+
+
+REQUIRING CARGO SHIPS TO USE SHORESIDE POWER
+
+
+
+
+C
+                alifornia ports handle more than 40 percent of all inbound cargo containers to the entire
+                United States.28 Local pollution from port emissions presents a significant air quality
+                concern for communities because of the host of health problems to which these emissions
+                are linked.29 Pressure and litigation from communities to clean up the air led California
+                ports to consider options to reduce port pollution. The California Air Resources Board
+(CARB) evaluated cold ironing—that is, having ships plug into shore power—at various ports in 2006. In
+its analysis, CARB estimated that ship emissions would triple by 2020 under business as usual.30 But if
+modified dockside facilities could allow vessels to use shoreside power, diesel particulate matter (PM) and
+nitrogen oxides (NOx) emissions would decrease by 95 percent and CO2 emissions would decrease by 22 to
+38 percent.31
+
+In the late 2000s, the ports began implementing cold         Key Elements of Success
+ironing options.32 In 2007 CARB adopted the At-Berth         n	   Persistent pressure from stakeholders to reduce port
+                                                                  
+
+Regulation, applicable to the Ports of Los Angeles,               emissions and leadership to address environmental
+Long Beach, Oakland, San Diego, San Francisco,                    justice issues in near-port communities
+and Hueneme.33 The policy provides two options of
+compliance: either turning off the vessel’s engine and
+                                                             n	   Financial incentives for early adopters of the At-Berth
+                                                                  
+
+
+connecting to shore power, or using alternative technology        Regulation
+that reduces emissions to the same levels as cold ironing.   Jurisdictions considering a cold-ironing regulation should
+The regulation sets a phase-in compliance schedule with      keep in mind that California, beyond just creating a
+rates and dates detailing the changing requirements over     regulation, funded the early adoption of shore power and
+time.34 Phase-in began with a goal of 50 percent emissions   ship technology.
+reduction by 2014 and ramps up to a final goal of 80
+percent emissions reduction by 2020. To encourage early
+compliance, CARB created financial incentives through
+state grant funding. These changes have reduced the
+public health risk to neighboring communities and reduced
+regional emissions.35
+To enforce the At-Berth Regulation, enforcement staff
+conducts audits of vessel fleets. For example, CARB
+conducted 128 fleet audits from 2014 to 2016, reviewing
+more than 12,000 vessel port visits. 36 CARB has reported
+that, on average, ports in California have achieved their
+targets, with a 51 percent reduction of onboard auxiliary
+engine power use while at berth in 2015 and a 63 percent
+reduction in 2016.37 In 2016, simply by using electricity
+instead of diesel while at berth, fleets reduced NOx
+emissions by 4.3 tons per day and PM emissions by 0.066
+tons per day.38 CARB also estimates this policy reduces
+CO2 emissions in California by 0.5 million metric tons
+annually.39
+
+
+
+
+Page 17	 	 OCEAN-CLIMATE GUIDE TO ACTION                                                          NRDC   OCEAN CONSERVANCY
+                                                                      © Jae C. Hong/Associated Press
+
+
+
+
+Page 18	 	 OCEAN-CLIMATE GUIDE TO ACTION   NRDC   OCEAN CONSERVANCY
+MITIGATION
+
+
+
+CLEANER FUEL IN OCEAN-GOING VESSELS
+
+
+
+
+T
+                      he Fuel Sulfur Regulation, officially titled, “Fuel Sulfur and Other Operational
+                      Requirements for Ocean-Going Vessels (OGVs) within California Waters and 24 Nautical
+                      Miles of the California Baseline,” requires ships to transition to cleaner fuels before
+                      coming within 24 nautical miles (nm) of the California coast.40
+
+
+Despite opposition from the shipping industry, the
+California Environmental Protection Agency (CalEPA)
+and then governor Arnold Schwarzenegger advocated
+for the reduction of diesel pollution by requiring OGVs to
+burn cleaner fuel.41 In 2007, the state approved a two-
+phase policy to limit sulfur; however, after 14 months of
+successful implementation, the regulation was suspended
+due to a lawsuit brought by its opponents. A federal
+District Court ruled that the policy was preempted by
+the federal Clean Air Act; therefore California would
+need authorization from the U.S. EPA to enforce its
+separate emissions standards.42 At the same time, the
+Ports of Los Angeles and Long Beach played an active
+
+
+
+
+                                                                                                                                 © Miguel Amutio
+role in addressing shipping companies’ concerns about
+transitioning to lower-sulfur fuel. In 2008 the Ports
+launched a one-year program to pay the differential
+between the dirtier fuel and the low-sulfur fuel, saving the
+shipping companies money and incentivizing them to make
+the switch.43 Maersk also provided proof of concept for         CARB has investigated alternative methods of compliance
+other shippers by testing the lower-sulfur fuels.44             that may further reduce emissions. As of 2017, it began
+In 2008 the state pursued a new fuel sulfur regulation          offering a research exemption to OGVs that agree to test
+that would bypass the Clean Air Act by focusing on “use         an exhaust treatment device or other technology while
+and operational requirements” instead of an “emissions          using noncompliant fuel.48 This temporary exemption
+limit.”45                                                       encourages technological exploration by shipping lines to
+                                                                further reduce emissions of their own accord.
+Still, in 2011, the California Air Resources Board (CARB)
+found that many vessel operators avoided the added
+expense of the cleaner fuel by rerouting through parts of       Key Elements of Success
+the ocean outside the regulation boundary. Ultimately the       n	   Political leadership and funding to offer a proof
+                                                                     
+
+adjustment in these travel patterns resulted in increased            of concept before the regulation went into effect
+emissions. To address this issue, in 2011 CARB amended
+the policy’s regulatory boundary to better capture traffic.46
+                                                                n	   Penalties are set so it is cheaper to comply than
+                                                                     
+
+                                                                     to pay the fines
+California is now the world leader in enforcing marine
+fuel sulfur regulations. In 2017, 324 inspections were          Jurisdictions should be aware that vessels may attempt
+done; all but 10 ships met the 0.1 percent sulfur standard,     to change routes to avoid fuel switching and therefore
+for a compliance rate of 97 percent. The 10 failures were       increase emissions. Policymakers should also factor in
+assessed $87,500 in penalties.47                                a way for the regulatory zone to change, to allow for the
+                                                                possibility that shipping lanes could change.
+
+
+
+Page 19	 	 OCEAN-CLIMATE GUIDE TO ACTION                                                             NRDC    OCEAN CONSERVANCY
+                                                                     © Jae C. Hong/Associated Press
+
+
+
+
+Page 20		 OCEAN-CLIMATE GUIDE TO ACTION   NRDC   OCEAN CONSERVANCY
+MITIGATION
+
+
+
+VOLUNTARY VESSEL SPEED REDUCTION PROGRAM
+
+
+
+
+A
+                  voluntary Vessel Speed Reduction Program (VSRP) incentivizes ocean-going vessels to
+                  slow down while coming into California seaports in order to reduce emissions of climate
+                  pollutants. Ships participating in the VSRP have the option to reduce their speed at either
+                  40 nautical miles (nm) or 20 nm from shore.49 The first program of this kind in California
+                  stemmed from growing concerns about air pollution in areas surrounding California’s
+ports, particularly in the South Coast Air Basin.
+
+
+A broader action plan to bring the air basin into
+compliance with California’s quality air standards first
+focused on reducing nitrous oxide (NOx) emissions from
+ocean-going vessels entering and leaving California’s
+ports.50 It was then that the California Air Resources
+Board (CARB) and the U.S. Environmental Protection
+Agency (EPA) noticed reductions in NOx emissions when
+ocean-going vessels slowed for safety purposes when
+entering ports. When vessel speed was reduced from 24
+knots to 12 knots, NOx emissions dropped by as much as
+56 percent.51
+In 2001 the EPA, CARB, the Port of Los Angeles (POLA),
+the Port of Long Beach (POLB), shipping industry
+representatives, and the U.S. Navy entered into a
+memorandum of understanding outlining the first VSRP
+in California. The initial memorandum expired in 2004,
+but the POLA and the POLB have modified the VSRP
+to further reduce emissions and encourage voluntary
+participation with financial incentives.52 The POLA
+attributes much of its success in reducing vessel pollution
+to the VSRP strategy.
+                                                              The Ports of San Diego, San Francisco Bay, and the
+Although the desire to reduce NOx emissions drove             Santa Barbara Channel region have since adopted
+the initial policy, the program has brought about other       VSRPs to reduce air pollution and protect whale
+clean air and climate benefits.53 Between 2005 and 2016,      populations in the area.
+by implementing the VSRP and additional air quality
+improvement measures for ocean-going vessels, the
+POLA cut NOx emissions by 40 percent, diesel particulate      Key Elements of Success
+matter emissions by 90 percent, sulfur oxide emissions        n	   Creating a voluntary program with financial incentives
+                                                                   
+
+
+by 98 percent, and greenhouse gas emissions from ocean-            rather than a mandate, to reduce pushback from the
+going vessels by 28 percent.54 In 2018 the POLA found that         shipping industry
+91 percent of the more than 3,000 ocean-going vessels         n	   Providing proper incentives, realistic guidelines,
+                                                                   
+
+entering and leaving the harbor were slowing within a 20           and appropriate speed-tracking systems for program
+nm distance, and 85 percent within 40 nm.55                        implementation
+
+
+
+
+Page 21	 	 OCEAN-CLIMATE GUIDE TO ACTION                                                          NRDC   OCEAN CONSERVANCY
+                                                                      © Dennis Frates /Alamy
+
+
+
+
+Page 22	 	 OCEAN-CLIMATE GUIDE TO ACTION   NRDC   OCEAN CONSERVANCY
+CHAPTER 3: ADAPTATION
+
+
+
+ADOPTING A STATEWIDE CLIMATE ADAPTATION STRATEGY
+
+
+
+
+S
+                   purred by California’s first climate change assessment, a 2008 executive order directed
+                   state officials to develop a statewide adaptation strategy.56 The Safeguarding California
+                   Plan outlines adaptation goals across sectors including ocean and coastal resources.57
+                   Subsequently, a 2015 executive order required that the plan be updated every three years.58
+                   The state released its most recent assessment (its fourth) in 2018.59
+
+
+
+
+During the initial yearlong planning process in 2009, the      Key Elements of Success
+California Natural Resources Agency coordinated with 10        n	   Leadership from the governor, who directed state
+                                                                    
+
+other state agencies; scientists; a consulting team; local,         agencies to coordinate to address climate impacts
+regional, and federal government entities; and public               within their respective sectors
+stakeholders to develop and adopt the first statewide,
+multi-sector adaptation strategy in the United States.60
+                                                               n	   Significant existing resources, including California’s
+                                                                    
+
+
+This process has only expanded since then, with current             climate change assessments and experts, that allowed
+engagement even broader, more inclusive, and more                   the state to focus on solutions to known impacts
+coordinated; the ocean and coastal section of the 2018         n	   Codification and funding to ensure implementation
+                                                                    
+
+plan alone has contributions from a dozen state agencies.61         over the long term
+California’s adaptation plan is not a regulation of nonstate   A jurisdiction weighing a comprehensive adaptation
+entities. Instead it is a directive to state agencies to       plan might consider how to first understand the climate
+complete recommended adaptation actions relevant to            change impacts unique to its jurisdiction; how adaptation
+each agency’s existing mission and mandates; it outlines       efforts will complement mitigation efforts to increase
+ongoing actions and identifies next steps.                     resiliency; how to rally existing leadership and efforts and
+                                                               take advantage of infrastructure and legal mechanisms to
+                                                               implement recommended actions; and how it might fund
+                                                               implementation, including on-the-ground projects.
+
+
+Page 23	 	 OCEAN-CLIMATE GUIDE TO ACTION                                                           NRDC    OCEAN CONSERVANCY
+                                                                      © Brett Seymour/Submerged Resources Center
+
+
+
+
+Page 24	 	 OCEAN-CLIMATE GUIDE TO ACTION   NRDC   OCEAN CONSERVANCY
+ADAPTATION
+
+
+
+CREATING MARINE PROTECTED AREAS
+
+
+
+
+C
+               alifornia’s marine ecosystems are facing multiple, simultaneous climate change impacts,
+               including ocean acidification, hypoxia, marine heat waves, and disrupted patterns of
+               seasonal upwelling.62 These large-scale effects, combined with the more immediate
+               and local stresses of overfishing and land-based pollution, are putting the resilience of
+               California’s marine ecosystems at risk. Effectively managed Marine Protected Areas
+(MPAs) can help restore ecosystems and increase their ability to withstand the stresses of climate change
+and ocean acidification.63
+
+Since the early 1900s, California has used MPAs as a
+tool to preserve especially beautiful and biologically
+diverse locations along its coast. However, in 1999 the
+California Legislature identified the need to increase the
+state’s effectiveness in protecting marine life, habitats,
+and ecosystems and passed the Marine Life Protection
+Act.64 This legislation mandated that the state Fish
+
+
+
+
+                                                                                                                               © WaterFrame/Alamy
+and Game Commission and the California Department
+of Fish and Wildlife use the latest science to redesign
+and expand the state’s existing system of MPAs into a
+network that protects marine ecosystems and California’s
+natural heritage and provides improved recreational and
+educational opportunities. The law also required the
+state agencies to ensure effective MPA management and
+enforcement.                                                   work together to implement the state’s collaboratively
+                                                               developed MPA Management Program. The program,
+From 2004 to 2010, the state worked with a nonprofit           designed to facilitate adaptive management, emphasizes
+organization, the Resources Legacy Fund, to develop a          four major priorities: outreach and education,
+public–private implementation model called the Marine          enforcement and compliance, research and monitoring,
+Life Protection Act Initiative.65 The initiative relied in     and policy and permitting.67 Initial monitoring of the
+part on private funding from a philanthropic partner in        network shows signs of success with larger and more
+addition to state funding, pursued a phased approach to        numerous fish, especially in long established MPAs.68
+MPA design based on four coastal subregions, developed
+regional stakeholder groups, convened a Blue Ribbon
+Task Force composed of public policy experts to oversee        Key Elements of Success
+MPA design and evaluation, and created regional science        n	   A
+                                                                     strong directive in the law
+advisory teams to support MPA design. The process              n	   A
+                                                                     robust stakeholder engagement component
+resulted in a network of 124 MPAs on the coast from the
+Mexican border to Oregon, covering slightly more than 16       n	   Science
+                                                                           guidelines that outlined criteria for MPA
+percent of the state’s waters.66                                    design to maximize ecosystem benefits
+
+In 2014 the California Ocean Protection Council (OPC)          n	   Significant
+                                                                               funds to launch the effort and ongoing
+was designated as the state’s MPA policy lead. In that role,        funding to ensure management and enforcement
+OPC convenes a statewide MPA leadership team composed          n	   Regional
+                                                                            monitoring and management plans based on
+of members of 15 organizations representing state and               partnerships across government, nongovernmental
+federal government, California and Federal Indian                   organizations, California and Federal Indian tribes,
+tribes, local community experts, and philanthropies that            and others
+
+
+Page 25	 	 OCEAN-CLIMATE GUIDE TO ACTION                                                            NRDC   OCEAN CONSERVANCY
+                                                                     © Emily Walter
+
+
+
+
+Page 26		 OCEAN-CLIMATE GUIDE TO ACTION   NRDC   OCEAN CONSERVANCY
+ADAPTATION
+
+
+
+PREPARING FOR SEA LEVEL RISE
+
+
+
+
+S
+                   e a level rise (SLR) poses a large threat to California’s economy, infrastructure, and natural
+                    resources. Recognizing this, Governor Arnold Schwarzenegger in 2008 required state
+                    agencies to coordinate a plan to adapt to SLR.69 In response, state agencies produced the
+                    first California SLR guidance in 2010, requiring state agencies to support the development
+                    of best-available SLR projections, and rely on these projections in their decision-making
+                    processes.70
+
+The United Nations Intergovernmental Panel on Climate
+Change report issued in 2014 warned that at least
+some amount of sea level rise would be unavoidable.71
+
+
+
+
+                                                                                                                               © Al Seib/Los Angeles Times via Getty
+Drawing from the call to action in that report, in 2015
+then governor Jerry Brown established new interim
+statewide greenhouse gas reduction goals and ordered
+state agencies to factor climate change into their planning
+and investment decisions.72 That same year the legislature
+passed SB 379, a bill that required local governments to
+incorporate climate adaptation and resiliency strategies
+into the safety element of their general plans, as well as
+SB 246, which created the Integrated Climate Adaptation
+and Resiliency Program to coordinate local and state
+adaptation strategies.73
+SB 379 requires local governments to conduct a                 Key Elements of Success
+vulnerability assessment of climate change risks, set          n	   Dedicated state agencies
+                                                                    
+
+
+adaptation and resilience goals based on that assessment,      n	   Access to scientific research, data, and information
+                                                                    
+
+and design an implementation process to achieve the
+adaptation goals.74 With the passage of SB 379, new            n	   Commitment to updating guidance and adaptation
+                                                                    
+
+
+direction from the governor, and increased scientific               recommendations based on the best available science.
+understanding of SLR, the Ocean Protection Council             n	   Funding mechanisms available at the state and local
+                                                                    
+
+released a 2018 update to the state’s SLR guidance. The             levels to support SLR adaptation work
+update included revised SLR projections, a step-by-step
+approach for state agencies and local governments to use       A jurisdiction weighing how to best prepare for SLR might
+in integrating those projections into risk analyses and        consider the unique hazards that SLR presents to its
+planning, and recommended adaptation strategies.75,76          population and resources, seek to understand what role
+                                                               leadership might play in coordinating cross-sector efforts,
+                                                               develop a suite of tools to assist local governments in their
+                                                               planning efforts, provide access to best-available science
+                                                               and require it as a basis for decision making, and identify
+                                                               funds or funding mechanisms to allow ongoing support for
+                                                               research and on-the-ground projects that address SLR.
+
+
+
+
+Page 27	 	 OCEAN-CLIMATE GUIDE TO ACTION                                                            NRDC   OCEAN CONSERVANCY
+                                                                     © Benjamin Drummond
+                                                                     © Eric Heupel
+
+
+
+
+Page 28		 OCEAN-CLIMATE GUIDE TO ACTION   NRDC   OCEAN CONSERVANCY
+ADAPTATION
+
+
+ADDRESSING THE THREAT OF OCEAN ACIDIFICATION
+AND HYPOXIA
+
+
+
+I
+           n 2007 the U.S. West Coast shellfish industry noticed a dramatic increase in oyster larva mortality
+           in commercial hatcheries. The shellfish growers joined forces with government and academic
+           scientists and determined that the larval die-offs occurred when the seawater flowing into
+           aquaculture facilities had low pH and carbonate availability, indicating that ocean acidification was
+           the culprit.77 This was later verified with meticulous collaborative research.
+
+Ocean acidification (OA) is the progressive change in          Coast institutions that is tasked with ensuring that the
+ocean chemistry as excess carbon dioxide from the burning      state’s OA and Hypoxia Reduction Program is based on
+of fossil fuels dissolves into the sea, forming an acid. The   the best available science. In 2018 an Ocean Acidification
+California Current is naturally more acidic and lower          Action Plan was adopted, outlining a 10-year vision for
+in oxygen (i.e., more hypoxic) than most ocean surface         addressing ocean acidification in California’s waters and
+waters because seasonal upwelling brings CO2-enriched          a series of pragmatic actions to work toward that vision.83
+waters to the surface. These natural conditions make           Implementation priorities for the next five years include
+California’s waters particularly vulnerable to climate-        developing a monitoring system with publicly accessible
+driven ocean acidification and hypoxia (OAH).78                data; mitigating CO2 emissions and reducing nutrient
+                                                               pollution that can exacerbate OA locally; and mitigating
+Recognizing the risk that ocean acidification poses to
+                                                               aquatic CO2 by preserving seagrass meadows, salt
+their industry, shellfish growers created alliances with
+                                                               marshes, and kelp forests.
+West Coast scientists to accelerate their understanding of
+the threat and to communicate concerns to government           California’s work on OA and hypoxia has been facilitated
+officials. In 2010 a grassroots network of industry            and strengthened by the Pacific Coast Collaborative, a
+stakeholders and researchers developed the California          network of West Coast governance jurisdictions that are
+Current Acidification Network.79                               working together to build a low-carbon economy. As an
+                                                               early member of its West Coast OAH Monitoring Network,
+In 2012 the governor of Washington, Christine Gregoire,
+                                                               California has contributed to and benefited from its
+created the Washington State Blue Ribbon Panel on
+                                                               system-wide assessment and design of monitoring assets.
+Ocean Acidification, the first of its kind in the nation.80
+                                                               Similarly, California was a co-founding member of the
+Soon afterward, the California Ocean Protection Council
+                                                               International Alliance to Combat Ocean Acidification.
+recognized the need for a regional examination of OA
+                                                               This global alliance of more than 70 members shares
+and of climate-driven expansion of low-oxygen zones.
+                                                               information on local actions that can be taken to reduce
+The council asked California’s Ocean Science Trust to
+                                                               the threat of ocean acidification to industry and the
+assemble the West Coast Ocean Acidification & Hypoxia
+                                                               environment.
+Science Panel in partnership with Oregon, Washington,
+and British Columbia.
+Over two years, the panel of 20 leading scientists             Key Elements of Success
+developed and released a series of reports, culminating        n	   Regional
+                                                                             collaboration, particularly a network that
+in its Major Findings, Recommendations, and Actions.81              provides leadership, support, shared resources, and
+In 2016, in response to the panel’s recommendations, the            data collaboration and ensures that solutions are
+California Legislature passed two bills, one establishing           broadly effective
+an Ocean Acidification Science Task Force (AB 2139) and        n	   Ongoing
+                                                                           funding to support scientific research and
+the other creating an Ocean Acidification and Hypoxia               plan implementation
+Reduction Program (SB 1363).82
+                                                               n	   Communicating­
+                                                                                    —to legislators, state agencies,
+The Ocean Acidification and Hypoxia Science Task Force              ocean users, and the public—the negative effects of
+is an interdisciplinary team of scientists from West                acidification on state tourism and shellfish economies
+
+
+
+Page 29		 OCEAN-CLIMATE GUIDE TO ACTION                                                            NRDC    OCEAN CONSERVANCY
+                                                                     © Benjamin Drummond
+
+
+
+
+Page 30		 OCEAN-CLIMATE GUIDE TO ACTION   NRDC   OCEAN CONSERVANCY
+ADAPTATION
+
+
+
+ADAPTING FISHERIES MANAGEMENT TO THE EFFECTS OF
+CLIMATE CHANGE
+
+
+
+C
+                alifornia’s fishery resources are heavily influenced by the dynamics of the California
+                Current, which is believed to be changing as the result of climate change and ocean
+                acidification. Scientists have observed and predict a continuation of warmer summer
+                temperatures, altered patterns of upwelling, more frequent heat waves, more frequent
+                episodes of low-oxygen and lower-pH waters, and an increase in harmful algal blooms
+in the California Current and other eastern boundary upwelling systems.84 California fishermen are
+increasingly affected by these changes, as illustrated by recent closures in the Dungeness crab fishery
+due to harmful algal blooms.
+
+The Climate Adaptation Strategy mandated by former            Key Elements of Success
+governor Arnold Schwarzenegger in 2008 tasked the             n	   Regional academic and government experts to engage
+                                                                   
+
+Coastal and Ocean Resources Working Group—comprised                in forward thinking about traditional fisheries
+of senior staff from different agencies with marine and            management practices
+coastal resource management responsibilities—to identify
+management strategies that could address changing ocean
+                                                              n	   Routine review of the state’s fisheries policy
+                                                                   
+
+
+conditions, including potential alternative approaches             implementation to incorporate new solutions to
+to fisheries management dependent upon temperature                 the growing impacts of climate change
+regimes, protections for stressed species, or changes to
+fishing practices under low pH conditions.85
+In 2017, in response to growing concerns about the
+increasingly dramatic effects of climate change on marine
+ecosystems, the state assembled an expert scientific
+panel, a working group of the Ocean Protection Council
+Scientific Advisory Team (OPC-SAT), to examine what
+steps were needed to ready California’s fisheries for
+
+
+
+
+                                                                                                                            © Bridget Besaw/Cavan Images via Alamy
+climate change.86 The panel’s findings were used by the
+California Department of Fish and Wildlife to inform
+the Marine Life Management Act Master Plan revision.
+Several report recommendations were adopted in the
+amended Master Plan, including routinely addressing
+potential climate impacts in fishery management plans,
+conducting vulnerability assessments for affected fisheries
+and coastal communities, and increasing the use of
+management strategy evaluation in fisheries management
+to explicitly account for growing uncertainties.
+Although the plan adopted recommendations from OPC’s
+report, the state still needs to develop strategies and
+actions to implement them. This means California will
+need the best available scientific information and tools to
+create, improve, and enforce fishery management across
+the state.
+
+
+
+
+Page 31	 	 OCEAN-CLIMATE GUIDE TO ACTION                                                         NRDC   OCEAN CONSERVANCY
+                                                                      © iStock
+
+
+
+
+Page 32	 	 OCEAN-CLIMATE GUIDE TO ACTION   NRDC   OCEAN CONSERVANCY
+CONCLUSION
+
+
+
+
+                                                                                                                          © Richard Wong/Alamy
+T
+                      o combat ocean-climate impacts, California is reducing greenhouse gas emissions,
+                      building resiliency, and planning ahead for unavoidable consequences. The state’s climate
+                      programs and policies have been holistically successful, not only safeguarding the
+                      environment but also bolstering the overall economy, enriching communities, improving
+                      public health, and creating jobs.
+
+These accomplishments were built on a strong foundation      experiences as a starting point to address those
+of science, with state leadership and investment, and        challenges. This Ocean-Climate Guide to Action offers
+alongside partners who shared the goal of continuously       suggestions for beginning or augmenting this process.
+learning, improving, and sharing information to meet the     We hope it inspires further conversation and collaboration
+unprecedented challenge of climate change. California        to protect the oceans that ultimately sustain us all.
+continues to expand and develop programs on the ocean-
+                                                             For more information or additional references about
+climate nexus.
+                                                             solutions included in this guide, contact:
+Jurisdictions that are—or will soon be—facing ocean
+                                                             Lisa Suatoni, NRDC, lsuatoni@nrdc.org or Anna Zivian,
+climate-driven impacts could learn from California’s
+                                                             Ocean Conservancy, azivian@oceanconservancy.org.
+example, using lessons gleaned from the state’s
+
+
+
+
+Page 33	 	 OCEAN-CLIMATE GUIDE TO ACTION                                                      NRDC    OCEAN CONSERVANCY
+1	 Organisation for Economic Co-operation and Development, The Ocean Economy in 2030 (Paris: OECD Publishing, 2016), https://doi.org/10.1787/9789264251724-en.
+2	California Legislative Information, “PRC Division 26.5 California Ocean Protection Act,” 2004, http://leginfo.legislature.ca.gov/faces/codes_displayText.
+     xhtml?lawCode=PRC&division=26.5.&title=&part=&chapter=1.&article=
+3	The 2000 California Ocean Resources Stewardship Act (CORSA) directs how the OST board is populated. California Ocean Resources Stewardship Act of 2000 (CORSA), Added by Stats.
+     2000, Ch. 516, Sec. 1, effective January 1, 2001, http://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=PRC&division=27.&title=&part=&chapter=8.&article=1,
+4	Related to this element is California voter support for ocean health. A 2019 poll showed that 77 percent of California voters are concerned about the state’s ocean and coasts. Voters have
+     overwhelmingly supported bond measures to fund OPC, among other environmental initiatives. Mark Baldassare et al., “PPIC Statewide Survey: Californians and the Environment,” Public
+     Policy Institute of California, 2019, https://www.ppic.org/wp-content/uploads/ppic-statewide-survey-californians-and-the-environment-july-2019.pdf.
+5	SB 32 (Pavley, Chapter 249,Statutes of 2016), http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201520160SB32. SB 350 (De León, Chapter 547, Statutes of 2015), http://
+     leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201520160SB350. SB 375 (Steinberg, Chapter 728, Statutes of 2008), http://leginfo.legislature.ca.gov/faces/billNavClient.
+     xhtml?bill_id=200720080SB375. California Legislative Information, AB 32: California Global Warming Solutions Act of 2006, http://www.leginfo.ca.gov/pub/05-06/bill/asm/ab_0001-0050/
+     ab_32_bill_20060927_chaptered.pdf.
+6	California Climate Change, “Climate Action Team Working Groups,” https://www.climatechange.ca.gov/climate_action_team/working_groups.html, (accessed November 21, 2019). In
+     addition to public input, AB 32 and later legislation mandated that several groups made up of experts and stakeholders be formed to help advise CARB: the Environmental Justice Advisory
+     Committee, Economic and Technology Advancement Advisory Committee, Economic and Allocation Advisory Committee, Regional Targets Advisory Committee, and Market Advisory
+     Committee. Working groups from 10 sectors also provided input to CARB.
+7	Center for Climate and Energy Solutions, “California Cap and Trade,” https://www.c2es.org/content/california-cap-and-trade/, accessed November 21, 2019). Environmental Defense Fund,
+     “California’s Cap-and-Trade Program Step by Step,” https://www.edf.org/sites/default/files/californias-cap-and-trade-program-step-by-step.pdf.
+8	California Legislative Information, “SB-862 Greenhouse Gases: Emissions Reduction,” June 20, 2014, https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201320140SB862.
+9	Ibid. California State Legislature, Monning, SB 200 (Chapter 120, Statutes of 2019), http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201920200SB200; Legislative
+     Analyst’s Office, 2019-2020 Budget, Natural Resources and Environmental Protection, https://lao.ca.gov/Publications/Report/3933, accessed 11/25/20.
+10	Ocean and coastal climate adaptation programs could receive funding through the state general fund, the Greenhouse Gas Reduction Fund, and a mix of other small funding sources. However,
+     these sources also support high-priority education, housing, corrections, transportation, health care, mental health, and air quality improvement programs.
+11	Dollar amounts are totaled for California Propositions: 70 (1988), 204 (1996), 12 (2000), 13 (2000), 40 (2002), 50 (2002), 84 (2006), 1 (2014), and 68 (2018).California Ballot Propositions for
+     years 1988 – 2018, https://ballotpedia.org/California_1988_ballot_propositions; https://ballotpedia.org/California_1996_ballot_propositions; https://ballotpedia.org/California_2000_
+     ballot_propositions; https://ballotpedia.org/California_2002_ballot_propositions; https://ballotpedia.org/California_2006_ballot_propositions; https://ballotpedia.org/California_2014_
+     ballot_propositions; https://ballotpedia.org/California_2018_ballot_propositions.
+12	Kevin DeLeon, SB-5 California Drought, Water, Parks, Climate, Coastal Protection, and Outdoor Access For All Act of 2018, (2017-2018), https://leginfo.legislature.ca.gov/faces/
+     billTextClient.xhtml?bill_id=201720180SB5; California Department of Parks and Recreation, “Parks and Water Bond Act of 2018 (Proposition 68),” https://www.parks.ca.gov/?page_
+     id=29906.
+13	California Natural Resources Agency, Bond Accountability, Propositions 1 and 84, http://bondaccountability.resources.ca.gov.
+14	California Legislative Analyst’s Office, Bonds, https://lao.ca.gov/BallotAnalysis/Bonds.
+15	California Legislative Information, “SB-1386 Resource Conservation: Working and Natural Lands,” September 23, 2016, https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_
+     id=201520160SB1386.
+16	California Environmental Protection Agency, California Natural Resources Agency, California Department of Food & Agriculture, California Air Resources Board, and California Strategic
+     Growth Council, 2030 Natural and Working Lands Climate Change Implementation Plan, January 2019 draft, https://ww3.arb.ca.gov/cc/natandworkinglands/draft-nwl-ip-040419.pdf.
+17	Elizabeth Mcleod et al., “A Blueprint for Blue Carbon: Toward an Improved Understanding of the Role of Vegetated Coastal Habitats in Sequestering CO2,” Frontiers in Ecology and the
+     Environment 9, no. 10 (December 2011): 552-60, https://doi.org/10.1890/110004.
+18	Wetlands Restoration and Greenhouse Gas Reduction Program Website, https://www.wildlife.ca.gov/Conservation/Watersheds/Greenhouse-Gas-Reduction (accessed November 24, 2019).
+19	California Legislative Information, “SB-1363 Ocean Protection Council: Ocean Acidification and Hypoxia Reduction Program,” September 2016, https://leginfo.legislature.ca.gov/faces/
+     billTextClient.xhtml?bill_id=201520160SB1363.
+20	Karina Nielsen et al., Emerging Understanding of Seagrass and Kelp as an Ocean Acidification Management Tool in California, Ocean Protection Council and California Ocean Science Trust,
+     January 2018, http://www.oceansciencetrust.org/wp-content/uploads/2018/01/OA-SAV-emerging-findings-report-1.30.18.pdf.
+21	H. T. Harvey & Associates, “Developing Wave Energy in Coastal California: Potential Socio-Economic and Environmental Effects,” report prepared for California Energy Commission Public
+     Interest Energy Research Program and California Ocean Protection Council, November 2008, https://ww2.energy.ca.gov/2008publications/CEC-500-2008-083/CEC-500-2008-083.PDF.
+22	Bureau of Ocean Energy Management (hereinafter BOEM), “Nominations,” https://www.boem.gov/Nominations/, (accessed November 18. 2019).
+23	California Natural Resources Agency, “Memorandum of Understanding Between the Federal Energy Regulatory Commission and the California Natural Resources Agency, the California
+     Environmental Protection Agency and the California Public Utilities Commission Regarding Coordinated Review of Hydrokinetic Facility Authorizations in Marine Waters Within the State of
+     California,” May, 4, 2010, http://www.opc.ca.gov/webmaster/ftp/project_pages/energy/FERC_CA_MOU_05_17_2010.pdf.
+24	California Natural Resources Agency, “California Marine Renewable Energy Working Group,” http://www.opc.ca.gov/2010/05/offshore-wave-energy-development/,(accessed November 18.
+     2019).
+25	BOEM, “BOEM and State of California Launch California Offshore Renewable Energy Task Force: Meeting Initiates Planning for Ocean Renewable Energy Opportunities off California,”
+     October 13, 2016, https://www.boem.gov/press10132016/.
+26	BOEM, “California Offshore Renewable Energy: BOEM California Intergovernmental Renewable Energy Task Force,” February 22, 2017, https://www.boem.gov/BOEM-Offshore-Renewables-
+     Factsheet/.
+27	California Natural Resources Agency, “All Projects,” http://www.opc.ca.gov/all-projects/, (accessed November 18. 2019).
+28	Jon D. Haveman and David Hummels, “California’s Global Gateways: Trends and Issues,” (San Francisco, Public Policy Research Institute, 2004), vi.
+29	California Air Resources Board, “Fact Sheet: Maritime Ports and Air Quality,” November 2004, https://ww3.arb.ca.gov/ports/marinevess/documents/portfs111804.pdf.
+30	California Environmental Protection Agency, Air Resources Board, “Final Emission Reduction Plan for Ports and Goods Movement in California,” (April 20, 2006): 113-114, https://www.arb.
+     ca.gov/planning/gmerp/plan/final_plan.pdf#page=138.
+31	California Environmental Protection Agency, Air Resources Board, Stationary Source Division Project Assessment Branch, “Evaluation of Cold-Ironing Ocean-Going Vessels at California
+     Ports,” March 2009, https://ww3.arb.ca.gov/ports/marinevess/documents/coldironing0306/execsum.pdf.
+32	Ibid.
+33	California Air Resources Board, “Shore Power for Ocean-going Vessels,” https://ww3.arb.ca.gov/ports/shorepower/shorepower.htm (accessed November 13, 2019).
+34	California Air Resources Board, “2018 Annual Enforcement Report,” June 2019, https://ww2.arb.ca.gov/sites/default/files/2019-06/Enforcement%20Report%202018.pdf.
+35	San Pedro Bay Ports, “Clean Air Action Plan,” November 2017, https://www.lacity.org/sites/g/files/wph1196/f/final-2017-clean-air-action-plan-update_0.pdf.
+36	California Air Resources Board, “2017 Annual Enforcement Report,” June 2018, https://ww3.arb.ca.gov/enf/reports/2017_enf_annual_report.pdf.
+37	Ibid.
+38	Ibid.
+39	Ibid.
+40	California Air Resources Board, 13 CCR, section 2299.2. Fuel Sulfur and Other Operational Requirements for Ocean-going Vessels within California Waters and 24 Nautical Miles of the
+     California Baseline, https://ww3.arb.ca.gov/regact/2008/fuelogv08/fro13.pdf.
+41	California Air Resources Board, “2017 Annual Enforcement Report,” June 2018, https://www.arb.ca.gov/enf/reports/2017_enf_annual_report.pdf.
+42	Barry M. Hartman et al., “Ninth Circuit Holds That California’s ‘Marine Vessel Rules’ Are Preempted by Federal Clean Air Act,” K & L Gates, March 6, 2008,
+     http://www.klgates.com/ninth-circuit-holds-that-californias-marine-vessel-rules-are-preempted-by-federal-clean-air-act-03-06-2008/.
+43	Port of Long Beach, “Vessel Fuel Incentive Program Launched,” July 2008, http://www.polb.com/news/displaynews.asp?NewsID=401&TargetID=16.
+44	Maersk Line, “Pilot Fuel Switch Initiative,” in Maersk and APMT Environmental Initiatives,” June 18, 2008, https://www.northeastdiesel.org/pdf/workgroup/
+     MaerskFuelSwitchAPMTPMTNEDC.pdf.
+45	California Air Resources Board (hereinafter CARB), Stationary Source Division Project Assessment Branch, “Initial Statement of Reasons for Proposed Rulemaking: Fuel Sulfur and Other
+     Operational Requirements for Ocean-Going Vessels Within California Waters and 24 Nautical Miles of the California Baseline,” June 2008, https://www.arb.ca.gov/regact/2008/fuelogv08/
+     ISORfuelogv08.pdf.
+46	CARB, Marine Notice 2011-1, “Amendments to the California Regulation on Fuel Sulfur and Other Operational Requirements for Ocean-Going Vessels within California Waters and 24
+     Nautical Miles of the California Baseline,” September 1, 2011, https://www.arb.ca.gov/ports/marinevess/documents/marinenote2011_1.pdf.
+47	CARB, “2017 Annual Enforcement Report.”
+48	CARB, Marine Notice 2017-1, “Advisory to Owners or Operators of Ocean-Going Vessels Visiting California Ports: Guidance for the Use of the Temporary Experimental or Research
+     Exemption in the California Ocean-Going Vessel Fuel Regulation,” August 2017, https://www.arb.ca.gov/ports/marinevess/documents/marinenote2017_1.pdf.
+
+
+
+Page 34	 	 OCEAN-CLIMATE GUIDE TO ACTION                                                                                                                     NRDC       OCEAN CONSERVANCY
+49	Port of Los Angeles, “Vessel Speed Reduction Program,” https://www.portoflosangeles.org/environment/air-quality/vessel-speed-reduction-program, (accessed November 8, 2019).
+50	U.S. Environmental Protection Agency, Air and Radiation, Environmental Fact Sheet, “Reducing Marine Vessel and Port Emissions in the South Coast,” July 1996, https://nepis.epa.gov/Exe/
+      ZyPDF.cgi/P100B3GG.PDF?Dockey=P100B3GG.PDF.
+51	J. Wayne Miller et al., “In-use Emissions Test Program at VSR Speeds for Oceangoing Container Ship,” June 2012, https://ww3.arb.ca.gov/ports/marinevess/vsr/docs/vsr.pdf.
+52	San Pedro Ports, Clean Air Action Plan 2017: Final Clean Air Action Plan Update, November 2017, http://www.cleanairactionplan.org/documents/final-2017-clean-air-action-plan-update.pdf/.
+53	Slowing an ocean-going vessel from 24 knots to 12 knots results in a CO2 emissions reduction of approximately 60 percent. This also reduces sulfur oxide (SOx) and diesel particulate matter
+      (diesel PM) emissions. See J. Wayne Miller et al. “In-Use Emissions Test Program at VSR Speeds for Oceangoing Container Ship,” prepared for California Air Resources Board, June 2012,
+      https://ww3.arb.ca.gov/ports/marinevess/vsr/docs/vsr.pdf.
+54	Starcrest Consulting Group, LLC., “Port of Los Angeles Inventory of Air Emissions—2015,” prepared for the Port of Los Angeles, July 2016, https://kentico.portoflosangeles.org/getmedia/
+      dfa9ca66-0f23-40ce-9430-6e95440f8de2/2015_Air_Emissions_Inventory.
+55	Port of Los Angeles, “Vessel Speed Reduction Summary Report—2018,” 2018. https://kentico.portoflosangeles.org/getmedia/5ec34b92-1f9c-4d3c-8c07-bbecc7857974/VSR-01-01-2018-to-12-
+      31-2018-Operator-Summary, (accessed November 25, 2019).
+56	California Executive Order S-18-08, http://www.climatestrategies.us/library/library/view/293 (accessed November 14, 2019). The first climate change assessment detailed climate impacts to
+      California. Dan Cayan et al., Scenarios of Climate Change in California: An Overview, California Climate Change Center, 2006, https://ww2.energy.ca.gov/2005publications/CEC-500-2005-
+      186/CEC-500-2005-186-SF.PDF, with further resources including appendices available at https://www.climatechange.ca.gov/climate_action_team/reports/first_assessment.html.The initial
+      AB 32 Scoping Plan outlined the state’s climate change mitigation measures. California Air Resources Board, Climate Change Scoping Plan: A Fr­amework for Change, 2006, https://ww3.arb.
+      ca.gov/cc/scopingplan/document/adopted_scoping_plan.pdf.
+57	Sectors include public health; biodiversity and habitat; oceans and coastal resources; water; agriculture; forestry; transportation; parks, recreation, and California culture; climate justice;
+      land use and community development; emergency management; and energy.
+58	California Executive Order B-30-15, https://www.ca.gov/archive/gov39/2015/04/29/news18938/ (accessed November 25, 2019).
+59	California Natural Resources Agency (hereinafter CNRA), Safeguarding California Plan: 2018 Update, California’s Climate Adaptation Strategy, January 2018, http://resources.ca.gov/docs/
+      climate/safeguarding/update2018/safeguarding-california-plan-2018-update.pdf.
+60	CNRA staff worked with other state resource management agencies to create seven sector-based Climate Adaptation Working Groups (CAWGs) made up of experts who focused on the
+      following areas: public health, ocean and coastal resources, water supply and flood protection, agriculture, forestry, biodiversity and habitat, and transportation and energy infrastructure. To
+      help ensure stakeholder participation, the CAWGs initiated a process that allowed for consultation with stakeholders through public workshops and review opportunities. See: CNRA, 2009
+      California Climate Adaptation Strategy: A Report to the Governor of the State of California in Response to Executive Order S-13-2008, 2009, http://resources.ca.gov/docs/climate/Statewide_
+      Adaptation_Strategy.pdf.
+61	See Safeguarding California Plan: 2018 Update, p. 16, for a timeline and highlights of California’s adaptation planning.
+62	Hans O. Pörtner et al., Special Report on the Ocean and Cryosphere in a Changing Climate, Intergovernmental Panel on Climate Change, 2019, https://www.ipcc.ch/srocc/home/. California
+      Natural Resources Agency, California Climate Adaptation Strategy: A Report to the Governor of the State of California in Response to Executive Order S-13-2008, 2009, http://resources.
+      ca.gov/docs/climate/Statewide_Adaptation_Strategy.pdf.
+63	Joanna R. Bernhardt and Heather M. Leslie, “Resilience to Climate Change in Coastal Marine Ecosystems,” Annual Review of Marine Science 5 (January 2013): 371–92, doi: 10.1146/annurev-
+      marine-121211-172411.
+64	California Legislative Information, Marine Life Protection Act, 1999, http://leginfo.legislature.ca.gov/faces/codes_displayText.
+      xhtml?lawCode=FGC&division=3.&title=&part=&chapter=10.5.&article=, (accessed November 25, 2019).
+65	Resources Legacy Fund Foundation, Securing California’s Ocean Legacy, 2013, http://www.resourceslegacyfund.org/wp-content/uploads/Securing_Californias_Ocean_Legacy_Final.pdf.
+66	Ibid.
+67	California Department of Fish and Wildlife, California Marine Life Protection Act Master Plan for Marine Protected Areas, adopted by the California Fish and Game Commission on August 24,
+      2016, www.wildlife.ca.gov/Conservation/Marine/MPAs/Master-Plan.
+68	Samantha Murray and Tyler T. Hee, “A Rising Tide: California’s Ongoing Commitment to Monitoring, Managing and Enforcing Its Marine Protected Areas,” Ocean & Coastal Management 182
+      (December 2019), https://doi.org/10.1016/j.ocecoaman.2019.104920.
+69	Adaptation Clearinghouse, “California Executive Order S-13-08 Requiring State Adaptation Strategy, November 2008, https://www.adaptationclearinghouse.org/resources/california-
+      executive-order-s-13-08-requiring-state-adaptation-strategy.html. Other evidence included the United Nations Intergovernmental Panel on Climate Change (hereinafter IPCC) 2007 Fourth
+      Assessment Report estimating the global impacts of climate change, and a University of California, Berkeley economic report showing California could suffer tens of billions of dollars in
+      damage if the state did not take action against climate change. IPCC, Climate Change 2007: Synthesis Report. Contribution of Working Groups I, II and III to the Fourth Assessment Report of
+      the Intergovernmental Panel on Climate Change, R. K. Pachauri and A. Reisinger, eds., 2007, https://www.ipcc.ch/report/ar4/syr/. David Roland-Holst and Fredrich Kahr, “California Climate
+      Risk and Response,” Executive Summary, November 2008, https://are.berkeley.edu/~dwrh/CERES_Web/Docs/ClimateRiskandResponse_ES.pdf.
+70	State of California, “State of California Sea-Level Rise Interim Guidance Document,” October 2010, http://opc.ca.gov/webmaster/ftp/pdf/agenda_items/20110311/12.SLR_Resolution/SLR-
+      Guidance-Document.pdf.
+71	IPCC, Climate Change 2014: Synthesis Report. Contribution of Working Groups I, II and III to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change, R. K. Pachauri and
+      L. A. Meyer, eds., 2015, https://www.ipcc.ch/site/assets/uploads/2018/02/SYR_AR5_FINAL_full.pdf.
+72	California Executive Order B-30-15 established “a new interim statewide greenhouse gas emission reduction target to reduce greenhouse gas emissions to 40 percent below 1990 levels by
+      2030 . . . in order to ensure California meets its target of reducing greenhouse gas emissions to 80 percent below 1990 levels by 2050.” California Executive Order B-30-15, April 2015, https://
+      www.ca.gov/archive/gov39/2015/04/29/news18938/.
+73	California SB 379, 2015, https://leginfo.Legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201520160SB379, California Legislative Information, “California SB 246 Climate Change
+      Adaptation,” October 2015, http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201520160SB246.
+74	The policy aligns the deadline for adoption with the revision timeline of the local general plans. Local governments with existing climate adaptation goals are able to summarize and reference
+      these in the safety element of the general plan instead of designing a new plan.
+75	There are two types of approaches to SLR projection research: scenario-based projections and probabilistic projections. Scenario-based SLR projections create a range of possible outcomes
+      estimated using different greenhouse gas emissions scenarios but do not analyze the likelihood of the various outcomes. The IPCC AR5 report (2015) created probabilistic SLR projections,
+      which estimate the likelihood of several SLR futures; the report also introduced new ice melt simulations. Although California updated its statewide SLR guidance document in 2013, the
+      2013 plan relied on scenario-based SLR projections. Many scientists favored the probabilistic SLR projections in IPCC AR5, and OPC has now established this as the norm. The updated SLR
+      guidance document was created in collaboration by the Ocean Protection Council, California Natural Resources Agency, Governor’s Office of Planning and Research, and California Ocean
+      Science Trust. See Gary Griggs et al. (California Ocean Protection Council Science Advisory Team Working Group), Rising Seas in California: An Update on Sea-Level Rise Science, California
+      Ocean Science Trust, April 2017, http://www.oceansciencetrust.org/wp-content/uploads/2017/04/OST-Sea-Level-Rising-Report-Final_Amended.pdf.
+76	Note that the state also has several interagency workgroups and initiatives, including the Coastal and Ocean Resources Working Group for the Climate Action Team, the State Coastal
+      Leadership Group on Sea-Level Rise, and the California Collaborative on Coastal Resilience.
+77	Alan Barton et al., “Impacts of Coastal Acidification on the Pacific Northwest Shellfish Industry and Adaptation Strategies Implemented in Response,” Oceanography 28, no. 2 (2015): 146-159,
+      http://dx.doi.org/10.5670/oceanog.2015.38.
+78	Richard Feely et al., “Evidence for Upwelling of Corrosive ‘Acidified’ Water Onto the Continental Shelf,” Science 320, no. 1 (2008): 490-492, http://dx.doi.org/10.1126/science.1155676.
+79	California Current Acidification Network, “Mission” page, https://c-can.info/, (accessed November 25, 2019).
+80	Washington State Blue Ribbon Panel on Ocean Acidification, Ocean Acidification: From Knowledge to Action, Washington State’s Strategic Response, H. Adelsman and L. Whitely Binder
+      (eds.), Washington Department of Ecology, Publication no. 12-01-015, November 2012, https://fortress.wa.gov/ecy/publications/documents/1201015.pdf.
+81	Francis Chan et al., The West Coast Ocean Acidification and Hypoxia Science Panel: Major Findings, Recommendations, and Actions. California Ocean Science Trust, April 2016. http://
+      westcoastoah.org/wp-content/uploads/2016/04/OAH-Panel-Key-Findings-Recommendations-and-Actions-4.4.16-FINAL.pdf.
+82	California Legislative Information, “AB-2139 Ocean Protection Council, Ocean Acidification and Hypoxia,” September 2016, https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_
+      id=201520160AB2139. California Legislative Information, “SB-1363 Ocean Protection Council: Ocean Acidification and Hypoxia Reduction Program,” September 2016, https://leginfo.
+      legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201520160SB1363.
+83	Ocean Protection Council, The State of California Ocean Acidification Action Plan, 2018. http://www.opc.ca.gov/webmaster/_media_library/2018/10/California-OA-Action-Plan-Final.pdf. 84
+      	Hans-Otto. Pörtner et al., Special Report on the Ocean and Cryosphere in a Changing Climate, Intergovernmental Panel on Climate Change, 2019, https://www.ipcc.ch/srocc/home/.
+85	California Natural Resources Agency, California Climate Adaptation Strategy: A Report to the Governor of the State of California in Response to Executive Order S-13-2008, 2009, http://
+      resources.ca.gov/docs/climate/Statewide_Adaptation_Strategy.pdf.
+86	Francisco Chavez et al., Readying California Fisheries for Climate Change, Climate Change and Fisheries Working Group and Ocean Science Trust, 2019, http://www.oceansciencetrust.org/
+      wp-content/uploads/2016/06/Climate-and-Fisheries_GuidanceDoc.pdf.
+
+
+
+
+Page 35	 	 OCEAN-CLIMATE GUIDE TO ACTION                                                                                                                       NRDC        OCEAN CONSERVANCY

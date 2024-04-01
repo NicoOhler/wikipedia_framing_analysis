@@ -1,0 +1,1113 @@
+RISING TO
+RESILIENCE
+A Practical Guide for
+Business & Nature
+                                                        This report was developed in part thanks to a deep and long-standing
+                                                           relationship with The Coca-Cola Company, whose willingness and
+                                                   resources helped WWF pilot our resilience strategy with the private sector.
+
+                                                        WWF is one of the world’s leading conservation organizations, working
+                                                       in nearly 100 countries for over half a century to help people and nature
+                                                   thrive. With the support of more than 5 million members worldwide, WWF
+                                                    is dedicated to delivering science-based solutions to preserve the diversity
+                                                      and abundance of life on Earth, halt the degradation of the environment
+                                                     and combat the climate crisis. Visit www.worldwildlife.org to learn more.
+
+
+                                                                                                                    Authors
+                                                                                                      David Kuhn (WWF-US)
+                                                                                                     Shaun Martin (WWF-US)
+                                                                                                     Ryan Bartlett (WWF-US)
+
+                                                                                             For more information contact:
+                                                                                     David Kuhn, Corporate Resilience Lead
+© Jason Houston / WWF-US
+
+                                                                                                   David.Kuhn@wwfus.org
+Cover Photo © Vangmuang Phongphailath / WWF-Laos
+
+
+
+                                                   1
+                                                                           © Day’s Edge / WWF-US
+INTRODUCTION
+Climate change is amplifying and
+creating new risks for companies.
+As storms, droughts and heat waves become more frequent
+and severe, natural systems that provide the essential inputs to
+sustain production and ensure business continuity face ever-
+increasing threats. Companies must now ensure they are not
+only sustainable, but also “resilient” -- that is able to withstand,
+recover from, and adapt to changes in weather and climate.
+Companies can manage climate risks by building resilience in
+their supply chains, the communities where they operate, and the
+natural systems they rely upon. The purpose of this guidebook is
+to help companies understand where they are at risk from climate
+change and to begin to develop and refine strategies that build
+resilience to rapid, ongoing change by utilizing nature.
+
+Company awareness of the risks climate change poses to value
+chains, communities, infrastructure, nature and ultimately
+their business has grown significantly in recent years, owed, in
+large part, to the fact that climate impacts have become more
+quantifiable, dramatic, and costly1. A 2019 State of Green
+Business report also notes that consumer demand for action on
+climate change is becoming a factor driving a sharp increase in
+the awareness of climate risks among companies2. Companies
+are seeing the impacts of climate change on their profitability,
+sustainability, and reputation.
+
+
+
+
+                                                                       2
+                                     In response to increasing climate impacts and demand for action,
+
+   THERE IS AN URGENT NEED           companies are reporting on physical and transitional risks associated
+                                     with climate change, and around 80% of those engage in reducing
+
+   FOR CLEAR, AND ACTIONABLE         their emissions. While nearly every large company has significant
+
+
+   RISK MANAGEMENT GUIDANCE
+                                     plans to cut emissions, very few have plans to manage the current
+                                     and future climate change risks to their businesses beyond further
+
+   THAT IS GOOD FOR COMPANIES,       investment in business-as-usual sustainability programs.3 Yet
+                                     there is an increasing number of incidences of companies failing
+
+   SOCIETY AND THE PLANET            to respond to or mitigate social and environmental risks, from
+                                     environmental disasters to social conflicts over resource allocation
+                                     and use.4 Companies are often paralyzed by the complexities and
+                                     new uncertainties that climate change brings to traditional risk
+                                     management. More is required to address the root causes of system
+                                     failures and the amplification of risk that climate change will have on
+                                     companies and the systems on which they rely.
+
+                                     As companies increasingly turn their attention to addressing
+                                     climate risks, there is an urgent need for clear and actionable risk
+                                     management guidance that is good for companies, society and the
+                                     planet. While companies can report climate-related risk and risk
+                                     mitigation to platforms like the Task Force on Climate-related
+                                     Financial Disclosures (TCFD), there is no clear guidance on what to
+                                     report or how to mitigate risk that aligns resilience and sustainability
+                                     options. This lack of alignment is itself a serious risk to companies,
+                                     people and nature. It is important for companies to think not only
+                                     about the impacts of climate change on their supply chains, but also
+                                     the vulnerability of the communities and natural systems on which
+                                     we all depend for services and solutions. If companies misinterpret
+                                     risk and misalign action to contend with a narrow set of risks or goals,
+                                     they may compromise the broader health of the communities and
+                                     ecosystems they rely on for profit, productivity, and social license to
+                                     operate. The answers are not always simple and require commitment
+                                     and time, but developing solutions grounded in the resilience
+                                     principles detailed in this guidance can lead to durable benefits.
+
+
+© Tom Vierus / WWF-US
+
+
+                                 3
+WHAT DOES CLIMATE
+
+
+
+
+                                                                           © Shutterstock / Karl Hofman / WWFes
+CHANGE MEAN FOR
+COMPANIES?
+Companies have been disclosing information on their
+environmental, social and governance risks since the late 1990s.
+However, two factors have led to companies simply reporting
+
+
+
+
+  1
+issues rather than addressing the underlying problems.
+
+         The problems themselves are often
+         complex and often outside the direct
+         control of companies.
+
+
+
+
+  2      Companies tend to focus on a set of
+         narrowly defined risks in isolation
+         from one another.
+
+
+Investment in sustainability as a business practice, defined as the
+implementation of a business strategy that focuses on the ethical,
+social, environmental, cultural, and economic dimensions of
+doing business, can help a company understand the complexity of
+the problem.5 Corporate boards of some of the largest companies
+in the world are beginning to use sustainability as a measure of
+corporate health.6 However, sustainability is no longer a sufficient
+measure of health because climate change acts as a risk multiplier
+by increasing or exacerbating extremes and stresses, but also by
+the inherent uncertainty in its nature. The past is not the future
+and companies are now being forced to reassess how they look
+at risk as well as how they define sustainability. A sustainability
+strategy does not inherently make a company more resilient.
+
+
+
+                                                                       4
+Impacts of climate change on business
+According to one valuation, the value at risk as a result of climate change, to the       Climate change impacts can be categorized as shocks and stresses, or “acute”
+total global stock of manageable assets ranges from $4.2 trillion to $43 trillion         and “chronic”, and can be felt throughout the value chain. Acute risks such as
+between now and the end of the century. The 2015 study highlights that “much              severe storms, floods, and drought have immediate and apparent impacts on
+of the impact on future assets will come through weaker growth and lower asset            corporate operations, supply chains, customers, and communities. Chronic
+returns across the board.” Companies may not be able to avoid climate-related             risks, like sea level rise and desertification, are longer-term and will not
+risks by shifting value chains as climate change is a systemic issue. Climate
+                                                                      7
+                                                                                          disappear. TCFD has outlined the financial impacts of climate change for
+change affects everything. Companies are being forced to invest in longer-term            business (Figure 1), but there are broader implications from climate change
+strategies and solutions at scale. Organizations that invest in activities and            for companies beyond how it manifests in a traditional enterprise risk
+strategies that may not be viable in the longer term due to climate risks are thus        management (ERM) report.
+less resilient; and their investors will likely experience lower returns.
+
+
+
+  Figure 1
+
+
+
+                                   RISKS                                                                                  OPPORTUNITIES
+
+                             TRANSITION                                                                                   Resource Efficiency
+                             Policy & Legal                                                                                   Energy Source
+                             Technology                               STRATEGIC PLANNING                                   Products/Services
+                             Market                                    RISK MANAGEMENT                                              Markets
+                             Reputation                                                                                           Resilience
+
+                             PHYSICAL
+                             Acute
+                             Chronic                                      FINANCIAL IMPACT
+
+
+
+
+                           Revenue                                                                                              Assets & Liabilities
+
+                                                           Income            Cash Flow                 Balance
+                                                          Statement          Statement                  Sheet
+                       Expenditures                                                                                             Capital & Financing
+
+
+                                                                                 Source
+
+                                                                                      5
+                                                                          © WWF / Simon Rawles
+Climate change not only directly impacts a company’s operations
+and supply chains, but affects a company’s health in other ways.
+Climate change impacts economies, communities and workforces
+through the spread of tropical diseases like malaria and dengue,
+which are moving poleward into new areas, and the appearance of
+novel pathogens not just for people but for livestock and wildlife.
+Plants become less nutritious, as more carbon dioxide in the
+atmosphere can decrease dietary iron, zinc, protein, and other
+macro- and micronutrients in certain crops. Lack of available
+clean water also has serious implications for human health and
+sanitation.
+
+Social license to operate is an essential part of a healthy business
+and it too can be affected by climate change. Profits alone do
+not create social license. “Without social legitimacy, companies
+might find it difficult to access physical inputs and financial capital
+as well as obtain permits and other resources to function.” A
+company is not only impacted by climate risk within its fence line,
+but also by how communities where they operate are impacted
+by climate change and how they respond to those impacts. A lack
+of awareness of the risks climate change poses to the broader
+landscape and communities can result in hitting the “panic” button
+when faced with an emergency or overwhelming stressor, and
+compromising investments in social legitimacy and environmental
+sustainability for immediate sourcing or rebuilding needs.
+Furthermore, if companies do not consider how communities
+are being impacted by climate change, they cannot plan to meet
+societal expectations that give them social license.
+
+Beyond risk to value chains and communities, consumers as well as
+                                                                                                          FOR BUSINESS AND
+governments are demanding more action. According to the 2019
+State of Green Business report, recent years have shown a sharp
+                                                                                                        SOCIETY, THE COST OF
+increase in the number of companies reporting customer-driven                                        INACTION HAS OUTPACED
+risks relating to climate change, led by young people. For business
+and society, the cost of inaction has outpaced the cost of action. 8                                     THE COST OF ACTION
+                                                                                                 6
+© naturepl.com / Andy Rouse / WWF
+
+
+
+
+                                               The Value of Ecosystems:
+                                               How should companies value
+                                               nature to build resilience?
+                                               Ecosystems themselves provide economic benefits and services to society and business.
+                                               Ecosystem services, such as pollination of crops, water filtration, flood mitigation, waste
+                                               decomposition, carbon sequestration and climate regulation are worth around $125 trillion
+                                               dollars annually. A recent paper by WWF, Natural Capital Project, and Global Trade
+                                               Analysis Project modeled the value loss of six ecosystem services at US$9.87 trillion in real
+                                               GDP by 2050, partly as a result of degradation.9 The degradation of ecosystems is hindering
+                                               their ability to provide services and resources, to keep our society and economy healthy. It is
+                                               for this reason that so many companies have developed sustainability strategies.
+
+                                               Nature is also humanity’s first line of defense against the impacts of climate change. But
+                                               climate change itself poses an immediate and existential threat to ecosystems. This has
+                                               direct impacts on our economy and potential to be prepared for changes. The consequences
+                                               of climate change and synergistic impacts on the natural world are particularly apparent
+                                               in the agricultural sector. Climate change could depress growth in global agriculture yields
+                                               up to 30% by 2050.10 And without resilient agriculture, crop failures and food insecurity
+                                               will likely lead to increased environmental degradation as companies shift production to
+                                               new locations and communities exploit natural resources to accommodate lost livelihoods
+                                               and incomes. We are at risk of finding ourselves in a negative feedback loop, where climate
+                                               change destroys our means of production and well-being, and in response we further
+                                               compromise the very ecosystems that are providing the same.
+
+                                               Climate change affects the entire globe, but its impacts are local and landscape dynamics
+                                               are complex. Ecosystems and people do not operate independently; they are parts of an
+     ECOSYSTEMS & PEOPLE DO NOT OPERATE        interdependent system, each influencing the health and viability of the other. Companies
+                                               and their supply chains are also integral parts of this system. To remain viable in the face
+     INDEPENDENTLY; THEY ARE PARTS OF AN       of growing risks and uncertainty, businesses will need to invest in broad, system-wide
+     INTERDEPENDENT SYSTEM, EACH INFLUENCING   solutions. Resilience is ultimately a property of systems and an individual company’s
+                                               resilience means little if the natural and social systems upon which it depends are disrupted
+     THE HEALTH AND VIABILITY OF THE OTHER     or fail. One of the best ways for business to become more resilient is to leverage nature.
+
+
+
+                                                          7
+Resilience & Companies
+WWF broadly defines climate resilience as: the ability of a social-ecological           While climate change amplifies existing risks, and creates new risks and greater
+system to absorb and recover from climate-related shocks and disturbances and           uncertainty, lack of a plan, contingencies, and inflexibility exacerbates or creates
+maintain functionality and services by adapting to chronic climate stressors,           its own risks as well. Platforms such as the Task Force on Climate-related
+and transform when necessary. For business, resilience means the ability to             Financial Disclosures (TCFD) have provided companies with the opportunity to
+achieve and maintain long-term goals in the face of shocks and stresses. It is          inform investors and insurers of climate risk with a consistent climate-related
+inherently about fostering understanding, responsiveness, learning, flexibility,        financial risk disclosure, opening the door to deeper understanding of climate
+and continuous improvement.                                                             risks and financial implications. Companies are developing plans to address
+                                                                                        their climate risk and taking action. But how companies take taking action
+Resilience means dealing with unidentified risks and considering adapting and
+                                                                                        matters.
+transforming. But companies can become resilient at the expense of people
+and nature, which would only compound risk and impacts. In order to survive             Investment in business as usual sustainability and reducing impact does not
+and thrive, companies need to take steps to guard ecosystems and ecosystem              fully help a company face a changing world. Companies now need to embrace
+services against degrading human activities as well as climate change.                  change and uncertainty. Being proactive and prepared can, if framed through
+Companies can avoid maladaptation and compromising long-term health                     a social-ecological lens, have financial benefits for companies as well as create
+and wellness of communities and the environment by framing their risk from              socio-ecological benefits and buffers. Companies are beginning to see the
+climate change in a socio-ecological context.                                           opportunities in climate change, from new products to expanding markets to
+                                                                                        marketing, and opportunities to do things better. Investments in nature are a
+Building resilience is a process that requires attention to complexity and
+                                                                                        way to do things better and meet multiple goals. They have proven to be a cost-
+consideration of system dynamics. Companies need to understand how they’re
+                                                                                        effective and smart way to act. And safeguarding those natural solutions
+organized to deal with complexity and uncertainty. They need new strategies to
+                                                                                        to the threats of climate change makes good business sense.
+address environmental, social, and supply chain turbulence, and to safeguard
+investments in sustainability from climate impacts while maximizing return on
+investment in sustainability.
+
+
+
+
+    FOR BUSINESS, RESILIENCE MEANS
+    THE ABILITY TO ACHIEVE AND
+    MAINTAIN LONG-TERM GOALS
+
+                                                            © Martin Harvey / WWF
+
+
+                                                                                    8
+RESILIENCE & SUSTAINABILITY
+Sustainability is the practice of reducing environmental impacts to ensure
+
+
+
+
+                                                                                       © Martin Harvey / WWF
+balance between natural resource use and replenishment, ultimately
+improving the quality of life and the bottom line. It often assumes a
+functioning and stable system. Rejecting the use of pesticides in agriculture
+because of their harmful effect on pollinators necessary for crop production
+can be considered a sustainability strategy. However, in doing so organic
+farmers may increase their vulnerability to outbreaks of new pests that are
+becoming more frequent with climate change. To protect crops from this
+emerging threat one needs a resilience strategy.
+
+Resilience is the practice of anticipating risks and designing strategies
+to mitigate those risks to ensure that systems maintain functionality (or
+profitability) in the face of destabilizing disruptions and chronic stresses. To
+build resilience to pest outbreaks organic farmers may begin planting pest-
+resistant strains of crops. They could also switch new entirely new crops or
+move production to new areas where the new pests are not yet present. Or
+they can begin using pesticides.
+
+Each of these options presents a dilemma. How can farmers (and companies)
+continue to pursue sustainability as they build resilience to emerging shocks
+and stresses? Pest resistance may come in the form of GMOs. New crops
+may require more water resources (and may not be as profitable). Moving to
+new areas could mean clearing natural forests and grasslands. And of course,
+using pesticides could be abandoning the sustainability strategy altogether.
+
+However, sustainability and resilience can work together. Sustainable
+practices can contribute to resilience, if they’re designed with socio-
+ecological resilience in mind. To address a broad number of risks and
+uncertainty, a company needs to plan to be resilient and sustainable.
+Companies committed to pursuing sustainability goals will face the same
+sorts of tradeoffs as they seek to build the resilience of their companies in
+the face of a rapidly changing climate, and will need to plan to minimize
+tradeoffs to achieve their goals.
+
+                                                                                   9
+                          WWF’s Principles of Resilience
+
+Avoid Harming Nature                     Use Nature to Help People                   Build Resilience for Nature
+Eﬀorts to build corporate resilience     Corporate resilience strategies should      Resilience strategies should not overlook the
+should pursue actions that help          consider the important contributions        signiﬁcant risks that climate change poses to
+mitigate risk without undermining        that nature provides to people,             nature, nor assume that sustainability eﬀorts
+valuable ecosystem services that         communities, and economies in               alone can build resilience to unprecedented
+provide important services to            reducing vulnerabilities to the impacts     climate shocks & stresses. Nature itself needs
+businesses and communities. In           of climate-related shocks and stresses.     to adapt to climate change. In fact, companies
+short, companies should not              Interventions that build upon nature’s      may need to strengthen their sustainability
+sacriﬁce their environmental             contributions to societal challenges like   goals to reduce pressure on nature as well as
+sustainability goals to build            climate change are called                   support “climate-smart” conservation
+resilience to climate-related risks.     Nature-based Solutions.                     interventions to ensure continued delivery of
+                                                                                     important services to people and businesses.
+
+
+EXAMPLE                                  EXAMPLE                                     EXAMPLE
+Removing a mangrove forest to build a    Natural wetlands can reduce ﬂood risks      Forests can help stop soil erosion, recharge ground-
+seawall to protect coastal assets will   through water retention during periods of   water and store carbon. But these services are lost
+result in the loss natural protection    high rainfall.                              when forests burn under increasing drought and
+from storm surge and sea level rise,                                                 heat. We must manage forests diﬀerently, some-
+loss of carbon storage potential, and                                                times even allowing new species of trees within
+habitat for ﬁsh nurseries that may be                                                forests, to help ensure their long-term viability.
+important to local communities.
+
+
+
+
+                                                                   10
+© Michel Gunther / WWF
+
+
+
+
+                                                                      These principles, which value nature and its contributions to the
+                                                                      social-ecological system in which companies operate, can help guide
+                                                                      companies as they develop resilience strategies to mitigate risks to
+                                                                      their profitability, reputation, social license to operate and to their
+                                                                      sustainability goals. As companies think about resilience, there are
+                                                                      a few things they should consider.
+
+                                                                      First, is that there are multiple definitions of resilience and all are
+                                                                      equally valid. Ecologists, engineers, sociologists, and public health
+                                                                      officials each have their own understanding of the concept and
+                                                                      apply it to different problems. Resilience is multi-dimensional,
+                                                                      depending on one’s vantage point and perspective. Furthermore,
+                                                                      building resilience for one group may come at the expense of
+                                                                      making others less resilient. A government might dam a river to
+                                                                      store water for its citizens in times of drought only to deprive its
+                                                                      neighbors downstream of the water resources they need.
+
+                                                                      Companies can be resilient in multiple ways. There are two broad
+                                                                      categories of resilience “general” and “specified.” General resilience
+                                                                      basically means “healthy.” When someone is healthy, they can
+                                                                      withstand and recover from a whole host of non-specific illnesses
+                                                                      and injuries. You can build general resilience by eating well,
+                                                                      exercising regularly, and avoiding unhealthy habits like smoking.
+                                                                      When you get a cold, you should bounce back faster than someone
+                                                                      who does not take care of themselves. But being in good overall
+                         A GOVERNMENT MIGHT DAM A RIVER TO            health does not mean you are immune to specific diseases like
+                                                                      Ebola, for example. For specific threats you need to build “specified
+                         STORE WATER FOR ITS CITIZENS IN TIMES        resilience.” Each year we are encouraged to get immunized for new
+
+                         OF DROUGHT ONLY TO DEPRIVE ITS
+                                                                      strains of flu. For threats like Ebola, society needs to take special
+                                                                      measures to prevent its spread.
+
+                         NEIGHBORS DOWNSTREAM OF THE
+                         WATER RESOURCES THEY NEED
+                                                                 11
+HOW SHOULD COMPANIES
+BUILD RESILIENCE?
+
+
+
+
+                                                                                                 © Aaron Gekoski / WWF-US
+As the previous section suggests, there are many ways to think about and build resilience
+depending on a company’s goals and the context in which it operates. Companies should
+build both general and specific resilience. They should invest in actions that build general
+resilience as well as specific resilience to identified threats to specific areas through
+targeted actions. Investments in resilience means a company is addressing general
+threats as well as specific threats brought about by climate change. And companies
+should use sustainability as a tool for building resilience. This line of thinking also offers
+opportunities. A company’s plan to address risk should involve actions that make business
+sense: investing in sustainability can lead to growth in a company’s top and bottom line.
+
+Resilience is a process, not an end goal. You cannot achieve resilience, only strive toward
+it. You cannot be resilient to everything all the time. Although quantifying risk and
+measuring resilience are challenging, companies can implement checklists and processes
+and incentivize solutions that build system resilience and help meet sustainability goals.
+To improve risk management and resilience building, companies can do things like use
+climate, environmental, and social information in risk screening; and gather information
+from landscapes and stakeholders in landscapes where the company operates. Companies
+can also develop and implement environmentally-conscious disaster risk management
+policies and practices. Extending time horizons in planning can help ensure the right
+kind of responsiveness and flexibility of businesses in landscapes. Encouraging and
+incentivizing the appropriate use of “nature-based solutions,” such as wetlands and
+forests, can help reduce the impacts of floods and recharge aquifers. And companies
+should rethink how natural resource management must account for the impact of climatic
+change on nature and recognize that nature itself is affected, by using climate information
+in planning nature-based solutions and incorporating scenario planning.
+
+WWF has developed a four step process to help companies identify key climate-related
+risks and develop solutions that help build resilience while valuing and supporting nature.
+
+
+
+                                                                                     12
+WWF’S FOUR STEP PROCESS                     STEP 01
+                                Assess Risk: Assembling Available
+                                Knowledge & Resources, Planning
+                                   for Change, & Developing a
+                                Long-Term Capacity for Informed,
+                                      Flexible Management
+
+
+
+
+                                            STEP 02
+                                     Develop a strategy to
+                                    manage for change, not
+                                       just persistence
+
+
+
+
+                                            STEP 03
+                                   Implement local solutions
+                                    that are nature-friendly,
+                                    responsive, and ﬂexible
+
+
+
+
+                                            STEP 04
+                                     Monitor, evaluate, and
+                                      adaptively manage
+
+
+
+© Aaron Gekoski / WWF-US
+
+
+
+                           13
+     1                  ASSESS RISK: Assembling Available Knowledge & Resources, Planning for
+                        Change, & Developing a Long-Term Capacity for Informed, Flexible Management
+The first step to better managing the growing climate risks that a business
+                                                                                          Figure 3
+
+
+faces is understanding those risks. The Task Force on Climate-related                                                                       Total freshwater withdrawn (cubic
+                                                                                                                Water Usage    Physical
+Financial Disclosures (TCFD) has opened the door to better understanding of                                                                 meters)
+
+climate risks and financial implications. But guidance is needed to assess the
+                                                                                                                                            Amount used per output scaling
+climate risks that are fundamental to business, particularly around strategic                                   Water
+                                                                                                                               Physical     factor (e.g., revenues, sales, units
+
+
+
+
+                                                                                              W AT ER
+                                                                                                                Intensity
+resilience that aligns with a company’s sustainability goals. This begins with                                                              produced (cubic meters)
+
+developing a process that identifies the right scope and framing when
+                                                                                                                                            Amount withdrawn from areas of
+assembling a risk assessment, knowledge and resources.                                                                                      high baseline water stress (cubic
+                                                                                                                Water Source   Physical     meters)
+                                                                                                                                            Amount treated and recycled (cubic
+Reassess Risk Analysis                                                                                                                      meters)
+
+
+                                                                                                                                            Percent of land by cover type (e.g.,
+While the TCFD asks an organization to “assess its climate-related risks and                                                                grassland, forest, cultivated, pas-
+                                                                                                                Land Cover     Physical
+opportunities within the context of its businesses, operations, and physical                                                                ture, urban)
+
+
+
+
+                                                                                              LA ND U S E
+                                                                                                                                            Annual change in cover type
+locations in order to determine potential financial implications,” it’s clear that
+things outside of a business’s walls will have impacts on the business. The                                                                 Percent of land used for agricultural
+                                                                                                                Land Use                    tillage, grazing practices, sustain-
+TFCD methodology outlines potential physical risks to business from climate                                     Practices
+                                                                                                                               Transition
+                                                                                                                                            ability practices or conservation
+change in Figure 3.                                                                                                                         practices
+
+
+Organizations need new strategies to deal with supply chain turbulence.
+
+
+                                                                                              L O CA TI O N
+                                                                                                                Coastal Zone   Physical     Locations within a coastal zone
+Traditional enterprise risk management (ERM) is too often simplistic, as each
+risk is identified and addressed independently, while complex and longer-
+                                                                                                                Flood Zone     Physical     Locations within a flood zone
+termed interactions are rarely considered. What is more, the focus is often on
+discrete events rather than gradual buildup of stresses. This approach doesn’t
+                                                                                                                                            Amount invested in developing
+prepare a company for when an unexpected event occurs or for an uncertain                                       R&D                         low-carbon products, services and/
+                                                                                          R ISK A D AP TI O N
+                                                                                           & M IT IGA T IO N
+
+
+
+
+                                                                                                                                            or technology
+future. Value chains and landscapes and the impacts of climate change on
+them are complex and dynamic in nature and require constant attention to                                                                    Amount invested in deployment
+sense vulnerabilities and to respond to unexpected shocks. Strengthening                                                                    of low-carbon technology, energy
+                                                                                                                CapEx                       efficiencies etc.
+resilience requires new and updated analytical tools as well as a cultural shift.                                                           Amount invested in resilience
+                                                                                                                                            capabilities
+
+
+
+                                                                                     14
+Define your scope in a way that is focused and intentional and explicitly considers natural resources
+The right risk framing and scope in risk analysis is essential. The scope of              action that does not take specific measures to protect your company as well
+risk analysis refers to what specifically is to be assessed. Risk analysis should         as natural capital. The answer should not be, “We want to build resilience to
+be a practice to inform decision-making; and defining your scope in a broad               climate change”, but rather broadly identified impacts on the previously defined
+context is meaningless if the ultimate goal is to develop and decide on solutions.        subject of your scope. When framing your risk analysis, a company should
+Therefore, analysis of a company’s vulnerability, exposure and adaptive capacity          consider shocks and stresses, past, current and future, and then prioritize
+should be applied to something defined and specific. The first question                   addressing the most impactful.
+companies should answer is, “What do I want to build the resilience
+                                                                                          Again, the framing of a risk analysis should underscore the company’s reliance
+of?” The company itself? A facility? It’s workforce and the communities where
+                                                                                          on communities and nature. Climate risk is a factor of three things: exposure,
+they live? The answer to this question should be focused and intentional, while
+                                                                                          vulnerability, and adaptive capacity. Companies need to understand these
+explicitly considering the landscape and landscape dynamics where solutions
+                                                                                          factors as they relate to the landscapes where they are grounded. What are the
+will be implemented.
+                                                                                          most influential impacts on the community that provides your workforce, or the
+The framing of risk analysis refers to what risks are considered and what                 ecosystem that nurtures and protects your water source? Natural capital and
+information is used to assess risk. The second question a company needs                   ecosystem services must be at the core of risk scope and framing, if a company
+to ask is, “What threats and impacts of climate change do I want to                       is to understand fundamental threats to landscapes, and therefore the health of
+build resilience to?” This should be broad without being overly general. If               their supply chains.
+the framing is too general, action can be scattered and unfocused, and lead to
+
+
+
+
+                                                                                                                                                                             © Ashley Cooper / Global Warming Images/ WWF-US
+ NATURAL CAPITAL AND
+ ECOSYSTEM SERVICES
+ MUST BE AT THE CORE OF
+ RISK SCOPE AND FRAMING
+
+                                                                                     15
+Assemble baseline information from local, national,                                                 A R T & S C I E N C E : General consensus says that both
+                                                                                                      must be leveraged in enterprise risk management
+and international sources
+Using the right information in risk analysis is key. Once a company
+has identified the scope and framing of a risk analysis, they must
+choose the right information to use to assess risks. There are two
+dominant risk management frameworks used globally: the COSO
+                                                                                         ART                                            SCIENCE
+Enterprise Risk Management Framework (2002) (Committee of                  Understanding the risks and their                                       Formal tools and techniques are
+                                                                           likely impacts on the business                                     important in order to systematically
+the Sponsoring Organizations of the Treadway Commission) and               requires an astute and often                                    identify, evaluate and monitor business
+the International Organization for Standardization (ISO) 31000             intuitive understanding of risk,                                         risks and theimpacts of any risk
+                                                                           strategy, and human behavior.                                     management strategies or initiatives.
+Risk Management Standard. However, over-reliance on the tools
+                                                                                                                                             Descision Trees • Monte Carlo • Value
+and techniques that are strictly quantitative and “science-based”              Intuition • People & Business
+                                                                                                                                             at Risk (VR) • Stress Testing • Scenario
+                                                                               Acumen • Industry
+or, conversely, qualitative and “intuition-driven” can result in some          Experience • "Gut Feeling"                                         Analysis • Forecasting • Modeling
+                                                                                                                                                  Uncertainty • Risk Quantification
+important risks being misinterpreted or unaccounted for. And
+if the information on climate risks to people and landscapes (see
+                                                                                From: WBCSD’s “Sustainability and enterprise risk management: The first step towards integration”
+ecosystems) is not considered, only part of the risk picture will be in
+focus.
+
+Therefore, it is important to consider interrelated risks, and risks on
+                                                                                        OLD ERM                                             NEW ERM
+a landscape-scale, use long-term climate information in risk analysis
+and expand time horizons, and use multiple sources and types of
+information in risk analysis.                                             Discrete information on                             Expand risk assessments to identify the extent
+                                                                          individual risks                                    to which climate shocks and stresses may
+The essential information needed for a valuable climate risk                                                                  adversely impact communities and ecosystems,
+                                                                                                                              and the impacts that future changes in the risks
+assessment can be grouped into three basic buckets: environment,
+                                                                                                                              of such events could have
+communities, and climate. Companies can use information already
+at their disposal or collect new information, but information             Internally managed                                  Consult outside authorities
+gathering should intentionally develop an understanding of context.
+Information gathering is an exercise in understanding, which can          Short-term                                          Extend risk analysis and planning time horizons
+
+help a company be proactive in their risk management. Baseline
+                                                                          Internally gathered                                 Assemble baseline information from local,
+information on historical climate patterns, current climate changes,      information                                         national, and international sources as well as
+and future projections could be collected from a variety of primary                                                           qualitative as well as quantitative data
+and secondary sources, including peer-reviewed journal articles
+                                                                          The data is being disclosed is                      Integrate risks into strategic and operational
+(where feasible), reports from local and national NGOs, hydro-met
+                                                                          not being used for internal                         planning
+services and agencies, and international sources.                         decision-making
+
+
+
+                                                                          16
+Focus on key vulnerabilities to people & places
+One vital source of information for risk analysis comes from the ground. It is    Companies can use the risk assessment to hone their framing. Given a better
+essential to include “bottom-up” or community, on-the-ground information          picture of climate risks, a company is better equipped to take intentional action
+and perspectives into risk analysis and management. Decision-scaling is a         that addresses specific threats. Once risks are assessed and the intention
+tool that can be used to allow the use of many climate projections to produce     is focused, a company then should develop strategies that address key
+best estimates of future climate risks. Decision-scaling links bottom-up          vulnerabilities in their value chain.
+vulnerability assessments and hazard identification with multiple sources of
+climate information, such as top-down climate projections and modeled data
+to estimate relative probabilities of hazards, yielding risk estimates.11
+
+Regardless of the approach or level of detail, most risk assessments should
+include:12
+
+
+  1     Evaluation of exposure, sensitivity, and adaptive capacity
+        of the ecosystem and communities.                                                                          KEY TAKEAWAYS
+  2     Analyses of observed (historical) and projected (future)
+        climate, land use, demography, and other important climate                                       •	 Define your scope in a way that is
+        and non-climate factors.                                                                            focused and intentional and explicitly
+ 3      Evaluation of changes that have already occurred in the
+        communities, ecosystem, or ecological process of interest.
+                                                                                                            considers natural resources
+
+                                                                                                         •	 Frame your assessment considering
+ 4      An objective scoring method to evaluate the relative
+        vulnerabilities.
+                                                                                                            system scale dynamics
+
+
+ 5
+                                                                                                         •	 Assemble baseline information from
+        Estimation of uncertainties of projected changes in both                                            local, national and international sources
+        climate and non-climate drivers of change. Uncertainty can
+                                                                                                         •	 Focus on key vulnerabilities to people
+        be estimated using expert knowledge or statistical variation.
+                                                                                                            and places
+
+  6     An analysis of spatial information available for the
+        potentially vulnerable areas.
+
+
+  7     Narratives that describe key information sources,
+         relevant ecological and geographical contexts, and
+        justifications for rankings.
+
+
+
+
+                                                                                 17
+       2                 DEVELOP A STRATEGY TO MANAGE FOR CHANGE,
+                         NOT JUST PERSISTENCE
+Using the risk information garnered in the risk analysis process, the next
+step in building resilience is developing or reassessing goals and strategy.
+Resilience and sustainability should be at the heart of commercial operations
+and investment decisions. With the right information, companies are
+equipped to develop forward-looking, climate-informed goals that engrain the
+resilience process and utilize a sustainability strategy to achieve their goals.
+While resilience and sustainability should be the foundation of any company’s
+broader plan, it is important to track how such a foundation is being built and
+develop how it can be achieved.
+
+Given the scale and magnitude of climate change impacts, sustainability goals
+that focus only on maintaining the persistence of existing systems may no
+longer be the best option. To utilize resilience as a risk management option,
+open and honest dialogue about potential climate futures is necessary when
+reviewing existing goals. Sustainability goals themselves often cannot be
+achieved without using climate information and “stress testing” or scenario-
+planning actions to meet them. Scenario-planning can provide insight into
+the effectiveness of policies and strategies.
+
+
+Develop robust strategies and targeted interventions aimed
+at supporting communities and landscapes
+Companies should look to existing management plans—e.g. water, supply
+chain, disaster preparedness and response, and evaluate them for their
+contribution to addressing climate risk. A very simple tool that allows for an
+easy screening of existing proposed actions is the A-B-C process. Actions,
+activities, or strategies are grouped into three basic categories:
+
+
+                                                                                        © Ryan Bartlett
+
+
+                                                                                   18
+     A       Actions that already address climate change risk or help
+             build climate resilience to some degree (like a disaster
+             response plan, for example, for existing risks that are
+                                                                                            Decision scaling and scenario planning are tools and processes that use regular
+                                                                                            stakeholder consultation alongside modeling analysis to determine ‘robust’—
+                                                                                            meaning they work under multiple futures—and optimal actions under a range
+             already worsening or will in the future due to climate change)                 of different climate and economic development scenarios. These tools help
+                                                                                            identify ‘win-wins’, or solutions that work for multiple stakeholders as well
+
+
+     B
+                                                                                            as strategies that will not be effective in any future. Not surprisingly, these
+             Actions whose success or failure depends on climate
+             change, but are not currently designed to address it                           tools allow for a range of levels of complexity, from more simple approaches
+                                                                                            evaluating fewer scenarios via mostly qualitative information to academic
+                                                                                            modeling exercises based on both qualitative and quantitative approaches where
+
+      C      Actions that have no relation to climate change
+             whatsoever
+                                                                                            economic performance is evaluated for specific proposed actions under multiple
+                                                                                            climate scenarios to determine the most ‘optimal’, ‘robust’ interventions that
+                                                                                            meet stakeholder priorities, are cost-efficient, and perform well under different
+It will often be the case that existing activities in already agreed upon plans and
+                                                                                            climate extremes. They are the logical next step in the risk strategy process from
+strategies are not sufficient to address the priority impacts, vulnerabilities, and
+                                                                                            the risk assessment.
+risks identified in the risk assessment. Additional activities directly related to
+already proposed activities may be necessary, so it is useful to think of them in           Just as the vulnerability and risk assessment process should evaluate system
+the context of the existing plans.                                                          scale factors, it is equally as important to tailor activities to multiple scales,
+                                                                                            from individual households and communities, to larger surrounding sub-
+Once this filtering process has been completed, internal discussions across
+                                                                                            watershed or basin, to engagement in platforms and roundtables. Community,
+relevant teams or key staff should follow a prioritization process for A or
+                                                                                            household, or business level actions are important to have demonstrable impact
+B actions and entirely new activities not included in any strategy that are
+                                                                                            in mitigating specific risks, while interventions will be necessary at larger
+most essential to either ramp up or develop anew. An obvious initial list of
+                                                                                            scales to build resilience to risks to entire systems. Examples run the spectrum,
+potential resilience priorities for a business would be existing top priorities for
+                                                                                            from localized rainwater harvesting or wells to increase supplies for local
+sustainable sourcing, water use, risk management, and any current plans for
+                                                                                            communities to large scale reforestation and restoration programs in upper
+disaster risk reduction and response. For entirely new actions or activities, a full
+                                                                                            watersheds to reduce sedimentation and increase groundwater infiltration. This
+project evaluation assessing the potential performance of the investment against
+                                                                                            is once again, where existing larger sustainability strategies or management
+multiple criteria may be necessary.
+                                                                                            plans—ie integrated watershed management plans—can provide a particularly
+                                                                                            useful backbone for local to landscape scale action.
+Use scenario planning to consider alternative climate
+futures when identifying options
+Scenarios are stories that describe potential futures. Scenario planning should
+be conducted throughout the risk analysis and decision-making process to                                  SCENARIOS ARE STORIES THAT
+determine the best path for action. It is not a onetime activity that yields final
+answers but a process to evaluate and inform decision-making on multiple                                  DESCRIBE POTENTIAL FUTURES
+stages and scales.
+
+                                                                                       19
+Select strategies by aligning options with desired
+outcomes of socio-ecological resilience                                            The WWF Water Risk Filter
+At a minimum, resilience strategies should respond directly to the                 Already a leading online tool for companies and investors to assess
+vulnerabilities, impacts, and risks. However, to truly assess the                  and respond to water risks, the WWF Water Risk Filter is expanding
+effectiveness of a proposed action requires some evaluation of its                 to provide forward-looking scenarios of water risks, based on
+performance under alternative future climate scenarios, i.e. by                    climate and socio-economic changes, and aligned with TCFD and EU
+determining its robustness. Without this step, there is no way to plan             NFRD recommendations. The Water Risk Filter scenarios are based
+for the often very high uncertainty of how climate change will affect              on the combination of the most relevant climate scenarios (IPCC
+systems. While there is more certainty about changes in temperature                Representative Concentration Pathways – RCP) and socio-economic
+and related heat extremes since they are and have been increasing                  scenarios (IIASA Shared Socioeconomic Pathways – SSP). More
+linearly since the industrial revolution (thus the term global warming),           specifically, these scenarios are based on climate impact ensemble
+it is much more scientifically difficult to project out future rainfall            projections that account for climate (e.g., temperature, precipitation)
+patterns, especially without 30 year observed data histories based on              and socio-economic variables (e.g., population, GDP), and represent
+spatial networks of weather stations that are often lacking in many                the consequences and effects of climate and socio-economic
+regions. To tackle this uncertainty, a wide variety of organizations are           changes on water resources. Learn more here.
+increasingly using scenario planning tools that have been employed
+since the 1960s by the private sector to be more flexible and adaptive
+to changing conditions, tailored to specific uncertainties of changing
+rainfall patterns and other future climate risks.
+
+There are a variety of tools and approaches to facilitate a scenario
+planning process, depending widely on the level of complexity, from
+complex economic optimization modeling and decision scaling to
+more basic discussion of priorities under alternative future climates.
+A simple approach is to organize a stakeholder consultation workshop
+representing key actors in the basin—for example through an existing
+watershed management planning process—and discuss resilience
+priorities and their likelihood of success under alternate climate futures.
+
+
+
+
+                                                                              20
+Restructure roles and processes to address climate resilience
+and sustainability
+While having the right risk analysis methodology is vital, it is equally important
+to have the right process and structure in place to respond to risk. This is another
+important part of the assessment phase to determine how you are able to respond
+and how you are planning. Internally, a company should undertake an audit of
+capacity to be prepared for climate events and can recover from them quickly,
+and in a way considers other longer-term goals and stakeholders.
+
+If we are espousing understanding, responsiveness, flexibility, and continuous
+                                                                                                   KEY TAKEAWAYS
+improvement, what does corporate structure look like in order to achieve this?
+Building capacity for climate resilience within a company requires the right                •	 Develop robust strategies and targeted
+structure and incentives. Sustainability teams and chief sustainability officers               interventions aimed at supporting
+are increasingly reporting directly to their CEO, giving them a direct line to                 communities and landscapes
+influencers are decision-makers who can create broad structural and cultural
+changes within a company.                                                                   •	 Use scenario planning to consider
+                                                                                               alternative climate futures when
+Regardless of where a sustainability team sits within a company, sustainability                identifying options
+goals should be clearly communicated throughout the company and the entire
+resilience process should be ingrained across teams.                                        •	 Select strategies by aligning options with
+                                                                                               desired outcomes of socio-ecological
+Use scenario planning to consider alternative climate futures                                  resilience
+
+when identifying options                                                                    •	 Restructure roles and processes
+                                                                                               to address climate resilience and
+The ultimate success of any resilience action plan will depend just as much
+                                                                                               sustainability
+on internal ownership and buy-in to the process as external stakeholder
+engagement. Climate change affects so many aspects of business operations,                  •	 Increase climate literacy within the
+including and beyond existing sustainability efforts, increasing awareness and                 professional workforce
+literacy in the larger workforce is a worthwhile investment of time and resources.
+There are a number of easy ways to begin this process, for example through
+hiring outside consultants to run a series of staff trainings, but engaging directly
+through a process of discussing existing work plans and strategies will have
+the greatest impact. Otherwise, it will continue to be seen as largely a “future
+problem”, rather than the immediate all-hands-on-deck challenge that it is.
+
+
+                                                                                       21
+       3                 IMPLEMENT LOCAL SOLUTIONS THAT ARE
+                         NATURE-FRIENDLY, RESPONSIVE, AND FLEXIBLE
+Implementing solutions requires a multi-faceted approach that prioritizes investment
+in Resilient Sustainability. There are essentially three basic types of interventions
+for building resilience to climate change: engineered approaches like infrastructure
+to control flooding or provide water; nature-based approaches that use ecosystems
+natural benefits for people that help reduce impacts from hazards like flooding,
+landslides, fires, or drought; or investments in human capacity like training programs
+to improve people’s ability to understand and manage risks. All three are critical
+components of any resilience plan, but nature-based solutions (NBS) are currently an
+underutilized solution that can provide multiple benefits for people and nature.
+
+The primary challenge in employing nature-based solutions is ensuring that
+they are most effective, and provide the most benefits, at larger scales; a
+local constructed wetland to capture pollution runoff and excess stormwater will still
+provide local benefits, but will not be as effective, especially for increasingly intense
+storms, as managing an entire watershed through protection and restoration of
+upstream forests or downstream wetlands.
+
+
+Use scenario-planning to evaluate effectiveness and resilience
+of nature-based solutions
+When prioritizing and potentially investing in NBS, it is especially important to
+consider how they are also directly vulnerable to climate change. Many NBS projects
+have failed because they failed to evaluate their effectiveness under climate change;
+for example, mangroves that were planted without considering rising sea levels, or
+reforestation with trees that immediately die due to extreme drought or flooding.
+Furthermore, the return on investment of a nature-based solution, or the resilience
+benefits they provide, is greater if those solutions are also stress-tested and designed
+based on climate projections of prioritized impacts.13
+
+                                                                                            © Thippakone Thammavongsa / WWF-Laos
+
+
+                                                                                      22
+Identify a range of options at both site and system scales                                   Build partnerships for resilience at scale
+Just as the vulnerability and risk assessment process should evaluate system                 Building partnerships is critical to help companies address their risks in
+scale factors, it is equally as important for companies to consider multiple                 deep and meaningful ways, and provide the scale needed to solve social and
+scales, from individual households and communities, to larger surrounding                    environmental problems. While there are some actions largely internal to a
+sub-watershed or basin. Community, household, or business level actions are                  business that will not require a regular process of stakeholder engagement,
+important to have demonstrable impact in reducing their specific risks, while                for example plant operations and maintenance, there are some risks and
+interventions will be necessary at larger scales to build resilience to risks and            interventions that can only be addressed in consultation and partnership with
+impacts that affect entire systems. Examples run the spectrum, including                     others. Furthermore, while companies must commit resources to solutions,
+localized rainwater harvesting or wells to increase freshwater supplies for local            partnerships are a way to optimize the use of and diversify resources that
+communities, as well as large scale reforestation and restoration programs                   provides potential for greater impact and sustainability.
+in upper watersheds to reduce sedimentation and increase groundwater
+infiltration. This is once again, where existing larger sustainability strategies or
+management plans—ie integrated watershed management plans—can provide a
+particularly useful backbone for local to landscape scale action.
+
+
+Evaluate intervention options that meet resilience criteria
+All operations are influenced by factors outside their borders. This is especially
+true with respect to climate impacts, which affect ecosystems at local and global
+                                                                                                                     KEY TAKEAWAYS
+scales. As a result, resilience options will also need to be effective across a broad
+range of scales. All proposed actions and interventions should be evaluated                              •	 Use scenario-planning to evaluate effectiveness
+against their general contribution to resilience for people, infrastructure,                                and resilience of nature-based solutions
+and nature. Regardless of the scale of the proposed activity, to ensure actions
+                                                                                                         •	 Identify a range of options at both site and
+will contribute to resilience, they must be assessed against specific identified
+                                                                                                            system scales
+vulnerabilities, impacts, and future risks.
+
+At a minimum, resilience actions should respond directly to the vulnerabilities,
+                                                                                                         •	 Evaluate project options that meet resilience
+impacts, and risks identified in previous steps. However, to truly assess the
+                                                                                                            criteria
+effectiveness of a proposed action requires some evaluation of its performance                           •	 Build partnerships for resilience at scale
+under alternative future climate scenarios; i.e. by determining its robustness.
+Without this step, there is no way to plan for the often very high uncertainty of                        •	 Invest in nature-based solutions
+climate change.
+
+
+
+
+                                                                                        23
+       4                 MONITOR, EVALUATE, AND ADAPTIVELY MANAGE
+
+
+
+
+                                                                                   © Antonio Busiello / WWF-US
+How do you know you are on the right track? There are a number of ways
+a company can track their progress in building resilience by evaluating
+implementation of the above steps which can provide companies a means
+of understanding their resilience gains. A company can audit how they are
+identifying, assessing, and managing climate-related risks and how they are
+integrated into the organization’s overall risk management.
+
+
+Measure your internal resilience process by assessing
+maturity
+Companies can benchmark success by how they do things like use
+climate, environmental, and social information in risk screening; gather
+information from landscapes and stakeholders on the ground; implement
+environmentally conscious disaster risk management policies and
+practices; and extend time horizons in planning. And reflected in those
+things, we should see the WWF’s 3 principles of resilience: don’t harm
+nature, use nature to help people, and help nature adapt. Because without
+these principles, and without focusing on landscapes, people and nature,
+a company’s response to climate change impacts could have unintended
+negative consequences for people and nature.
+
+Resilience is about maintaining progress in the face of shocks and
+stresses. The best way to know if your company is “resilient” is to look at
+performance in the face of a wide array of shocks and stresses. The second
+way a company can measure resilience is to measure their progress on
+meeting their goals. Companies should continue to measure progress on
+goals, while tracking shocks and stresses and measuring how well they’re
+doing. Same goals, different outcomes.
+
+
+
+                                                                              24
+Measure intervention resilience in a landscape
+The third way a company can measure resilience is through a simple benchmark in
+line with WWF’s resilience principles to measure if and how a company is doing all
+it can to avoid harming nature, investing in nature-based solutions, and how those
+solutions are holding up in the face of shocks and stresses. This is best applied at the
+intervention or landscape scale. While standards for certain commodities or natural
+resource management can be used as a measuring stick, particularly in regard to the
+first principle of doing no harm to nature, they are often insufficient if not coupled
+with actions based on climate information. Therefore it is important for a company to
+
+
+                                                                                                   KEY TAKEAWAYS
+expand their risk interventions to address specific resilience in landscapes.
+
+
+Be adaptive by testing, measuring, and enhancing work
+Constant reevaluation is essential when measuring resilience due to the substantial
+                                                                                            •	 Measure your internal resilience process
+uncertainties of future risks. Building resilience requires continually reviewing
+                                                                                               by assessing maturity
+new information and knowledge, re-assessing past assumptions, and stimulating
+learning. More collaborative processes can also help. Building partnerships is critical     •	 Measure project resilience in a landscape
+to addressing risks in deep and meaningful ways, and providing the scale needed to
+solve social and environmental problems.
+                                                                                            •	 Be adaptive by leveraging the resilience
+                                                                                               framework to test, measure and enhance
+                                                                                               work over time
+Create ongoing opportunities for knowledge exchange
+                                                                                            •	 Create ongoing opportunities for
+Creating open dialogue and knowledge exchange also strengthens a company’s social
+                                                                                               knowledge exchange
+license to operate. Social license to operate is an essential part of a healthy business.
+And profits alone do not create social license. Without social legitimacy, companies
+might find it difficult to access physical inputs and financial capital as well as obtain
+permits and other resources to function. A company is not only impacted by climate
+risk within its fenceline but by how communities are affected by climate change
+and how they respond to those effects on their lives and livelihoods. It is important
+for companies to create a space for dialogue and collaboration with stakeholders
+in a landscape. There are a range of advantages to a broad and well-functioning
+participation. An informed and well-functioning group has the potential to build trust
+and a shared understanding – both fundamental ingredients for collective action.
+
+
+
+                                                                                      25
+                                                            © Martin Harvey / WWF
+CONCLUSION
+Resilience is a practice in listening, learning, and
+adapting. This guidance itself is intended to be
+updated and expanded upon as we learn more
+about our changing world and relationships.
+Companies must play a central role in finding
+ways to help create a functioning economy
+and society in the face of unprecedented
+challenges and change without compromising
+the natural systems we all rely on for our health
+and wellbeing.  We know that nature is an
+integral part of the solution and can help us
+build resilience to climate change, but we must
+help nature too. The central philosophy that
+companies must now employ is that resilient
+nature, resilient landscapes, and resilient
+communities build resilient business.
+
+
+
+
+RESILIENT NATURE,
+RESILIENT LANDSCAPES,
+AND RESILIENT
+COMMUNITIES BUILD
+RESILIENT BUSINESS.
+                                                       26
+REFERENCES
+1.	   CDP. (2018). Global Climate Change Analysis 2018.                              10.	 Adapt Now: A global call for leadership on climate resilience. Global
+                                                                                           Commission on Adaptation. (2019)
+2.	   Greenbiz. (2019). State of Green Business.
+                                                                                     11.	 Brown, C., Ghile, Y., Laverty, M., and Li, K. (2012), Decision
+3.	   Weathering the Next Storm: A Closer Look at Business Resilience; Maher,
+                                                                                           scaling: Linking bottom-up vulnerability analysis with climate
+       Katy; Peace, Janet; C2ES (2015)
+                                                                                           projections in the water sector, Water Resour. Res., 48, W09537,
+4.	   Sustainability and enterprise risk management: The first step towards                doi:10.1029/2011WR011212.
+       integration; WBCSD (2016)
+                                                                                     12.	 Gross, John E., Woodley, Stephen, Welling, Leigh A., and Watson, James
+5.	   Maximising the Impact of Partnerships for the SDGs; Stibbe, D.T., Reid,              E.M. (eds.) (2016). Adapting to Climate Change: Guidance for protected
+       S., Gilbert, J.; The Partnering Initiative and UN DESA (2018)                       area managers and planners. Best Practice Protected Area Guidelines
+                                                                                           Series No. 24, Gland, Switzerland: IUCN. xviii + 129 pp
+6.	   https://www.politico.com/newsletters/the-long-game/2020/05/05/
+       pandemic-companies-rethink-saving-world-489074                                13.	 Kenneth R. Young & Sisimac Duchicela (2020): Abandoning
+                                                                                           Holocene Dreams: Proactive Biodiversity Conservation in a Changing
+7.	   The Economist Intelligence Unit, “The Cost of Inaction: Recognising the              World, Annals of the American Association of Geographers, DOI:
+       Value at Risk from Climate Change,” 2015.                                           10.1080/24694452.2020.1785833
+
+8.	   The Business Case For Climate Leadership: Amazon’s Social License
+       To Operate. Nives Dolsak and Aseem Prakash; https://www.forbes.
+       com/sites/prakashdolsak/2020/01/29/the-business-case-for-climate-
+       leadership-amazons-social-license-to-operate/#5a0076e4212a
+
+9.	   Roxburgh, T., Ellis, K., Johnson, J.A., Baldos, U.L., Hertel, T.,
+       Nootenboom, C., and Polasky, S. 2020. Global Futures: Assessing the
+       global economic impacts of environmental change to support policy-
+       making. Summary report, January 2020. https://www.wwf.org.uk/
+       globalfutures
+
+
+
+
+                                                                                27

@@ -1,0 +1,44 @@
+ Tuesday, October 6, 2020 - 04:00Z 725 mots
+
+BlackRock ETF thrusts climate change into political sphere
+Steve Johnson
+
+BlackRock has launched a sovereign bond ETF designed to weight countries on their level of risk from climate change, thrusting the debate over sustainable investment into the political sphere.
+
+Government debt from Germany, Spain, the Netherlands, Belgium and Ireland will be underweighted in the new ETF because of their higher greenhouse gas emissions or greater exposure to climate change risks.
+
+"Climate change could significantly impact government finances. We have argued that there is a link between climate change and creditworthiness," said Scott Harman, head of fixed income product management at FTSE Russell, which designed the index behind the fund. He added that it was the world's first climate ETF to track sovereign bonds.
+
+To date, the investment industry has largely focused on climate risk at the corporate level, with companies perceived as being particularly exposed to global warming seeing their equities and bonds shunned by those investing on the basis of environmental, social and governance (ESG) factors.
+
+Mr Harman said there was a chronic lack of climate change and ESG solutions in the sovereign space, "which is a big paradox because it's such a big market".
+
+BlackRock said 78 per cent of global fossil fuel reserves were owned by governments rather than private-sector companies.
+
+"To date, investors have considered climate risk from an equity or corporate debt perspective, despite the average allocation to government bonds in client portfolios being around 17 per cent," said Brett Olson, head of iShares fixed income, Emea, at BlackRock.
+
+"As a result, investors have overlooked the impact of climate change on their portfolios, without a robust solution to addressing climate risk within their government bond allocation."
+
+The iShares€ Govt Bond Climate Ucits ETF (SECD), which began trading on Frankfurt's Xetra bourse on Monday, is designed to help fill the void.
+
+Each country's benchmark weighting in the new index is calculated using three climate-risk "pillars".
+
+Transition risk reflects the work needed to be done by a country to meet the goal of limiting global temperature rise to 2 degrees Centigrade; physical risk represents a country's economic exposure to the physical effects of climate change; while resilience encapsulates a country's preparedness and the actions it is taking to cope with its climate-related risk exposure.
+
+FTSE Russell claims the index is 26 per cent better aligned to a 2 degrees Centigrade pathway than its equivalent plain vanilla eurozone government bond index, in which countries' weights are based on the size of their sovereign bond market. A portfolio built with the climate index would have 7 per cent lower greenhouse gas emissions than the traditional one, it added.
+
+Germany's weight in the climate risk-weighted index is only 12 per cent, compared to 18.7 per cent in the underlying benchmark. Hard coal and lignite, the most polluting grade of coal, accounted for 28.2 per cent of Germany's power production last year.
+
+The Netherlands' share falls from 4.8 per cent to just 0.22 per cent, reflecting the low-lying country's vulnerability to rising sea levels and the small size of its renewable energy sector, a factor that also cuts Ireland's weighting from 2 per cent to 0.25 per cent.
+
+Conversely France, with the continent's largest nuclear industry, sees its weight rise from 25.8 per cent in the underlying index to 34.9 per cent, while that of Finland, heavily reliant on nuclear and hydropower, almost triples to 4.2 per cent. Italy also scores highly.
+
+Mr Harman said FTSE Russell had "already had discussions with central banks keen to know their climate score", given that it could start to feed into appetite for their national debt.
+
+A separate climate version of FTSE's widely followed World Government Bond Index, not as yet tracked by any funds, underweights South Africa, Mexico, Poland, Australia and the US, while overweighting Scandinavian countries.
+
+The development comes amid concerns that the fund industry's unwillingness to criticise governments is holding back the expansion of ESG investment to the market for sovereign debt.
+
+However, Stephane Degroote, head of ETFs for the Emea region at FTSE Russell, said "investors are recognising that climate risk will impact on the macro and country level, not just the corporate level".
+
+"Research shows that little climate-related risk is priced into current government bond valuations. This is unlikely to continue in the long term," said Mr Olson.

@@ -1,0 +1,46 @@
+The Guardian (UK) (web site) 
+Wednesday, June 10, 2015 - 07:41 UTC -0400
+Safeguarding our sustainable future through the power of communications
+GeSI, the Global e-Sustainability Initiative, has just published, what in my view, is a truly groundbreaking piece of work. The report, SMARTer 2030: ICT Solutions to 21 stCentury Challenges, features some staggering numbers.
+
+Principally, that ICT could generate more than $6tn (?3.87tn) of additional revenue opportunity alongside $5tn (?3.23tn) in cost saving opportunities by 2030.
+
+What’s more, it identifies the potential for a near 20% cut in CO2 emissions by 2030 - all made possible by the smarter use of digital technologies such as smartphones, networked sensors, mobile applications and smart grids.
+
+Related: Focusing on purpose: new BT report sets out ambitious goals to 2020
+
+But for me, there are two things that make this report so much more than just another “abatement statement”. One, it’s the first study of its kind to examine the impact ICT can have on society, as well as the economy and the environment. Two, is that it identifies three key stakeholder groups and recommends priority actions they could take to help safeguard a sustainable, profitable future:
+
+Policymakers should set national CO 2targets, recognising the critical role of ICT, creating investment incentives to connect the unconnected. Businesses should recognise the growth and innovation opportunities made possible by ICT that make sustainable investments viable. Consumers should be encouraged to adopt technology solutions that promote resource efficiency.
+
+Essentially, SMARTer2030 tells us that the power of communications can help everyone live a better life. And the report is jam-packed with findings that help illustrate this. For example, it calculates that the roll-out of ICT could save up to 25bn barrels of oil, 332tn litres of water and 91m tons of paper.
+
+It also highlights a future in which 1.6 billion people have access to e-healthcare and half a billion will have access to e-learning solutions. And it says that the 2.5 billion people who do not have access to ICT-enabled services today could be connected by 2030.
+
+At the heart of the report is an examination of how ICT solutions can help make decoupling economic growth and carbon emissions an achievable goal. Historically, the link between GDP expansion, CO2 emissions and resource use has been very strong. In fact, for every 1% increase in GDP, CO2 emissions have generally risen by around 0.5% and resource intensity has risen by 0.4%.
+
+Related: 'The internet of things': what the man who coined the phrase has to say
+
+The modelling used in the SMARTERer2030 report is unpreceded in its range and depth. It paints a clear picture of how ICT can reshape the way we live, as well as reducing the impact that continued economic growth has on our environment.
+
+So, while ICT can be used to generate at least $6tn of additional economic opportunity by 2030, it can be done without adding to our resource or climate footprints, keeping CO2 emissions steady at today’s (2015) levels.
+
+BT is a long-time supporter of GeSI and a sponsor of SMARTer2013. The bold, disruptive statements it makes are of special interest to us in BT. A big part of this is because at BT we know that ICT can give us a triple win – namely tremendous social, economic and environmental benefits.
+
+We’ve also already proved how decoupling growth and emissions can support economic success. Our ambition is to help our customers cut their carbon emissions by at least three times our own carbon impact by 2020.
+
+The good news is that we are well on the way to achieving our goal. In March 2015 we reached a reduction ratio of 1.5:1.
+
+Last year, we saw our customers spend ?3.4bn on carbon abating BT products, services and solutions. These include cloud computing, which is a much more energy efficient way for businesses to manage their data needs. Meanwhile connectivity services like videoconferencing help minimise travel.
+
+Related: Can big data improve the lives of people in the developing world?
+
+Our products and services are also having a positive impact on society across the globe. A good example is BT’s Connecting Africa programme which has seen us connect 20 locations in nine African countries to the internet via satellite. We’ve also helped the charity SOS Children’s Villages to provide better education, healthcare and training to around 73,000 people.
+
+And we extended our pilot to provide high-speed Wi-Fi to tenants living in a housing association in Glasgow at a subsidised price and developed a shared internet service. Wi-Fi and satellite communications are among the ICT solutions discussed in the SMARTer2030 report - a report that says communications technology can make a better world.
+
+This is something that we at BT agree with wholeheartedly.
+
+So I hope that message and the whole of the SMARTer2030 report is debated with enthusiasm and optimism at The United Nations Climate Change Conference of the Parties (COP21) in Paris this December.
+
+Certainly, ICT Solutions to 21 stCentury Challenges should be essential reading for all policymakers attending the event. And let’s hope it inspires them to reach the right agreements and secure a more prosperous world for all of us.
