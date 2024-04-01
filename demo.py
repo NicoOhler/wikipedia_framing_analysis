@@ -171,7 +171,7 @@ def compareAll(scale, starts_with=""):
         compare.append(name)
     for i, df in enumerate(dfs):
         if len(df) != 1:
-            g = compare_plots(dfs[i], pairs[i], scale, compare= compare[i], save= True)
+            g = compare_plots(dfs[i], pairs[i], scale, compare= compare[i], save2= True)
             plt.title(f'Comparing {compare[i]}')
             print(f"\t\t- " + str({compare[i]}))
             plt.savefig("plots/Press_ONG_OIG_Climate_change/compare/" + compare[i] + ".png",bbox_inches='tight')
@@ -181,7 +181,7 @@ def compareAll(scale, starts_with=""):
             print(f"\t\tskipping- " + str({compare[i]}))
 
 
-def compare_plots(dfs, titles, scale, colors=list(mcolors.TABLEAU_COLORS),save = False, compare = None):
+def compare_plots(dfs, titles, scale, colors=list(mcolors.TABLEAU_COLORS),save = False, compare = None, save2 = False):
     name_left = dfs[0].columns.map(lambda x: x[1])
     name_right = dfs[0].columns.map(lambda x: x[0])
     means = [df.mean() for df in dfs]
@@ -204,6 +204,12 @@ def compare_plots(dfs, titles, scale, colors=list(mcolors.TABLEAU_COLORS),save =
             writer.writerow(["Harm", "Cheating", "Betrayal", "Subversion", "Degredation"])
             writer.writerow(framing_values)
             #writer.writerow(str(framing_values[0])+","+str(framing_values[1])+","+str(framing_values[2])+","+str(framing_values[3])+","+str(framing_values[4]))
+    if save2:
+        path = "dumps/df_dumps/grouped_by_name/grouped_by_" + compare + ".csv"
+        dfs[0].to_csv(path, index=False)
+        for df in dfs[1:]:
+            df.to_csv(path, index=False, header=False, mode='a')
+
     legend_entries = [mpatches.Patch(color=colors[0], label=titles[0])]
 
     fig = plt.figure()
@@ -228,11 +234,11 @@ def compare_plots(dfs, titles, scale, colors=list(mcolors.TABLEAU_COLORS),save =
 if __name__ == '__main__':
     frame = False
     custom_compare = True
-    sub_folders = True
+    sub_folders = False
     compare_all = False
     if frame:
         path_to_plt_directory = "plots/Press_ONG_OIG_Climate_change/"
-        directories_to_frame = ["data/Corpus-Presse","data/Corpus-ONG (NGOs)","data/Corpus-OIG (IGOs)"]
+        directories_to_frame = ["data/Corpus-OIG (IGOs)/test"]
         scaling = [0.1, 0.05, 0.075]
         debug1(sub_folders, scaling, directories_to_frame)
         if sub_folders:
@@ -241,12 +247,12 @@ if __name__ == '__main__':
             folder_names = []
             for folder_name in directories_to_frame:
                 folder_names.append(folder_name.split('/')[-1])
-        articles, article_names = processArticles(directories_to_frame, folder_names, True)
+        articles, article_names = processArticles(directories_to_frame, folder_names, False)
         processFraming(articles, article_names, path_to_plt_directory, scaling)
     if compare_all:
         scale = 0.1
         compareAll(scale)
     if custom_compare:
-        paths = ["dumps/df_dumps/grouped_by_name/grouped_by_IPCC.csv","dumps/df_dumps/grouped_by_name/grouped_by_USAToday.csv","dumps/df_dumps/grouped_by_name/grouped_by_NYT.csv","dumps/df_dumps/grouped_by_name/grouped_by_FT.csv"]
-        compareCustom(paths,0.1,title="IPCC vs NEWS")
+        paths = ["dumps/df_dumps/grouped_by_name/grouped_by_IPCC.csv","dumps/df_dumps/Presse_COP15.csv"]
+        compareCustom(paths,0.1,title="IPCC vs Press COP15")
     pass
