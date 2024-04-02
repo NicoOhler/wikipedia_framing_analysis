@@ -165,8 +165,9 @@ def compareCustom(df_paths, scale, custom_names=None, title=None):
     g = compare_plots(dfs, names, scale)
     plt.title(title)
     print(f"\t\t- " + str(title))
+    os.makedirs("plots/climate_discourse/", exist_ok=True)
     plt.savefig(
-        "plots/Press_ONG_OIG_Climate_change/custom_compare/" + title + ".png",
+        "plots/climate_discourse/" + title + ".png",
         bbox_inches="tight",
     )
     pickle.dump(
@@ -233,12 +234,22 @@ def compareAll(scale, starts_with=""):
             print(f"\t\tskipping- " + str({compare[i]}))
 
 
-def compare_plots(dfs, titles, scale, colors=None, save=False, compare=None, variance_influences_radius=True):
+def compare_plots(
+    dfs,
+    titles,
+    scale,
+    colors=None,
+    save=False,
+    compare=None,
+    variance_influences_radius=True,
+):
     labels_right, labels_left = zip(*pole_names)
     labels_right = labels_right[::-1]
     means = [df.mean() for df in dfs]
     intens = [
-        (df.var().fillna(0) + 0.001) * (50_000 if variance_influences_radius else 10_000) for df in dfs
+        (df.var().fillna(0) + 0.001)
+        * (50_000 if variance_influences_radius else 10_000)
+        for df in dfs
     ]
     if colors is None:
         colors = (
@@ -248,6 +259,7 @@ def compare_plots(dfs, titles, scale, colors=None, save=False, compare=None, var
         )
     if save:
         path = "dumps/df_dumps/grouped_by_name/grouped_by_" + compare + ".csv"
+        os.makedirs(os.path.dirname(path), exist_ok=True)
         dfs[0].to_csv(path, index=False)
         for df in dfs[1:]:
             df.to_csv(path, index=False, header=False, mode="a")
@@ -256,7 +268,7 @@ def compare_plots(dfs, titles, scale, colors=None, save=False, compare=None, var
 
     fig = plt.figure()
     ax = fig.add_subplot(111)
-    plt.scatter(x=means[0], y=labels_right, s=intens[0], c=colors[0])
+    plt.scatter(x=means[0], y=labels_left, s=intens[0], c=colors[0])
     plt.axvline(0)
     plt.gca().invert_yaxis()
     ax.twinx().set_yticks(ax.get_yticks(), labels=labels_right)
@@ -297,9 +309,14 @@ if __name__ == "__main__":
         scale = 0.1
         compareAll(scale)
     if custom_compare:
+        # press
         paths = [
-            "dumps/df_dumps/grouped_by_name/grouped_by_IPCC.csv",
             "dumps/df_dumps/Presse_COP15.csv",
+            "dumps/df_dumps/Presse_COP15_FT.csv",
+            "dumps/df_dumps/Presse_COP15_NYT.csv",
+            "dumps/df_dumps/Presse_COP15_Telegraph.csv",
+            # "dumps/df_dumps/Presse_COP15_Guardian.csv",
+            # "dumps/df_dumps/Presse_COP15_USAToday.csv",
         ]
-        compareCustom(paths, 0.1, title="IPCC vs Press COP15")
+        compareCustom(paths, 0.1, title="Press COP15")
     pass
