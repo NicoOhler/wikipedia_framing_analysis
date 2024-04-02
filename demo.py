@@ -29,8 +29,10 @@ pole_names = [
     ("Authority", "Subversion"),
     ("Sanctity", "Degredation"),
 ]
-base_model = 'all-mpnet-base-v2'
-framing_dimensions = framedimensions.FramingDimensions(base_model, dimensions, pole_names)
+base_model = "all-mpnet-base-v2"
+framing_dimensions = framedimensions.FramingDimensions(
+    base_model, dimensions, pole_names
+)
 
 
 def listFolders(directories):
@@ -60,13 +62,13 @@ def processArticles(directories_to_frame, folder_names, grouped_by_source=False)
         if grouped_by_source:
             starting_with = set()
             for filename in os.listdir(directory):
-                starting_with.add(filename.split('-')[0])
+                starting_with.add(filename.split("-")[0])
             for start in starting_with:
                 content = ""
                 for filename in os.listdir(directory):
                     if filename.startswith(start):
                         file_path = os.path.join(directory, filename)
-                        with open(file_path, encoding='unicode_escape') as file:
+                        with open(file_path, encoding="unicode_escape") as file:
                             content += file.read()
                 articles.append(content)
                 article_names.append(str(folder_names[i]) + "_" + str(start))
@@ -74,7 +76,7 @@ def processArticles(directories_to_frame, folder_names, grouped_by_source=False)
             content = ""
             for filename in os.listdir(directory):
                 file_path = os.path.join(directory, filename)
-                with open(file_path, encoding='unicode_escape') as file:
+                with open(file_path, encoding="unicode_escape") as file:
                     content += file.read()
             articles.append(content)
             article_names.append(folder_names[i])
@@ -91,7 +93,7 @@ def processFraming(articles, article_names, path_to_plt_directory, scaling):
 
         g = framing_dimensions.visualize(labels_df)
         g.axes[0].set_axisbelow(True)
-        g.axes[0].yaxis.grid(color='gray', linestyle='dashed')
+        g.axes[0].yaxis.grid(color="gray", linestyle="dashed")
         plt.title('Frame Dimensions for "' + article_names[i] + '"')
         plt.gcf().set_size_inches(10, 7)
         print(f"\t" + article_names[i])
@@ -100,13 +102,39 @@ def processFraming(articles, article_names, path_to_plt_directory, scaling):
             os.makedirs(path_to_plt_directory + "scale_" + str(scale), exist_ok=True)
             os.makedirs("dumps/plt_dumps/" + "scale_" + str(scale), exist_ok=True)
             plt.savefig(
-                path_to_plt_directory + "scale_" + str(scale) + "/" + article_names[i] + "_scale_" + str(scale)[2:],bbox_inches='tight')
-            pickle.dump(plt.gcf(), open(
-                "dumps/plt_dumps/" + "scale_" + str(scale) + "/" + article_names[i] + "_scale_" + str(scale)[2:], "wb"))
+                path_to_plt_directory
+                + "scale_"
+                + str(scale)
+                + "/"
+                + article_names[i]
+                + "_scale_"
+                + str(scale)[2:],
+                bbox_inches="tight",
+            )
+            pickle.dump(
+                plt.gcf(),
+                open(
+                    "dumps/plt_dumps/"
+                    + "scale_"
+                    + str(scale)
+                    + "/"
+                    + article_names[i]
+                    + "_scale_"
+                    + str(scale)[2:],
+                    "wb",
+                ),
+            )
 
 
 def debug1(sub_folders, scaling, directories_to_frame):
-    print(f"Processing: \n" + f"\tSub-folders: " + str(sub_folders) + "\n" + f"\tScaling: " + str(scaling))
+    print(
+        f"Processing: \n"
+        + f"\tSub-folders: "
+        + str(sub_folders)
+        + "\n"
+        + f"\tScaling: "
+        + str(scaling)
+    )
     print(f"\tDirectories: ")
     for directory in directories_to_frame:
         print(f"\t\t- " + str(directory))
@@ -121,7 +149,7 @@ def debug2(folder_paths, folder_names):
         print(f"\t\t- " + str(name))
 
 
-def compareCustom(df_paths, scale, custom_names=None, title = None):
+def compareCustom(df_paths, scale, custom_names=None, title=None):
     print(f"\tComparing custom: ")
     dfs = []
     names = []
@@ -137,9 +165,21 @@ def compareCustom(df_paths, scale, custom_names=None, title = None):
     g = compare_plots(dfs, names, scale)
     plt.title(title)
     print(f"\t\t- " + str(title))
-    plt.savefig("plots/Press_ONG_OIG_Climate_change/custom_compare/" + title + ".png",bbox_inches='tight')
-    pickle.dump(plt.gcf(),
-                open("dumps/plt_dumps/custom_compare/" + "compare_" + title + "_scale_" + str(scale)[2:], "wb"))
+    plt.savefig(
+        "plots/Press_ONG_OIG_Climate_change/custom_compare/" + title + ".png",
+        bbox_inches="tight",
+    )
+    pickle.dump(
+        plt.gcf(),
+        open(
+            "dumps/plt_dumps/custom_compare/"
+            + "compare_"
+            + title
+            + "_scale_"
+            + str(scale)[2:],
+            "wb",
+        ),
+    )
 
 
 def compareAll(scale, starts_with=""):
@@ -155,7 +195,7 @@ def compareAll(scale, starts_with=""):
             if starts_with != "":
                 if not filename.startswith(starts_with):
                     continue
-            name = filename.rsplit('_', 1)[-1].split('.')[0]
+            name = filename.rsplit("_", 1)[-1].split(".")[0]
             if name.startswith("COP"):
                 continue
             names.add(name)
@@ -171,41 +211,61 @@ def compareAll(scale, starts_with=""):
         compare.append(name)
     for i, df in enumerate(dfs):
         if len(df) != 1:
-            g = compare_plots(dfs[i], pairs[i], scale, compare= compare[i], save= True)
-            plt.title(f'Comparing {compare[i]}')
+            g = compare_plots(dfs[i], pairs[i], scale, compare=compare[i], save=True)
+            plt.title(f"Comparing {compare[i]}")
             print(f"\t\t- " + str({compare[i]}))
-            plt.savefig("plots/Press_ONG_OIG_Climate_change/compare/" + compare[i] + ".png",bbox_inches='tight')
-            pickle.dump(plt.gcf(),
-                        open("dumps/plt_dumps/compare/" + "compare_" + compare[i] + "_scale_" + str(scale)[2:], "wb"))
+            plt.savefig(
+                "plots/Press_ONG_OIG_Climate_change/compare/" + compare[i] + ".png",
+                bbox_inches="tight",
+            )
+            pickle.dump(
+                plt.gcf(),
+                open(
+                    "dumps/plt_dumps/compare/"
+                    + "compare_"
+                    + compare[i]
+                    + "_scale_"
+                    + str(scale)[2:],
+                    "wb",
+                ),
+            )
         else:
             print(f"\t\tskipping- " + str({compare[i]}))
 
 
-def compare_plots(dfs, titles, scale, colors=list(mcolors.TABLEAU_COLORS),save = False, compare = None):
-    name_left = dfs[0].columns.map(lambda x: x[1])
-    name_right = dfs[0].columns.map(lambda x: x[0])
+def compare_plots(dfs, titles, scale, colors=None, save=False, compare=None, variance_influences_radius=True):
+    labels_right, labels_left = zip(*pole_names)
+    labels_right = labels_right[::-1]
     means = [df.mean() for df in dfs]
-    intens = [(df.var().fillna(0) + 0.001) * 50_000 for df in dfs]
+    intens = [
+        (df.var().fillna(0) + 0.001) * (50_000 if variance_influences_radius else 10_000) for df in dfs
+    ]
+    if colors is None:
+        colors = (
+            list(mcolors.TABLEAU_COLORS)
+            + list(mcolors.BASE_COLORS)
+            + list(mcolors.CSS4_COLORS)
+        )
     if save:
         path = "dumps/df_dumps/grouped_by_name/grouped_by_" + compare + ".csv"
         dfs[0].to_csv(path, index=False)
         for df in dfs[1:]:
-            df.to_csv(path, index=False, header=False, mode='a')
+            df.to_csv(path, index=False, header=False, mode="a")
 
     legend_entries = [mpatches.Patch(color=colors[0], label=titles[0])]
 
     fig = plt.figure()
     ax = fig.add_subplot(111)
-    plt.scatter(x=means[0], y=name_left, s=intens[0], c=colors[0])
+    plt.scatter(x=means[0], y=labels_right, s=intens[0], c=colors[0])
     plt.axvline(0)
     plt.gca().invert_yaxis()
-    ax.twinx().set_yticks(ax.get_yticks(), labels=name_right)
+    ax.twinx().set_yticks(ax.get_yticks(), labels=labels_right)
     fig.axes[0].set_axisbelow(True)
     fig.axes[0].yaxis.grid(color="gray", linestyle="dashed")
     plt.xlim(-scale, scale)  # ! arbitrary range
     for i in range(1, len(dfs)):
         legend_entries.append(mpatches.Patch(color=colors[i], label=titles[i]))
-        plt.scatter(x=means[i], y=name_left, s=intens[i], c=colors[i])
+        plt.scatter(x=means[i], y=labels_left, s=intens[i], c=colors[i])
 
     plt.gcf().set_size_inches(10, 7)
     plt.tight_layout()
@@ -213,7 +273,7 @@ def compare_plots(dfs, titles, scale, colors=list(mcolors.TABLEAU_COLORS),save =
     return fig
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     frame = False
     custom_compare = True
     sub_folders = False
@@ -228,13 +288,18 @@ if __name__ == '__main__':
         else:
             folder_names = []
             for folder_name in directories_to_frame:
-                folder_names.append(folder_name.split('/')[-1])
-        articles, article_names = processArticles(directories_to_frame, folder_names, False)
+                folder_names.append(folder_name.split("/")[-1])
+        articles, article_names = processArticles(
+            directories_to_frame, folder_names, False
+        )
         processFraming(articles, article_names, path_to_plt_directory, scaling)
     if compare_all:
         scale = 0.1
         compareAll(scale)
     if custom_compare:
-        paths = ["dumps/df_dumps/grouped_by_name/grouped_by_IPCC.csv","dumps/df_dumps/Presse_COP15.csv"]
-        compareCustom(paths,0.1,title="IPCC vs Press COP15")
+        paths = [
+            "dumps/df_dumps/grouped_by_name/grouped_by_IPCC.csv",
+            "dumps/df_dumps/Presse_COP15.csv",
+        ]
+        compareCustom(paths, 0.1, title="IPCC vs Press COP15")
     pass
