@@ -264,25 +264,27 @@ def compare_plots(
             df.to_csv(path, index=False, header=False, mode="a")
 
     fig, ax1 = plt.subplots()
-    ax2 = ax1.twinx()
-    plt.axvline(0)
-    plt.gca().invert_yaxis()
     ax1.set_axisbelow(True)
     ax1.yaxis.grid(color="gray", linestyle="dashed")
+    ax1.invert_yaxis()
+    plt.axvline(0)
     plt.xlim(-scale, scale)
-    ax2.scatter(x=means[0], y=labels_right)  # only needed for labels on the right
+
+    # hack for labels on the right
+    # plot seconds axis with identical data on top of the first axis
+    ax2 = ax1.twinx()
+    ax2.scatter(x=means[0], y=labels_right)
+    ax2.invert_yaxis()
 
     # add each df to the plot and legend
     legend_entries = []
     for i in range(0, len(dfs)):
         legend_entries.append(mpatches.Patch(color=colors[i], label=titles[i]))
         ax1.scatter(x=means[i], y=labels_left, s=intens[i], c=colors[i])
-    plt.legend(handles=legend_entries)
 
-    ax1.invert_yaxis()
-    ax2.invert_yaxis()
     plt.gcf().set_size_inches(10, 7)
     plt.tight_layout()
+    plt.legend(handles=legend_entries)
     return fig
 
 
@@ -310,14 +312,15 @@ if __name__ == "__main__":
         scale = 0.1
         compareAll(scale)
     if custom_compare:
-        # press
         paths = [
-            "dumps/df_dumps/Presse_COP15.csv",
-            "dumps/df_dumps/Presse_COP15_FT.csv",
-            "dumps/df_dumps/Presse_COP15_NYT.csv",
-            "dumps/df_dumps/Presse_COP15_Telegraph.csv",
-            # "dumps/df_dumps/Presse_COP15_Guardian.csv",
-            # "dumps/df_dumps/Presse_COP15_USAToday.csv",
+            "dumps/df_dumps/ONG_COP15_CG.csv",
+            "dumps/df_dumps/ONG_COP15_EDF.csv",
+            "dumps/df_dumps/ONG_COP15_FoE.csv",
+            "dumps/df_dumps/ONG_COP15_GP.csv",
+            "dumps/df_dumps/ONG_COP15_NRDC.csv",
+            "dumps/df_dumps/ONG_COP15_OX.csv",
+            "dumps/df_dumps/ONG_COP15_WWF.csv",
+            "dumps/df_dumps/ONG_COP15.csv",
         ]
-        compareCustom(paths, 0.1, title="Press COP15")
+        compareCustom(paths, 0.1, title="NGO COP15")
     pass
