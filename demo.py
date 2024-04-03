@@ -162,7 +162,7 @@ def compareCustom(df_paths, scale, custom_names=None, title=None):
         title = f"Comparing {names[0]}"
         for name in names[1:]:
             title += f" and {name}"
-    g = compare_plots(dfs, names, scale)
+    g = compare_plots(dfs, names, scale, variance_influences_radius=False)
     plt.title(title)
     print(f"\t\t- " + str(title))
     os.makedirs("plots/climate_discourse/", exist_ok=True)
@@ -244,7 +244,6 @@ def compare_plots(
     variance_influences_radius=True,
 ):
     labels_right, labels_left = zip(*pole_names)
-    labels_right = labels_right[::-1]
     means = [df.mean() for df in dfs]
     intens = [
         (df.var().fillna(0) + 0.001)
@@ -264,24 +263,26 @@ def compare_plots(
         for df in dfs[1:]:
             df.to_csv(path, index=False, header=False, mode="a")
 
-    legend_entries = [mpatches.Patch(color=colors[0], label=titles[0])]
-
-    fig = plt.figure()
-    ax = fig.add_subplot(111)
-    plt.scatter(x=means[0], y=labels_left, s=intens[0], c=colors[0])
+    fig, ax1 = plt.subplots()
+    ax2 = ax1.twinx()
     plt.axvline(0)
     plt.gca().invert_yaxis()
-    ax.twinx().set_yticks(ax.get_yticks(), labels=labels_right)
-    fig.axes[0].set_axisbelow(True)
-    fig.axes[0].yaxis.grid(color="gray", linestyle="dashed")
-    plt.xlim(-scale, scale)  # ! arbitrary range
-    for i in range(1, len(dfs)):
-        legend_entries.append(mpatches.Patch(color=colors[i], label=titles[i]))
-        plt.scatter(x=means[i], y=labels_left, s=intens[i], c=colors[i])
+    ax1.set_axisbelow(True)
+    ax1.yaxis.grid(color="gray", linestyle="dashed")
+    plt.xlim(-scale, scale)
+    ax2.scatter(x=means[0], y=labels_right)  # only needed for labels on the right
 
+    # add each df to the plot and legend
+    legend_entries = []
+    for i in range(0, len(dfs)):
+        legend_entries.append(mpatches.Patch(color=colors[i], label=titles[i]))
+        ax1.scatter(x=means[i], y=labels_left, s=intens[i], c=colors[i])
+    plt.legend(handles=legend_entries)
+
+    ax1.invert_yaxis()
+    ax2.invert_yaxis()
     plt.gcf().set_size_inches(10, 7)
     plt.tight_layout()
-    plt.legend(handles=legend_entries)
     return fig
 
 
