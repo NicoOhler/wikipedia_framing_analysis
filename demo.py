@@ -313,14 +313,9 @@ if __name__ == "__main__":
         compareAll(scale)
     if custom_compare:
         paths = [
-            "dumps/df_dumps/ONG_COP15_CG.csv",
-            "dumps/df_dumps/ONG_COP15_EDF.csv",
-            "dumps/df_dumps/ONG_COP15_FoE.csv",
-            "dumps/df_dumps/ONG_COP15_GP.csv",
-            "dumps/df_dumps/ONG_COP15_NRDC.csv",
-            "dumps/df_dumps/ONG_COP15_OX.csv",
-            "dumps/df_dumps/ONG_COP15_WWF.csv",
-            "dumps/df_dumps/ONG_COP15.csv",
+            "dumps/df_dumps/Presse_COP15.csv",
+            "dumps/df_dumps/Presse_COP21.csv",
+            "dumps/df_dumps/Presse_COP25_26.csv",
         ]
-        compareCustom(paths, 0.1, title="NGO COP15")
+        compareCustom(paths, 0.1, title="Press over time")
     pass
