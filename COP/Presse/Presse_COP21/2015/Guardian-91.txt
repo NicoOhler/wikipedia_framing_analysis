@@ -1,0 +1,38 @@
+The Guardian (UK) (web site) 
+Monday, September 21, 2015 - 13:02 UTC -0400
+Eco-geeks hold open source alternative to UN climate talks
+This December world leaders convene in Paris for COP21, their 21st attempt at curbing global climate change.
+
+Divided by borders, assembled in hierarchies and motivated by the kind of competitive ideology shared by the neoliberal business class, this meeting embodies the self-interested conventions of the old world. Unsurprisingly, the context has resulted in a failure of shameful proportions.
+
+“For the 21st time, we don’t expect much,” says Dominic Wind, core organiser of POC21, a grassroots alternative to COP21 taking place near Paris. “Over the last 20 years, carbon dioxide emissions have doubled. Our trust in this institution is gone.”
+
+In reaction to the failure of COP21, POC21 has brought together a network of 100 plus designers, makers and eco-geeks to innovate a new breed of sustainable lifestyle products. In the unusual setting of an ancient French castle, 12 selected projects have spent the last five weeks developing portable solar power systems, low-waste self-filtering showers, upcycled wind turbines, urban food production systems, affordable electric bicycles and human-powered agricultural machines.
+
+“We need the tools to create different buying and consumption patterns,” Wind continues. “Tools that are less destructive and more sustainable. Then we [will] form global communities around these tools, bringing people together to amplify their impact, exchange what works best and speed up the process of adoption.”
+
+The new ideas
+
+One of the participants at the alternative gathering, Daniel Connell, the New Zealand-born founder of a project to build a wind turbine for $30 (?20), is among those sceptical about the UN talks in Paris in December.
+
+“The COP21 talks will not result in anything. If you hope they will, that hope is a negative thing. In having hope you are still engaging with governments, and in so doing wasting time that can be spent on actual solutions.”
+
+Using an old bike wheel, disused printing plates and a couple of waste electric motors, one of Daniel’s small turbines can meet 25% of the power needs of an average suburban home. With accessible parts, basic skills and a little time, the project is making it feasible to step away from the fossil-fuelled power grid.
+
+Related: Texas teenager creates $20 water purifier to tackle toxic e-waste pollution
+
+Another developer, Jason Selvarajan from Finland, has invented Showerloop, a system that cleans water as the water cleans you. As well as limiting water waste, it saves on significant amounts of energy needed to heat boiler systems.
+
+Meanwhile, in a newly erected co-working space inside the castle, Peruvian Mauricio Cordova tirelessly churns out prototypes for Fair Cap, a 3D printable bottle cap that makes bacteria-filled water drinkable.
+
+No more patents
+
+A pivotal element weaving the POC21 projects together is the importance of open source, a methodology for collaboratively developing anything from software platforms to houses. Open source requires that the technical makeup of a project be shared, changed and improved by anyone who cares to participate, shunning patents and other legal restrictions to harness the combined creativity of the internet connected world.
+
+POC21 has created a space where this solution-based concept can be applied to the most pivotal crisis of our age: climate change. It is both an incubator for a new sustainable tech infrastructure that can help us disrupt our carbon outputs and a symbol of citizens evolving towards taking the future into their own hands.
+
+“We’re creating waves here that will become a growth spurt for the open source hardware movement,” says Milena Sonneveld, Belgian co-founder of the Velo M2 modular cargo bike project.
+
+Indeed, POC21’s message has already begun to resonate. French, German, Belgian, Italian, Brazillian and US participants have all congregated here, mostly unpaid, to work tirelessly at bringing this vision to life. The media, seemingly hungry for a new narrative on climate issues, has been knocking at the gates. Rumours circle that certain heads of state are even keen to speak with the community here.
+
+Bound together with the optimism and quiet courage to try something different, could this new network indicate the beginning of a people-powered movement we so desperately need? Last week, a final exhibition at the chateau invited the public to decide for themselves. In true, open source fashion, attendees were invited to observe, play with and perhaps adopt the tools created here into their own lives.

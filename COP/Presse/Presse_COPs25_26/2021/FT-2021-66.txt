@@ -1,0 +1,205 @@
+
+
+Financial Times (web site)
+Friday, March 5, 2021 - Z 1720 mots
+
+Bank of England's climate mandate has global resonance
+
+Gillian Tett, Billy Nauman, Patrick Temple-West and Andrew Edgecliffe-Johnson
+
+With the days growing longer, the brutal winter temperatures starting to abate and vaccination rates ticking
+upwards, change is in the air here in New York. For the ﬁrst time in a while it is becoming easier to feel more
+optimistic about the future.
+
+There is also cause for hope for sustainable investing advocates. After years of sidestepping the issue, the US
+Securities   and   Exchange   Commission   is   charging   ahead   with   a   plan   to   put   environmental,   social   and
+governance (ESG) disclosures under the microscope. And in the UK, the new Budget laid some important
+groundwork to help Boris Johnson turn the City of London into a hub of green ﬁnance. Read on for more.
+(Billy Nauman)
+
+Green bond news in Sunak's red box
+
+Boris Johnson has been keen to paint the UK as a sustainable ﬁnance leader as the UK prime minister looks
+to set an example before hosting November's COP26 climate summit. He also needs to convince the world
+that the City of London can remain a major ﬁnancial hub post-Brexit.
+
+This week's Budget saw the UK double down on that ambition, with two big green announcements in
+chancellor Rishi Sunak 's red box.
+
+First, the Bank of England's mandate is being updated to include the ﬁght against climate change, which
+means it will start buying green bonds and purging its books of bonds that fund big polluters.
+
+And second, the UK plans to issue £15bn of green bonds this year.
+
+Climate activists were unimpressed, criticising the plans for a lack of speciﬁcity and urgency. Their scepticism
+is warranted: full details of the green bond offering are not expected until June, and the Bank plans to
+change its approach to corporate bond buying "before its next scheduled round of investments, in the fourth
+quarter of the year".
+
+In any case, the UK has been rather slow to join the green bond market, reports the FT's Joshua Oliver .
+"Poland issued the ﬁrst such bond in 2016, while France made its debut in 2017." Germany launched€11.5bn
+worth of green Bunds last year.
+
+However, it is still worth noting the importance of the UK's plan. The £12bn to be raised through the green
+gilt offering may not meet activists' expectations, but it will help fund the 10-point climate plan Johnson set
+out last year.
+
+And it is impossible to ignore the symbolic signiﬁcance of the BoE becoming the ﬁrst major central bank to
+make climate change an ofﬁcial part of its mission.
+
+This move builds on the climate work done by former BoE governor Mark Carney and could serve as a model
+for other central bank members of the Network for Greening the Financial System.
+
+Karen Ward , JPMorgan Asset Management's chief market strategist, told the FT that investors "should not
+underestimate" the reform's potential impact on sustainable investing.
+
+"This could tilt the preference of the central bank's asset purchases and involve considerable regulatory
+change to encourage private capital to do likewise," she said. (Billy Nauman)
+
+US watchdog seeks greenwashing whistleblowers
+
+The   US   Securities   and   Exchange   Commission   has   created   an   enforcement   unit   to   hunt   for   possible
+misconduct in companies' climate risk and ESG disclosures - an unprecedented move that suggests there
+might be abuses that have gone unaddressed.
+
+
+
+The unit will focus on misstatements or vagueness in companies' climate change risk disclosures under
+
+ existing rules, the agency said on Thursday. The agency will also be investigating investment advisers and
+funds'   ESG   strategies,   and   encouraging   tipsters   to   bring   information   about   potential   climate   or   ESG
+misconduct to its whistleblower ofﬁce.
+
+
+ESG became an SEC examination issue for investment advisers for the ﬁrst time last year. But now, with a
+dedicated enforcement task force, "it shows the regulator means business", Doug Davison , a partner at
+Linklaters, told Moral Money.
+
+Although   a   "message"   is   all   bark   and   no   bite,   companies   must   take   the   SEC's   action   seriously.   Lazy
+disclosures can no longer be tolerated. (Remember Billy Nauman 's 2019 article about Vanguard's "green"
+funds?).
+
+"It is particularly interesting that the SEC's alert is calling out reviewing proxy voting policies and records as
+well here," said George Raine , a partner at Ropes & Gray. "Asset managers with ESG-oriented products will
+want to review their advertising and other documentation."
+
+The announcement also brings the US into line with Europe. Esma in February 2020 announced a new
+strategy to combat greenwashing. Moral Money will keep hunting for greenwashing and developments from
+the SEC's new task force. Watch this space. ( Patrick Temple-West )
+
+FedEx looks to Yale to help deliver net-zero package
+
+As we wrote recently, there are reasons to look warily on many companies' pledges to cut their emissions to
+"net zero" by some distant date, and few such announcements stand out from the crowd at this point. But
+one of them is FedEx, which this week not only set a 2040 goal for making its operations carbon-neutral but
+detailed $2bn of planned investments to hit it.
+
+Most interestingly, $100m of that sum will go to fund a new "centre for natural carbon capture" at Yale
+University. It is a revealing reminder that, for many companies, the scientiﬁc advances required to reach their
+net-zero aspirations simply haven't been developed yet.
+
+FedEx's 200,000 delivery trucks are not the problem, chief executive Fred Smith tells Moral Money: falling
+battery costs and initiatives such as its recent partnership with GM have put it on track to convert that ﬂeet
+to electric vehicles by 2040 while yielding a return on its investment.
+
+The problem is that FedEx also operates the world's largest cargo airline, and sustainable aviation fuels still
+cost 5-7 times what jet fuel does, making them "absolutely non economic", he said. The airline could have
+offset its emissions, but Smith likened the buying of carbon credits to the trade in papal indulgences. "A lot of
+these offsets and carbon credits have been one step from being a sham."
+
+So FedEx concluded (despite some NGOs' scepticism about carbon sequestration) that sequestration was its
+best hope of cutting its net emissions and Smith, a Yale alumnus, knew the university had a strong record in
+environmental areas including carbon pricing.
+
+Ingrid Burke , dean of the Yale School of the Environment, tells Moral Money the funding will accelerate
+research into questions including how to make forests grow faster and how to store CO2 in carbonate rocks
+or turn it into building materials and fuels.
+
+Yale president Peter Salovey says such corporate funding is essential because federal funds for such "high
+risk, high reward" research have become "very, very hard to get". He expects to see more such partnerships in
+the coming years.
+
+As for FedEx, Smith points out that it hopes the investment will pay for itself by cutting its fossil-fuel bill
+substantially. "This is not from a FedEx standpoint a virtuous signal," he notes. (Andrew Edgecliffe-Johnson
+and Gillian Tett)
+
+Antimicrobial resistance emerges as ESG concern
+
+In December, the FT hosted a discussion on antimicrobial resistance, noting that while there have been
+advances in combating the problem, urgent action is needed to develop new drugs. It is troubling, if not
+surprising, that coronavirus has diverted attention from this crisis.
+
+Big investors started raising concerns late last year and are pressuring companies to make changes.
+
+
+
+On Wednesday, Yum! Brands, the parent company of KFC, Taco Bell and other fast-food chains, agreed to
+
+ 
+
+
+
+publish a report on the systemic effects of antimicrobial resistance (AMR) in its supply chain by the end of
+the year. Yum is the ﬁrst company to disclose this information, said the Shareholder Commons, a US non-
+proﬁt that ﬁles shareholder resolutions. The organisation withdrew a petition at Yum as a result of the
+company's announcement.
+
+
+The   agreement   requires   that   Yum   disclose   its   ﬁndings   about   how   antibiotic   use   in   animal   husbandry
+threatens global health and shareholder interests. The report should also discuss optimal scenarios for the
+food   industry   to   eliminate   or   internalise   antimicrobial   costs   and   describe   how   lobbying   and   political
+expenditures affect the realisation of those scenarios.
+
+Yum "recognises the need to limit the use of antimicrobials in order to preserve their efﬁcacy", said Rick
+Alexander , chief executive of the Shareholder Commons. Now he hopes to convince McDonald's to consider
+a similar pledge. ( Patrick Temple-West )
+
+Grit in the oyster
+
+This week, the short sellers at Hindenburg Research took aim at another green company.
+
+The group's report last year on electric truckmaker Nikola led to the departure of its CEO and an inquiry from
+the   US   justice   department.   On   Monday   it   levelled   a   series   of   accusations   at   Ormat,   a   NYSE-traded   US
+geothermal power company.
+
+Ormat denied the allegations, and pointed out that, as a short seller, Hindenburg stood to proﬁt from a drop
+in its share price. But shortly after Hindenburg made its case, Ormat's chief compliance ofﬁcer and a board
+member (who were both named in the report) stepped down.
+
+So far, it looks like investors have not quite worked out what to make of Hindenburg's ﬁndings. Ormat's stock
+was already headed downward after its latest earnings report and stayed pretty ﬂat the day the report came
+out. But regardless of how this story shakes out, it is a good reminder for responsible investors to take a close
+look at their holdings and not automatically assume all "green" companies are immune to hostile scrutiny.
+
+Smart reads
+
+"The ESG stock frenzy of today, however egregious, may yet translate into a better tomorrow," writes the FT's
+John Thornhill. ESG could well be in bubble territory, he says: "Financial markets have bet on a greener future
+and   begun   funding   the   technologies   needed   to   bring   it   to   life.   But,   just   as   in   previous   technological
+revolutions, politicians must now play their part in shaping a productive result."
+
+Further reading
+
+The Old Lady turns green (FT Alphaville)
+
+What we learned from ExxonMobil's investor day (FT Energy Source)
+
+Italy raises€8.5bn in Europe's biggest-ever green bond debut (FT)
+
+Google's approach to historically Black schools helps explain why there are few Black engineers in Big Tech
+(Washington Post)
+
+Dai-ichi Life targets 30% cut in portfolio CO2 emissions by 2025 (Nikkei)
+
+Everyone Sees ESG Investing Differently, But They All Want to Buy (WSJ)
+
+ESG investments surged in Asia-Paciﬁc in 2020 as sustainable investing takes off, MSCI survey ﬁnds (CNBC)
+
+Biden climate envoy John Kerry talking to banks, asset managers about mobilising capital for clean energy
+(CNBC)
+
+
+
+ 
+
+

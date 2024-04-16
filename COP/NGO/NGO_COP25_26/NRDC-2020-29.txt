@@ -1,0 +1,1121 @@
+                                   JULY 2020
+                                   R: 20-07-B
+
+
+
+
+R E P O R T 
+
+
+
+
+THE LOGGING LOOPHOLE:
+HOW THE LOGGING INDUSTRY’S
+UNREGULATED CARBON EMISSIONS
+UNDERMINE CANADA’S CLIMATE GOALS
+
+
+
+
+AUTHOR
+Jennifer Skene
+ACKNOWLEDGMENTS
+The author would like to express deep gratitude to all the people who contributed their time, expertise, and
+talents to this report. Special thanks to Dale Marshall for his numerous reviews and tremendously constructive
+feedback and to Graham Saul and Teagan Yaremchuk for their expert advice and continuous support. Thanks as
+well to Anthony Swift, who oversaw the conceptualization and creation of this report, and to Tina Swanson for
+her thoughtful review. Leah Stecher's editing, guidance, and endless patience were, as always, indispensable and
+tremendously appreciated. This communication and release of this report would also would not have been possible
+without the tireless dedication of Margie Kelly, Lauren Gonzales, Barbara Hayes, Alex Almendrades, and Andrew
+Aziz. The author would also like to thank the many people who reviewed various iterations of this report and
+provided invaluable feedback: Shelley Vinyard, Courtenay Lewis, Ashley Jordan, Danielle Droitsch, Liz Barratt-
+Brown, Brendan Guy, Josh Axelrod, Sasha Stashwick, Jeff Wells, Jay Malcolm, Dominick DellaSalla, Florence
+Daviet, Keith Kisselle, Julee Boan, and Tim Gray.
+
+
+Environmental Defence Canada gratefully acknowledges the contributions of the Metcalf Foundation.
+
+
+
+
+About NRDC
+NRDC is an international nonprofit environmental organization with more than 3 million members and online activists. Since 1970,
+our lawyers, scientists, and other environmental specialists have worked to protect the world’s natural resources, public health, and
+the environment. NRDC has offices in New York City, Washington, D.C., Los Angeles, San Francisco, Chicago, Montana, and Beijing.
+Visit us at nrdc.org.
+
+
+About Environmental Defence Canada
+Environmental Defence Canada is a leading Canadian advocacy organization that works with government, industry and individuals to defend clean
+water, a safe climate and healthy communities. Visit us at environmentaldefence.ca.
+
+
+About Nature Canada
+Over the past 80 years, Nature Canada has helped protect over 110 million acres of parks and wildlife areas in Canada and countless species that
+depend on this habitat. Today, Nature Canada represents a network comprised of over 100,000 supporters and engages a community of more than
+900 nature organizations across the country. It is focused on effecting change on issues of national significance, including wilderness protection and
+endangered species, and encouraging people to embrace a culture of conservation in their everyday lives. Visit us at naturecanada.ca.
+
+
+
+NRDC Chief Communications Officer: Michelle Egan
+NRDC Managing Directors of Communications: Lisa Goffredi and Jenny Powers
+NRDC Publications Director: Mary Annaïse Heglar
+NRDC Policy Publications Editor: Leah Stecher
+
+Design and Production: www.suerossi.com
+Cover: © River Jordan for NRDC
+© Natural Resources Defense Council 2020
+Table of Contents
+
+Introduction ............................................................................................................................................................4
+
+The Canadian Boreal Forest’s Global Climate Importance......................................................................................6
+
+	    Intact and Primary Forests.....................................................................................................................................................6
+
+Industrial Logging’s Climate Impact........................................................................................................................7
+
+	    Boreal Caribou.........................................................................................................................................................................7
+
+	    Logging Scars: Deforestation’s Significant, But Hidden, Legacy............................................................................................8
+
+	    The Reduced Value of Second-Growth Forests.......................................................................................................................9
+
+	Wildfire....................................................................................................................................................................................9
+
+Shortfalls in Canada’s Climate Policies.................................................................................................................. 11
+
+	    Canada’s Carbon Reporting.................................................................................................................................................... 11
+
+	    Forest Carbon Regulations.....................................................................................................................................................12
+
+	    Assumptions About Harvested Wood Products.....................................................................................................................12
+
+Recommendations................................................................................................................................................... 14
+
+Conclusion............................................................................................................................................................... 15
+Introduction
+
+
+While the international community has struggled to curtail greenhouse gas
+emissions, forests around the world have been buying us time to transition to
+clean, renewable-energy economies. Forests act as giant carbon vaults, storing
+away in their wood, leaves, and soil more carbon than is found in all currently
+accessible coal, oil, and gas reserves combined.1 Forests also continuously add
+to this carbon vault and in recent decades have absorbed nearly one-third of the
+greenhouse gases we release each year.2 The global scientific community has made
+it clear we must limit warming to no more than 1.5 degrees Celsius (C) in order to
+avoid the worst impacts of climate change,3 and that doing so will require not just
+ending our reliance on fossil fuels, but also protecting intact and primary forests’
+ability to store and absorb carbon.4
+
+The Canadian boreal forest, which comprises a quarter                and its representatives are overselling the forest’s capacity
+of the world’s remaining intact forestland5 and is part              to regenerate, misrepresenting forest carbon dynamics,
+of the most carbon-dense forest biome on the planet,6 is             and omitting critical portions of its life-cycle analysis in
+particularly key to achieving a 1.5 °C pathway. In its soils         order to present a narrative of climate sustainability18 that
+and vegetation, the Canadian boreal stores twice as much             science is increasingly refuting.19
+carbon as the world’s oil reserves.7 It is central to global
+                                                                     Unlike fossil fuel industries that must be phased out over
+carbon regulation,8 making its protection and management
+                                                                     the course of a few decades, a sustainable forest industry
+a matter of global importance. Yet each year, industrial
+                                                                     can align with keeping warming below 1.5 °C. However,
+logging erodes the Canadian boreal’s value for the climate,
+                                                                     given its current rate, intensity, and extent, today’s
+cutting down more than 400,000 hectares of the forest9 to
+                                                                     industrial logging is incompatible with a goal of maximizing
+turn it into toilet paper, newsprint, lumber, and biofuels.10
+                                                                     the boreal forest’s critical role in carbon storage and
+To put this in perspective, Canada falls just behind Brazil
+                                                                     threatens long-term, global climate repercussion.20
+and Russia in terms of annual intact forest landscape loss,
+even when losses caused by wildfires are removed11—with              The Canadian federal government has signaled an
+60 percent of this loss occurring in areas leased by logging         eagerness to become a leader in tackling land-based carbon
+companies.12 More than 90 percent of this logging is in              emissions, including taking advantage of the boreal’s unique
+the form of clearcutting,13 a practice in which the logging          characteristics and benefits through nature-based climate
+operation removes nearly all the trees from a given area.14          solutions,21 which use the value of natural ecosystems to
+                                                                     address climate change.22 As a flagship part of this effort,
+Industrial logging practices are undermining the boreal
+                                                                     the federal government committed to planting two billion
+forest’s value for the climate and resulting in significant
+                                                                     net additional trees over 10 years as a means of meeting
+annual emissions.15 When this forest is logged, it releases
+                                                                     global emissions targets.23 Additionally, the federal
+stored carbon from its vegetation and soils, and until it
+                                                                     government has pledged to protect 30 percent of Canada’s
+regenerates, it loses its capacity to continue absorbing
+                                                                     lands by 2030.24 These are meaningful and encouraging
+the amount of carbon it held prior to being cut, creating
+                                                                     measures that position Canada to lead on nature-based
+a carbon deficit.16 Thus, just like building a new polluting
+                                                                     climate solutions and have an additional benefit of
+factory or drilling a new oil or gas well, industrial logging in
+                                                                     addressing global species collapse.
+the boreal has long-term climate impacts.17
+                                                                     However, the government has left significant policy gaps
+Nevertheless, the Canadian logging industry has
+                                                                     around mitigating the logging industry’s emissions and
+consistently downplayed its impact on the global climate,
+                                                                     protecting intact forests—both crucial to achieving its
+as well as on species that live in the boreal. The industry
+                                                                     climate targets. These loopholes bolster the logging
+
+
+
+
+Page 4	 	 THE LOGGING LOOPHOLE: HOW THE LOGGING INDUSTRY’S UNREGULATED CARBON EMISSIONS UNDERMINE CANADA’S CLIMATE GOALS 	    NRDC
+industry’s false narratives around its own sustainability            Second, the Canadian government needs to regulate
+and undermine actions essential to safeguarding the                  the logging industry’s greenhouse gas emissions. Doing
+boreal’s role as a climate solution. Ultimately, there are two       this could serve as a powerful incentive for the industry
+steps the federal government will need to take to address            to adopt climate-friendlier practices and motivate the
+the impacts of logging and ensure that the boreal’s climate          protection of intact forests. Canada’s national carbon tax,
+value is preserved.                                                  the Greenhouse Gas Pollution Pricing Act, is a critical
+                                                                     step in regulating and reining in the fossil fuel industry’s
+First, the Canadian government needs to adjust the way
+                                                                     emissions, but the absence of a similar measure for the
+it calculates and reports its forest sector emissions each
+                                                                     logging industry leaves a vast carbon source unmitigated.
+year to the U.N. Framework Convention on Climate Change
+(UNFCCC), so that the reports accurately reflect net                 Canada’s commitments concerning protected areas and
+emissions from forests. Canada, in its carbon model, has             nature-based climate solutions are promising indicators of
+not accounted for the fact that, contrary to industry claims,        the federal government’s intentions, and the nation is well
+large areas fail to reforest following logging.25 The model          placed to reform current industrial forestry practices to
+also does not consider critical soil carbon dynamics that            be consistent with needed climate action and biodiversity
+may significantly increase logging’s climate impact.26 At a          protection. However, to fully lead, Canada must protect the
+higher level, under the Intergovernmental Panel on Climate           climate value of its intact forests and adequately account
+Change’s (IPCC) accounting methodology, Canada is able to            for and regulate logging’s carbon emissions. Doing so
+present its managed forests as a net carbon sink, burying            will not only benefit the climate but also protect unique
+the impact of logging, which is a net source of emissions,           and treasured species and ecosystems. Failing to update
+within its broader calculation of the entire managed forest’s        accounting methods and properly regulate the logging
+carbon sequestration capacity.27 Because the resulting               industry will make it difficult to secure a livable planet for
+portrait of Canada’s forests is still that of a carbon sink,         future generations.
+it significantly downplays the logging industry’s carbon
+impacts,28 allowing the industry to continue its current
+practices and even contributing to its claims that industrial
+logging is climate friendly.29
+
+
+
+
+                                                                                                                                      © River Jordan for NRDC
+
+
+
+
+Page 5	 	 THE LOGGING LOOPHOLE: HOW THE LOGGING INDUSTRY’S UNREGULATED CARBON EMISSIONS UNDERMINE CANADA’S CLIMATE GOALS 	    NRDC
+The Canadian Boreal Forest’s Global Climate Importance
+
+The Canadian boreal forest stretches across North                             The boreal is the most carbon-dense forest biome on earth,
+America, from the eastern shores of Newfoundland and                          storing twice as much per acre as tropical forests.33 The
+Labrador to the rocky cliffs and mountains of the Yukon                       Canadian boreal alone holds nearly twice as much carbon
+Territory.30 This green crown across North America is                         than exists in all the world’s recoverable oil reserves.34
+home to more than 600 Indigenous communities, all of                          This extraordinary storage capacity stems largely from
+whom have relied on the land for millennia.31 It is also                      the boreal’s short summers and acidic soils.35 Because
+habitat for cherished species such as the boreal woodland                     the boreal is so cold for much of the year, dead biomass
+caribou, Canada lynx, and pine marten and is the nesting                      decays very slowly, trapping the carbon that is normally
+ground for billions of migratory songbirds that traverse                      emitted through decomposition.36 The coniferous forest’s
+the skies across the Western hemisphere.32 However, the                       acidic soils also inhibit decomposition.37 In contrast to the
+boreal forest’s beauty and wildlife are only part of the                      Amazon, which stores most of its carbon in vegetation,
+region’s richness. There is another, invisible layer to the                   more than 80 percent of the carbon in the boreal is found
+boreal’s wealth, found in its carbon-dense soils, trees,                      within its layers of soil.38 Some of this soil carbon has been
+mosses, and peat bogs.                                                        locked up for thousands of years.39
+
+  INTACT AND PRIMARY FORESTS
+  Not all forests are created equal, and intact and primary forests, terms that are used interchangeably in this paper to mean forests that are free
+  of any significant human footprint,40 have far greater biodiversity and climate value than forests that have been degraded by industry.41 These
+  forests develop over a long period, as species of plants, animals, and fungi interact and form complex relationships across decades and even
+  centuries.42 (The term “old growth” forest, sometimes used to refer to primary and intact forests, has no standard definition and is therefore not
+  used in this paper.)
+  Protecting intact and primary forests, especially under the leadership of Indigenous Peoples, is essential to combating climate change43 and
+  is, in fact, one of the cheapest and most technologically feasible climate solutions.44 These forests contain a diversity of species and habitats
+  that is missing in areas that have been logged or impacted by other industries such as mining and oil and gas.45 They also typically store more
+  carbon than their degraded counterparts,46 and they can be more resilient to natural disturbances like fires,47 which is increasingly important
+  as climate impacts worsen.
+
+
+
+
+                                                                                                                                                         © River Jordan for NRDC
+
+
+
+
+Page 6	 	 THE LOGGING LOOPHOLE: HOW THE LOGGING INDUSTRY’S UNREGULATED CARBON EMISSIONS UNDERMINE CANADA’S CLIMATE GOALS 	                        NRDC
+Industrial Logging’s Climate Impact
+
+Industrial development has taken a large toll on Canada’s                     Industrial logging also has an unseen global impact on the
+boreal forest over the past century.48 Though logging                         climate.61 NRDC conservatively estimates, using optimistic
+rates have declined somewhat in the past two decades, the                     industry assumptions about how forests recover after being
+logging industry nonetheless logged more than 11 million                      logged, that the current rate of logging in the Canadian
+hectares of boreal forest between 1996 and 2015,49 an area                    boreal forest releases 26 million metric tons of carbon
+more than twice the size of Nova Scotia. Today the logging                    dioxide per year (not including emissions from products
+industry fells an area the size of seven NHL hockey rinks                     removed from the forest), which is equivalent to the annual
+every minute.50 Over the past several decades, loss of                        emissions of 5.5 million cars.62 This is due to the fact that,
+forest habitat from logging has led to a decline in wildlife                  while trees regrow, logging reduces the forest’s capability
+populations such as the boreal caribou.51 In addition, while                  to continue absorbing carbon. At the same time, soil
+some Indigenous communities directly benefit from and                         disturbance, decaying logging litter, and increased plant
+support logging operations, many others oppose the rate                       respiration flood the atmosphere with carbon that had
+and scale of industrial logging in their territories, which is                previously been locked up in the boreal ecosystem.63 The
+threatening forests central to their ways of life.52                          rate of forest regeneration across the boreal cannot keep
+                                                                              up with the amount of carbon that harvesting releases each
+                                                                              year, resulting in a significant climate impact.64
+
+
+
+  BOREAL CARIBOU
+  Boreal caribou, the iconic species emblazoned on Canada’s quarter, have been federally listed as “threatened” since 200353 and are declining
+  across Canada at a rate of 30 percent every 18 years.54 Boreal caribou depend on intact forests for their survival,55 and human-caused habitat
+  disturbance, principally due to industrial logging, is their primary threat.56 Today only 15 of Canada’s 51 boreal caribou herds are self-sustaining
+  for the long term given the level of disturbance to their habitat.57 Further, caribou are an indicator species, meaning that a population’s decline
+  signals broader concerns in the forest ecosystem.58 The condition of this species is thus a proxy not only for the forest’s climate value59 but
+  also for logging’s impact on other species.60
+
+
+
+
+                                                                                                                                                          © Jérémie LeBlond-Fontaine/Getty
+
+
+
+
+Page 7	 	 THE LOGGING LOOPHOLE: HOW THE LOGGING INDUSTRY’S UNREGULATED CARBON EMISSIONS UNDERMINE CANADA’S CLIMATE GOALS 	                         NRDC
+                          The potential effect of logging on boreal soils is particularly      and the soils around them continue to absorb carbon as
+                          concerning. Because of the carbon density of boreal                  they age.72 Not only does it take decades for a new tree to
+                          soils, releasing even a small proportion of this carbon              reach the size of the felled one and absorb the amount of
+                          can have a significant climate impact. While the full                carbon that the felled one previously held, but during that
+                          relationship between logging and soil carbon is still being          time the now-felled tree would have continued to sequester
+                          studied, clearcutting can affect soils through changes               carbon.73
+                          in temperature and sunlight, compaction, and other
+                          physical disturbances.65 As a result, the vast amounts of
+                          organic material stored there become more susceptible to             LOGGING SCARS: DEFORESTATION’S SIGNIFICANT,
+                          decomposition, potentially converting carbon that had once           BUT HIDDEN, LEGACY
+                          been safely trapped within the boreal soil into atmospheric          Unfortunately, current carbon emissions estimates, while
+                          carbon dioxide.66 One meta-analysis of soil carbon losses            troubling, may not even tell the whole story. They likely
+                          catalogued around the world found an average loss of 11.2%           downplay logging’s full climate impact because they assume
+                          of carbon from the soils after logging.67 Logging’s impact on        complete forest recovery, in alignment with industry and
+                          the carbon stored in deeper soil layers is more uncertain,           provincial government claims that the forest grows back
+                          but potentially significant.68                                       entirely after it has been cut (i.e., for every tree that is cut
+                                                                                               down, another tree regrows).74 Under this assumption,
+                          Clearcutting intact boreal forests also reduces the forest’s
+                                                                                               eventually the forest will regain the carbon sequestration
+                          capability to continue absorbing carbon while the trees
+                                                                                               capacity and biodiversity functions it had prior to being
+                          regrow. Ultimately, the net effect of clearcutting over time
+                                                                                               clearcut, and this, the logging industry claims, makes
+                          is to create a landscape with more young trees and fewer
+                                                                                               it inherently sustainable.75 And because the forest is
+                          older ones, pushing tree age and therefore carbon stores
+                                                                                               not converted to another use, such as farmland or city
+                          to a lower baseline.69 The shorter the harvest rotation (the
+                                                                                               development, Canada does not classify the logging that
+                          number of years between logging operations in the same
+                                                                                               is occurring as “deforestation,” instead designating it as
+                          area), the lower this baseline. While there is some evidence
+                                                                                               “degradation.”76
+                          that younger trees do absorb carbon at a faster rate than
+                          older ones,70 replacing an older and larger forest with a            However, in addition to the fact that, as discussed below,
+                          younger stand creates a long-term carbon debt.71 Older               second-growth forests tend to lack the same ecosystem
+                          forests already hold massive amounts of carbon, and they             services and health of primary forests,77 a study of more
+                                                                                               than two dozen logged forest sites in northwestern
+                                                                                               Ontario found that more than 14 percent of the logged area
+© River Jordan for NRDC
+
+
+
+
+                                                                                               was essentially barren 20 to 30 years after the logging
+                                                                                               occurred.78 Nor was there evidence from those sites that
+                                                                                               trees would become reforested by the time re-logging
+                                                                                               of the site is planned.79 These long-term scars are due
+                                                                                               to the creation of logging roads and “landings,” where
+                                                                                               logs and unwanted logging residue are processed with
+                                                                                               heavy equipment and stacked, compacting the earth and
+                                                                                               suppressing regrowth.80 While that research covered only
+                                                                                               one region of Ontario, the full-tree logging practice that
+                                                                                               led to this deforestation, in which the entire logged tree
+                                                                                               is dragged to the roadside, is the dominant approach in
+                                                                                               Ontario and accounts for about 50 percent of logging in
+                                                                                               Quebec.81 It is also used in British Columbia, Alberta, and
+                                                                                               the prairie provinces.82 Thus, it is likely that these scars
+                                                                                               exist in clearcuts throughout much of the Canadian boreal.
+                                                                                               As a result, while Canada claims that it has nearly zero
+                                                                                               deforestation—and proudly holds itself up in contrast to
+                                                                                               countries like Brazil and Indonesia—the truth is that a
+                                                                                               significant portion of forest is not regrowing. If the results
+                                                                                               from the 27 clearcuts studied are indicative of conditions
+                                                                                               across all of Ontario (which should itself be a research
+                                                                                               priority), uncounted logging infrastructure in this province
+                                                                                               alone would increase Canada’s reported deforestation rate
+                                                                                               by 700 percent.
+                                                                                               In addition to harming wildlife, these essentially barren
+                                                                                               areas have a significant carbon impact. Because they
+
+
+                          Page 8	 	 THE LOGGING LOOPHOLE: HOW THE LOGGING INDUSTRY’S UNREGULATED CARBON EMISSIONS UNDERMINE CANADA’S CLIMATE GOALS 	      NRDC
+© Trevor Hesselink, Wildlands League
+
+
+
+
+                                                                                                                                                                                                  © River Jordan for NRDC
+                                       Logging scars in Ontario.                                                      A replanted forest in Ontario.
+
+
+                                       remain stripped of productive forest cover, they remain                        valuable trees that are all of a uniform age.86 This
+                                       in a significant carbon deficit.83 Yet, because provinces                      “logging-centric” practice creates a regrown forest that
+                                       have not reported these deforested areas in their forest                       is intentionally less biologically and structurally diverse
+                                       surveys, these deficits are undocumented in Canada’s                           than it was prior to logging.87 Even under ideal natural
+                                       annual accounting, meaning the logging industry’s climate                      regeneration conditions, however, it can take well over a
+                                       impact is understated. By 2030, assuming the current rate                      century for a forest to achieve its original structural and
+                                       of deforestation continues, these logging scars plus 11 years                  biological diversity,88 along with its original carbon storage
+                                       of additional ones in Ontario will have reduced the forest’s                   and sequestration potential.89
+                                       climate mitigation potential by a total of 41 million metric
+                                                                                                                      The degradation of intact forests also has an often
+                                       tons of CO2, equivalent to more than a year of emissions
+                                                                                                                      overlooked impact on the ecosystem’s overall resilience.
+                                       from Canada’s passenger vehicles.84
+                                                                                                                      Intact forests are more resistant to natural disturbances
+                                                                                                                      and more adaptable to climate change than are previously
+                                       THE REDUCED VALUE OF SECOND-GROWTH                                             logged, second-growth areas.90 Though there is a range
+                                                                                                                      of predictions for how forests will respond to a warming
+                                       FORESTS                                                                        climate, studies have shown that industrial logging can
+                                       Even where trees do return, there is evidence that these
+                                                                                                                      exacerbate fire risk and increase fire intensity.91 Previously
+                                       second-growth forests do not provide the same ecosystem
+                                                                                                                      clearcut forests are also often more susceptible to harmful
+                                       services or have the ecological health of the original
+                                                                                                                      invasive species, especially insect infestations.92 As a
+                                       forest.85 This is exacerbated by the logging industry’s
+                                                                                                                      forest loses its ability to fend off or recover from these
+                                       practice of replanting fewer species of commercially
+                                                                                                                      disturbances, it will experience even greater carbon loss.
+
+
+
+                                         WILDFIRE
+                                         Wildfires have been integral to the boreal forest’s ecological health since time immemorial. As wildfires become more frequent and more
+                                         extreme, industry often claims that logging thins the forest and prevents wildfires from raging out of control. However, this argument deflects
+                                         attention from logging's overall ecological impacts and omits the fact that, in the face of wildfires, protecting intact forests only becomes more
+                                         urgent.93
+                                         While some forestry activities can be helpful in reducing the frequency of fires,94 intensive logging practices like clearcutting and second-
+                                         growth forests are often associated with more frequent and intense blazes.95 In addition, in terms of ecological disturbance, fires are not
+                                         biologically, chemically, or structurally equivalent to clearcut logging.96 Typical wildfires burn off less than a quarter of the total biomass, and
+                                         much of the resulting dead wood continues to store carbon97 or is converted to charcoal, which has an average age in the soil of 600 to 2,000
+                                         years.98 By contrast, clearcut logging removes almost all of a region’s trees for conversion into products with far shorter life spans.
+                                         Furthermore, the climate-caused increase in fires is not occurring uniformly across Canada, meaning that an argument that logging will reduce
+                                         wildfires would be irrelevant in some areas. This is especially true in the eastern boreal forest, which has avoided the large-scale fires that
+                                         dominated the summer and fall news cycles in Canada in recent years.99 Models forecasting climate change impacts show that this trend will
+                                         continue, with eastern forests far less impacted by fires than western ones.100 This further drives the need to protect intact forests—especially
+                                         in the east, where a significant percentage of boreal logging occurs—as critical bastions for carbon and biodiversity in a changing climate.
+
+
+
+                                       Page 9	 	 THE LOGGING LOOPHOLE: HOW THE LOGGING INDUSTRY’S UNREGULATED CARBON EMISSIONS UNDERMINE CANADA’S CLIMATE GOALS 	                          NRDC
+    HOW CLEARCUTTING THE BOREAL RELEASES
+    CARBON INTO THE ATMOSPHERE
+     1. An intact boreal forest has vast stores of                                                               2. Logging leaves woody debris and                                                            3. The clearcut forest continues to emit
+     carbon locked away—more than 80% of which                                                                   disturbs the carbon-rich soil, emitting                                                       carbon from the soils and logging debris.
+     is found in its soils.iv Even older trees con-                                                              carbon into the atmosphere.vii                                                                As trees regrow, they begin absorbing car-
+     tinue to sequester carbon as they age. When                                                                 Clearcutting also dramatically reduces                                                        bon, but the forest remains at a significant
+     a tree dies, it slowly releases some of this                                                                the landscape’s capacity to sequester                                                         carbon deficit from where it was before.
+     carbon over time, but much of the carbon—up                                                                 carbon, resulting in a carbon debt.                                                           Furthermore, recent studies have shown
+     to 90% even after a fire— ends up back in                                                                                                                                                                 that significant areas of clearcut stands
+     the ecosystem.                                                                                                                                                                                            remain barren even decades later, further
+                                                                                                                                                                                                               exacerbating climate impacts.
+
+
+                                            CO 2
+
+
+
+                                                                                                                          CO2                              CO                                                                                                               2
+                                                                                                                                                                                                                                                                      CO
+                                                                                                                                                                   2
+                                                                                                                                                                                                                                    2
+                                                                                                                                                                                                                               CO
+
+
+
+
+                                                                          CO2
+
+High Carbon Storage                                                                                                                                                                                                           Low Carbon Storage
+
+                                                                                                                                                 2                                                                                                             CO
+                                                                                                                                           CO
+                                                                                                                                                                                                                                                                       2
+
+
+
+
+                                                                                                                                                                                                                                                                                           METHANE
+4. After the wood is cut and manufactured into a long-lived
+Harvested Wood Product (HWP), it retains only a fraction of its
+original carbon—as little as 15 percent.ix However, much of the
+wood from Canada is instead turned into paper or throwaway
+tissue products, which are even less effective at retaining
+carbon. When the wood is burned for biofuel, all its carbon is
+emitted.x As an HWP ages, it continues to emit its remaining
+carbon.xi When it is discarded in a landfill, it begins emitting
+both carbon and methane.xii
+
+
+i Joshua Axelrod, “Pandora’s Box: Clearcutting in the Canadian Boreal Unleashes Millions of Tons of Previously Uncounted Carbon Dioxide                  vii Joshua Axelrod, “Pandora’s Box: Clearcutting in the Canadian Boreal Unleashes Millions of Tons of Previously Uncounted Carbon Dioxide
+Emissions,” NRDC, 2018, https://www.nrdc.org/ sites/default/files/pandoras-box-clearcutting-boreal-carbon-dioxide-emissions-ip.pdf.                      Emissions,” NRDC, 2018, https://www.nrdc.org/ sites/default/files/pandoras-box-clearcutting-boreal-carbon-dioxide-emissions-ip.pdf.
+ii Liao C, Luo Y, Fang C, Li B (2010) Ecosystem Carbon Stock Influenced by Plantation Practice: Implications for Planting Forests as a Measure of        viii Joshua Axelrod, “Pandora’s Box: Clearcutting in the Canadian Boreal Unleashes Millions of Tons of Previously Uncounted Carbon Dioxide
+Climate Change Mitigation. PLoS ONE 5(5): e10867. https://doi.org/10.1371/journal.pone.0010867.                                                          Emissions,” NRDC, 2018, https://www.nrdc.org/ sites/default/files/pandoras-box-clearcutting-boreal-carbon-dioxide-emissions-ip.pdf.
+iii Wildlands League (2019) Boreal Logging Scars: An extensive and persistent logging footprint in typical clearcuts of northwestern Ontario, Can-       ix Seton Stiebert et al., Emission Omissions: Carbon Accounting Gaps in the Built Environment, IISD (2019), https://www.iisd.org/sites/default/
+ada. https://loggingscars.wpengine.com/wp-content/uploads/MyUploads/LOGGING-SCARS-PROJECT-REPORT-FINAL-Dec2019-Summary-LR.pdf.                           files/publications/emission-omissions-en.pdf.
+iv Pan, Y., Birdsey, R.A., Fang, J., Houghton, R., Kauppi, P.E., Kurz, W.A., Phillips, O.L., Shvidenko, A., et al. (2011). A large and persistent carbon x Statement from Dr. Mark E. Harmon, Professor Emeritus to the United States House Natural Resources Committee Subcommittee on National
+sink in the world’s forests. Science 333, 988–993.                                                                                                       Parks, Forests, and Public Lands Concerning the hearing on Climate Change and Public Lands: Examining Impacts and Considering Adaptation
+v Sebastiaan Luyssaert, et al., “Old-Growth Forests as Global Carbon Sinks,” p. 213-215. N. L. Stephenson, et al., “Rate of Tree Carbon Accumula-        Opportunities, Committee Hearing Date: February 13, 2019 Testimony Date: February 21, 2019
+tion Increases Continuously With Tree Size,” Nature 507(7490) (March 6, 2014).                                                                           xi Ann Ingerson, Carbon Storage Potential of Harvested Wood: Summary and Policy Implications, Mitigation and Adaptation Strategies for
+vi Statement from Dr. Mark E. Harmon, Professor Emeritus to the United States House Natural Resources Committee Subcommittee on National                 Global Change, 16(3): 307-323 (2011).
+Parks, Forests, and Public Lands Concerning the hearing on Climate Change and Public Lands: Examining Impacts and Considering Adaptation                 xii Seton Stiebert et al., Emission Omissions: Carbon Accounting Gaps in the Built Environment, IISD (2019), https://www.iisd.org/sites/default/
+Opportunities,
+  Page 10	Committee
+                 	 THEHearing  LOGGINGDate: February 13, 2019 Testimony HOW
+                                                 LOOPHOLE:               Date: February
+                                                                                    THE21, LOGGING
+                                                                                              2019               INDUSTRY’S UNREGULATED                  files/publications/emission-omissions-en.pdf.
+                                                                                                                                                               CARBON EMISSIONS UNDERMINE CANADA’S CLIMATE GOALS 	                                                                                NRDC
+Shortfalls in Canada’s Climate Policies
+
+The Canadian government has made strong and                                      under the category of Land Use, Land Use Change, and
+unprecedented commitments to nature-based climate                                Forestry (LULUCF).104 Canada, as allowed under IPCC
+solutions. As part of this shift, it is pursuing the protection                  rules, relies on modeled estimates rather than direct
+of 30 percent of its terrestrial areas by 2030101 and a                          data.105 In doing so, it adopts a number of problematic
+commitment under the Pan-Canadian Framework on                                   assumptions that downplay logging’s full climate impacts.
+Clean Growth and Climate Change to “protect[] and                                For example, the model does not incorporate the climate
+enhanc[e] carbon sinks including in forests, wetlands                            impacts of mosses lost during logging, and the model’s
+and agricultural lands.”102 These actions are a critical and                     assumptions around the rates of soil carbon loss may not
+positive development for both the global climate and the                         account for industrial logging’s full impact on the soil.106
+species that rely on intact boreal forests, and they signal                      While the science around industrial logging’s effect on
+the federal government’s understanding of the boreal                             soils is evolving, Canada has, in many cases, chosen to
+forest’s key role in addressing the climate crisis. However,                     adopt more conservative assumptions or simply not
+by failing to adequately account for and regulate the logging                    incorporate these impacts. In addition, Canada’s model
+industry’s carbon emissions, Canada is not creating the                          relies on provinces’ assumptions about the success of
+proper incentives for provinces and industry to meet these                       forest regeneration,107 which studies have shown are not an
+goals. Instead it is leaving the management of a significant                     accurate metric of actual forest regrowth. For instance, as
+carbon source in the hands of industry, trusting it will                         discussed above, Canada’s reporting does not capture the
+self-regulate. At the same time, policy platforms promoting                      climate impact of the significant logging scars found in one
+harvested wood products as a climate solution threaten                           study of 27 sites in Ontario,108 an exclusion that may also
+to undercut the very carbon storage goals they intend to                         apply to other parts of Ontario and other provinces.
+achieve.
+                                                                                 In addition, international accounting rules allow certain
+                                                                                 practices that distort the overall picture of land-based
+CANADA’S CARBON REPORTING                                                        carbon flows (sources and sinks). For example, Canada’s
+Each year, Canada is required to submit a National                               emissions from logging are obscured because they are
+Inventory Report to the United Nations Framework                                 buried within the net positive carbon balance achieved
+Convention on Climate Change (UNFCCC), an account of                             overall by its managed forests. In its National Inventory
+the country’s annual greenhouse gas emissions.103 Canada                         Report estimating 2018 emissions, despite clearcutting
+includes estimated emissions from its managed forests                            more than 400,000 hectares of forest that year, Canada
+
+
+                                                        FIGURE1: 1:CANADA'S
+                                                       FIGURE       CANADA'SREPORTED
+                                                                             REPORTED  FORESTRY
+                                                                                     FORESTRY   EMISSIONS
+                                                                                              EMISSIONS
+
+
+                              300,000
+
+                              250,000                                                                                 Natural Disturbances
+                                                                                                                      (Uncounted)
+                              200,000
+
+                               150,000
+                                                                                                                      Harvested Wood Products
+   Net GHG Flux (kt CO2 eq)
+
+
+
+
+                               100,000
+
+                               50,000
+
+                                    0
+                                                                                                                      Net Reported Emissions
+                               -50,000
+
+                              -100,000
+
+                              -150,000                                                                                Forest Land Remaining
+                                                                                                                      Forest Land
+                              -200,000
+                                         2013   2014               2015           2016            2017         2018
+
+
+
+
+Page 11	 	 THE LOGGING LOOPHOLE: HOW THE LOGGING INDUSTRY’S UNREGULATED CARBON EMISSIONS UNDERMINE CANADA’S CLIMATE GOALS 	                     NRDC
+reported that its forests had a net removal of greenhouse             HWPs like lumber and finished wooden furniture continue
+gases of 14 million metric tons CO2e (Figure 1).109 Canada is         to store carbon while the forest regrows from logging,
+giving itself carbon credit for the forests it doesn’t cut in its     increasing the potential stored carbon, the province would
+healthiest forest areas, positioning its managed forests as a         be expanding industrial logging as a climate solution.116
+net carbon sink, even if each year logging ultimately adds to         Similarly, the Ontario government has stated that “when
+the carbon in the atmosphere relative to an unlogged forest.          carbon stored in harvested wood products is factored into
+This 14 million metric tons are now being counted toward              carbon accounting, sustainably managed forests are always
+Canada’s 2030 emissions target, in essence helping to offset          a carbon sink.”117
+emissions from other sectors, even while climate-critical
+                                                                      This narrative is also embedded in Canada’s “Mid-Century
+intact forests are being lost.110 Meanwhile, Canada does
+                                                                      Long-Term Low-Greenhouse Gas Development Strategy,”
+not include impacts from natural disturbances like fires
+                                                                      which outlines policy pathways for reducing the country’s
+and insects in this carbon calculation,111 which, especially
+                                                                      greenhouse gas emissions 80 percent by 2050.118 This
+given the increase in these disturbances in many parts of
+                                                                      document highlights HWPs as one emissions-reducing
+the boreal forest, oversells the ability of the remaining
+                                                                      justification for continued intensive logging.119 Canada’s
+unlogged forests to offset emissions (Figure 1).
+                                                                      “Pan-Canadian Climate Framework,” which outlines
+                                                                      national and subnational policies to reduce Canada’s
+FOREST CARBON REGULATIONS                                             greenhouse gas emissions, similarly emphasizes the role
+The lack of adequate regulation of emissions from the                 of industrial logging and HWPs in carbon storage and
+forestry sector means the industry is offloading the social           achieving its promised emissions reduction targets.120
+and economic cost of its sizable climate impact onto the              However, these policies ignore an important caveat that
+rest of the world. Canada recently took significant steps             appears throughout the scientific literature: HWPs provide
+to begin using market forces to regulate its greenhouse               a climate benefit only under very strict conditions, and
+gas emissions, passing a national carbon tax in October               these conditions are rarely grounded in real-world logging
+2018.112 This Greenhouse Gas Pollution Pricing Act set the            practices.121 When forest products’ complete life-cycle
+initial price of carbon at C$20 per ton in 2019 and will              analysis, from cradle to grave, is conducted, the picture
+increase it to C$50 per ton by 2022, with revenue going               becomes far more complicated and the climate benefits
+mostly to provide rebates to Canadian citizens.113 However,           tenuous.122
+this carbon price does not apply to emissions from forest
+harvesting, leaving a significant gap in the emissions being          First, life-cycle analyses of HWPs often do not account for
+regulated and ignoring a potentially meaningful source                the carbon impact of the logging itself, instead assuming
+of revenue that could be used to help transition to a clean           carbon neutrality in the logging process and perfect forest
+energy economy.                                                       regeneration.123 The IPCC states that HWPs can provide
+                                                                      carbon storage benefits if their wood is harvested “equal
+The absence of a carbon price on logging industry                     to or below” the natural forest regrowth rate.124 When
+emissions also means that there are no direct financial               this condition is not met, HWPs become a climate liability.
+incentives in place to drive climate-friendlier forestry or           In fact, according to a recent study, when making more
+the protection of carbon-rich intact forests. While the               reasonable assumptions about logging practices, HWPs end
+federal government has discussed incentivizing forest                 up having an even greater carbon impact than concrete.125
+protection through the sale of carbon offsets,114 which allow
+a reduction in greenhouse gas emissions in one area to                In addition, by the time a tree is logged, processed,
+compensate for emissions made elsewhere, offsets alone                and manufactured into a finished product, it has lost a
+will not be enough to meet international climate goals. This          significant amount of its stored carbon. Some studies have
+is because offsets treat reductions in forestry emissions             shown that as much as 40 percent of the tree’s carbon
+as a replacement for decarbonization efforts when, in                 remains in the biomass left as waste to decompose on the
+fact, Canada needs to both achieve a decarbonized energy              forest floor or burned for fuel.126 Only about 20 percent of
+economy and maximize the carbon storage in its forests.               the tree’s original carbon ultimately remains in the finished
+                                                                      long-lived wood product.127 HWPs are also relatively
+                                                                      ineffective at retaining any remaining carbon in the long
+ASSUMPTIONS ABOUT HARVESTED WOOD                                      term.128 After a century, the product may retain as little
+PRODUCTS                                                              as 1 percent of the tree’s original carbon.129 Meanwhile,
+A pervasive and misguided narrative, based on selective               as allowed under IPCC rules, Canada does not actually
+science and misleading assumptions, has made its way                  count these inevitable emissions from HWPs at the time
+into federal and provincial policy in Canada. According               of logging, instead waiting to include them at a future date
+to this narrative, logging is unreservedly good for climate           when the HWP is assumed to start emitting its carbon.
+mitigation, in large part because of the carbon benefits of           This means these locked-in carbon emissions are not
+durable harvested wood products (HWPs).115 For example,               represented in the accounting for years, delaying a full
+the Quebec government recently announced that, because                picture of logging's climate impacts.
+
+
+Page 12	 	 THE LOGGING LOOPHOLE: HOW THE LOGGING INDUSTRY’S UNREGULATED CARBON EMISSIONS UNDERMINE CANADA’S CLIMATE GOALS 	   NRDC
+                                    FIGURE 2: REVENUE FROM GOODS MANUFACTURED (CANADIAN DOLLARS)
+                                     FIGURE 2: REVENUE FROM GOODS MANUFACTURED (CANADIAN DOLLARS)
+
+
+     $10,000,000,000
+
+
+      $8,000,000,000
+
+
+      $6,000,000,000
+
+
+      $4,000,000,000
+
+
+      $2,000,000,000
+
+
+                  0
+                        LOGGING            PULP AND PAPER PRODUCT MANUFACTURING INDUSTRY              WOOD PRODUCT MANUFACTURING INDUSTRY
+                       INDUSTRY                       Converted       Pulp, paper,                Other wood      Sawmills and     Veneer, plywood
+                                                    paper product     and paper-                   product           wood          and engineered
+                                                    manufacturing     board mills                manufacturing    preservation      wood product
+                                                                                                                                    manufacturing
+
+
+
+   Some HWPs can replace certain carbon-intensive building                     At the same time, biomass production and export is also
+   materials like concrete, bolstering their climate benefit.                  growing in Canada,132 further undermining industry
+   However, this depends on truly sustainable logging                          arguments concerning their products’ carbon storage
+10000000000
+   practices and should be incorporated into climate policy                    capacity. Biomass, which consists of plants and plant
+   only after a robust, peer-reviewed analysis of the full                     by-products to be burned for fuel, is not a clean energy
+ 8000000000
+   carbon life cycle of Canadian boreal forest wood products.                  alternative to fossil fuels. When burned, biomass, at the
+   If the Canadian building sector is to move toward using                     point of combustion, usually has a carbon impact greater
+   more wood products, it has to start with an accurate                        than that of coal and other fossil fuels133 and creates a
+ 6000000000
+   assessment of what it would mean for emissions that come                    carbon debt that can last hundreds of years.134
+   from forestry and the wood products it produces. Once the
+                                                                               While markets exist for tissue paper and biomass, this
+   estimates of life-cycle emissions more accurately depict
+ 4000000000
+   reality, it will then become clear which practices are truly
+                                                                               does not absolve the Canadian forest industry from
+                                                                               responsibility for the impacts of delivering these products.
+   part of the solution to address climate change.
+                                                                               Like the coal, oil, and natural gas companies that feed a
+ 2000000000
+   It must also be taken into account that much of what                        global fossil fuel market, the forest industry is responsible
+   the forest industry ultimately produces isn’t actually                      for enabling those markets to exist and should take
+   long-lasting.0Although Canada's carbon accounting does                      responsibility for the biodiversity and climate impacts of its
+   consider the differing lifespans of the sector's forest                     activities and products.
+   products, long-lived HWPs have received outsized weight
+                                                                               Finally, it is important to note that even long-lived HWPs
+   in Canadian policy, particularly given the significant
+                                                                               are not an immediate source of emissions reductions. Even
+   role shorter-lived products also play in the marketplace
+                                                                               if they meet the narrow conditions for acting as climate-
+   (Figure 2). More than 40 percent of the revenue from the
+                                                                               friendly products, it takes decades to realize the climate
+   manufacture of forest products in Canada comes from
+                                                                               benefits from HWPs given the long timescale of forest
+   short-lived pulp and paper.130 For example, the U.S. tissue
+                                                                               regrowth. Therefore, these benefits would come too late to
+   industry is a significant importer of virgin forest fiber
+                                                                               contribute to the emissions pathways the IPCC has outlined
+   from Canada, purchasing more than 1.75 million tons of
+                                                                               for keeping warming below 1.5 °C. Forests left intact,
+   boreal pulp each year.131 These products are used once
+                                                                               however, continue to provide immediate climate benefits
+   and discarded, after which they add to the rising carbon
+                                                                               in the form of stored carbon, helping achieve this target
+   concentration in the atmosphere. Since a significant
+                                                                               within the needed time frame.
+   amount of the logged material quickly ends up in landfills or
+   sewers, where they emit carbon and methane, the logging
+   industry’s claims about their contributions to carbon
+   storage obfuscate the actual life span of many of their
+   products.
+
+
+   Page 13	 	 THE LOGGING LOOPHOLE: HOW THE LOGGING INDUSTRY’S UNREGULATED CARBON EMISSIONS UNDERMINE CANADA’S CLIMATE GOALS 	                       NRDC
+Recommendations
+
+As the Canadian government pursues a more resilient, just,            CANADA SHOULD REGULATE THE LOGGING
+sustainable future, it will need to prioritize the protection
+of the boreal forest’s value for the climate. Doing so means
+                                                                      INDUSTRY’S EMISSIONS
+                                                                      The Canadian government should integrate logging
+protecting remaining intact and primary forests and,
+                                                                      emissions into its national carbon pricing program under
+where industrial logging does occur, incentivizing climate-
+                                                                      the Greenhouse Gas Pollution Pricing Act. Revenue
+friendlier practices. In addition to positioning Canada as
+                                                                      generated from pricing forestry emissions should then
+a leader on nature-based climate solutions, these policy
+                                                                      be invested into reversing forest degradation; promoting
+recommendations would provide numerous co-benefits,
+                                                                      climate-friendly forestry and forest adaptation to climate
+including advancing Canada’s reconciliation commitments
+                                                                      change; increasing research and monitoring; helping
+to Indigenous Peoples and biodiversity protections. These
+                                                                      forestry-dependent communities, especially Indigenous
+recommendations should also be included as part of a green
+                                                                      communities, to expand economic alternatives; and
+recovery plan, as each presents opportunities for jobs and
+                                                                      developing industries around alternative, more sustainable
+economic stimulus.
+                                                                      materials to address global demand.
+                                                                      Where logging continues in non-intact forests, this
+CANADA SHOULD FULLY ACCOUNT FOR THE                                   regulation would provide incentives to both provincial
+LOGGING INDUSTRY’S EMISSIONS                                          governments and industry to adopt climate-friendlier
+Canada has committed to net zero emissions by 2050, in                forest management practices that reduce impacts on the
+alignment with the IPCC’s recommendations.135 However,                ecosystem’s stored carbon and improve regeneration.
+by undercounting forestry’s emissions and exempting them              Such practices include adopting longer harvest rotations,
+from regulation, Canada could severely undermine this                 avoiding full-tree logging, selective harvesting, and
+commitment. The federal government is continuing to hone              facilitating regeneration centered on biodiversity and
+its greenhouse gas accounting procedures, and as part of              climate considerations.
+this effort it must accurately monitor how well forests
+are actually recovering from logging and incorporate
+these findings into its accounting practices. This should             CANADA SHOULD PROTECT REMAINING
+document impacts not only from reduced tree cover, but                INTACT FORESTS
+also from the potentially higher-than-reported rates of               The federal government has outlined a policy platform
+deforestation found in provinces like Ontario.                        to promote nature-based climate solutions, including a
+                                                                      commitment to invest C$3 billion over 10 years to plant
+Canada needs to also account for the differences between
+                                                                      two billion net additional trees across Canada.136 While
+the carbon-sequestering capabilities of the intact forest
+                                                                      important, tree planting does not mitigate the damage done
+and the capabilities of second-growth forests, as well
+                                                                      by clearcutting intact forests, which have a carbon benefit
+as the carbon debt incurred when carbon-rich natural
+                                                                      that is irreplaceable under any meaningful time frame. As a
+landscapes are converted through logging to carbon-poor
+                                                                      result, it is essential for the Canadian government to adopt
+landscapes. This requires a better understanding of how
+                                                                      robust protection for this globally vital ecosystem.
+both natural and human-caused disturbances impact soil
+carbon storage. Developing a more robust understanding of             Under the Convention on Biological Diversity, Canada’s
+these dynamics will help ensure that Canada’s accounting              federal government has committed to protecting 17 percent
+actually reflects the true carbon balance and does not                of its lands and inland waters by 2020, and has additionally
+inadvertently undermine the goals of the Paris Agreement.             promised to protect 25 percent by 2025, and 30 percent by
+In addition, because Canada relies on a model rather than             2030. These are strong and important commitments. With
+direct data for its reporting, the government should clearly          only about 10 percent of the boreal forest’s carbon stores
+communicate these uncertainties and urge provinces and                currently protected,137 Canada needs to make the protection
+industry to adopt the precautionary principle in their                of intact regions in its managed forests a central element of
+logging and forest management policies.                               meeting these commitments. In addition, where provinces
+                                                                      are failing to protect critical boreal caribou habitat in intact
+                                                                      forests, the federal government should employ laws, such
+                                                                      as the Species at Risk Act, that enable them to step in and
+                                                                      implement the needed safeguards.
+
+
+
+
+Page 14	 	 THE LOGGING LOOPHOLE: HOW THE LOGGING INDUSTRY’S UNREGULATED CARBON EMISSIONS UNDERMINE CANADA’S CLIMATE GOALS 	     NRDC
+CANADA SHOULD PRIORITIZE INDIGENOUS-LED                               The Canadian government has taken positive initial steps to
+                                                                      support Indigenous leadership, giving C$25 million to fund
+LAND MANAGEMENT                                                       a pilot Indigenous Guardians Network and C$175 million in
+Strong Indigenous land rights are not only critical to
+                                                                      part to fund over 60 Indigenous-led protection initiatives.140
+Indigenous self-determination and empowerment, but
+                                                                      While this funding is significant, it is a fraction of what
+are also correlated with better protections for forest
+                                                                      Indigenous communities need to safeguard their traditional
+carbon and healthier forest ecosystems, including higher
+                                                                      territories and manage the remaining intact boreal forests.
+biodiversity.138 In Canada, Indigenous Peoples have
+                                                                      Additional funding for Indigenous-led management should
+been at the forefront of more effective, sustainable land
+                                                                      come from diverted logging subsidies for non-Indigenous-
+management, including through Indigenous-led protected
+                                                                      led operations, carbon pricing, and other sources to
+areas and Guardians programs.139 Their leadership is
+                                                                      support this critical work.
+critical not only to empowering Indigenous Nations to
+determine their own futures, but also to ensuring that
+the forest is managed sustainably for the climate and
+biodiversity.
+
+
+
+
+Conclusion
+
+Forests are our best natural allies, and if the world is going        Canada is the steward of a significant portion of the world’s
+to reduce its emissions rapidly enough to avoid exceeding             most carbon-dense, intact ecosystem, and it therefore
+1.5 °C of warming, we need all the help we can get. Focusing          has an essential role to play. It has made significant
+exclusively on energy decarbonization, while vital,                   commitments that position the country to be a key leader
+misses a critical piece of the climate puzzle. In addition to         on nature-based climate solutions. But with the ongoing,
+phasing out fossil fuel emissions, countries must protect             significant loss of intact boreal forests from industrial
+their carbon-rich ecosystems and enhance their ability                extraction and the failure to transition to climate-friendlier
+to sequester carbon. To this end, countries with large                logging practices, time is running out. The Canadian
+remaining intact forest areas must do everything in their             boreal’s carbon stores can be a critical resource or a
+power to conserve and enhance these essential climate                 devastating carbon bomb in the fight to protect our future.
+regulators. Doing so will not only protect our climate but            It’s time for Canada to close the logging loophole, step into
+help stem the global loss of species. We can no longer                the climate leadership role it claims, and fully prioritize
+simply value forests such as the boreal for their supply of           this global climate linchpin, safeguarding the forest in its
+toilet paper, newsprint, and lumber, nor can the logging              indispensable role as one of the world’s greatest climate
+industry continue its current unsustainable practices.                allies.
+
+
+
+
+Page 15	 	 THE LOGGING LOOPHOLE: HOW THE LOGGING INDUSTRY’S UNREGULATED CARBON EMISSIONS UNDERMINE CANADA’S CLIMATE GOALS 	    NRDC
+ENDNOTES
+1	Readily accessible fossil fuel reserves contain 2.7 trillion tons of CO2. Richard Heede and Naomi Oreskes, “Potential Emissions of CO2 and Methane From Proved Reserves
+   of Fossil Fuels: An Alternative Analysis.” Global Environmental Change 36 (January 2016): 12-20, https://www.sciencedirect.com/science/article/pii/S0959378015300637.
+   Forests store three trillion tons of CO2. Yude Pan et al., “A Large and Persistent Carbon Sink in the World’s Forests,” Science 333 (January 2011): 988–993, https://science.
+   sciencemag.org/content/333/6045/988.abstract.
+2	Valentin Bellassen and Sebastiaan Luyssaert, “Carbon Sequestration: Managing Forests in Uncertain Times,” Nature 506, no. 7487 (February 2014),
+   https://www.nature.com/news/carbon-sequestration-managing-forests-in-uncertain-times-1.14687.
+3	Intergovernmental Panel on Climate Change (hereinafter IPCC), Special Report: Global Warming of 1.5 °C, 2018, https://www.ipcc.ch/sr15/.
+4	Richard A. Houghton and Alexander A. Nassikas, “Negative Emissions From Stopping Deforestation and Forest Degradation, Globally,” Global Change Biology 24, no.
+   1 (January 2018): 350-359, https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.13876. William J. Ribble et al., “World Scientists’ Warning of a Climate Emergency,”
+   BioScience 70, no. 1 (January 2020): 8-12, https://academic.oup.com/bioscience/article/70/1/8/5610806. IPCC, Special Report: Global Warming
+   of 1.5 °C.
+5	Peter Lee, “The Boreal Forest: Trouble in Canada’s Great Wilderness,” in State of the Wild 2010–2011: A Global Portrait, Eva Fearn, ed. (Washington, DC: Island Press,
+   2010), 140.
+6	Ross W. Gorte, Carbon Sequestration in Forests, Congressional Research Service, 2009, https://fas.org/sgp/crs/misc/RL31432.pdf. Matt Carlson, Jeff Wells, and Dina
+   Roberts, The Carbon the World Forgot, Boreal Songbird Initiative and Canadian Boreal Initiative, 2009, https://www.borealbirds.org/sites/default/files/pubs/report-full.
+   pdf.
+7	Joshua Axelrod, “FYI: How NRDC Calculated Forest and Fossil Fuel Carbon Equivalencies,” NRDC, March 2018, https://www.nrdc.org/sites/default/files/media-uploads/
+   carbon_comparison_background_v1.1.pdf.
+8	Gorte, Carbon Sequestration in Forests. Carlson, Wells, and Roberts, The Carbon the World Forgot.
+9	National Forestry Database (Canada), “Forest Area Harvested on Private and Crown Lands,” http://nfdp.ccfm.org/en/data/harvest.php (accessed June 4, 2020).
+10	Natural Resources Canada, “Statistical Data: Trade,” https://cfs.nrcan.gc.ca/statsprofile/trade/ca (accessed June 7, 2020). Jennifer Skene and Shelley Vinyard,
+    The Issue With Tissue: How Americans Are Flushing Forests Down the Toilet, NRDC, February 2019, https://www.nrdc.org/resources/issue-tissue-how-americans-are-
+    flushing-forests-down-toilet.
+11	Intact forest landscapes are defined as “an unbroken expanse of natural ecosystems within the zone of current forest extent, showing no signs of significant human activity,
+    and large enough that all native biodiversity, including viable populations of wide-ranging species, could be maintained.” W. Smith and R. Cheng, Canada’s Intact Forest
+    Landscapes Updated to 2013, Global Forest Watch, 2016.
+12	Ibid.
+13	National Forestry Database (Canada), “Forest Area Harvested on Private and Crown Lands.”
+14	Natural Resources Canada, “Clearcutting in the Forest,” http://www.nrcan.gc.ca/node/9513 (accessed June 7, 2020).
+15	Joshua Axelrod, “Pandora’s Box: Clearcutting in the Canadian Boreal Unleashes Millions of Tons of Previously Uncounted Carbon Dioxide Emissions,” NRDC, updated
+    March 2018, https://www.nrdc.org/sites/default/files/pandoras-box-clearcutting-boreal-carbon-dioxide-emissions-ip.pdf.
+16	Ibid.
+17	Ibid.
+18	See, e.g., Derek Nighbor, Susan Yurkovich, and Denis Lebel, “Climate Change Is a Call to Action for Canada’s Forestry Industry,” Globe and Mail, October 5, 2019,
+    https://www.theglobeandmail.com/opinion/article-climate-change-is-a-call-to-action-for-canadas-forestry-industry/. Forest Products Association of Canada
+    (hereinafter FPAC), “Climate Change,” https://www.fpac.ca/sustainable-forestry/30by30/ (accessed May 26, 2020). Ontario Forest Industries Association (hereinafter
+    OFIA), “Climate Change Champions,” http://www.ofia.com/tackle-climate-change/climate-change-champions.html (accessed May 26, 2020). Curt Stevens,
+    “Opinion: Canada’s Forest Industry Ready to Help Fight Against Climate Change,” Vancouver Sun, November 26, 2015, http://www.vancouversun.com/business/
+    opinion+canada+forest+industry+ready+help+fight+against+climate+change/11546996/story.html.
+19	See, e.g., Malcolm, “Forest Harvesting and the Carbon Debt in Boreal-Eastern Canada.” Trevor Hesselink, Boreal Logging Scars: An Extensive and Persistent Logging
+    Footprint in Typical Clearcuts of Northwestern Ontario, Canada, Wildlands League, December 2019, https://loggingscars.wpengine.com/wp-content/uploads/MyUploads/
+    LOGGING-SCARS-PROJECT-REPORT-FINAL-Dec2019-Summary-LR.pdf. Seton Stiebert et al., Emission Omissions: Carbon Accounting Gaps in the Built Environment,
+    IISD (2019), https://www.iisd.org/sites/default/files/publications/emission-omissions-en.pdf. Harmon, M.E. 2019. Have product substitution carbon benefits been
+    overestimated? A sensitivity analysis of key assumptions. Environmental Research Letters 14: Article 065008.
+20	Axelrod, “Pandora’s Box.” Malcolm, Holtsmark, and Piascik, “Forest Harvesting and the Carbon Debt.”
+21	Liberal Party of Canada, “Natural Climate Solutions,” https://www2.liberal.ca/our-platform/natural-climate-solutions/ (accessed May 31, 2020).
+22	Bronson W. Griscom et al., “Natural Climate Solutions,” PNAS 113, no. 44 (2017): 11645-11650.
+23	Liberal Party of Canada, “Liberals Move Forward to Plant Two Billion Trees,” September 27, 2019, https://www.liberal.ca/liberals-move-forward-to-plant-two-billion-
+    trees/.
+24	Ibid.
+25	See Hesselink, Boreal Logging Scars.
+26	Axelrod, “Pandora’s Box.”
+   Barry Saxifrage. “As Canada’s Forests Become Carbon Bombs, Ottawa Pushes the Crisis off the Books,” Canada’s National Observer, March 30, 2020,
+27	
+   https://www.nationalobserver.com/2020/03/30/opinion/canadas-forests-become-carbon-bombs-ottawa-pushes-crisis-books.
+28	Ibid.
+29	See, e.g., Carl Meyer, “Wood Pellets From Clear-Cut, Old-Growth Forests May Not Be Carbon Neutral,” Canada’s National Observer, May 12, 2020,
+    https://www.nationalobserver.com/2020/05/12/news/wood-pellets-clear-cut-old-growth-forests-may-not-be-carbon-neutral.
+30	Natural Resources Canada, “Boreal Forest,” https://www.nrcan.gc.ca/our-natural-resources/forests-forestry/sustainable-forest-management/boreal-forest/13071
+    (accessed June 7, 2020).
+
+
+
+
+Page 16	 	 THE LOGGING LOOPHOLE: HOW THE LOGGING INDUSTRY’S UNREGULATED CARBON EMISSIONS UNDERMINE CANADA’S CLIMATE GOALS 	                                              NRDC
+31	Indigenous Leadership Initiative, “People of the Boreal,” https://www.ilinationhood.ca/our-stories/people-of-the-boreal/ (accessed June 7, 2020). PEW, “Indigenous
+    Leadership Driving Boreal Forest Conservation in Canada,” November 11, 2014, https://www.pewtrusts.org/en/research-and-analysis/articles/2014/11/11/indigenous-
+    leadership-driving-boreal-forest-conservation-in-canada.
+32	Jeffrey V. Wells and Peter J. Blancher, “Global Role for Sustaining Bird Populations,” in Boreal Birds of North America: A Hemispheric View of Their Conservation Links
+    and Significance, Jeffrey V. Wells, ed. (Berkeley and Los Angeles: University of California Press, 2011). Jennifer Skene, Cutting It Close: How Unsustainable Logging In
+    Canada’s Boreal Forest Threatens Indigenous Rights, Wildlife, and the Global Climate, NRDC, July 2018, https://www.nrdc.org/sites/default/files/cutting-it-close-logging-
+    canadas-boreal-report.pdf.
+33	Carlson, Wells, and Roberts, The Carbon the World Forgot.
+34	Recent studies of global boreal forest carbon stock put the total at 1,095 gigatons. Corey J. A. Bradshaw and Ian G. Warkentin, “Global Estimates of Boreal Forest
+    Carbon Stocks and Flux,” Global and Planetary Change 128, no. 27 (May 2015). Twenty-eight percent of all boreal forests are found in Canada, so NRDC calculated that
+    approximately 306.6 gigatons of carbon are found in the boreal forest of Canada. For a more detailed discussion of how NRDC calculated this number and its comparison
+    to oil reserves, see Axelrod, “FYI: How NRDC Calculated.”
+35	Gorte, Carbon Sequestration in Forests.
+36	Ibid. Carlson, Wells, and Roberts, The Carbon the World Forgot.
+37	Gorte, Carbon Sequestration in Forests.
+38	Ibid.
+39	Maara S. Packalen, Sarah A. Finkelstein, and James W. McLaughlin, “Carbon Storage and Potential Methane Production in the Hudson Bay Lowlands Since Mid-Holocene
+    Peat Initiation,” Nature Communications 5 (2014), https://www.nature.com/articles/ncomms5078.
+40	“Significant human footprint” is used here to mean “all human activities that are known to cause physical changes in a forest that lead to a decline in ecological function.”
+    James E. M. Watson et al., “The Exceptional Value of Intact Forest Ecosystems,” Nature Ecology & Evolution 2 (April 2018): 599-610, https://www.nature.com/articles/
+    s41559-018-0490-x?draft=marketing. As defined by the Secretariat of the Convention on Biological Diversity (CBD), a primary forest is one that “has never been logged
+    and has developed following natural disturbances and under natural processes, regardless of its age.” This includes forests that have been used “by indigenous and local
+    communities living traditional lifestyles relevant for the conservation and sustainable use of biological diversity.” Secretariat of the CBD, “Forest Biodiversity Definitions,”
+    https://www.cbd.int/forest/definitions.shtml (accessed May 31, 2020).
+41	Watson et al., “The Exceptional Value of Intact Forest Ecosystems.” Ian D. Thompson et al., “An Operational Framework for Defining and Monitoring Forest Degradation,”
+    Ecology and Sociology 18, no. 2 (2013): 20, https://www.ecologyandsociety.org/vol18/iss2/art20/.
+42	Ibid. Primary forests contain “natural forest dynamics, such as natural tree species composition, occurrence of dead wood, natural age structure and natural regeneration
+    processes.” Food and Agriculture Organization of the United Nations (FAO), Global Forest Resources Assessment 2020 Terms and Definitions, 2020, http://www.fao.org/3/
+    I8661EN/i8661en.pdf.
+43	Watson et al., The Exceptional Value of Intact Forest Ecosystems.” National Academies of Sciences, Engineering, and Medicine, Negative Emissions Technologies and
+    Reliable Sequestration: A Research Agenda, 2019, https://www.nap.edu/read/25259/chapter/1#ii. John E. Fa et al., “Importance of Indigenous Peoples’ Lands for the
+    Conservation of Intact Forest Landscapes,” Frontiers in Ecology and the Environment 18, no. 3 (April 2020): 135-140. https://esajournals.onlinelibrary.wiley.com/doi/
+    abs/10.1002/fee.2148.
+44	Griscom et al., “Natural Climate Solutions.”
+45	Watson et al., The Exceptional Value of Intact Forest Ecosystems.”
+46	Ibid. Malcolm, Holtsmark, and Piascik, “Forest Harvesting and the Carbon Debt.”
+47	Erica Newman, “Disturbance Ecology in the Anthropocene,” Frontiers in Ecology and Evolution (May 2019), https://www.frontiersin.org/articles/10.3389/
+    fevo.2019.00147/full.
+48	See L. A. Vernier et al., “Effects of Natural Resource Development on the Terrestrial Biodiversity of Canadian Boreal Forests,” Environmental Review 22 (2014): 457-490.
+    Yan Boucher and Pierre Grondin, “Impact of Logging and Natural Stand-Replacing Disturbances on High-Elevation Boreal Landscape Dynamics (1950–2005) in Eastern
+    Canada,” Forest Ecology and Management 263, no. 1 (January 2012): 229-239. https://www.sciencedirect.com/science/article/abs/pii/S0378112711005597. National
+    Forestry Database (Canada), “Forest Area Harvested on Private and Crown Lands.”
+49	National Forestry Database (Canada), “Forest Area Harvested on Private and Crown Lands.”
+50	Ibid.
+51	Committee on the Status of Endangered Wildlife in Canada (hereinafter COSEWIC), COSEWIC Assessment and Status Report on the Caribou Rangifer tarandus,
+    Newfoundland Population, Atlantic-Gaspésie Population, Boreal Population, 2014, https://www.sararegistry.gc.ca/virtual_sara/files/cosewic/sr_Caribou_NF_Boreal_
+    Atlantic_2014_e.pdf. Vernier et al., “Effects of Natural Resource Development.”
+52	See, e.g., Cree First Nation of Waswanipi, “The Mishigamish Protected Area Proposal,” March 2018, https://www.eeyouconservation.com/wp-content/uploads/2018/03/
+    Mishigamish.pdf. Jennifer Skene, “Waswanipi Cree Protest Logging in Last Intact Forest,” NRDC, September 2018, https://www.nrdc.org/experts/courtenay-lewis/
+    waswanipi-cree-protest-logging-last-intact-forest. Jon Thompson, “The Never-Ending Fight to Save One Ontario Forest,” TVO, October 12, 2018, https://www.tvo.org/
+    article/the-never-ending-fight-to-save-one-ontario-forest.
+53	Environment Canada, Report on the Progress of Recovery Strategy Implementation for the Woodland Caribou (Rangifer tarandus caribou), Boreal Population in Canada for
+    the Period 2012–2017, Species at Risk Act Recovery Strategy Series, 2017, http://registrelep-sararegistry.gc.ca/default.asp?lang=En&n=7037FCE4-1.
+54	COSEWIC, COSEWIC Assessment and Status Report on the Caribou, p. xvii. Environment Canada, “Species Profile: Caribou Boreal Population,” https://wildlife-species.
+    canada.ca/species-risk-registry/species/speciesDetails_e.cfm?sid=636 (accessed May 31, 2020).
+55	Environment and Climate Change Canada, Action Plan for the Woodland Caribou (Rangifer tarandus caribou), Boreal Population, in Canada, Species at Risk Act Action
+    Plan Series (2018), http://www.registrelep-sararegistry.gc.ca/virtual_sara/files/plans/Ap-WoodlandCaribouBorealPopulationFederalActions-v00-2018Feb-Eng.pdf.
+56	COSEWIC, COSEWIC Assessment and Status Report on the Caribou, p. 59.
+57	Environment and Climate Change Canada, Woodland Caribou, Boreal Population (Rangifer tarandus caribou): Amended Recovery Strategy 2019, Species at Risk Act
+    Recovery Strategy Series, 2019, https://www.canada.ca/en/environment-climate-change/services/species-risk-public-registry/recovery-strategies/woodland-caribou-
+    boreal-2019.html.
+58	Ibid., p. ii.
+
+
+
+
+Page 17	 	 THE LOGGING LOOPHOLE: HOW THE LOGGING INDUSTRY’S UNREGULATED CARBON EMISSIONS UNDERMINE CANADA’S CLIMATE GOALS 	                                                  NRDC
+59	Jeff Wells, “Overlap Between Carbon Stores and Intact Boreal Woodland Caribou Ranges in Canada’s Boreal Forest,” in Encyclopedia of the World’s Biomes Vol. 1
+    (Amsterdam: Elsevier 2020), 279-286.
+60	Mark Hebblewhite, “Billion Dollar Boreal Woodland Caribou and the Biodiversity Impacts of the Global Oil and Gas Industry,” Biological Conservation 206 (February
+    2017): 102-111. https://www.sciencedirect.com/science/article/abs/pii/S0006320716310308.
+61	Sebastiaan Luyssaert, et al., “Old-Growth Forests as Global Carbon Sinks,” Nature 455, no. 7210 (2008). J. James and R. Harrison, “The Effect of Harvest on
+    Forest Soil Carbon: A Meta-analysis,” Forests 2016, no. 7 (2016): 308. Axelrod, “Pandora’s Box.”
+62	Axelrod, “Pandora’s Box.”
+63	Ibid.
+64	Ibid.
+65	Thomas Buchholz et al., “Mineral Soil Carbon Fluxes in Forests and Implications for Carbon Balance Assessments,” GCB Bioenergy 6, no. 4 (July 2014): 305-311.
+66	Ibid. James and Harrison, “The Effect of Harvest on Forest Soil Carbon.”
+67	James and Harrison, “The Effect of Harvest on Forest Soil Carbon.”
+68	Ibid. Buchholz et al., “Mineral Soil Carbon Fluxes in Forests and Implications for Carbon Balance Assessments.”
+69	Sylvie Gauthier et al., “Fire Frequency and Forest Management Based on Natural Disturbances,” in Ecosystem Management in the Boreal Forest (Québec, Presses de
+    l’Université du Québec, 2009), 59-60. NRDC, “How the Growing Industrial Footprint in Canada’s Boreal Forest Undermines Climate Protection,” webinar, May 9, 2019,
+    https://www.youtube.com/watch?v=CLxRIcdFwro.
+70	But see N.L. Stevenson et al., “Rate of Tree Carbon Accumulation Increases Continuously With Tree Size,” Nature 507 (2014): 90-93, https://www.nature.com/articles/
+    nature12914.
+71	See Malcolm, Holtsmark, and Piascik, “Forest Harvesting and the Carbon Debt.” Bjart Holtsmark, “Harvesting in Boreal Forests and the Biofuel Carbon Debt,” Climatic
+    Change 112 (2012): 415-428, https://link.springer.com/article/10.1007/s10584-011-0222-6. Axelrod, “Pandora’s Box.”
+72	Luyssaert et al., “Old-Growth Forests as Global Carbon Sinks.”
+73	N.L. Stevenson et al., “Rate of Tree Carbon Accumulation Increases Continuously With Tree Size.
+74	See, e.g., Forest Products Association of Canada (FPAC), “Flushing Out the Truth About Our Canadian Forests,” March 5, 2019, https://www.fpac.ca/flushing-out-the-
+    truth-about-our-canadian-forests/ (accessed June 21, 2020). Natural Resources Canada, “Is Timber Being Harvested Sustainably?” https://www.nrcan.gc.ca/our-natural-
+    resources/forests-forestry/timber-being-harvested-sustainably/16494 (accessed June 21, 2020).
+75	Ibid.
+76	Natural Resources Canada, “Deforestation in Canada: Key Myths and Facts,” https://www.nrcan.gc.ca/our-natural-resources/forests-forestry/wildland-fires-insects-
+    disturban/deforestation-canada-key-myths-and-facts/13419 (accessed May 26, 2020).
+77	Sylvie Gauthier et al., “Boreal Forest Health and Global Change,” Science 349, no. 6250 (August 21, 2015): 820, https://science.sciencemag.org/content/349/6250/819.
+    full?ijkey=9E/LoNrjj1ASk&keytype=ref&siteid=sci.
+78	Hesselink, Boreal Logging Scars.
+79	Ibid.
+80	Ibid.
+81	Ibid.
+82	Ibid.
+83	Ibid., p. 51.
+84	Ibid., p. 64.
+85	Ecosystem services are the benefits an ecosystem provides to society, including carbon regulation, water filtration, and hunting opportunities. Sylvie Gauthier et al.,
+    “Boreal Forest Health and Global Change.”
+86	Yves Bergeron and Nicole J. Fenton, “Boreal Forests of Eastern Canada Revisited: Old Growth, Nonfire Disturbances, Forest Succession, and Biodiversity,” Botany 90
+    (2012); 509-523. See, e.g., Ontario Ministry of Natural Resources, Silvicultural Effectiveness Monitoring Manual for Ontario, 2001, https://dr6j45jk9xcmk.cloudfront.net/
+    documents/3110/silvicultureeffectmanual.pdf.
+87	Bergeron and Fenton, “Boreal Forests of Eastern Canada Revisited.” Gauthier et al., “Boreal Forest Health and Global Change.” Jean-Pierre Jetté et al., “Ecological Issues
+    Related to Forest Management,” in Ecosystem Management in the Boreal Forest (Québec, Presses de l’Université du Québec, 2009), 1-10.
+88	Yves Bergeron and Nicole J. Fenton, “Boreal Forests of Eastern Canada Revisited.”
+89	Dominick Thom et al., “The Climate Sensitivity of Carbon, Timber, and Species Richness Covaries With Forest Age in Boreal-Temperate North America,” Global Change
+    Biology 25, no. 7 (July 2019), https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.14656. Brendan Mackey et al., “Untangling the Confusion Around Land Carbon Science
+    and Climate Change Mitigation Policy,” Nature Climate Change 3 (2013): 552-557, https://www.nature.com/articles/nclimate1804?page=2.
+90	Peter Potapov et al., “The Last Frontiers of Wilderness: Tracking Loss of Intact Forest Landscapes from 2000 to 2013,” Science Advances 3, no. 1 (2017),
+    https://www.researchgate.net/publication/312391376_The_last_frontiers_of_wilderness_Tracking_loss_of_intact_forest_landscapes_from_2000_to_2013. Watson
+    et al., “The Exceptional Value of Intact Forest Ecosystems.” Dominick Thom et al., “The Climate Sensitivity of Carbon, Timber, and Species Richness Covaries With Forest
+    Age in Boreal-Temperate North America.”
+91	Carter Stone, Andrew Hudak, and Penelope Morgan, “Forest Harvest Can Increase Subsequent Forest Fire Severity,” Proceedings of the Second International Symposium
+    on Fire Economics, Planning, and Policy: A Global View (2004): 532, https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1198&context=usdafsfacpub. Jonathan
+    R. Thompson, Thomas A. Spies, and Lisa M. Ganio, “Reburn Severity in Managed and Unmanaged Vegetation in a Large Wildfire,” Proceedings of the National Academy of
+    Sciences 104, no. 25 (June 19, 2007): 10746, https://www.pnas.org/content/104/25/10743. Curtis M. Bradley, Chad T. Hanson, and Dominick A. DellaSala, “Does Increased
+    Forest Production Correspond to Higher Fire Severity in Frequent-Fire Forests of the Western United States?” Ecosphere 7, no. 10 (2016): 1-13, https://esajournals.
+    onlinelibrary.wiley.com/doi/full/10.1002/ecs2.1492.
+92	Watson et al., “The Exceptional Value of Intact Forest Ecosystems.”
+
+
+
+
+Page 18	 	 THE LOGGING LOOPHOLE: HOW THE LOGGING INDUSTRY’S UNREGULATED CARBON EMISSIONS UNDERMINE CANADA’S CLIMATE GOALS 	                                                   NRDC
+93	Ibid. Malcolm, Holtsmark, and Piascik, “Forest Harvesting and the Carbon Debt.”
+94	See James K. Agee and Carl N. Skinner, “Basic Principles of Forest Fuel Reduction Treatments,” Forest Ecology and Management 211, no. 1-2 (2005),
+    https://www.fs.fed.us/psw/publications/skinner/psw_2005_skinner(agee)001.pdf. Scott L. Stephens et al., “The Effects of Forest Fuel-Reduction Treatments in the United
+    States,” BioScience 2, no. 6 (June 2012), https://www.fs.fed.us/psw/publications/fettig/psw_2012_fettig001(stephens).pdf.
+95	Stone, Hudak, and Morgan, “Forest Harvest Can Increase Subsequent Forest Fire Severity.” Thompson, Spies, and Ganio, “Reburn Severity.”
+96	D. J. McRae et al., “Comparisons Between Wildfire and Forest Harvesting and Their Implications in Forest Management,” Environmental Reviews 9, no. 4 (December
+    2001): 223–260, https://www.researchgate.net/publication/237154364_Comparisons_between_wildfire_and_forest_harvesting_and_their_implications_in_forest_
+    management.
+97	Ibid.
+98	Thomas A. Deluca and Celine Boisvenue, “Boreal Forest Soil Carbon: Distribution, Function, and Modelling,” Forestry: An International Journal of Forest Research, 85, no.
+    2 (2012): 161-184, https://academic.oup.com/forestry/article/85/2/161/527316.
+99	E. S. Kasischke & M. R. Turetsky, “Recent Changes in the Fire Regime Across the North American Boreal Region: Spatial and Temporal Patterns of Burning Across Canada
+    and Alaska,” Geophysical Research Letters 33, no. 9 (May 2006), https://www.researchgate.net/publication/298985452_Recent_changes_in_the_fire_regime_across_
+    the_North_American_boreal_region_-_Spatial_and_temporal_patterns_of_burning_across_Canada_and_Alaska.
+100	Gauthier et al., “Boreal Forest Health and Global Change.”
+101	Liberal Party of Canada, “Natural Climate Solutions.”
+102	Government of Canada et al., “Pan-Canadian Framework on Clean Growth and Climate Change,” 2016, p. 21, www.canada.ca/content/dam/themes/environment/
+     documents/weather1/20170125-en.pdf.
+    United Nations Framework Convention on Climate Change, May 9, 1992, 31 I.L.M. 849 (entered into force 21 March 1994), Art. 4.1.
+103	
+104	Natural Resources Canada, “Indicator: Carbon Emissions and Removals,” https://www.nrcan.gc.ca/our-natural-resources/forests-forestry/state-canadas-forests-report/
+     how-does-disturbance-shape-canad/indicator-carbon-emissions-removals/16552 (accessed October 29, 2019).
+105	Environment and Climate Change Canada, 2020 National Inventory Report, 2020, https://unfccc.int/documents/224829.
+106	 See Deluca and Boisvenue, “Boreal Forest Soil Carbon.”
+107	Environment and Climate Change Canada, 2020 National Inventory Report. J. M. Metsaranta et al., “Uncertainty of Inventory-Based Estimates of the Carbon Dynamics of
+     Canada’s Managed Forest (1990–2014),” Canadian Journal of Forest Research 47 (2017): 1082-1094, https://www.nrcresearchpress.com/doi/pdf/10.1139/cjfr-2017-0088.
+108	Hesselink, Boreal Logging Scars.
+109	Environment and Climate Change Canada, 2020 National Inventory Report.
+110	Ibid.
+111	Ibid.
+112	Dana Nuccitelli, “Canada Passed a Carbon Tax That Will Give Most Canadians More Money,” The Guardian, October 26, 2018, https://www.theguardian.com/environment/
+     climate-consensus-97-per-cent/2018/oct/26/canada-passed-a-carbon-tax-that-will-give-most-canadians-more-money.
+113	Ibid.
+114	Environment and Climate Change Canada, Carbon Pollution Pricing: Options for a Federal GHG Offset System, 2019, https://www.canada.ca/content/dam/eccc/documents/
+     pdf/climate-change/pricing-pollution/Options-GHG-Offset-System.pdf.
+115	See, e.g., Government of Ontario, “Managed Forests and Climate Change,” July 17, 2014, updated April 17, 2020, https://www.ontario.ca/page/managed-forests-and-
+     climate-change. Québec Ministère des Ressources Naturelles et de la Faune, Forests: Building a Future for Québec (2008), p. 18, mern.gouv.qc.ca/english/publications/
+     forest/consultation/green-paper.pdf. Environment and Climate Change Canada, Canada’s Mid-Century Long-Term Greenhouse Gas Development Strategy, 2016, https://
+     unfccc.int/files/focus/long-term_strategies/application/pdf/canadas_mid-century_long-term_strategy.pdf.
+116	Martin Croteau, “Québec Permettra Plus de Coupes Forestières Pour Réduire les GES,” La Presse, September 30, 2019, https://www.lapresse.ca/actualites/
+     environnement/201909/30/01-5243494-quebec-permettra-plus-de-coupes-forestieres-pour-reduire-les-ges.php.
+117	Ontario Ministry of Natural Resources and Forestry, “Ontario’s Crown Forests: Opportunities to Enhance Carbon Storage?” 2016, https://ero.ontario.ca/notice/012-8685.
+118	Environment and Climate Change Canada, Canada’s Mid-Century Long-Term Greenhouse Gas Development Strategy.
+119	Ibid., pp. 57-61.
+120	Government of Canada et al., Pan-Canadian Framework.
+121	John Muir Project, “Over 200 Top U.S. Climate and Forest Scientists Urge Congress: Protect Forests to Mitigate Climate Crisis,” press release, May 13, 2020, https://
+     johnmuirproject.org/2020/05/breaking-news-over-200-top-u-s-climate-and-forest-scientists-urge-congress-protect-forests-to-mitigate-climate-crisis/. Seton Stiebert et
+     al., Emission Omissions: Carbon Accounting Gaps in the Built Environment, International Institute for Sustainable Development, April 2019, https://www.iisd.org/sites/
+     default/files/publications/emission-omissions-en.pdf.
+122	Ibid. Stith T. Gower, “Patterns and Mechanisms of the Forest Carbon Cycle,” Annual Review of Environment and Resources 28 (November 2003): 194.
+     https://www.annualreviews.org/doi/abs/10.1146/annurev.energy.28.050302.105515. Malcolm, Holtsmark, and Piascik, “Forest Harvesting and the Carbon Debt.”
+123	Seton Stiebert et al., Emission Omissions: Carbon Accounting Gaps in the Built Environment.
+124	Gert Jan Nabuurs et al., “Forestry,” in Climate Change 2007: Mitigation. Contribution of Working Group III to the Fourth Assessment Report of the Intergovernmental Panel
+     on Climate Change, B. Metz et al., eds. (New York: Cambridge University Press, 2007), p. 550.
+125	Stiebert et al., Emission Omissions.
+126	Ann Ingerson, “Carbon Storage Potential of Harvested Wood: Summary and Policy Implications,” Mitigation and Adaptation Strategies for Global Change 16,
+     no. 3 (March 2011): 307-323, https://link.springer.com/content/pdf/10.1007/s11027-010-9267-5.pdf.
+127	Stiebert et al., Emission Omissions. Ann Ingerson, “Carbon Storage Potential of Harvested Wood.” Timo Pukkala, “Carbon Forestry Is Surprising,” Forest Ecosystems 5, no.
+     11 (February 2018), https://forestecosyst.springeropen.com/articles/10.1186/s40663-018-0131-5.
+
+
+
+
+Page 19	 	 THE LOGGING LOOPHOLE: HOW THE LOGGING INDUSTRY’S UNREGULATED CARBON EMISSIONS UNDERMINE CANADA’S CLIMATE GOALS 	                                            NRDC
+128	Ann Ingerson, “Carbon Storage Potential of Harvested Wood.” Timo Pukkala, “Carbon Forestry Is Surprising,” Forest Ecosystems 5, no. 11 (February 2018),
+     https://forestecosyst.springeropen.com/articles/10.1186/s40663-018-0131-5.
+129	Ingerson, “Carbon Storage Potential of Harvested Wood.”
+130	Natural Resources Canada, “Statistical Data: Domestic Economic Impact,” https://cfs.nrcan.gc.ca/statsprofile/economicimpact/ca (accessed May 26, 2020).
+131	Skene and Vinyard, The Issue With Tissue.
+132	Malcolm, Holtsmark, and Piascik, “Forest Harvesting and the Carbon Debt.”
+133	K. Pingoud, T. Ekholm, and I. Savolainen, “Global Warming Potential Factors and Warming Payback Time as Climate Indicators of Forest Biomass Use,” Mitigation and
+     Adaptation Strategies for Global Change 17, no. 4 (January 2012): 369-386, https://cris.vtt.fi/en/publications/global-warming-potential-factors-and-warming-payback-
+     time-as-clim. E. D. Schulze et al., “Large-Scale Bioenergy From Additional Harvest of Forest Biomass Is Neither Sustainable Nor Greenhouse Gas Neutral,” GCB Bioenergy
+     4, no. 6 (November 2012): 611-616, https://www.chathamhouse.org/sites/default/files/publications/research/2017-02-23-woody-biomass-global-climate-brack-final2.pdf.
+134	Malcolm, Holtsmark, and Piascik, “Forest Harvesting and the Carbon Debt.”
+135	Carl Meyer, “Liberals Commit to Carbon-Pollution Target of Net-Zero by 2050,” National Observer, December 5, 2019, https://www.nationalobserver.com/2019/12/05/
+     news/liberals-commit-carbon-pollution-target-net-zero-2050.
+136	Liberal Party of Canada, Planting Two Billion Trees and Using the Power of Nature to Fight Climate Change, September 2019, https://2019.liberal.ca/wp-content/uploads/
+     sites/292/2019/09/Planting-two-billion-trees-and-using-the-power-of-nature-to-fight-climate-change.pdf. Morgan Lowrie, “Trudeau Vows to Use Trans Mountain Pipeline
+     Revenues to Plant 2 Billion Trees,” Global News, September 27, 2019, https://globalnews.ca/news/5960379/trudeau-plant-trees-climate-change/.
+137	 Jeff Wells, “Overlap Between Carbon Stores and Intact Boreal Woodland Caribou Ranges in Canada’s Boreal Forest”.
+138	Caleb Stevens et al., Securing Rights, Combating Climate Change: How Strengthening Community Forest Rights Mitigates Climate Change, World Resources Institute,
+     July 2014, https://www.wri.org/publication/securing-rights-combating-climate-change. Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem
+     Services, Global Assessment Report on Biodiversity and Ecosystem Services, 2019, https://www.ipbes.net/global-assessment-report-biodiversity-ecosystem-services.
+     Government of Canada, “Canada Target 1 Challenge,” https://www.canada.ca/en/environment-climate-change/services/nature-legacy/canada-target-one-challenge.
+     html?fbclid=IwAR2eFXUx5oGlzLuZzwkDNLIWSQkWqSnz36F9TipLfcS9L7u4UAJqk8IkZQs#events (accessed July 9, 2020).
+139	 “Indigenous-Led Conservation,” Indigenous Leadership Initiative, https://www.ilinationhood.ca/ (accessed July 11, 2020).
+140	Government of Canada, “Indigenous Guardians Pilot Program,” https://www.canada.ca/en/environment-climate-change/services/environmental-funding/indigenous-
+     guardians-pilot-program.html (accessed October 29, 2019). Environment and Climate Change Canada, “Canada’s $175 Million Investment in Nature Kicks Off Conservation
+     Projects in Every Province and Territory,” press release, August 19, 2019, https://www.canada.ca/en/environment-climate-change/news/2019/08/canadas-175-million-
+     investment-in-nature-kicks-off-conservation-projects-in-every-province-and-territory.html.
+
+
+
+
+Page 20		 THE LOGGING LOOPHOLE: HOW THE LOGGING INDUSTRY’S UNREGULATED CARBON EMISSIONS UNDERMINE CANADA’S CLIMATE GOALS 	                                           NRDC

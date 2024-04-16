@@ -1,0 +1,1037 @@
+THIS REPORT HAS BEEN PRODUCED IN COLLABORATION WITH:
+REPORT
+INT
+2010
+Living Planet Report 2010
+Biodiversity, biocapacity and development~
+
+Contributors Editor in chief, Duncan Pollard Technical editor, Rosamunde Almond Editorial team, Emma Duncan Monique Grooten, Lisa Hadeed Barney Jeffries, Richard McLellan
+Reviewers Chris Hails (WWF International) Jorgen Randers (Norwegian School of Management) Camilla Toulmin (International Institute for Environment and Development)
+Steering group Dan Barlow; Sarah Bladen; Carina Borgström Hansson; Geoffroy Deschutter; Cristina Eghenter; Monique Grooten; Lisa Hadeed; Karen Luz; Duncan Pollard; Tara Rao; and Robin Stafford.
+With special thanks for additional review and contributions from Robin Abell; Keith Alcott; Victor Anderson; Gregory Asner, Neil Burgess; Monika Bertzky; Ashok Chapagain; Danielle Chidlow; Jason Clay; Jean-Philippe Denruyter; Bill Fox; Ruth Fuller; Holly Gibbs; May Guerraoui; Ana Guinea; Johan van de Gronden; Ginette Hemley; Richard Holland; Lifeng Li; Colby Loucks; Gretchen Lyons; Emily McKenzie; Stuart Orr; George Powell; Mark Powell; Taylor Ricketts; Stephan Singer; Rod Taylor; David Tickner; Michele Thieme; Melissa Tupper; Bart Ullstein; Gregory Verutes; Bart Wickel; and Natascha Zwaal.
+UNEP-WCMC (World Conservation Monitoring Centre) Carnegie Airborne Observatory, Carnegie Institution for Science.
+Partner organisations Zoological Society of London: Jonathan Loh; Ben Collen; Louise McRae; Stefanie Deinet; Adriana De Palma; Robyn Manley; Jonathan E.M. Baillie.
+Global Footprint Network: Anders Reed; Steven Goldfinger; Mathis Wackernagel; David Moore; Katsunori Iha; Brad Ewing; Jean-Yves Courtonne; Jennifer Mitchell; Pati Poblete.
+
+FOREWORD
+The protection of biodiversity and ecosystems must be a priority in our quest to build a stronger, fairer and cleaner world economy. Rather than an excuse to delay further action, the recent financial and economic crisis should serve as a reminder of the urgency of developing greener economies. Both WWF and the Organisation for Economic Co-operation and Development (OECD) are contributing to this goal.
+The Living Planet Report is helping raise public awareness of the pressures on the biosphere and spreading the message that "business as usual" is not an option. The report contributes to fostering action, as what gets measured gets managed.
+The OECD is developing a Green Growth Strategy to help governments design and implement policies that can shift our economies onto greener growth paths. Central to this is identifying sources of growth which make much lighter claims on the biosphere. This will require fundamental changes to the structure of our economies, by creating new green industries, cleaning up polluting sectors and transforming consumption patterns. An important element will be educating and motivating people to adjust their lifestyles, so we can leave a healthier planet to future generations.
+Policy makers and citizens need reliable information on the state of the planet, combining various aspects without getting lost in the details. Although the Living Planet Report indices share the methodological challenges that all aggregated environmental indices face, their merit is their ability to convey simple messages about complex issues. They can reach out to people and hopefully influence behaviour change among audiences that may otherwise receive little environmental information.
+I commend WWF for its efforts. The OECD will continue to work to further refine green growth indicators and improve the way in which we measure progress.
+Angel Gurría Secretary General, Organisation for Economic Co-operation and Development
+
+Focusing on the future
+The Living Planet Report relates the Living Planet Index ­ a measure of the health of the world's biodiversity ­ to the Ecological Footprint and the Water Footprint ­ measures of humanity's demands on the Earth's natural resources.
+These indicators clearly demonstrate that the unprecedented drive for wealth and well-being of the past 40 years is putting unsustainable pressures on our planet. The Ecological Footprint shows a doubling of our demands on the natural world since the 1960s, while the Living Planet Index tracks a fall of 30 per cent in the health of species that are the foundation of the ecosystem services on which we all depend.
+Rapid economic growth has fuelled an ever-growing demand for resources ­ for food and drink, energy, transport, electronic products, living space, and space to dispose of wastes, particularly carbon dioxide from burning fossil fuels. As these resources can no longer be sourced from within national boundaries, they are increasingly being sought from other parts of the world. The effects are clearly visible in the Living Planet Indices for the tropical world and for the world's poorer countries -- both of which have fallen by 60 per cent since 1970.
+The implications are clear. Rich nations must find ways to live much more lightly on the Earth ­ to sharply reduce their footprint, including in particular their reliance on fossil fuels. The rapidly-growing emerging economies must also find a new model for growth ­ one that allows them to continue to improve the wellbeing of their citizens in ways that the Earth can actually sustain.
+For all of us, these figures raise fundamental questions of how we can adapt our ways of living and definitions of development to include the imperatives of nurturing the world's natural resources, living within their regenerative capacity and appreciating the true value of the goods and services they provide.
+The economic crisis of the past two years has provided an opportunity to reassess fundamental attitudes to the use of the world's natural resources. There are some green shoots of change.
+
+
+The Economics of Ecosystems and Biodiversity (TEEB) initiative is drawing attention to the global economic benefits of biodiversity, highlighting the growing costs of biodiversity loss and ecosystem degradation. The United Nations Environment Programme (UNEP), the Organization for Economic Cooperation and Development (OECD), WWF and others are working hard to promote the green economy. An increasing number of fishers; timber, soy and palm-oil producers; and some of the world's largest companies are working to put their activities onto a sustainable footing. And one billion people, across 128 countries, demonstrated their support for change by joining in Earth Hour 2010.
+There are many challenges ahead ­ not least meeting the needs of an increasing world population. These challenges further emphasize the importance of decoupling development from growing demands on the natural resources. Put plainly, we have to devise ways of getting as much, and more, from much less. Continuing to consume the Earth's resources more quickly than they can be replenished is destroying the very systems on which we depend. We have to move to managing resources on nature's terms and on nature's scale. James P. Leape Director General WWF International
+
+
+Executive summary
+
+2010 -- The International Year of Biodiversity -- The year in which new species continue to be found, but
+more tigers live in captivity than in the wild -- The year in which 34 per cent of Asia-Pacific CEOs and 53
+per cent of Latin American CEOs expressed concern about the impacts of biodiversity loss on their business growth prospects, compared to just 18 per cent of Western European CEOs (PwC, 2010) -- The year in which there are 1.8 billion people using the internet, but 1 billion people still without access to an adequate supply of freshwater
+
+This year, biodiversity is in the spotlight as never before. As is human development, with an upcoming review of the Millennium Development Goals. This makes WWF's 8th edition of the Living Planet Report particularly timely. Using an expanded set of complementary indicators, the report documents the changing state of biodiversity, ecosystems and humanity's consumption of natural
+
+
+resources, and explores the implications of these changes for future
+
+human health, wealth and well-being.
+
+A wide range of indicators are now being used to track the
+
+state of biodiversity, the pressures upon it, and the steps being taken
+
+to address those trends (Butchart, S.H.M. et al., 2010; CBD, 2010).
+
+One of the longest-running measures of the trends in the state of
+
+global biodiversity, the Living Planet Index (LPI) shows a consistent
+
+overall trend since the first Living Planet Report was published
+
+in 1998: a global decline of almost 30 per cent between 1970 and
+
+2007 (Figure 1). Trends regarding tropical and temperate species'
+
+populations are starkly divergent: the tropical LPI has declined by
+
+60 per cent while the temperate LPI has increased by almost 30
+
+per cent. The reason behind these contrasting trends likely reflects
+
+differences between the rates and timing of land-use changes, and
+
+hence habitat loss, in tropical and temperate zones. The increase in
+
+the temperate LPI since 1970 may be due to the fact that it is starting
+
+from a lower baseline, and that species' populations are recovering
+
+following improvements in pollution control and waste management,
+
+better air and water quality, an increase in forest cover, and/or
+
+greater conservation efforts in at least some temperate regions.
+
+
+
+In contrast, the tropical LPI likely starts from a higher baseline and reflects the large-scale ecosystem changes that have continued in tropical regions since the start of the index in 1970, which overall outweigh any positive conservation impacts.
+
+The Ecological Footprint tracks the area of biologically productive land and water required to provide the renewable resources people use, and includes the space needed for infrastructure and vegetation to absorb waste carbon dioxide (CO2). It also shows a consistent trend: one of continuous growth (Figure 2). In 2007, the most recent year for which data is available, the Footprint exceeded the Earth's biocapacity -- the area actually available to produce renewable resources and absorb CO2 -- by 50 per cent. Overall, humanity's Ecological Footprint has doubled since 1966. This growth in ecological overshoot is largely attributable to the carbon footprint, which has increased 11-fold since 1961 and by just over one-third since the publication of the first Living Planet Report in 1998. However, not everybody has an equal footprint and there are enormous differences between countries, particularly those at different economic levels and levels of development. Therefore, for the first time, this edition of the Living Planet Report looks at how the Ecological Footprint has changed over time in different political regions, both in magnitude and relative contribution of each footprint component.
+The Water Footprint of Production provides a second measure of human demand on renewable resources, and shows that 71 countries are currently experiencing some stress on blue water sources -- that is, sources of water people use and don't return -- with nearly two-thirds of these experiencing moderate to severe stress. This has profound implications for ecosystem health, food production and human well-being, and is likely to be exacerbated by climate change.
+The LPI, Ecological Footprint and Water Footprint of Production monitor changes in ecosystem health and human demand on ecosystems, but do not provide any information on the state of ecosystem services -- the benefits that people get from ecosystems and upon which all human activities depend. For the first time, this edition of the Living Planet Report includes two of the best-developed indicators for ecosystem services at a global level: terrestrial carbon storage and freshwater provision. While such indicators require further development and refinement, they nevertheless help make it clear that conserving nature is in humanity's own interest, not to mention that of biodiversity itself.
+As in previous reports, the relationship between development and the Ecological Footprint is examined, and minimum criteria for sustainability are defined based on available biocapacity and the Human Development Index. This analysis indicates that it is
+
+in fact possible for countries to meet these criteria, although major challenges remain for all countries to meet them.
+For the first time this report also looks at trends in biodiversity by country income, which highlights an alarming rate of biodiversity loss in low-income countries. This has serious implications for people in these countries: although all people depend on ecosystem services for their well-being, the impact of environmental degradation is felt most directly by the world's poorest and most vulnerable people. Without access to clean water, land and adequate food, fuel and materials, vulnerable people cannot break out of the poverty trap and prosper.
+Ending ecological overshoot is essential in order to ensure the continued supply of ecosystem services and thus future human health, wealth and well-being. Using a new Footprint Scenario Calculator developed by the Global Footprint Network (GFN), this report presents various future scenarios based on different variables related to resource consumption, land use and productivity. Under a "business as usual" scenario, the outlook is serious: even with modest UN projections for population growth, consumption and climate change, by 2030 humanity will need the capacity of two Earths to absorb CO2 waste and keep up with natural resource consumption. Alternative scenarios based on different food consumption patterns and energy mixes illustrate immediate actions that could close the gap between Ecological Footprint and biocapacity -- and also some of the dilemmas and decisions these entail.
+The information presented in this report is only the beginning. In order to secure the future in all its complexity for generations to come, governments, businesses and individuals urgently need to translate these facts and figures into actions and policies -- as well as anticipate both future opportunities and obstacles in the path to sustainability. Only by recognizing the central role that nature plays in human health and wellbeing will we protect the ecosystems and species on which we all depend.
+
+
+
+Introduction
+The magnificent variety of life on Earth is a true wonder. This biodiversity also allows people to live, and to live well.
+Plants, animals and microorganisms form complex, interconnected webs of ecosystems and habitats, which in turn supply a myriad of ecosystem services upon which all life depends (see Box: Ecosystem services). Although technology can replace some of these services and buffer against their degradation, many cannot be replaced.
+Ecosystem services Ecosystem services are the benefits that people obtain from ecosystems (Millennium Ecosystem Assessment, 2005). They include: -- Provisioning services: goods obtained directly from
+ecosystems (e.g. food, medicine, timber, fibre, biofuel) -- Regulating services: benefits obtained from the
+regulation of natural processes (e.g. water filtration, waste decomposition, climate regulation, crop pollination, regulation of some human diseases) -- Supporting services: regulation of basic ecological functions and processes that are necessary for the provision of all other ecosystem services (e.g. nutrient cycling, photosynthesis, soil formation) -- Cultural services: psychological and emotional benefits gained from human relations with ecosystems (e.g. enriching recreational, aesthetic and spiritual experiences)
+
+
+Understanding the interactions outlined in Figure 3 is fundamental to conserving biodiversity and ecosystem health and so safeguarding the future security, health and well-being of human societies.
+
+
+All human activities make use of ecosystem services -- but can also put pressure on the biodiversity that supports these services (Figure 3). The five greatest direct pressures are:
+-- Habitat loss, alteration, and fragmentation: mainly through conversion of land for agricultural, aquaculture, industrial or urban use; damming and other changes to river systems for irrigation, hydropower or flow regulation; and damaging fishing activities
+-- Over-exploitation of wild species populations: harvesting of animals and plants for food, materials or medicine at a rate above the reproductive capacity of the population
+-- Pollution: mainly from excessive pesticide use in agriculture and aquaculture; urban and industrial effluents; mining waste; and excessive fertilizer use in agriculture
+-- Climate change: due to rising levels of greenhouse gases in the atmosphere, caused mainly by the burning of fossil fuels, forest clearing and industrial processes
+-- Invasive species: introduced deliberately or inadvertently to one part of the world from another; they then become competitors, predators or parasites of native species
+
+In large part, these threats stem from human demands for food, drink, energy and materials, as well as the need for space for towns, cities and infrastructure. These demands are largely met by a few key sectors: agriculture, forestry, fisheries, mining, industry, water and energy. Together, these sectors form the indirect drivers of biodiversity loss. The scale of their impact on biodiversity depends on three factors: the total number of consumers, or population; the amount each person is consuming; and the efficiency with which natural resources are converted into goods and services.
+Biodiversity loss can cause ecosystems to become stressed or degraded, and even eventually to collapse. This threatens the continued provision of ecosystem services, which in turn further threatens biodiversity and ecosystem health. Crucially, the dependency of human society on ecosystem services makes the loss of these services a serious threat to the future well-being and development of all people, all around the world.
+
+
+
+Protected areas and ecosystem services
+Protected areas play a vital role in ensuring that ecosystems continue to function and provide ecosystem services, benefiting communities within the boundaries of the protected area, in adjacent ecosystems and around the world. For example, marine protected areas can safeguard a nutritious food supply for local communities by ensuring the sustainability of fisheries. Terrestrial protected areas can ensure a regular supply of clean water downstream.
+To fully safeguard the biodiversity that supports ecosystem services, an ecologically coherent network of protected and sustainable-use areas needs to be established around the globe. One of the main characteristics of an ecological network is that it aims to establish and maintain the environmental conditions necessary for the long-term conservation of biodiversity via four functions:
+-- Safeguarding assemblages of habitat large enough, and of sufficient quality, to support species' populations within core areas
+-- Providing opportunities for movement between these reserves via corridors
+-- Protecting the network from potentially damaging activities and the effects of climate change through buffer zones
+-- Promoting sustainable forms of land use within sustainable-use areas
+The integration of biodiversity conservation and sustainable use is therefore one of the defining features of establishing and maintaining ecological networks. One example of an ecological network is the Vilcabamba-Amboro Conservation Corridor in Peru and Ecuador, where support is being given to low-impact economic enterprises, sustainable hunting practices and the development of ecotourism. Similarly, in the Terai Arc Landscape in the Eastern Himalayas, education courses and subsidies for the construction of livestock pens have been provided for livestock herders, together with improved fuel-efficient cooking stoves and biogas plants.
+Ecological networks can also help adaptation to climate change by reducing ecological fragmentation and improving the ecological quality of multiple-use areas. Examples include the Gondwana Link in southwest Australia and the Yellowstone-toYukon ecoregion.
+
+
+CROP POLLINATION:
+Forest pollinators increase coffee yields by 20%, and improve coffee quality by 27%, on Costa Rican coffee farms located within 1km of forest
+
+SPIRITUAL VALUES:
+Particular groves and trees within the forests of southeast Cameroon have substantial spiritual value to the Baka (pygmy) people
+
+WATER PROVISION:
+More than 80% of the water for Ecuador's capital, Quito, originates in three protected areas
+
+1
+
+Costa Rica Forest pollinators increase coffee yields by 20 per cent, and improve
+
+coffee quality by 27 per cent, on Costa Rican coffee farms located
+
+within one kilometre of forest (Ricketts et al., 2004). Pollination
+
+services from two forest areas translated into income of US$60,000
+
+per year for one Costa Rican farm -- a value commensurate with
+
+expected revenues from competing land uses (Ricketts et al., 2004).
+
+Globally, approximately 75 per cent of the world's top 100 crops rely
+
+on natural pollinators. There is growing evidence that more diverse
+
+pollinator communities result in higher, and more stable, pollination
+
+services; however, agricultural intensification and forest loss can
+
+harm pollinator species (Klein et al., 2007).
+
+2
+
+Ecuador
+
+More than 80 per cent of the water for Ecuador's capital, Quito,
+
+originates in three protected areas (Goldman, 2009). Several of these
+
+protected areas, including the three around Quito (Goldman et al.,
+
+2010), are threatened by human activities, including construction
+
+of water supply infrastructure, land conversion by farmers and
+
+ranchers, and logging. Overall, about one-third of the world's 105
+
+largest cities obtain a significant proportion of their drinking water
+
+directly from protected areas (Dudley and Stolton, 2003).
+
+3
+
+Cameroon Particular groves and trees within the forests of southeast
+
+Cameroon have substantial spiritual value to the Baka (pygmy)
+
+people. The Baka follow a complex faith system that includes the
+
+adoption of a personal god in adolescence and the veneration of
+
+particular sites -- groves and trees -- within the forest. It is against
+
+their beliefs to allow anyone else to enter a sacred area, which also
+
+helps to protect wildlife in such areas (Stolton et al., 2002).
+
+4
+
+Norway A compound from a soil microorganism isolated in Norway is used
+
+to prevent organ rejection following transplantation (Laird et al.,
+
+2003). This compound is used to produce Sandimmun, which by
+
+2000 was one of world's top-selling drugs.
+
+Over half of current synthetic medical compounds originate
+
+from natural precursors, including well-known drugs like aspirin,
+
+digitalis and quinine. Natural compounds from animals, plants
+
+and microorganisms continue to play an important role in the
+
+development of new drugs for treating human diseases (WHO, 2005; Newman et al., 2003).
+
+5
+
+Sri Lanka Sri Lanka's Muthurajawela Marsh provides a range of freshwater
+
+services, including industrial wastewater and domestic sewage
+
+treatment. Other services provided by the marsh include flood
+
+attenuation, firewood provision, leisure and recreation, and
+
+freshwater provision, which have been valued at an estimated
+
+US$7.5 million each year (WWF, 2004). Other wetlands provide
+
+similar services, but, since 1900, more than half of the world's
+
+wetlands have disappeared (Barbier, 1993).
+
+6
+
+Indonesia The peatlands of Riau province, Sumatra, are estimated to store
+
+14.6 gigatons (Gt) of carbon -- the largest amount of carbon in
+
+Indonesia (Yumiko et al., 2008). Peat soils are able to store 30 times
+
+more carbon than the tropical forests above them; however, this
+
+storage capacity depends on the health of these forests. Over the
+
+last 25 years, Riau has lost four million hectares (65 per cent)
+
+of its forest. Much of this was driven by industrial oil palm and
+
+pulpwood plantations. Between 1990 and 2007, total emissions
+
+from land-use change in Riau reached 3.66 Gt of CO2. This exceeds
+
+the annual total CO2 emissions of the entire European Union for
+
+the year 2005.
+
+7
+
+Indonesia Communities living near intact forest have significantly fewer cases
+
+of malaria and dysentery than communities without intact forests
+
+nearby (Pattanayak, 2003). Deforestation has been linked to an
+
+increased abundance or range of mosquito populations or species,
+
+and/or life-cycle changes that improve their capacity as a malaria
+
+vector, not only in Asia but also in Africa (Afrane et al., 2005, 2006
+
+and 2007). Worldwide, there are an estimated 247 million cases
+
+of malaria per year, which cause some 880,000 deaths, mostly
+
+of African children (WHO, 2008). With no truly reliable cure yet
+
+available, the best way to avoid the disease is to avoid being bitten
+
+by infected mosquitoes.
+
+4
+
+MEDICINE PROVISION:
+
+A compound from a soil
+
+microorganism isolated in
+
+Norway is used to prevent organ rejection following
+
+5
+
+transplantation
+
+WASTEWATER TREATMENT:
+Sri Lanka's Muthurajawela Marsh provides a range of freshwater services, including industrial wastewater and domestic sewage treatment
+6
+LESSENING THE IMPACTS OF CLIMATE CHANGE:
+The peatlands of Riau province, Sumatra, are estimated to store 14.6 gigatons of carbon -- the largest amount of carbon in Indonesia
+
+7
+DISEASE REGULATION:
+Communities living near intact forest in Flores have significantly fewer cases of malaria and dysentery than communities without intact forests nearby
+
+
+
+
+Chapter one: The state of the planet~
+The Living Planet Report uses a series of indicators to monitor biodiversity, human demand on renewable resources and ecosystem services. The Living Planet Index reflects changes in the health of the planet's ecosystems by tracking trends in populations of mammals, birds, fish, reptiles and amphibians. The Ecological Footprint tracks human demand on ecosystems by measuring the area of biologically productive land and water required to provide the renewable resources people use and to absorb the CO2 waste that human activities generate. The Water Footprint of Production measures water use in different countries. Maps of ecosystem services provide information about their location and use, and permit analysis of where they have the most value or where their degradation would affect the most people.
+
+Monitoring biodiversity: The Living Planet Index
+
+The Living Planet Index (LPI) reflects changes in the health of the planet's ecosystems by tracking trends in nearly 8,000 populations of vertebrate species. Much as a stock market index tracks the value of a set of shares over time as the sum of its daily change, the LPI first calculates the annual rate of change for each species population in the dataset (example populations are shown in Figure 5). The index then calculates the average change across all populations for each year from 1970, when data collection began, to 2007, the latest date for which data is available (Collen, B. et al., 2009. See the Appendix for more details).
+
+Living Planet Index: Global The latest global LPI shows a decline of about 30 per cent between 1970 and 2007 (Figure 4). This is based on trends in 7,953 populations of 2,544 mammal, bird, reptile, amphibian and fish species (Appendix Table 1) -- many more than in previous Living Planet Reports (WWF, 2006b; 2008d).
+
+
+Living Planet Index: Tropical and temperate
+The global Living Planet Index is the aggregate of two indices -- the temperate LPI (which includes polar species) and the tropical LPI -- each of which is given equal weight. The tropical index consists of terrestrial and freshwater species' populations found in the Afrotropical, Indo-Pacific and Neotropical realms, as well as
+
+60%
+decline in the tropical LPI
+
+marine species' populations from the zone between the Tropics of
+
+Cancer and Capricorn. The temperate index includes terrestrial and
+
+freshwater species' populations from the Palearctic and Nearctic
+
+realms, as well as marine species' populations found north or south
+
+of the tropics. In each of these two indices, overall trends between
+
+terrestrial, freshwater and marine species' populations are given
+
+equal weight.
+
+Tropical and temperate species' populations show starkly different trends: the tropical LPI has declined by around 60 per
+
+29%
+
+cent in less than 40 years, while the temperate LPI has increased by 29 per cent over the same period (Figure 6). This difference is apparent for mammals, birds, amphibians and fish, for terrestrial, marine and freshwater species (Figures 7­9), and across all tropical
+
+and temperate biogeographic realms (Figures 10--14). However,
+
+this does not necessarily imply that temperate ecosystems are in a
+
+better state than tropical ecosystems. If the temperate index were
+
+to extend back centuries rather than decades it would very probably
+
+show a long-term decline at least as great as that shown by tropical
+
+ecosystems in recent times, whereas a long-term tropical index
+
+would be likely to show a much slower rate change prior to 1970.
+
+There is insufficient pre-1970 data to calculate historic changes
+
+accurately, so all LPIs are arbitrarily set to equal one in 1970.
+
+Why are tropical and temperate trends so different?
+The most likely explanation is the difference between the rates and timing of land-use changes in tropical and temperate zones, and hence the associated rates and timing of habitat destruction and degradation -- the major cause of biodiversity loss in recent times (MEA, 2005a). For example, more than half the estimated original extent of temperate broadleaf forests had already been converted to agriculture, forest plantations and urban areas prior to 1950 (MEA, 2005a). In contrast, deforestation and land-use change only accelerated in the tropics after 1950 (MEA, 2005a). Data on trends in habitat extent is not available for all habitat types, but the picture for tropical and temperate forests is probably indicative of trends
+
+
+
+in other habitat types, including freshwater, coastal and marine
+
+habitats. It is therefore likely that many temperate species felt the
+
+impact of agricultural expansion and industrialization long before
+
+the beginning of the index in 1970, and so the temperate LPI starts
+
+from an already reduced baseline. The increase since 1970 may
+
+be due to species' populations recovering following improvements
+
+Figure 6: The Temperate in pollution control and waste management, better air and water
+
+LPI & the Tropical LPI quality, an increase in forest cover and/or greater conservation
+
+The temperate index shows an increase of 29% between
+
+efforts in at least some temperate regions (see biogeographic
+
+1970 and 2007
+
+realms, page 30). In contrast, the tropical LPI likely starts from
+
+The tropical index shows a higher baseline and reflects the large-scale ecosystem changes
+
+a decline of more than 60% between 1970 and 2007
+
+that have continued in tropical regions since the start of the index
+
+
+
+in 1970, which overall outweigh any positive conservation impacts.
+
+The Marine Living Planet Index tracks changes in 2,023 populations of 636 species of fish, seabirds, marine turtles and marine mammals found in temperate and tropical marine ecosystems (Appendix table 2). Approximately half the species in this index are commercially used. Overall the marine LPI has declined by 24 per cent (Figure 8a). Marine ecosystems show the largest discrepancy between tropical and temperate species: the tropical marine LPI has declined by around 60 per cent while the temperate marine LPI has increased by around 50 per cent (Figure 8b). However, there is evidence that massive long-term declines occurred in temperate marine and coastal species over the past few centuries (Lotze, H.K. et al., 2006; Thurstan, R.H. et al., 2010), and therefore the temperate index was starting from a much lower baseline in 1970 than the tropical index.
+
+Papua New Guinea: A dry river basin in the East Sepik province where WWF is supporting the establishment of protected areas, the sustainable harvest of freshwater and forest products, and the development of ecotourism, healthcare and community education. We are developing a model for river basin management across New Guinea, which will protect important freshwater and forest resources that offer habitat for threatened species such as the harpy eagle and cassowary, as well as providing subsistence livelihoods for local communities.
+Living Planet Index: Biogeographic realms
+Analyzing the LPI at the sub-global or regional level can help to identify biodiversity threats in particular areas. To ensure that such analyses are biologically meaningful, the terrestrial and freshwater species' populations in the LPI database were divided into five biogeographic realms (Map 2), three of which are largely tropical (Indo-Pacific, Afrotropical and Neotropical) and two of which are largely temperate (Palearctic and Nearctic). Appendix table 1 summarizes the number of species and countries represented in each of these realms.
+
+Species' populations in the Afrotropical realm show signs of recovery since the mid-1990s when the index reached a low of -55%. This increase may partly be due to better protection of wildlife in nature reserves and national parks in countries where relatively good data is available, such as Uganda (Pomeroy, D.a.H.T., 2009). Data from a greater range of African countries would provide a more detailed picture of these trends and the drivers behind them.
+
+Figure 12. Neotropical LPI -55%
+The decline reflects widespread land-use changes and industrialization across the region since 1970, but is also due in part to catastrophic declines in amphibian numbers caused in many cases by the spread of fungal disease. Tropical forest loss in this realm is estimated to be around 0.5% per year, with the total area lost between 2000 and 2005 being in the range of 3­4 million hectares per year (FAO, 2005; Hansen, M.C. et al., 2008).
+Figure 13. Palearctic LPI +43%
+The increase may be due to species' populations recovering following better environmental protection since 1970 in some countries. However, as most population data comes from Europe, with comparatively little data from northern Asia, data from individual countries could provide a different picture.
+
+Figure 14. Indo-Pacific LPI -66%
+Includes the Indomalayan, Australasian and Oceanic realms. The decline reflects rapid agricultural, industrial and urban development across the region, which has led to the most rapid destruction and fragmentation of forests, wetlands and river systems anywhere in the world (Loh, J. et al., 2006; MEA, 2005b). Tropical forest cover between 1990 and 2005, for example, declined more rapidly in Southeast Asia than in Africa or Latin America, with estimates ranging from 0.6 % to 0.8 % per year (FAO, 2005; Hansen, M.C. et al., 2008).
+
+Biogeographic realms Biogeographic realms combine geographic regions with the historic and evolutionary distribution patterns of terrestrial plants and animals. They represent large areas of the Earth's surface separated by major barriers to plant and animal migration -- such as oceans, broad deserts and high mountain ranges -- where terrestrial species have evolved in relative isolation over long periods of time.
+INDO-PACIFIC
+
+
+
+
+Measuring human demand: Ecological Footprint
+
+The Ecological Footprint is an accounting framework that tracks humanity's competing demands on the biosphere by comparing human demand against the regenerative capacity of the planet. It does this by adding together the areas required to provide renewable resources people use, the areas occupied by infrastructure, and the areas required for absorbing waste. In the current National Footprint Accounts, the resource inputs tracked include crops and fish for food as well as other uses, timber, and grass used to feed livestock. CO2 is the only waste product currently included. Since people consume resources from all over the world, the Ecological Footprint of consumption, the measure reported here, adds together these areas regardless of where they are located on the planet.
+To determine whether human demand for renewable resources and CO2 uptake can be maintained, the Ecological Footprint is compared to the regenerative capacity (or `biocapacity') of the planet. Biocapacity is the total regenerative capacity available to serve the demand represented by the Footprint. Both the Ecological Footprint (which represents demand for resources) and biocapacity (which represents the availability of resources) are expressed in units called global hectares (gha), with 1gha representing the productive capacity of 1ha of land at world average productivity.
+
+
+
+Carbon Grazing Forest Fishing cropland Built-up land
+
+Figure 15: Every human activity uses biologically productive land and/or fishing grounds
+The Ecological Footprint is the sum of this area, regardless of where it is located on the planet
+
+Footprint component definitions
+
+CARBON UPTAKE FOOTPRINT: Grazing land FOOTPRINT: FOREST FOOTPRINT: Fishing grounds FOOTPRINT: Cropland FOOTPRINT: Built-up-land FOOTPRINT:
+
+Calculated as the amount of forest land required to absorb CO2 emissions from burning fossil fuels, land-use change and chemical processes, other than the portion absorbed by oceans
+Calculated from the area used to raise livestock for meat, dairy, hide and wool products
+Calculated from the amount of lumber, pulp, timber products and fuel wood consumed by a country each year
+Calculated from the estimated primary production required to support the fish and seafood caught, based on catch data for 1,439 different marine species and more than 268 freshwater species
+Calculated from the area used to produce food and fibre for human consumption, feed for livestock, oil crops and rubber
+Calculated from the area of land covered by human infrastructure, including transportation, housing, industrial structures, and reservoirs for hydropower
+
+Ecological overshoot is growing
+During the 1970s, humanity as a whole passed the point at which the annual Ecological Footprint matched the Earth's annual biocapacity -- that is, the Earth's human population began consuming renewable resources faster than ecosystems can regenerate them and releasing more CO2 than ecosystems can absorb. This situation is called "ecological overshoot", and has continued since then.
+The latest Ecological Footprint shows this trend is unabated (Figure 16). In 2007, humanity's Footprint was 18 billion gha, or 2.7gha per person. However, the Earth's biocapacity was only 11.9 billion gha, or 1.8gha per person (Figure 17 and GFN, 2010a). This represents an ecological overshoot of 50 per cent. This means it would take 1.5 years for the Earth to regenerate the renewable resources that people used in 2007 and absorb CO2 waste. Put another way, people used the equivalent of 1.5 planets in 2007 to support their activities (see Box: What does overshoot really mean?).
+
+Figure 16: Ecological Footprint by component, 1961­2007
+The Footprint is shown as number of planets. Total biocapacity, represented by the dashed line, always equals one planet Earth, although the biological productivity of the planet changes each year. Hydropower is included in built-up land and fuel wood in the forest component (Global Footprint Network, 2010)
+
+What does overshoot really mean? How can humanity be using the capacity of 1.5 Earths, when there is only one? Just as it is easy to withdraw more money from a bank account than the interest this money generates, it is possible to harvest renewable resources faster than they are being generated. More wood can be taken from a forest each year than re-grows, and more fish can be harvested than are replenished each year. But doing so is only possible for a limited time, as the resource will eventually be depleted.
+Similarly, CO2 emissions can exceed the rate at which forests and other ecosystems are able to absorb them, meaning additional Earths would be required to fully sequester these emissions.
+Exhaustion of natural resources has already happened locally in some places, for example the collapse of cod stocks in Newfoundland in the 1980s. At present, people are often able to shift their sourcing when this happens -- moving to a new fishing ground or forest, clearing new land for farming, or targeting a different population or a still-common species. But at current consumption rates, these resources will eventually run out too -- and some ecosystems will collapse even before the resource is completely gone.
+The consequences of excess greenhouse gases that cannot be absorbed by vegetation are also being seen: increasing concentrations of CO2 in the atmosphere, leading to increasing global temperatures and climate change, and ocean acidification. These place additional stresses on biodiversity and ecosystems.
+
+
+
+
+Map 3: Global map of the relative Ecological Footprint per person in 2007 The darker the colour, the higher the Ecological Footprint per person (Global Footprint Network, 2010)
+Ecological Footprint: National Examining the Ecological Footprint at the per-person level shows that people living in different countries differ greatly in their demand on the Earth's ecosystems (Map 3 and Figure 17). For example, if everyone in the world lived like an average resident of the United States or the United Arab Emirates, then a biocapacity equivalent to more than 4.5 Earths would be required to keep up with humanity's consumption and CO2 emissions. Conversely, if everyone lived like the average resident of India, humanity would be using less than half the planet's biocapacity.
+Carbon: the largest footprint component The largest footprint component is the carbon footprint. This has increased by 35 per cent since the publication of the first Living Planet Report in 1998, and currently accounts for more than half of the global Ecological Footprint (Figure 16).
+
+
+Ecological Footprint: Economic level
+The Ecological Footprint according to four political groupings which broadly represent different economic levels, illustrates that higherincome, more developed countries generally make higher demands on the Earth's ecosystems than poorer, less developed countries. In 2007, the 31 OECD countries -- which include the world's richest economies -- accounted for 37 per cent of humanity's Ecological Footprint. In contrast, the 10 ASEAN countries and 53 African Union countries -- which include some of the world's poorest and least developed countries -- together accounted for only 12 per cent of the global Footprint (Figure 18).
+
+
+As well as reflecting the amount of goods and services consumed and CO2 waste generated by the average resident, Ecological Footprint is also a function of population. As shown in Figure 19, the average per-person Ecological Footprint is much smaller in BRIC countries than in OECD countries; however, as there are over twice as many people living in BRIC countries as in OECD countries, their total Ecological Footprint approaches that of OECD countries. The current higher rate of growth in the perperson Footprint of BRIC countries means these four countries have the potential to overtake the 31 OECD countries in their total consumption.
+
+Ecological Footprint: Changes over time For the first time, this edition of the Living Planet Report looks at how the Ecological Footprint has changed over time in different political groupings, both in magnitude and relative contribution of each footprint component.
+The total Ecological Footprint of the four political groups has more than doubled between 1961 and 2007. In all groups, the greatest increase has been in the carbon footprint (Figure 20). Although the carbon footprint of the OECD is by far the largest of all regions and has increased tenfold since 1961, it has not increased the most rapidly: the carbon footprint of ASEAN countries increased by more than 100 times, while that of BRIC countries increased 20-fold and that of African Union countries increased 30-fold.
+
+
+
+In contrast, the relative contribution from the cropland, grazing land and forest footprint components has generally decreased for all regions. The decrease in the cropland footprint is the most marked, falling from 44­62 per cent in all groupings in 1961 to 18­35 per cent in 2007. This shift from a biomass- to a carbon-dominated Ecological Footprint reflects the substituti0n of fossil-fuel-based energy for ecological resource consumption.
+
+Gabon Bolivia Mongolia Canada Australia Congo Finland Paraguay New Zealand Uruguay Sweden Brazil Estonia Central African Republic Namibia Argentina Latvia Russian Federation Mauritania Norway Denmark Lithuania Kazakhstan Colombia United States Of America
+Peru Chile Botswana Papua New Guinea Ireland Austria Belarus Guinea-bissau Turkmenistan Chad Panama Madagascar France Angola Guinea Nicaragua Venezuela Congo, Dem. Rep. Slovakia Czech Republic Slovenia Malaysia Qatar Croatia Mali Liberia Sudan Ecuador Zambia Hungary Oman Bulgaria Poland Niger Myanmar Romania Germany Costa Rica Mozambique Cameroon Honduras Ukraine World Cote D'ivoire Greece Spain Bosnia And Herzegovina Eritrea Lao People's Dem. Rep. Trinidad And Tobago Mexico Macedonia Tfyr Somalia Indonesia Kyrgyzstan Belgium United Kingdom Turkey Burkina Faso Portugal Switzerland Timor-leste Georgia Senegal Sierra Leone Ghana Serbia Thailand Italy South Africa Guatemala Nigeria Gambia Netherlands Tanzania, United Rep. of Swaziland Tunisia China Cambodia Uzbekistan Albania Viet Nam United Arab Emirates Uganda Saudi Arabia Lesotho
+Iran Benin Azerbaijan Zimbabwe Cuba Armenia Malawi Syrian Arab Republic El Salvador Moldova Ethiopia Philippines Egypt Yemen Morocco Japan Togo Kenya Algeria Korea, Dem. People's Rep. of Rwanda Tajikistan Mauritius Nepal Afghanistan India Burundi Dominican Republic Sri Lanka Libyan Arab Jamahiriya Pakistan Lebanon Kuwait Jamaica Bangladesh Republic of Korea Israel
+Haiti Iraq Jordan Occupied Palestinian Territory Singapore
+
+Analysis of biocapacity at the national level reveals that over half the world's biocapacity is found within the borders of just ten countries. Brazil has the most biocapacity, followed in decreasing order by China, the United States, the Russian Federation, India, Canada, Australia, Indonesia, Argentina and France (Figure 21).
+Biocapacity per person, calculated by dividing national biocapacity by the country's population, is also not equivalent around the world. In 2007, the country with the highest biocapacity per person was Gabon, followed in decreasing order by Bolivia, Mongolia, Canada and Australia (Figure 22). In a world in ecological overshoot, the uneven distribution of biocapacity raises geopolitical and ethical questions regarding sharing of the world's resources.
+
+Measuring biocapacity
+Biocapacity includes cropland for producing food, fibre and biofuels; grazing land for animal products such as meat, milk, leather and wool; coastal and inland fishing grounds; and forests, which both provide wood and can absorb CO2.
+Biocapacity takes into account the area of land available, as well as the productivity of the land, measured by how much the crops or trees growing on it yield per hectare. Cropland in dry and/ or cold countries, for example, may be less productive than cropland in warmer and/or wetter countries. If a nation's land and sea are highly productive, a country's biocapacity may include more global hectares than it has actual hectares. Similarly, increases in crop yields will increase biocapacity. For example, the area of land used for growing the most prevalent crops, cereals, has remained relatively constant since 1961, while the yield per hectare has more than doubled.
+
+THE WATER FOOTPRINT OF PRODUCTION
+
+The Water Footprint of Production provides a measure of water use in different countries, as well as an indication of human demand on national water resources (Chapagain, A.K. and Hoekstra, A.Y., 2004). It accounts for the volume of green (rain) and blue (withdrawn) water consumed in the production of agricultural goods from crops and livestock -- the major use of water (Figure 24) -- as well as the grey (polluted) water generated by agriculture and from household and industrial water uses (see Box: Calculating the water footprint).
+
+Figure 24: The total Water Footprint of Production for agriculture, industry and for household use; and the proportion of grey, green and blue water within the Water Footprint of Production of the agricultural sector (Chapagain, A.K., 2010)
+
+Many countries are experiencing water stress
+Different countries use and pollute vastly different volumes of water (Figure 26). More critically, this places differing levels of water stress on national water resources. Water stress is calculated as the ratio of the sum of the blue and grey Water Footprints of Production to available renewable water resources. As shown in Figure 26, 45 countries are currently experiencing moderate to severe stress on blue water sources. These include major producers of agricultural goods for national and global markets, including India, China, Israel and Morocco. This strain on water resources will only become more acute with increased human populations and economic growth, and be further exacerbated by the effects of climate change.
+One limitation of this analysis is that it looks only at a national level, whereas water use is very much at a local or river basin level. Thus, countries classified as not being under water stress may have areas under high stress, and vice versa. For this reason, the analysis should be further refined to a local and river basin level.
+
+
+Calculating the water footprint The Water Footprint of Production is the volume of freshwater used by people to produce goods, measured over the full supply chain, as well as the water used in households and industry, specified geographically and temporally. It has three components:
+-- Green water footprint: The volume of rainwater that evaporates during the production of goods; for agricultural products, this is the rainwater stored in soil that evaporates from crop fields.
+-- Blue water footprint: The volume of freshwater withdrawn from surface or groundwater sources that is used by people and not returned; in agricultural products this is mainly accounted for by evaporation of irrigation water from fields.
+-- Grey water footprint: the volume of water required to dilute pollutants released in production processes to such an extent that the quality of the ambient water remains above agreed water quality standards. In this report, given a lack of adequate data, one unit of return flow is assumed to pollute one unit of freshwater; however, this significantly underestimates the grey water footprint of production.
+Given the negligible volume of water that evaporates during domestic and industrial processes, the Water Footprint of Production only includes the grey water footprint for households and industry. The figures assign all water use and pollution to the country in which these activities occurred, regardless of where the final products were consumed (see Box: How much water is in your coffee?; and Hoekstra, A.Y. and Chapagain, A.K., 2008).
+
+Figure 25: The water footprint of a product
+
+How much water is in your coffee?
+The Water Footprint of Production for an agricultural product includes all the water used and polluted in growing the particular crop; however, the total water footprint of the final product additionally includes all the water used and polluted in each subsequent step of the production chain as well as in its consumption (Hoekstra, A.Y. et al., 2009). This is also referred to as "virtual water".
+
+Water footprint of a cup of black coffee: 140 litres This includes the water used for growing the coffee plant, harvesting, refining, transporting and packaging the coffee beans, selling the coffee, and brewing the final cup (Chapagain, A.K. and Hoekstra, A.Y., 2007).
+Water footprint of a takeaway latte with sugar: 200 litres The water footprint increases even further when milk and sugar are added -- and will even vary according to whether the sugar came from sugarcane or sugar beet. If the final product is a takeaway coffee in a disposable cup, the water footprint will include the volume of water used to produce the cup as well.
+
+
+
+Focus on our footprint: Freshwater
+
+There is enough water available to meet human needs We all live at the water's edge, whether we are at the end of a pipe or the bank of a river. We need water for our basic survival, for
+
+1%
+
+cultivating crops, for generating energy and for producing the goods that we use every day. Although less than one per cent of water on the Earth is currently accessible for direct human use (UNESCOWWAP, 2006), there is enough water available to meet human and
+
+
+environmental needs. The challenge is to secure enough water of
+
+
+
+good quality in a way that doesn't destroy the very ecosystems from FOR HUMANS
+which we take our water supplies ­ rivers, lakes and aquifers.
+
+However, the use of freshwater ecosystem services --
+
+including, but not limited to, water supply -- is now well beyond
+
+levels that can be sustained even at current demands (MEA,
+
+2005b). Moreover, forecasts consistently suggest that demand for
+
+water -- our water footprint -- will continue to rise in most parts of
+
+the world (Gleick, P., et al., 2009). The major impacts of our water
+
+footprint on freshwater ecosystems globally include increased river
+
+fragmentation, over-abstraction and water pollution. The looming
+
+impacts of climate change may well exacerbate the situation. Finally,
+
+the global knock-on effects of water scarcity are being realized as
+
+water footprinting techniques shed light on how dependent countries
+
+and companies are on the trade of "virtual water" embedded in
+
+commodities and products.
+
+
+
+Water and people
+-- Billions of people, primarily in developing countries, obtain their drinking water directly from rivers, lakes, streams, springs and wetlands.
+-- It was estimated that in 1995 about 1.8 billion people were living in areas experiencing severe water stress (UNESCO-WWAP, 2006). By 2025, it is estimated that about two-thirds of the world's population -- about 5.5 billion people -- will live in areas facing moderate to severe water stress (UNESCO-WWAP, 2006).
+-- Freshwater fish can provide as much as 70 per cent of animal protein in many developing countries (MEA, 2005b).
+
+River fragmentation
+Increased demand for water and hydroelectricity, together with efforts to control flooding and aid river navigation, have led to the construction of dams and other infrastructure such as locks, weirs and dykes on most of the large rivers around the world. Globally, out of 177 large rivers longer than 1,000 km, only 64 remain freeflowing, unimpeded by dams or other barriers (WWF, 2006). Water infrastructure can bring benefits but it also has profound impacts on freshwater ecosystems and on those who depend on services provided by such ecosystems. Dams alter river flow regimes by changing the quantity, timing and quality of water that flows downstream. The largest dams can completely sever ecological connections between upstream and downstream habitats, for migratory fish for instance. Flood defence structures can sever the connection between a river and its floodplain, impacting on wetland habitats. Growing demand for low-carbon energy, water storage capacity and flood control appears to be causing a new drive to build dams and other infrastructure across the globe. Recent research has estimated that nearly 500 million people have had their lives and livelihoods negatively affected by the construction of dams (Richter, 2010).
+
+
+
+Rivers running dry
+In recent decades, increasing abstraction of water has led to some of the world's largest rivers running dry. For instance, the Yellow River in China stopped flowing in its downstream and mouth for lengthy periods during the 1990s; the challenge of maintaining flow in the Murray River in Australia is well documented; and the Rio Grande, which forms the border between the US and Mexico, runs dry for significant stretches. In order to satisfy increasing demand, water is also being transferred over great distances from one river basin to another, which can compound ecological impacts. Sometimes this is on a large scale, as in the case of the south-north water transfer scheme in China.
+
+Water pollution
+There have been some great successes in addressing problems of urban and industrial pollution in developed countries in the last 20 years, often due to stricter legislation and the allocation of very significant budgets to improved wastewater treatment facilities. Nevertheless, pollution remains a major problem for many river systems. After it has been used for domestic, industrial or agricultural purposes, any water that hasn't evapo-transpired is normally returned into freshwater ecosystems. These return flows are often loaded with nutrients, contaminants and sediments. They can also be warmer than the receiving waters, for instance when water has been used for cooling purposes in thermal power generation. Every day two million tonnes of sewage and other effluents drain into the world's waters (UNESCO-WWAP, 2003). The situation in developing countries is particularly acute, where 70 per cent of untreated industrial wastes are disposed into water where they contaminate existing water supplies (UN-Water, 2009). The consequent reduction in water quality has profound impacts on the health of species and habitats. In addition, poor water quality affects the health of downstream water users.
+
+Climate impacts and uncertainty
+Water is the primary medium through which climate change influences the Earth's ecosystems (Stern, N., 2006). Although precise scientific forecasts remain elusive, there is a consensus among many scientists that melting glaciers, shifting precipitation patterns and increasingly intense and frequent droughts and floods are expected as the global climate changes in the coming decades (IPCC, 2007a).
+
+
+
+Increasing demand for water, hydroelectricity and flood protection will make protection of rivers even more challenging. In this context, rivers are flowing into a highly uncertain future.
+
+
+Virtual water and global trade
+As we saw in the previous section, with new water footprinting tools we are able to understand the full extent of a nation's, or a company's, dependence on global water resources. The numbers can be startling: the water footprint of a cup of black coffee, for instance, is about 140 litres (Figure 25). When goods and services are traded between countries, so is the virtual water they contain. This global trade may add substantially to a country's water footprint. For example, while an average household in the UK uses around 150 litres per person per day, UK consumption of products from other countries means that each UK resident effectively soaks up 4,645 litres of the world's water every day. The source of this water is also important. A recent study found that 62 per cent of the UK's water footprint is virtual water embedded in agricultural commodities and products imported from other countries; only 38 per cent is used from domestic water resources (Chapagain, A.K. and Orr, S., 2008). The major sources of these products are shown in Map 5. Most of the virtual water comes from Brazil, Ghana, France, Ireland and India. Brazil provides soybeans, coffee and livestock products, while France provides mainly meat products, and India, cotton, rice and tea. However, the impact of these footprints may not be reflected in the number of litres of water. A smaller footprint can create more negative impacts in a river basin which is relatively more water stressed. Conversely, certain water footprint figures have large green water components, which may have a positive impact in the production regions by supporting the livelihoods of local communities.
+What this shows is that UK consumption of food and clothing (and indeed that of all countries that import food and clothing) has an impact on rivers and aquifers globally and is inextricably linked to the continuing security and good management of water resources in other parts of the world.
+
+
+
+
+In a globalized world, many nations and large companies will have a vested interest in ensuring sustainable use of water overseas in order to ensure their own food security or their supply chains. This is why a number of multinational corporations are investing in projects to support water-efficient agricultural practices along their supply chains.
+A smaller number of companies are also understanding that, unless water resources are sustainably managed at the river-basin level, any efforts they make to be water-efficient are likely to be lost as demand from other water users increases. This presents an opportunity to mobilize a new community of water stewards in the private sector who can advocate and support better management and sustainable allocation of water resources.
+
+
+Focus on our footprint: Marine fisheries
+Fish are vital to billions of people around the world Wild fish form a central food source for billions of people -- and are increasingly used as feed for poultry, livestock and farmed fish. The habitats that support commercial marine fish populations are also important, providing coastal protection from storms and other large waves, supporting marine-based tourism, and shaping the cultural identity of coastal societies around the world. These habitats, especially those in coastal areas, also house the vast majority of marine biodiversity.
+
+3 billion
+Nearly 3 billion people get at least 15% of their average animal protein intake from fish
+
+110 million
+Capture fisheries and aquaculture supply around 110 million tonnes of food fish each year
+
+TOp 10
+Most of the stocks of the top ten caught species, which account for about 30% of marine catches, are either fully exploited or overexploited and therefore cannot be expected to produce major increases in catches in the near future
+(All figures come from FAO, 2009b).
+
+1/2
+Slightly more than half of the marine fish stocks (52%) were fully exploited with no room for further expansion
+
+28%
+In 2007, 28% of monitored marine fish stocks were either overexploited (19%), depleted (8%) or recovering from depletion (1%)
+
+
+
+Overfishing is the greatest threat to fish stocks and marine
+
+biodiversity
+
+High demand for fish and fish products combined with overcapacity
+
+in the global fishing fleet and inefficient fishing techniques have
+
+driven massive overfishing. This is often encouraged by subsidies,
+
+which support fishing activity even for depleted stocks that would otherwise be unprofitable.
+Seventy per cent of commercial marine fish stocks are now threatened, with some fisheries and stocks, such as Mediterranean
+
+Increase fisheries' biocapacity through protected areas
+
+bluefin tuna, already on the verge of collapse. As large, long-lived
+
+predators like cod and tuna have become depleted, fishing fleets have
+
+increasingly turned to small, short-lived species further down the
+
+food chain, like sardines, squid, shrimp and even krill -- threatening
+
+the balance of entire marine ecosystems. Damaging fishing practices
+
+and a high level of incidental catch of non-target species (bycatch)
+
+further threaten marine habitats and species around the globe.
+
+Better management practices could help to restore fisheries
+Sustainable fisheries management can help to restore and maintain both fisheries' productivity and marine biodiversity. This would also increase the resistance of fisheries and marine ecosystems to other pressures like pollution, increased ocean acidification and climate change, as well as safeguard food supplies for coastal communities. However, there are challenges and tough choices, including:
+-- Accepting the short-term economic pain of drastic catch reductions in many marine fisheries, for future long-term benefits
+-- Improving fishing governance, especially on the high seas (areas beyond national jurisdiction)
+-- Balancing further expansion of aquaculture with the protection of wild fish stocks, biodiversity and habitats
+
+Biocapacity, biodiversity and fish
+In order to maintain, and even increase fish catches in the long term, fisheries' biocapacity needs to be increased. At the fisheries management level, this means maintaining fish stocks at optimal population and age levels to maximize growth, while at the ecosystem level it means improving and conserving marine habitats by establishing protected areas, limiting coastal pollution and curbing carbon dioxide emissions.
+
+
+
+Increasing biodiversity itself may also be an important way to increase the biocapacity of fish stocks: conserving all populations offers species more genetic potential to adapt to changing or new environments, and so ensure long-term productivity rates.
+
+Every year the fins of approximately four million
+hammerhead sharks are harvested
+
+Bitten by bad governance
+One major problem behind overfishing is poor fisheries management. Governance issues include systematic failures by many fisheries bodies to heed scientific advice on fish quotas, few international regulations for fishing on the high seas, and the failure of many countries to ratify, implement and/or enforce existing national and international regulations.
+The case of shark fishing exemplifies these problems. Sharks are sought after in international trade for their fins, meat, liver oil, cartilage and hides, and as aquarium specimens. An estimated 1.3 million smooth and 2.7 million scalloped hammerhead sharks, whose fins are among the most valuable, are harvested annually. Unprocessed fins of the latter have reached wholesale prices in excess of US$100/kg. This high value means that, even when sharks are caught as part of fishing activities for other species such as tuna (as often happens), they are usually retained rather than being discarded. Frequently, only the fins are retained, with the carcasses being dumped -- even though this practice is illegal in some jurisdictions.
+Most shark species mature late and have a relatively low reproductive output compared to other fish species. As a result, they are inherently vulnerable to overexploitation. Nevertheless, most of the 31 top shark fishing nations have not even implemented national plans to regulate their shark fisheries as recommended by the Food and Agricultural Organization (FAO), and management of shark fisheries by regional fisheries bodies is haphazard or non-existent. Furthermore, proposals to regulate international trade in sharks via the Convention on International Trade in Endangered Species (CITES) have been strongly resisted -- in March of 2010, four such proposals were rejected by CITES Parties.
+
+
+
+Millions of tonnes per year Estimated number of individuals
+
+Focus on our footprint: Forests
+
+Forests are central to all our lives Forests provide building materials, wood from which paper is made, fuel, food and medicinal plants, as well as shade for crops like coffee and cocoa. They store carbon, help regulate the climate, mitigate the impact of floods, landslides, and other natural hazards, and purify water. They also contain nearly 90 per cent of the world's terrestrial biodiversity, including the pollinators and wild relatives of many agricultural crops.
+Squeezed out for margarine? Demand for palm oil has doubled over the last decade and it has become an important export commodity for several tropical countries. Global production and demand for palm oil have soared since the 1970s (Figure 27).
+
+
+
+Malaysia and Indonesia now dominate global production of palm oil, accounting for 87 per cent of global supply and distribution (FAS, 2008). But this valuable and versatile raw material -- used in a wide variety of foods, soap and cosmetic products, and increasingly as a biofuel -- comes at a price. The development of new plantations to meet growing demand has led to
+
+
+
+the conversion of large areas of tropical forests with high conservation value. Oil palm cultivation area has increased nearly eightfold over the last 20 years, to an estimated 7.8 million ha in 2010.
+This is putting the survival of several species in danger -- notably orang-utans. Living only on the islands of Borneo and Sumatra, these apes are unable to survive in degraded and fragmented forest. The impact of an increasing global demand for palm oil products continues to be one of the main driving factors behind a recent dramatic decline in numbers (Nantha, H.S. and Tisdell, C., 2009). Estimates suggest that the two orang-utan species have already undergone a tenfold decrease in population size during the 20th century (Goossens, B. et al., 2006) and many populations are now at very low numbers. (See example in Figure 28 below).
+Worldwide demand for palm oil is expected to double again by 2020. WWF supports mechanisms such as the Roundtable on Sustainable Palm Oil that are working to develop and promote environmentally appropriate, socially beneficial and economically viable practices in the oil palm industry.
+
+
+
+Chapter 1: The state of the planet
+
+13 million
+
+US$18.5B
+
+Hectares lost globally each year between 2000 and 2010 (FAO)
+
+The reported value of nonwood forest products in 2005 (FAO)
+
+OVER 1 BILLION
+People living in poverty rely directly on forests for their livelihoods (World Bank, 2004)
+
+Getting more wood from the trees The significantly greater productivity of timber plantations over natural forests provides valuable new opportunities for future supplies of timber, pulp, biofuels and biomaterials -- as well as economic growth and employment.
+Furthermore, well managed and appropriately located, plantations can be compatible with both biodiversity conservation and human needs. While plantations may not provide the same range of ecosystem services as natural forests, in cases where land is degraded or eroded by a prior unsustainable use such as overgrazing, they may help to recover some ecosystem services.
+However, much plantation expansion in Latin America, Asia and Africa to date has come from the conversion of natural forests and other high conservation value areas such as grasslands and wetlands. In many cases, their establishment has also had significant social consequences due to a disregard for the rights and interests of local communities. WWF is working with stakeholders to determine best practice for a new generation of plantations that combine high productivity with the necessary safeguards for biodiversity and social values.
+
+
+Mapping ecosystem services: Terrestrial carbon storage
+
+The LPI, Ecological Footprint and Water Footprint of Production monitor changes in ecosystem health and human demand on ecosystems, but do not provide any information on the state or use of particular ecosystem services -- the benefits that people derive from ecosystems, and upon which food and water supplies, livelihoods and economies are based.
+
+INDICATORS ARE NEEDED TO PROVIDE A SIMPLE OVERVIEW
+OF CHANGE
+
+Why do we need ecosystem service indicators? Developing indicators for different ecosystem services -- such as water purification, crop pollination and fuel wood supply -- would help to quantify the benefits that healthy ecosystems provide to people. This is an essential first step to assigning an economic value to ecosystem services -- which can lead to enormous new incentives for conservation (see Box: Carbon markets and REDD). Such indicators would also help identify regions where the continued provision of such services is, or could become, under threat. This knowledge would help to inform the policies and decisions of both governments and the private sector so that they can incorporate ecosystem services into their policy and decision-making processes and encourage their conservation. Despite the importance of ecosystem services to human economies and livelihoods, we have yet to develop indicators that measure the supply and the demand for many of these services. Producing such indicators is therefore the focus of intense research. ZSL, GFN and WWF are all part of a global research effort to develop a range of indicators to track changes in services ranging from carbon storage and water purification to crop pollination.
+
+One of the most well developed ecosystem service indicators at a global scale is terrestrial carbon storage. Therefore, this edition of the Living Planet Report includes an ecosystem service indicator for terrestrial carbon storage (Map 6). This map of carbon density in forests and other ecosystems not only quantifies and locates current carbon stocks in a globally consistent way, but also helps to quantify potential emissions from land-use changes in different areas.
+
+Map 6: Global map of terrestrial carbon density, including vegetation and soil carbon pools. Units are metric tonnes of carbon/hectare (Kapos, V. et al., 2008: see references for full source data)
+
+The continued provision of terrestrial carbon storage is vital in the effort to prevent dangerous climate change, but is under threat due to continued land-use changes. Moreover, identifying and quantifying carbon stocks is essential for current Reducing Emissions from Deforestation and Forest Degradation (REDD) and REDD+ efforts, which seek to provide incentives for conserving forests by compensating countries and landowners for the carbon stored within them (see Box: Carbon markets and REDD). REDD+ mechanisms directly avoid or prevent deforestation that is projected to occur under a "business as usual" scenario. REDD+ activities can include the conservation, sustainable management or enhancement of existing forests that are not immediately threatened by deforestation.
+
+uantifying carbon stocks
+Satellite images are the back bone for monitoring forest status and forest change, but fall short of quantifying carbon stocks because they cannot penetrate the forest and quantify the forest's structure within. LIDAR fills that critical gap by providing high resolution forest maps that can be used to quantify biomass and ultimately carbon through the use of strategically placed calibration measurements on the ground. LIDAR is a critical tool for quantifying carbon emissions and fulfilling obligations for REDD+ compliance.
+
+Carbon markets and REDD
+Carbon storage by ecosystems reduces the speed and magnitude of climate change. A tonne of carbon stored anywhere benefits people everywhere, making everyone on Earth a `user', or `beneficiary', of this ecosystem service. This globalized benefit makes global markets for carbon storage services possible -- and indeed, such markets already exist, putting a value on carbon as a global commodity.
+Putting a price on carbon and paying landowners for storing it represents an enormous new incentive for conservation. REDD is an effort to use this financial value as an incentive for developing countries to reduce emissions from land-use change in forested areas and invest in low-carbon paths to sustainable development.
+
+
+Building up a picture of multiple services
+For forest carbon activities to play a key part in the global strategy to reduce carbon emissions, they must be carried out in ways that produce measurable emissions reductions while protecting biodiversity, upholding indigenous peoples' and local communities' rights, and promoting practices for appropriate benefit-sharing with local stakeholders. This holds true for both voluntary activities and a potential future compliance system under mechanisms such as REDD+. To maximize the biodiversity benefits of such payments, areas where high carbon and high biodiversity overlap need to be identified (Strassburg, B.B.N. et al., 2010). Map 7 identifies these overlaps among ecoregions, and reveals a world of win-win opportunities and trade-offs between carbon storage and biodiversity. Conservation efforts in ecoregions with relatively high levels of both carbon and endemic biodiversity (shown in light green in Map 7) are more likely to support the goals of both climate mitigation and conservation, and are more likely to attract carbonrelated funding.
+It is important to note, however, that even high carbon/high biodiversity ecoregions can contain areas in which biodiversity and carbon storage do not overlap. On the other hand, every ecoregion will contain local win­win opportunities, especially when services operating over relatively small scales (e.g. pollination by wild insects) are considered. Although finer-scale analyses will be essential for targeting specific conservation action at the local level, global analyses nevertheless remain broadly useful.
+Overlap of Biodiversity and Carbon Storage
+high biodiversity, high carbon low biodiversity, high carbon high biodiversity, low carbon low biodiversity, low carbon
+Map 7 : Overlap of biodiversity and carbon storage among ecoregions of the world Light green ecoregions contain relatively high levels (i.e. above the global median) of endemic biodiversity (i.e. vertebrate species found nowhere else) and carbon (in vegetation and soils); dark brown ecoregions have low biodiversity but high carbon; dark green ecoregions have high biodiversity and low carbon; grey ecoregions are below the global median for both measures (modified and updated from Kapos, V. et al., 2008; Naidoo, R. et al., 2008)
+
+
+
+Mapping a local ecosystem service:Freshwater provision
+In contrast to the worldwide benefits of carbon storage, water-related services are delivered locally, mainly to those living downstream. This has made it difficult for scientists to directly quantify these benefits on a global scale. We can, however, create global indicators that identify areas of high potential for providing freshwater services to people.
+Map 8a shows one such indicator: a global map of surface water "runoff" -- the supply of freshwater available for use downstream. It is based on a global model called WaterGAP (Alcamo et al., 2003) that accounts for precipitation, vegetation, topography and losses to groundwater to estimate runoff for all areas of the world.
+Ecosystem services are by definition benefits that people derive from nature, and any rigorous indicator must account for both the supply and use of the service. Map 8b combines freshwater runoff from Map 8a (supply) with water use by people (demand) within each of the world's river basins (Naidoo et al., 2008). The map identifies areas where most water is supplied to most people, and therefore where the potential importance of freshwater ecosystem services is currently highest. This information is useful for the management of water resources and of the ecosystems that provide water-related services. For example, it could help direct the development of water funds, which are rapidly being established in several countries to pay for land management that protects these water-related services.
+
+
+Water Provision 0 - 0.00013 0.00013 - 0.0232 0.0232 - 0.0899 0.0899 - 0.198 0.198 - 0.3455 0.3455 - 0.5823 0.5823 - 1.3016 1.301600001 - 403.611
+Map 8a: Global map of surface water runoff, based on the global WaterGAP model (Alcamo, J. et al., 2003). Dark areas indicate high, and light areas indicate low, supplies of freshwater for use downstream
+Water Use 0 - 0.0000261 0.0000261 - 0.0001013 0.0001013 - 0.000376 0.000376 - 0.00202 0.00202 - 0.007476 0.007476 - 0.03249 0.03249 - 7.334
+Map 8b: Global map of freshwater ecosystem service potential, developed by attributing human demand for freshwater back upstream to areas of original runoff. Dark areas indicate high, and light areas indicate low, levels of potential importance of freshwater ecosystem services. Units are km3/year for each cell on both of the above maps (redrawn from Naidoo, R. et al., 2008)
+
+
+The difference between the two maps is striking, and underlines the importance of accounting for both supply and use in developing indicators of ecosystem services. Many areas in the world provide huge quantities of freshwater (dark blue on Map 8a, e.g. Amazon and Congo basins), but, with relatively few people living downstream to realize the benefits, the potential importance of freshwater ecosystem services is currently low (light green on Map 8b). Conversely, less water is available in eastern Australia and northern Africa, but, with many downstream users, freshwater services have higher potential.
+Of course, these maps indicate only one ecosystem service, and conservation decisions should not be based on any single factor. Biodiversity importance, as well as additional ecosystem services (e.g. carbon storage, freshwater fisheries), should also be taken into account.
+With water demand destined to rise (Gleick, et al., 2009) and water supplies becoming less predictable due to climate change (IPCC, 2007a), this ecosystem service indicator is bound to change in the future. Tracking it and other indicators over time will provide a picture of how ecosystem services are changing along with biodiversity and our human footprint.
+
+
+Chapter two: living on our planet~
+In this section we take a closer look at the links between consumption, people and biodiversity. We begin by exploring the current relationship between human development and Ecological Footprint. For the first time, we also look at trends in biodiversity according to World Bank country income category. Using the Footprint Scenario Calculator developed by the Global Footprint Network, we then present various scenarios for ending ecological overshoot by changing different variables related to resource consumption, land use and productivity. These scenarios further illustrate the sensitivities that exist and the tough choices we all need to make in order to close the gap between Ecological Footprint and biocapacity -- and so live within the limits of our planet.
+Photo: Approximately 75 per cent of the world's top 100 crops rely on natural pollinators. There is growing evidence that more diverse pollinator communities result in higher, and more stable, pollination services; agricultural intensification and forest loss can harm pollinator species. Traditional bee keeping. Baima woman showing a honey comb. Baima tribal community, Sichuan Province, China.
+
+Biodiversity, development and human well-being
+Consumption and development Is increased consumption needed for increased development? The Ecological Footprint analyses presented in this report show that individuals from different countries consume vastly different amounts, with richer, more developed countries tending to consume more than poorer, less developed countries.
+A high level of human development -- where people have the ability to reach their potential and lead productive, creative lives in accord with their needs and interests (UNDP, 2009) -- is clearly essential for all individuals. An important question to ask is whether a high level of consumption is necessary for a high level of human development.
+Currently the most widely used indicator for development is the United Nations Development Programme's (UNDP) Human Development Index (HDI) which, by combining income, life expectancy and educational attainment, compares countries based on both their economic and social development level (UNDP, 2009a).
+The relationship between Ecological Footprint and HDI is not linear but instead has two distinct parts (Figure 30). In countries with a low level of development, development level is independent of per capita Footprint. However, as development increases beyond a certain level, so does per person Footprint -- eventually to the point where small gains in HDI come at the cost of very large Footprint increases.
+The UN defines the threshold for a high level of development as an HDI value of 0.8. Countries meeting or exceeding this threshold show an enormous range in per person Ecological Footprint, from Peru with a Footprint of just over 1.5gha to Luxembourg with a Footprint of over 9gha per person. The range is similar even for countries with the highest levels of development. Moreover, several countries with a high level of development have a similar per person Footprint to countries with a much lower level of development. Together with the breakdown in connection between wealth and well-being above a certain level of GDP per capita (Figure 31), this indicates that a high level of consumption is not necessarily required for a high level of development or well-being.
+
+Sustainable development is possible Sustainable development is defined as meeting the needs of the present without compromising the ability of future generations to meet their own needs (World Commission on Environment and Development). An HDI of 0.8 sets the lower limit for "meeting the needs of the present", while an Ecological Footprint of <1.8gha per person -- set by the Earth's biocapacity and human population -- sets an upper limit for living within the Earth's ecological capacity and so not "compromising future generations".
+Together, these indicators form a "sustainability box" which defines the criteria that must be met for a globally sustainable society. In 2007 there was only one country in this box: Peru, which falls just inside with an HDI score of 0.806 and an Ecological Footprint of just over 1.5gha per person. Cuba has been within this box in previous years (WWF, 2006b) but, with an Ecological Footprint of 1.85gha in 2007, it now falls just outside the lower boundary. Colombia and Ecuador similarly fall just outside the Footprint boundary.
+These examples illustrate that it is possible for countries to meet minimum criteria for sustainability. However, it must be remembered that this analysis is only at a national level and does not take into account socio-economic variation and distribution or levels of civic influence and democracy within a country. One of the most widely used indices of income inequality is the Gini coefficient in which countries are given a score ranging from 0, where income is perfectly equal between individuals, and 100, where income is perfectly unequal (i.e. one person has all the income).
+Peru has a relatively high Gini coefficient (49.8 in 2007), indicating that distribution of income is not equitable. This highlights the importance of using more than one indicator to comprehensively assess the multiple facets of social, environmental and economic sustainability.
+As mentioned earlier, the biocapacity available per person is not fixed, but will shrink as the human population grows. This is indicated in Figure 30: when there were considerably fewer people in 1961, the biocapacity available per person was about double what it is today. The sustainability box is therefore a moving target, and unless methods can be found to increase biocapacity it will become increasingly difficult for countries to fall within it.
+
+
+Biodiversity and national income
+
+The Living Planet Index by income group
+The LPI analyses presented earlier in this report show strong geographic differences in biodiversity loss between tropical and temperate regions as well as between biogeographic realms. To show that these differences are not necessarily geographic or biophysical in nature, we divided the species population data (except marine species which could not be assigned to a country) into three sets according to country income (see Box: Country income categories).
+The LPI for high-income countries shows an increase of 5 per cent between 1970 and 2007 (Figure 32). In stark contrast, the LPI for middle-income countries has declined by 25 per cent, while the index for low-income countries has declined by 58 per cent in the same period. The trend in low-income countries is particularly alarming, not just for biodiversity but also for the people living in these countries. While everyone depends on ecosystem services and natural assets, and hence biodiversity, the impact of environmental degradation is felt most directly by the world's poorest and most vulnerable people. Without access to clean water, land and adequate food, fuel and materials, vulnerable people cannot break out of the poverty trap and prosper.
+
+Map 9: High, middle and low­income countries (classified according to World Bank classifications, 2007: World Bank, 2003)
+
+Country income categories The World Bank classifies economies according to 2007 Gross National Income (GNI) per person, calculated using the World Bank Atlas method and the Atlas conversion factor (World Bank, 2003 Map 9). The purpose of the Atlas conversion factor is to reduce the impact of exchange rate fluctuations when comparing the national income of different countries. The category boundaries for 2007 were:
+High income: US$11,906 GNI per person Middle income: US$936­11,455 GNI per person* Low income: US$935 GNI per person
+*Combines the World Bank categories of lower middle income and upper
+middle income.
+
+
+Trends in the Ecological Footprint by income group
+The per person Ecological Footprint of low-income countries has decreased between 1970 and 2007, while middle-income countries' Footprint has increased slightly. The Ecological Footprint of highincome countries has not only significantly increased, but dwarfs that of the other two income groups (Figure 33).
+Trade flows As discussed earlier, many drivers of biodiversity loss stem from the production and consumption of food, fibre, materials and energy. The Ecological Footprint analyses show that this consumption is much higher in high-income countries than in middle- and lowincome countries, suggesting that biodiversity loss in middle- and low-income countries is, at least in part, related to the Footprint of people living in high-income countries.
+How might consumption in one country be related to biodiversity loss in a distant country? One factor is the globalization of markets and ease of movement of goods around the world, which allows countries to meet their demand for natural resources -- whether as processors or final users -- through imports from other countries. Timber from Brazil, for example, is transported to a large number of countries around the world, with timber exports dwarfing domestic trade (Map 10). Such maps of commodity flows provide a snapshot of international trade -- which is likely to be greater than official figures show due to the existence of illegal trade for many wild-sourced products.
+The increasing reliance of nations on one another's natural resources and ecosystem services to support preferred patterns of consumption leads to valuable opportunities for enhancing well-being and quality of life in the exporting nations. However, without appropriate natural resource management, this can lead to unsustainable use of the resources and degradation of the environment. When aggravated by lack of adequate governance, revenue transparency or equitable access to land and resources, development and prosperity also fail to materialize.
+
+
+Map 10: Trade f lows of timber and wood products from Brazil to the rest of the world in 2007 Consuming countries are shown in shades of green: the darker the colour, the greater the volume of imports (Global Footprint Network, 2010)
+
+
+Modelling the future: The Ecological Footprint towards 2050
+Humanity is currently consuming renewable resources at a faster rate than ecosystems can regenerate them and continuing to release more CO2 than ecosystems can absorb. What will the future hold? And what actions can be taken to end ecological overshoot and so achieve One Planet Living?
+The 2008 Living Planet Report introduced "solution wedges" to show the impact of specific actions on the future Ecological Footprint. These wedges represented actions which had the potential to shift the "business as usual" path towards sustainability and ultimately bring the footprint back to one planet. The Report focused on the carbon footprint, showing how three wedges -- energy efficiency, renewable energy, and carbon capture and storage -- could reduce the accumulation of atmospheric CO2 and therefore the carbon footprint.
+The Global Footprint Network has since taken this analysis a step further by creating a Footprint Scenario Calculator, first developed for the "Vision 2050" report by the World Business Council for Sustainable Development (WBCSD, 2010). This tool uses data on population, land use, land productivity, energy use, diet and climate change to estimate how the Ecological Footprint and biocapacity will change in the future. Changing these assumptions allows us to make different predictions for the future Ecological Footprint.
+This edition of the Living Planet Report uses the Footprint Scenario Calculator to illustrate how changes in energy sources and diet could potentially affect each of the components of the Ecological Footprint in 2015, 2030 and 2050. Comparing these scenarios to "business as usual" highlights some of the challenges and choices involved in ending ecological overshoot.
+
+
+Land competition
+Will there be enough land to produce enough forest products (paper, building materials) and food for future human needs? And, if so, will there also be enough land available to preserve biodiversity and essential ecosystem services?
+While analyses by the Food and Agriculture Organization suggest that land availability will not be an issue in the future (FAO, 2009a), this may not be the full picture. Crucially, these assessments did not take into account the land needed for growing biofuels and biomaterials at the rates needed to provide viable replacements for fossil fuel-based energy. Furthermore, climate change, water availability, land ownership/land tenure (especially for small communities and indigenous peoples), and the need for space for migratory species are all factors that will influence land availability and suitability for agriculture.
+Land competition is likely to be a greater challenge in the future than conventional wisdom suggests. Indeed, WWF believes that determining the optimal allocation of land to different crops (food, biofuel, biomaterial and fibre), carbon storage and biodiversity conservation is one of the greatest challenges facing policy-makers, businesses and society.
+
+The Earth's bioproductive area can be expanded
+
+Increasing biocapacity
+One response to an Ecological Footprint greater than one planet is to increase the biocapacity of the planet. The Earth's bioproductive area can be expanded by reclaiming degraded lands and making marginal lands more productive. For example, restoring forests or plantations on degraded land increases biocapacity not only through producing timber, but also by regulating water, preventing erosion and salination, and absorbing CO2.
+Increasing the yield of crops per unit area can also increase biocapacity. Cropland and forest yields have historically increased, and are likely to continue to do so in the future. Yet predictions for what these will be vary widely. The agriculture industry forecasts that "a doubling of agricultural output without associated increases in the amount of land or water used" is possible by 2050 (WBCSD, 2010).
+
+Yet an FAO Expert Meeting in 2009 on "How to Feed the World in 2050" suggested that crop yield increases could be only half historical rates, and that the agricultural research community would need to intensify efforts to raise yields in "the often unfavourable agro-ecological and also often unfavourable socioeconomic environments of the countries where the additional demand will be" (FAO, 2009a).
+Further bad news on agricultural yields could come as a result of climate change. Research findings from the International Food Policy Research Institute (IFPRI) indicate that climate change will cause yield declines for the most important crops and that South Asia (and especially irrigated crops) will be particularly badly hit (Nelson, G.C. et al., 2009). Therefore, although crop yields could double, the efforts of agriculturalists may be balanced out by climate change or have their uptake restricted by socioeconomic factors and governance.
+How many people will there be in 2050? The global population projections used in these scenarios are UN official statistics and we have used the median projections as the basis for all the models. The UN median projections are for a global population of almost 9.2 billion people by 2050 (UN, 2008), and a stabilized global population of 9.22 billion people at or around 2075 (UN, 2004). The UN projections for global population in 2050 range from 7.8 billion to 10.9 billion (UN, 2006).
+
+
+The role of cities in sustainable development
+Cities are already the source of close to 80 per cent of global CO2 emissions, and they will account for an ever-higher percentage in the coming years as more and more people reside in and move to cities in search of more prosperous lifestyles. As cities expand and need more space and more resources, they have an increasing effect on the surrounding area. A recent study in Tanzania tracked how the expansion of Dar es Salaam has led to predictable "waves" of forest degradation and biodiversity loss, spreading up to nine kilometres per year from the city, as people need to travel greater distances to find resources such as charcoal and timber (Ahrends, A. et al., in press). City authorities and citizens therefore have a crucial role to play in preserving global biodiversity, reducing Ecological Footprint and improving social well-being and prosperity. They also have a role to play with regard to carbon footprint -- including imports of "virtual emissions". Collectively, cities have a unique opportunity to make a big impact over the next 30 years, during which US$350 trillion will be invested in urban infrastructure. This can be used to develop an attractive "One Planet" lifestyle on a large scale, particularly in fast-growing smaller cities and developing nations (WWF, 2010).
+
+ving Planet Report 2010 scenarios
+The Footprint Scenario Calculator uses the footprint data between 1961 and 2007 as a baseline, and projects the size of each footprint component in 2015, 2030 and 2050. The "business as usual" scenario is based on: -- A median population increase to 9.2 billion by 2050 (UN, 2008;
+see box on page 84: How many people will there be in 2050?) -- CO2 emissions and biofuel use increasing in line with increased
+population and economic growth (OECD/IEA, 2008) -- Forest area continuing to follow the linear trends seen between
+1950 and 2005 -- Forest plantation and crop yields remaining constant -- World average daily calorie availability rising to 3130 kcal per
+person by 2050, an 11 per cent increase over the level in 2003 (FAO, 2006b). The number of calories is high as it represents food production, so includes both food eaten and food wasted
+In addition, increases in atmospheric CO2 and methane concentrations associated with the scenarios in food and energy were combined with the estimates of the Intergovernmental Panel on Climate Change (IPCC) to give a projected warming under each scenario (IPCC, 2007b). This warming was then combined with a land suitability model (Global Agro-Ecological Zones ­ GAEZ) to predict changes in the area and suitability of land for growing crops (Fischer, G. et al., 2008).
+Where does biodiversity fit into this picture? The Ecological Footprint is solely concerned with land directly related to provision of natural resources and space for infrastructure, and the absorption of CO2. However, there is an inescapable link between biodiversity and human health, wealth and well-being. It is therefore essential to explicitly recognize that a significant percentage of the Earth's area (and therefore biocapacity) needs to be allocated to support biodiversity.
+
+
+
+Protected areas are one way to achieve this. In 2009, there were over 133,000 nationally designated protected areas covering a total of nearly 19 million square kilometres of land and sea, or 12.9 per cent of the Earth's land area and 6.3 per cent of the Earth's territorial seas. Only approximately 0.5 per cent of extraterritorial seas are currently protected (IUCN/UNEP-WCMC, 2010).
+The scenarios therefore include a biodiversity wedge, set at 12 per cent of grazing land and 12 per cent of forest land set aside exclusively for biodiversity in 2015, increasing to 15 per cent of each land type in 2030 and 2050.
+
+Bringing biofuels into the equation
+In tackling the overall Footprint, it is important to recognize that footprint-reduction efforts in one area could lead to footprint increases in another. For example, fossil fuel use is the most significant contributor to humanity's Ecological Footprint. However, proposals to replace liquid fossil fuels with biofuel crops have the potential to increase pressure on land use and to increase problems caused by agriculture -- a significant threat to biodiversity (See Box: Squeezed out for margarine) and a major footprint contributor.
+To reflect some of these trade-offs, a biofuel wedge has been included. This represents both agricultural crops and forests needed to produce the energy obtained from biofuels. The model has been designed so that all the crop area devoted to biofuels is assumed to be from sugar cane (a likely underestimation as sugar cane is a relatively high productivity biofuel crop). While a wedge for biofuels arguably provides a level of detail that other crops (e.g. cereals) do not have in the model, it illustrates the trade-offs that will need to be made in the future between energy and diet.
+
+
+
+Business as usual
+The "business as usual" scenario predicts that humanity will be using resources and land at the rate of 2 planets each year by 2030, and just over 2.8 planets each year by 2050 (Figure 34).
+As the "business as usual" scenario shows, our present track is unsustainable. We therefore present two different pathways for the development of the world based upon changes to assumptions regarding energy and diet. We kept the same assumptions for biodiversity, crop yields and population growth.
+Energy mix The carbon footprint is the largest wedge and tackling it is a priority if global temperatures are not to increase to dangerous levels. WWF is currently carrying out a new analysis that shows how it is possible to ensure that global temperatures stabilize at less than two degrees Celsius above pre-industrial levels whilst providing clean energy for the world. Using solutions with today's technology only, this involves some aggressive action to improve energy efficiency in buildings, appliances, transportation and industry. In our model, global final energy demand is 260EJ by 2050, some 15 per cent less than in 2005. A further assumption on energy is the rapid electrification of energy supply, which permits the development of a range of renewable energies -- solar, wind, geothermal and bioenergy.
+We estimate that such measures will allow 95 per cent of all energy to be provided from renewable sources. Bioenergy is used as a last resort -- we assume that traditional fuelwood use will decline by two-thirds, thereby improving the lives of hundreds of millions of people. However, the need to provide solutions for long-distance transport (trucking, airlines and shipping) requires significant use of biofuels. To meet these demands we have assumed that the harvest of wood from the world's forests is doubled, whilst we increase the cropland allocated to biofuel production to 200 million ha. These both have a substantial footprint, which can be seen in an increase in the biofuels wedge from 0.04 planets in 2015 to just under 0.25 planets in 2050. This will of course have implications for agricultural production and diet -- both of which are explored in the next section.
+
+
+OTHER SCENARIOS
+
+The scenarios show us that it is possible to make dramatic
+
+
+
+reductions in Ecological Footprint, yet some big choices are ahead
+
+of us in two main areas -- energy and food. Today the overshoot
+
+that takes us to 1.5 planets is largely due to the carbon footprint.
+
+We are of course not setting aside land for CO2 absorption; rather,
+
+in order that we may live within the land area that we have, CO2 is
+
+being emitted to the atmosphere. The consequence of this is rising
+
+atmospheric temperature. To avoid further dangerous increases in
+
+atmospheric temperature we need to reduce our carbon footprint
+
+through measures to improve energy efficiency, increase the
+
+provision of electricity as an energy source, and replace liquid fossil
+
+fuels with biofuels.
+
+Whilst a roadmap on carbon footprint is possible, one is not
+
+yet available for the next challenge, which will be food production.
+
+The differences between the diets of Italy and Malaysia, if
+
+multiplied across the world, are dramatic (Figure 35). The crucial
+
+difference is not only in the total number of calories available but
+
+in the quantity of meat and dairy products consumed. Conversion
+
+of vegetable-based calories to animal-based calories is inefficient,
+
+and in a resource-constrained world one of the key trade-offs that
+
+society will need to grapple with is the quantity of land allocated
+
+for meat and dairy production either as grassland or to produce
+
+animal feed crops.
+
+Our model shows that, even with a very low carbon footprint,
+
+if 9.2 billion people were to aspire to the equivalent of the diet of
+
+today's average Malaysian, we would still need 1.3 planets by 2050.
+
+This raises some serious consequences. Whilst we are using the
+
+atmosphere for our excess CO2 emissions, there is no "safety valve"
+
+for land. Even converting forests does not provide enough land
+
+to grow the food needed for an Italian diet. We need to make our
+
+existing land more productive.
+
+In short, based upon the output from the model, optimizing
+
+the use of land for food, fuel, fibre and biomaterials is not our only
+
+challenge. If we are to provide enough food for the population of
+
+the world in the future, we need both to consider our diets and to
+
+devote significant long-term investment to raising biocapacity.
+
+Biodiversity Built-up land Forest Fishing Grazing Biofuels Cropland Carbon
+
+
+Food consumption
+As wealth increases, people consume more calories and there is an increase in the consumption of protein in the form of meat and dairy products (FAO, 2006b). To investigate how this affects the Ecological Footprint, we replaced the FAO baseline diet with the diets from two contrasting countries: Italy and Malaysia.
+These two countries differ firstly in their caloric intake (3,685kcal in Italy compared to 2,863kcal in Malaysia), and secondly in the amount of calories consumed in the form of meat and dairy products. The Malaysian diet is made up of 12 per cent meat and dairy products, versus 21 per cent in the Italian diet ­ half the amount when total calories are taken into account.
+The first model combines the renewable energy scenario with the assumption that everyone in the world has an average Italian diet (Figure 35a). The second model assumes that everyone has an average Malaysian diet (Figure 35b). The outcomes of these are markedly different. With 9.2 billion people eating a typical Malaysian diet the Footprint reaches just under 1.3 planets by 2050, whilst following an Italian diet the Footprint in 2050 will be closer to 2 planets.
+
+
+Chapter tHREE: a green economy?~
+The last two years have seen the rise of discussions at an international level on the need to build a global "green economy". In a green economy, economic thinking embraces people and the planet.
+Photo: The grandchildren of WWF Climate Witness Marush Narankhuu, a nomadic herder in Mongolia. The solar panel allows Marush and her family to keep a phone battery charged and call for medical assistance if needed. WWF has been at work in the area helping local communities make sustainable use of natural resources -- in this case, energy from the sun.
+The last two years have seen the rise of discussions at an international level on the need to build a global "green economy". In a green economy, economic thinking embraces people and the planet. The preceding sections of this report have provided the information and assessments on a variety of issues that will need to be addressed in the coming years by governments in their policies, businesses in their practices and consumers in their choices. They all have a role to play. The scope of the challenges is significant. For its part, WWF proposes that the following six interconnected areas be the centre of attention.
+
+1. Development pathways
+Firstly, our definition and measurement of prosperity and success needs to change. In recent history, income and consumption have become important facets of development and in the last 80 years GDP has been used as the main indicator of progress. Yet it is not the full story: ultimately we should be striving for personal and societal well-being. Above a certain income level, more consumption does not dramatically increase social benefits, and further increases in income per capita do not significantly increase human well-being.
+There is growing recognition that, in addition to income, well-being includes social and personal elements that together allow people to lead lives they value.
+This is not to say that GDP does not have its place. It does, up to a point, but it needs to be complemented by other indicators such as those featured in this report -- the Human Development Index, the Gini coefficient, the Living Planet Index, ecosystem services indices and the Ecological Footprint. Bringing the use of natural resources within ecological limits is part of the jigsaw puzzle of finding development pathways that allow us to live in harmony with nature.
+
+
+2. Investing in our natural capital Protected areas:
+In order to live in harmony with nature we also need to invest in it, not take it for granted. A building block of this has to be the adequate protection of representative areas of our forests, freshwater areas and oceans. The current Convention on Biological Diversity
+
+
+
+(CBD) target of 10 per cent protection for each ecological region has only been achieved in approximately 55 per cent of all terrestrial ecoregions. Further, particular emphasis needs to be placed on those two-thirds of the oceans which lie beyond national jurisdictions.
+How much space should be set aside to conserve biodiversity, not just for carbon storage and the maintenance of ecosystem services, but also for the inherent ethical reasons that have guided the principles of sustainable development? WWF and many other organizations believe that a 15 per cent target should be the minimum. This new target is important as protected areas will play an increasing role in building resilience to climate change. We are already on a pathway to temperature increases that will require extra space for the evolution of nature and the migration of species.
+
+Biome-based imperatives: Yet creating protected areas will not be enough. The three biomes of forests, freshwater and oceans have their own particular challenges.
+
+ZERO
+A worldwide effort to achieve zero net
+deforestation
+
+Forests: Deforestation continues at an alarming rate. At the CBD 9th Conference of the Parties (COP 9) in Bonn in 2008, 67 ministers signed up to achieving zero net deforestation by 2020. Now we need a worldwide effort involving traditional means (protected areas), new initiatives (REDD+) and market mechanisms (best practice in commodity supply chains) to bring this about.
+
+eliminate
+overfishing and destructive fishing practices
+
+Freshwater: We need to manage freshwater systems with the aim of providing for human needs and freshwater ecosystems. This means better policies for keeping water use within nature's limits and avoiding the fragmentation of freshwater systems. It also means providing everyone with water as a basic human right, creating agricultural systems that optimize water without impacting the watershed, and designing and operating dams and other in-stream infrastructure to better balance nature and humanity's needs.
+Marine: Overcapacity of fishing fleets, and, from that, overexploitation, is the main pressure on marine fisheries globally, leading to the loss of biodiversity and ecosystem structure. The overfishing includes the indiscriminate capture of non-target marine life, typically referred to as bycatch and/or discards. In the short term, we need to reduce the capacity of commercial fishing
+
+
+
+
+fleets in order to bring fishing into balance with sustainable harvesting levels. As populations then recover this should permit higher, longer-term harvesting catches.
+
+Investment in biocapacity:
+Complementary to investment in the direct protection of nature, we need to invest in biocapacity. Options for enhancing land productivity include restoring degraded land and improving land tenure, land management, crop management and crop yield.
+Here, markets have a role to play. Better management practices for the production of crops increase the efficiency of production, thus helping to increase biocapacity as well as reduce the Ecological Footprint. This is complemented by certification schemes (such as those run by the Forest Stewardship Council and Marine Stewardship Council) for sustainable production practices that maintain ecosystem integrity and long-term productivity. By involving companies at different points along the supply chain, market mechanisms help to connect sustainable producers to domestic or international markets and influence industry-scale behaviour. Whilst this behaviour is voluntary, the ultimate goal should be to transform markets so that environmental sustainability is no longer a choice but a value embedded in every product available to consumers.
+
+Enhance land productivity
+
+Valuing biodiversity and ecosystem services:
+To facilitate this investment we need a proper system for measuring the value of nature. Governments can account for ecosystem services in cost-benefit analyses that guide land-use policies and development permits. We must start with the measurement of the economic value of biodiversity and ecosystem services by governments. This would be the first step to providing new additional financing for biodiversity conservation, which in turn would lead to a new impetus for the conservation and restoration of biodiversity and ecosystem services, including roles for local communities and indigenous peoples.
+Companies can act in a similar way to make better longer-term sustainable investment decisions. We need to move to a situation where products include the costs of externalities -- such as water, carbon storage and restoring degraded ecosystems -- in their price. Voluntary certification schemes are one way of achieving this. Users can be expected to invest in long-term sustainable management of resources as long as resources have
+
+Develop valuation tools to distinguish between the evaluation and the appreciation of nature
+
+
+
+a clear future value, and as long as they are assured of continued access to, and substantial benefits from, those resources in the future.
+
+Equalise food aspirations
+
+3. Energy and food
+Our scenario modelling has highlighted two big issues for the future that we need to focus on: energy and food.
+In a new energy analysis WWF is undertaking, we show how the provision of clean renewable energy for all is possible. This will involve investing in energy-efficient buildings and transport systems that consume less energy, and shifting to electricity as a primary energy source as this facilitates the supply of renewable energy. We believe it is possible not only to increase access to clean energy for those who currently rely on fuelwood, but to virtually eliminate the reliance on fossil fuels, thereby cutting carbon emissions dramatically. This will involve investing in technology and innovation to make production more energy efficient. It will also create a whole new era of green jobs.
+Food is set to be the next major issue for the world -- not just tackling malnutrition and over-consumption, but also ensuring equitable access to food and revising our aspirations regarding the food we eat. This is part of the debate on development pathways that countries will need to follow. It will play out also in debates on how we allocate the productive land.
+
+?
+We will be faced with land allocation dilemmas
+
+4. Land allocation and land-use planning
+Will there be enough land for us to produce the food, feed and fuel for our needs in the future? And will there also be enough land available to conserve biodiversity and ecosystem services?
+The FAO has estimated that an increase of 70 per cent in food production is required to feed the future global population (FAO, 2009). It has concluded that there is enough land. Yet in order to reduce our reliance on fossil fuels we will also need to allocate significant areas of land and forests for biofuels and biomaterials.
+Our work on the ground across the world has provided us with the insight that in reality there are likely to be many constraints to making more land available or to raising yields: land tenure rights for small communities and indigenous peoples, land ownership questions, a lack of infrastructure, and water availability are just some of the factors that will restrict the amount of land available for growing crops.
+
+
+
+
+A further tension will be the strategic direction that governments of countries with high and low levels of biocapacity take. For example, Canada and Australia have high biocapacity per person and have the opportunity to use and consume more, or to export their "excess". Countries like Singapore or the UK have a deficit that can only be met by relying on the productivity of other countries' resources.
+Biocapacity has already become a geopolitical issue. The grab for land and water which is happening especially in Africa is a natural though worrying response to concerns about biocapacity. We will need new tools and processes for managing and deciding upon these competing demands on land.
+
+5. Sharing limited resources/inequality
+These tools and processes will need to guarantee equitable access to and distribution of energy, water and food across nations and peoples. The failure of the Copenhagen climate conference in December 2009 and the scrambles by individual governments to secure water, land, oil and minerals illustrate the difficulties of reaching international agreement on such issues. One idea is to consider national "budgets" for our key resources. For example, allocating a national carbon budget would allow each country to decide at a national level how it would keep greenhouse gas emissions within safe limits. The logic behind the concept of carbon budgets could serve as a useful starting point for discussions on the allocation of other resources.
+The analysis in this report indicates that the emphasis is on governments, companies and individuals to tackle high levels of consumption. There is a legitimate desire by those on low incomes to consume more, especially in low-income countries. However, a different mindset will be required from the higher-income countries and those across the world with high-consumption lifestyles.
+For individuals there are many personal choices ahead, including purchasing more goods produced in a sustainable manner, making fewer journeys and eating less meat. We also need a mindset shift to tackle both wasteful and artificial consumption -- the former associated with individual decisions and the latter driven in part by industry overcapacity.
+The Economics of Ecosystems and Biodiversity (TEEB) report has highlighted the perverse nature of subsidies across energy, fisheries and agriculture. When nature is fully accounted for, far from adding value to society, these subsidies have become
+
+
+drivers of overcapacity which leads to wasteful and artificial consumption as well as the loss of biodiversity and ecosystem services. These subsidies are therefore harmful to the long-term prosperity of humanity.
+6. Institutions, decision-making and governance
+Who is going to lead these transformations, and who will take the decisions? Despite decades of international recognition of the need to conserve biodiversity and achieve sustainable development, both these goals remain elusive. This is a failure of governance -- both of institutions and of regulation -- a failure of governments and a failure of the market.
+There are emerging solutions, at both national and local levels. Far-sighted governments will see the opportunity to gain national economic and societal competitiveness through approaches such as valuing nature and allocating resources in a manner that provides societal prosperity and resilience. This is likely to also involve investments in local governance involving multi-stakeholder groups formed to tackle specific issues, such as the management of and equitable access to resources. There are already some examples of this in action, for example in the regency of Merauke in Papua, Indonesia, where ecosystem and communitybased spatial planning has formal status (WWF-Indonesia, 2009).
+Yet national-level efforts will not be enough. International collective action will also be needed to tackle global issues such as subsidies and global inequality. Developing mechanisms at the international level can help ensure the coordination of local, regional and sector-specific solutions. International action is also needed to develop financing mechanisms to facilitate the changes needed.
+Businesses also have a role to play, both nationally and internationally, in strengthening governance through engagement in voluntary measures (such as roundtables and certification) and working with civil society and governments to ensure that such voluntary governance mechanisms are more formally recognized. More important is their ability to use the power of the market to drive change, based upon the recognition that natural assets are different from created assets.
+
+
+
+

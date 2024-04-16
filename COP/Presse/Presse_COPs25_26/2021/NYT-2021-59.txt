@@ -1,0 +1,153 @@
+
+
+The New York Times (web site)
+Tuesday, February 16, 2021 -  1436 mots
+
+A Glimpse of America’s Future: Climate Change Means
+Trouble for Power Grids
+
+By Brad Plumer
+
+Systems are designed to handle spikes in demand, but the wild and unpredictable weather linked to global
+warming will very likely push grids beyond their limits.
+
+Huge winter storms plunged large parts of the central and southern United States into an energy crisis this
+week, with frigid blasts of Arctic weather crippling electric grids and leaving millions of Americans without
+power amid dangerously cold temperatures.
+
+The grid failures were most severe in Texas, where more than four million people woke up Tuesday morning
+to rolling blackouts. Separate regional grids in the Southwest and Midwest also faced serious strain. As of
+Tuesday afternoon, at least 23 people nationwide had died in the storm or its aftermath.
+
+Analysts have begun to identify key factors behind the grid failures in Texas. Record-breaking cold weather
+spurred residents to crank up their electric heaters and pushed power demand beyond the worst-case
+scenarios that grid operators had planned for. At the same time, a large fraction of the state’s gas-ﬁred
+power plants were knocked ofﬂine amid icy conditions, with some plants suffering fuel shortages as natural
+gas demand spiked. Many of Texas’ wind turbines also froze and stopped working.
+
+The crisis sounded an alarm for power systems throughout the country. Electric grids can be engineered to
+handle a wide range of severe conditions — as long as grid operators can reliably predict the dangers ahead.
+But as climate change accelerates, many electric grids will face extreme weather events that go far beyond
+the historical conditions those systems were designed for, putting them at risk of catastrophic failure.
+
+While scientists are still analyzing what role human-caused climate change may have played in this week’s
+winter   storms,   it   is   clear   that   global warming   poses   a   barrage   of   additional   threats   to   power   systems
+nationwide, including ﬁercer heat waves and water shortages.
+
+Measures that could help make electric grids more robust — such as fortifying power plants against extreme
+weather, or installing more backup power sources — could prove expensive. But as Texas shows, blackouts
+can be extremely costly, too. And, experts said, unless grid planners start planning for increasingly wild and
+unpredictable climate conditions, grid failures will happen again and again.
+
+“It’s essentially a question of how much insurance you want to buy,” said Jesse Jenkins, an energy systems
+engineer at Princeton University. “What makes this problem even harder is that we’re now in a world where,
+especially with climate change, the past is no longer a good guide to the future. We have to get much better
+at preparing for the unexpected.”
+
+A System Pushed to the Limit
+
+Texas’ main electric grid, which largely operates independently from the rest of the country, has been built
+with the state’s most common weather extremes in mind: soaring summer temperatures that cause millions
+of Texans to turn up their air-conditioners all at once.
+
+While freezing weather is rarer, grid operators in Texas have also long known that electricity demand can
+spike in the winter, particularly after damaging cold snaps in 2011 and 2018. But this week’s winter storms,
+which buried the state in snow and ice, and led to record-cold temperatures, surpassed all expectations —
+and pushed the grid to its breaking point.
+
+Texas’ grid operators had anticipated that, in the worst case, the state would use 67 gigawatts of electricity
+during the winter peak. But by Sunday evening, power demand had surged past that level. As temperatures
+dropped, many homes were relying on older, inefﬁcient electric heaters that consume more power.
+
+
+
+The problems compounded from there, with frigid weather on Monday disabling power plants with capacity
+
+ 
+
+
+
+totaling more than 30 gigawatts. The vast majority of those failures occurred at thermal power plants, like
+natural gas generators, as plummeting temperatures paralyzed plant equipment and soaring demand for
+natural gas left some plants struggling to obtain sufﬁcient fuel. A number of the state’s power plants were
+also ofﬂine for scheduled maintenance in preparation for the summer peak.
+
+
+The state’s ﬂeet of wind farms also lost up to 4.5 gigawatts of capacity at times, as many turbines stopped
+working in cold and icy conditions, though this was a smaller part of the problem.
+
+In essence, experts said, an electric grid optimized to deliver huge quantities of power on the hottest days of
+the year was caught unprepared when temperatures plummeted.
+
+While analysts are still working to untangle all of the reasons behind Texas’ grid failures, some have also
+wondered whether the unique way the state manages its largely deregulated electricity system may have
+played a role. In the mid-1990s, for instance, Texas decided against paying energy producers to hold a ﬁxed
+number of backup power plants in reserve, instead letting market forces dictate what happens on the grid.
+
+On Tuesday, Gov. Greg Abbott called for an emergency reform of the Electric Reliability Council of Texas, the
+nonproﬁt   corporation   that   oversees   the   ﬂow   of   power   in   the   state,   saying   its   performance   had   been
+“anything but reliable” over the previous 48 hours.
+
+‘A Difﬁcult Balancing Act’
+
+In theory, experts said, there are technical solutions that can avert such problems.
+
+Wind turbines can be equipped with heaters and other devices so that they can operate in icy conditions —
+as is often done in the upper Midwest, where cold weather is more common. Gas plants can be built to store
+oil on-site and switch over to burning the fuel if needed, as is often done in the Northeast, where natural gas
+shortages are common. Grid regulators can design markets that pay extra to keep a larger ﬂeet of backup
+power plants in reserve in case of emergencies, as is done in the Mid-Atlantic.
+
+But these solutions all cost money, and grid operators are often wary of forcing consumers to pay extra for
+safeguards.
+
+“Building in resilience often comes at a cost, and there’s a risk of both underpaying but also of overpaying,”
+said Daniel Cohan, an associate professor of civil and environmental engineering at Rice University. “It’s a
+difﬁcult balancing act.”
+
+In the months ahead, as Texas grid operators and policymakers investigate this week’s blackouts, they will
+likely explore how the grid might be bolstered to handle extremely cold weather. Some possible ideas
+include: Building more connections between Texas and other states to balance electricity supplies, a move
+the   state   has   long   resisted;   encouraging   homeowners   to   install   battery   backup   systems;   or   keeping
+additional power plants in reserve.
+
+The search for answers will be complicated by climate change. Over all, the state is getting warmer as global
+temperatures rise, and cold-weather extremes are, on average, becoming less common over time.
+
+But   some   climate   scientists   have   also   suggested   that   global warming   could,   paradoxically,   bring   more
+unusually ﬁerce winter storms. Some research indicates that Arctic warming is weakening the jet stream, the
+high-level air current that circles the northern latitudes and usually holds back the frigid polar vortex. This
+can allow cold air to periodically escape to the South, resulting in episodes of bitter cold in places that rarely
+get nipped by frost.
+
+But this remains an active area of debate among climate scientists, with some experts less certain that polar
+vortex disruptions are becoming more frequent, making it even trickier for electricity planners to anticipate
+the dangers ahead.
+
+All   over   the   country,   utilities   and   grid   operators   are   confronting   similar   questions,   as   climate change
+threatens to intensify heat waves, ﬂoods, water shortages and other calamities, all of which could create
+novel risks for the nation’s electricity systems. Adapting to those risks could carry a hefty price tag: One
+recent study found that the Southeast alone may need 35 percent more electric capacity by 2050 simply to
+deal with the known hazards of climate change.
+
+And  the   task   of  building   resilience   is  becoming   increasingly  urgent.   Many   policymakers  are   promoting
+electric cars and electric heating as a way of curbing greenhouse gas emissions. But as more of the nation’s
+economy depends on reliable ﬂows of electricity, the cost of blackouts will become ever more dire.
+
+ 
+
+
+
+
+
+“This is going to be a signiﬁcant challenge,” said Emily Grubert, an infrastructure expert at Georgia Tech. “We
+need to decarbonize our power systems so that climate change doesn’t keep getting worse, but we also
+need to adapt to changing conditions at the same time. And the latter alone is going to be very costly. We
+can already see that the systems we have today aren’t handling this very well.”
+
+
+John Schwartz, Dave Montgomery and Ivan Penn contributed reporting.
+
+ 
+
+
