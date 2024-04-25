@@ -24,13 +24,13 @@ EXECUTIVE SUMMARY 2
 BACKGROUND 5
 METHODOLOGY 7
 RESULTS 13
-1. EXPLICIT MENTION OF PROTECTED AREAS 13
-2. ESTABLISHING NEW OR EXPANDING EXISTING PROTECTED AREAS 14
-3. UTILIZING PROTECTED AREAS TO HELP PEOPLE ADAPT TO CLIMATE
+EXPLICIT MENTION OF PROTECTED AREAS 13
+ESTABLISHING NEW OR EXPANDING EXISTING PROTECTED AREAS 14
+UTILIZING PROTECTED AREAS TO HELP PEOPLE ADAPT TO CLIMATE
 CHANGE (ECOSYSTEM-BASED ADAPTATION) 15
-4. MITIGATION BENEFITS FROM CARBON SEQUESTRATION AND
+MITIGATION BENEFITS FROM CARBON SEQUESTRATION AND
 AVOIDED EMISSIONS 17
-5. MANAGING PROTECTED AREAS FOR CLIMATE CHANGE RISKS 18
+MANAGING PROTECTED AREAS FOR CLIMATE CHANGE RISKS 18
 DISCUSSION AND RECOMMENDATIONS 20
 CONCLUSION 27
 GLOSSARY 28
@@ -93,18 +93,18 @@ Recommendations
 To enhance climate ambition through protected and conserved areas, WWF encourages
 Parties revising their NDCs for 2020 and beyond to consider the following five
 recommendations based on this analysis:
-1. Acknowledge the role that protected and other conserved areas play in
+Acknowledge the role that protected and other conserved areas play in
 achieving climate change adaptation and mitigation goals and include them in NDCs
 and related climate change policies.
-2. Increase coverage of protected and conserved areas and set specific, measurable
+Increase coverage of protected and conserved areas and set specific, measurable
 and time-bound targets (hectares conserved, percentage increase in coverage by 2030,
 etc.)
-3. Clearly articulate the role of protected and conserved areas in helping people
+Clearly articulate the role of protected and conserved areas in helping people
 adapt to climate change, and link specific climate hazards and vulnerable populations
 with the appropriate ecosystem services needed for adaptation.
-4. Integrate the carbon sequestration benefits of protected and other conserved
+Integrate the carbon sequestration benefits of protected and other conserved
 areas into climate change mitigation targets.
-5. Commit to managing protected and other conserved areas for current and
+Commit to managing protected and other conserved areas for current and
 anticipated climate risks to ecosystems and biodiversity while calling attention to
 the need for increased technical and financial support to improve protected area
 management in the face of rapid change.
@@ -209,27 +209,27 @@ evaluating
 NDCs and
 Protected
 Areas:
-1. Explicit mention
+Explicit mention
 of protected or
 other conserved
 areas
-2. Establishment
+Establishment
 or expansion of
 protected areas
-3. Use of protected
+Use of protected
 areas to help
 people adapt (EbA)
-4. Mitigation
+Mitigation
 benefits
 from carbon
 sequestration and
 avoided emissions
-5. Managing
+Managing
 protected areas
 for climate change
 risks
 
-1. Does the NDC mention protected areas explicitly?
+Does the NDC mention protected areas explicitly?
 There are currently more than 238,000 protected areas across the globe, and this
 number is expected to increase
 1
@@ -295,7 +295,7 @@ credit for this question.*
 WWF used its best judgement to determine the meaning and intent of the statements. WWF
 acknowledges that it may not have interpreted every statement correctly and is open to
 feedback and comments that may lead to revisions.
-2. Does the NDC call for the establishment of new, or
+Does the NDC call for the establishment of new, or
 expansion of existing, protected areas?
 Protected areas already help to mitigate greenhouse gas emissions and provide services
 that help vulnerable people adapt to climate change. Managing natural resources
@@ -313,7 +313,7 @@ areas is not enough to achieve these goals
 land use needs to be carefully managed so plants and animals can relocate to newly
 climatically suitable areas, and those areas where the future climate will remain
 suitable are protected
-8. This indicates a need for considerable expansion of protected
+This indicates a need for considerable expansion of protected
 area networks
 9
 .
@@ -325,7 +325,7 @@ for conservation purposes explicitly. Examples of phrases that received partial
 credit include “increase forest cover,” “plant trees,” “establish biological corridors,”
 “afforestation,” “reforestation or restoration of mangroves and forests” and “wetland or
 coral reef rehabilitation.”
-3. Does the NDC mention utilizing protected areas to help
+Does the NDC mention utilizing protected areas to help
 people adapt to climate change (also known as ecosystembased adaptation or EbA)?
 Ecosystem-based adaptation or EbA, uses nature to help people adapt to the impacts
 of climate change. EbA often focuses on protecting or restoring ecosystems to
@@ -346,7 +346,7 @@ specifically. A number of countries used the term “ecosystem-based adaptation�
 that do not conform to the accepted definition of using nature to help people adapt,
 sometimes conflating the concept of EbA with improved conservation to help nature
 itself. In these cases, Parties received no credit for this question.
-4. Does the NDC mention utilizing protected areas to
+Does the NDC mention utilizing protected areas to
 deliver carbon sequestration or avoided emissions
 benefits?
 It is estimated that protected areas account for about one fifth of all the carbon
@@ -378,7 +378,7 @@ achieve their climate change mitigation targets. Parties received partial credit
 referring to nature-based solutions to climate change mitigation without mentioning
 the role of protected areas specifically. NDCs received partial credit for terms including
 “REDD+ (reducing emissions from deforestation and degradation)”, “mitigationfriendly forest management systems” and “agroforestry.”
-5. Does the NDC indicate plans to use climate risk
+Does the NDC indicate plans to use climate risk
 information and climate adaptive measures to manage
 protected areas?
 Protected areas established to conserve biodiversity in the face of anthropogenic threats
@@ -421,7 +421,7 @@ not include specific actions to build resilience to known or anticipated climate
 impacts, were interpreted as traditional conservation strategies rather than forward
 looking “climate-smart” adaptation actions and therefore did not receive credit.
 RESULTS
-1. Explicit mention of protected areas
+Explicit mention of protected areas
 The 2015 Paris Agreement requires all Parties outline and communicate their post2020 climate change actions. These Nationally Determined Contributions (NDCs)
 represent each country’s commitment to reduce their greenhouse gas emissions and
 adapt to the adverse impacts of climate change. There were no instructions by the
@@ -461,7 +461,7 @@ areas or terms for other conserved
 areas received full credit for this
 question, indicated by a “●” in the
 country results table in Appendix 1.
-2. Establishing new or expanding existing protected areas
+Establishing new or expanding existing protected areas
 Of the countries that specifically mention protected areas, almost half demonstrated
 plans to establish new or expand existing protected or other conserved areas, equaling
 nearly one in five (18%) of the all countries evaluated. Some countries included specific
@@ -485,7 +485,7 @@ afforestation and reforestation” and notes that “about 195,000 hectares of m
 plantations have been raised so far.” However, none of these countries mention
 protected areas explicitly and received only half credit for question 2, indicated by a “●”
 in the country results table in Appendix 1.
-3. Utilizing protected areas to help people adapt to climate
+Utilizing protected areas to help people adapt to climate
 change (ecosystem-based adaptation)
 Very few NDCs included explicit plans to use current or future protected areas to
 help people adapt to climate change. Only eight countries—Antigua and Barbuda,
@@ -522,7 +522,7 @@ the Gambia’s “Large-scale Ecosystem-based Adaptation in the Gambia River Bas
 developing a climate resilient, natural resource-based economy.”12 Now that it has
 secured financing for EbA, the Gambia can inspire other nations by including this work
 in a revised NDC.
-4. Mitigation benefits from carbon sequestration and
+Mitigation benefits from carbon sequestration and
 avoided emissions
 Twenty countries (12%) explicitly refer to the mitigation benefits that protected
 areas provide through carbon sequestration and received full credit for this question,
@@ -567,7 +567,7 @@ and seagrass in Kiribati, forests in India, wetlands in China, for example) but 
 not explicitly mention the carbon sequestration benefits from protected areas. These
 countries received partial credit for question 4, indicated by a “●” in the table of country
 results in Appendix 1.
-5. Managing Protected Areas for Climate Change Risks
+Managing Protected Areas for Climate Change Risks
 While some countries have started to incorporate protected areas into their climate
 change solutions, very few have begun to consider the threat that climate change
 poses to their protected areas and adapt management accordingly. Ideally, countries
@@ -650,7 +650,7 @@ included in their NDCs.
 To increase ambition and highlight the role of protected areas while inspiring others to
 action, WWF developed five recommendations for Parties as they work to revise their
 NDCs for 2020 or in 5-year cycles as agreed in the 2015 Paris Agreement.
-1. Acknowledge the role that protected and other
+Acknowledge the role that protected and other
 conserved areas can play in achieving climate change
 adaptation and mitigation goals and include them in NDCs
 and related climate change policies.
@@ -663,7 +663,7 @@ bullet points with little or no background or context. Interpreting the intentio
 rationale behind such vague statements was a challenge for this study. Countries
 currently revising their NDCs should consider including the specific role of protected
 areas for either adaptation, mitigation, or both.
-2. Increase coverage of protected and conserved areas and
+Increase coverage of protected and conserved areas and
 set specific, measurable and time-bound targets.
 WWF encourages Parties to enhance adaptation and mitigation ambition by increasing
 the coverage of areas under protection or managed for ecosystem services. Countries
@@ -697,7 +697,7 @@ conserving at least 30% of terrestrial land and inland water areas and 30% of oc
 2030, national governments should recognize that increasing protected and managed
 forests, peatlands, mangroves and seagrasses can not only help meet biodiversity
 conservation and sustainable development goals, but also climate change targets.
-3. Clearly articulate the role of protected and conserved
+Clearly articulate the role of protected and conserved
 areas in helping people adapt to climate change and link
 specific climate hazards and vulnerable populations with
 the appropriate ecosystem services needed for adaptation.
@@ -757,7 +757,7 @@ local communities impacted by climate change in areas within and surrounding PAs
 specific target populations (people in and around protected areas), but it does not
 mention the climate change hazards these people are facing, nor how ecosystem
 services from protected areas can help them to adapt.
-4. Integrate the carbon sequestration benefits of
+Integrate the carbon sequestration benefits of
 protected and other conserved areas into climate change
 mitigation targets.
 The world’s protected areas store vast amounts of carbon that are critical to climate
@@ -780,7 +780,7 @@ Given the potential that protected and other conserved areas can play in sequest
 carbon and avoiding emissions, Parties are encouraged to enhance their climate change
 mitigation ambition by incorporating the role of protected areas in their revised NDCs,
 with specific areas and targets justified by rigorous data analysis.
-5. Commit to managing protected and other
+Commit to managing protected and other
 conserved areas for current and anticipated climate
 risks to ecosystems and biodiversity while calling
 attention to the need for increased technical

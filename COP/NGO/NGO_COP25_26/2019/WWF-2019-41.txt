@@ -130,12 +130,12 @@ must be a part of land use planning processes that precede the inception of sect
 of economy, finance, planning, transport, and construction, and regional and local
 governments, need to be able to make development planning and investing decisions
 based on more holistic evaluations of
-1) the totality of services provided by ecosystems and the reliance upon
+the totality of services provided by ecosystems and the reliance upon
 them by surrounding or downstream populations and economies,
-2) current and future infrastructure needs based on these dependencies
+current and future infrastructure needs based on these dependencies
 and other critical trends like population growth, migration, and projected
 economic development, and
-3) current impacts and likely future risks to 1 and 2 from continued
+current impacts and likely future risks to 1 and 2 from continued
 warming and the necessary pathways and planning steps to facilitate adaptation
 and resilience-building.
 A process of assessing such dependencies and climate change impacts under varying
@@ -166,40 +166,40 @@ approaches. Relevant institutions include global environmental NGOs, bilateral a
 agencies and other major funders including multilateral development banks (MDBs), and
 international intergovernmental organizations and country fora like the G7 and G20.
  INTERNATIONAL POLICY, FINANCE, AND SCIENCE
-1) Develop explicit funding programs designed to support holistic, crosssectoral landscape or regional scale planning efforts in collaboration with
+Develop explicit funding programs designed to support holistic, crosssectoral landscape or regional scale planning efforts in collaboration with
 existing international funding mechanisms like the Green Climate Fund (GCF),
 Global Environment Facility (GEF), and other major funders like the MDBs
 to support technical assessments and simultaneous capacity-building around
 a Visioning Futures or similar approach in-country to help de-risk potential
 investments, and thus to attract the private sector and explicitly meet country
 commitments under NDCs, CBD, and SDGs.
-2) Develop integrated regional or landscape scale planning standards
+Develop integrated regional or landscape scale planning standards
 through cross-sector collaboration with landscape, city, and infrastructure
 planners; design firms; and major funders for a Visioning Futures approach or
 similar that explicitly considers ecosystem services and climate risks, connects
 to project level sustainability and resilience standards, and meets national NDC
 objectives, CBD post-2020 Framework, and SDGs.
-3) Expand existing and develop new open data access platforms to
+Expand existing and develop new open data access platforms to
 improve transparency and accessibility to increase stakeholder knowledge
 and ownership in regional planning and infrastructure development processes,
 and to facilitate necessary technical assessments that inform planning.
-4) Update existing project screening and other “checklist” tools commonly
+Update existing project screening and other “checklist” tools commonly
 used by multilateral development banks and other funders when reviewing
 infrastructure projects (e.g., the Sustainable Infrastructure Foundation’s
 SOURCE planning tool adopted by the major MDBs44) to explicitly include or
 require integrated, forward-looking assessments of ecosystem services, climate
 risks, and infrastructure needs.
-5) Create new procurement criteria for large-scale infrastructure
+Create new procurement criteria for large-scale infrastructure
 funding through collaboration with major funders—e.g., MDBs—and private
 sector developers, that require direct integration with existing regional,
 landscape, or watershed plans that have been developed based on integrated
 assessments that explicitly account for ecosystem services and climate risks.
-6) Increase investment in ecosystem service modeling science to
+Increase investment in ecosystem service modeling science to
 improve existing geospatial tools to allow greater flexibility, ease of use, and
 standardization, through collaboration with developers, funders, and academia,
 to improve accounting of climate change dynamics and risks explicitly tailored to
 regional development planning and infrastructure pre-planning contexts.
-7) Use existing climate and development policy support and
+Use existing climate and development policy support and
 coordination initiatives (for example, the NDC Partnership, among others) to
 incentivize improved, holistic upstream infrastructure planning approaches and 
 investments in natural capital and ecosystem services in developing economies
@@ -211,38 +211,38 @@ These same relevant institutions operating in international fora should similarl
 directly related opportunities in-country to ground the shifts in policy and finance
 to affect actual landscapes, watersheds, regional plans, and ultimate infrastructure
 investments:
-8) Collaborate with relevant ministries and departments (planning,
+Collaborate with relevant ministries and departments (planning,
 finance, public works, environment) to access global funds to support
 integrated planning approaches in landscapes with urgent infrastructure
 needs to create the de-risking conditions necessary to crowd in private sector
 developer investment. Develop model case studies to replicate and scale
 nationwide, and contribute additional “business cases” that demonstrate the
 benefits of a Visioning Futures-like approach.
-9) Expand and develop national regulatory frameworks enshrining
+Expand and develop national regulatory frameworks enshrining
 holistic consideration of natural capital, ecosystem services, and climate risks in
 national policies, laws, and regulations governing spatial or strategic planning
 process, including procurement requirements, whether driven by large-scale
 infrastructure investments or otherwise.
-10) Create and expand existing financial, technological, and human
+ Create and expand existing financial, technological, and human
 resource investments in cross-sectoral, inter-ministry, and academic natural
 capital programs that support modeling teams to provide regular technical support
 for regional planning efforts, including explicit partnership with relevant climate
 risk assessment departments and agencies; and train the next generation of political
 leaders to improve national planning and decision-making using such information.
-11) Institutionalize cross-sectoral collaboration and integration in
+Institutionalize cross-sectoral collaboration and integration in
 planning processes via designated official bodies like an inter-agency/
 ministerial working group or commission with direct oversight and decisionmaking power in regional and sub-national planning efforts for large-scale
 infrastructure. Participation should include leaders and support staff in planning,
 finance, economic development, environment, public works, and other essential
 ministries.
-12) Expand existing programs and establish accredited integrated
+Expand existing programs and establish accredited integrated
 regional planning degrees in national universities, integrating curricula
 across schools of engineering, ecology, earth science, and economics around
 ecosystem services, natural capital, climate risk assessment and scenario
 planning, back-casting, decision-scaling, and other scenario planning approaches
 to train the technical experts necessary to manage and implement cross-sectoral
 planning processes.
-13) Increase ambition in NDCs through holistic mitigation and adaptation
+Increase ambition in NDCs through holistic mitigation and adaptation
 goals and programs, achieved through the use of Visioning Futures or similar
 planning frameworks that can improve planning for both nature-based solutions
 and decarbonization in major infrastructure sectors like transportation, energy,
@@ -557,13 +557,13 @@ Recognizing these larger trends and the central, cross-sectoral role that infras
 development plays in the achievement of multiple global agreements, the G20 recently
 agreed to updated principles for “Quality Infrastructure” to the Ise-Shima principles
 originally defined by the Japanese government during its presidency in 2016:36
-1. Maximizing the Positive Impact of Infrastructure to Achieve Sustainable Growth
+Maximizing the Positive Impact of Infrastructure to Achieve Sustainable Growth
 and Development
-2. Raising Economic Efficiency in View of Life-Cycle Cost
-3. Integrating Environmental Considerations in Infrastructure Investments
-4. Building Resilience against Natural Disasters and Other Risks
-5. Integrating Social Considerations in Infrastructure Investment
-6. Strengthening Infrastructure Governance
+Raising Economic Efficiency in View of Life-Cycle Cost
+Integrating Environmental Considerations in Infrastructure Investments
+Building Resilience against Natural Disasters and Other Risks
+Integrating Social Considerations in Infrastructure Investment
+Strengthening Infrastructure Governance
 Further details in each of these presents a clear understanding of the central role
 of infrastructure in meeting multiple international agreements and the need for an
 integrated social-economic-environmental approach, calling for investments that
@@ -592,12 +592,12 @@ technical limitations in addressing the increasing uncertainties and impacts of 
 change and environmental governance failures, especially in (but not limited to)
 developing economies. The lack of technical progress can be organized into three larger,
 overarching causes:
-1) insufficient “upstream” strategic planning across multiple projects and sectors,
+insufficient “upstream” strategic planning across multiple projects and sectors,
 limited by insufficient data and analysis of key climate risk, ecological integrity,
 and ecosystem services factors;
-2) the limited spatial scope of environmental and other impact and feasibility
+the limited spatial scope of environmental and other impact and feasibility
 assessments; and
-3) insufficient consideration of the risks and likely future impacts of ever-increasing
+insufficient consideration of the risks and likely future impacts of ever-increasing
 climate change.
 Improved planning for more sustainable, resilient infrastructure development is not
 solely an information-deficit challenge: even with the right information and optimal
@@ -788,12 +788,12 @@ the developed world (on the assumption that regional planning for infrastructure
 longer history and therefore more examples to highlight).
 To screen for all potentially relevant examples, the review initially classified projects
 across five types:
-1. A regional and cross-sector strategic or investment plan
-2. A master plan, i.e., a long-term plan providing a conceptual layout to guide future
+A regional and cross-sector strategic or investment plan
+A master plan, i.e., a long-term plan providing a conceptual layout to guide future
 development
-3. A pipeline of infrastructure projects
-4. A single large-scale infrastructure project
-5. A mixture of all of the above
+A pipeline of infrastructure projects
+A single large-scale infrastructure project
+A mixture of all of the above
 The review similarly classified projects across finance sources both public and private,
 including international development banks, or a mix of public and private. Each
 project was then given a rating from 1 to 4, depending on the degree to which it met
@@ -1033,7 +1033,7 @@ improve access to key services and provide greater economic opportunities for th
 region while maintaining natural capital and critical ecosystem services, driven by
 difficulties unique to Mozambique and other difficulties more universal to developing
 economies:
-1) Limited local data availability: To most effectively model natural capital and
+Limited local data availability: To most effectively model natural capital and
 the ecosystem services benefits it provides to surrounding communities, access
 to local, regional, and national data sets is essential to correct and ground-truth
 publicly available global satellite and remote-sensing data. Due in part to the civil
@@ -1049,7 +1049,7 @@ and nationwide were forced to rely heavily on publicly available data sets that
 have more limited resolution. While not as problematic for a rougher nationwide
 assessment, lower resolution results in less-useful analyses to inform the very
 site-specific decision-making of infrastructure development planning.
-2) The challenges of inter-ministerial coordination. Strategic spatial
+The challenges of inter-ministerial coordination. Strategic spatial
 planning based on assessments of climate risks, resilience, ecosystem services,
 and the services provision needs of local populations fundamentally requires
 strong coordination across ministries and sectors. As with almost any
@@ -1064,7 +1064,7 @@ any one organization to take it on. Recognizing the needs specifically for Cabo
 Delgado province, the government has recently agreed to establish a stakeholder
 working group, which will provide important venues for continuing to advocate
 for a more holistic approach to planning.
-3) Key gaps and overall limitations in spatial planning. Capacity is limited
+Key gaps and overall limitations in spatial planning. Capacity is limited
 in almost every sector in Mozambique, tracing back to the civil war and resulting
 institutional instability that similarly affected the country’s university system.
 The fact that so few Mozambicans have an advanced degree is emblematic of
@@ -1083,7 +1083,7 @@ representatives could not speak to specific interventions to mitigate flooding
 and associated risks due to climate change, and city plans show significant
 development—including priority areas for agriculture—in exactly these flooded
 areas along river and stream courses.51,57
-4) Limited understanding of the importance of natural capital. Workshop
+Limited understanding of the importance of natural capital. Workshop
 participants, especially those outside MITADER or the MEF already participating
 in the Natural Capital Program, repeatedly stated just how little Mozambicans
 know about the concepts of natural capital and ecosystem services—even when
@@ -1105,7 +1105,7 @@ audience, including the stakeholder working group and those in power to decide
 the future of Cabo Delgado and Palma, like the provincial governor and the
 dominant political party in the region. 
 
-5) The technical challenge of integrating climate and ecosystem services.
+The technical challenge of integrating climate and ecosystem services.
 From a purely technical ecosystem services and climate science modeling
 perspective, this case demonstrates fundamental limitations in assessing the
 dynamics of natural capital and ecosystem services in a changing climate. This
@@ -1155,14 +1155,14 @@ approach to infrastructure planning focused on improved spatial land-use plannin
 with natural capital, ecosystem services, and resilience at its core is needed. It should
 aim to fill the three previously identified information gaps at the earliest possible
 strategic planning stages of development:
-1) The totality of services provided by ecosystems and the reliance upon
+The totality of services provided by ecosystems and the reliance upon
 them by surrounding or downstream populations and economies.
-2) The cumulative, ecosystem-scale impacts potentially posed by
+The cumulative, ecosystem-scale impacts potentially posed by
 planned infrastructure.
-3) Current and future infrastructure needs based on these dependencies
+Current and future infrastructure needs based on these dependencies
 and other critical trends like population growth, migration, and projected
 economic development.
-4) Current impacts and likely future risks to 1, 2, and 3 from continued
+Current impacts and likely future risks to 1, 2, and 3 from continued
 warming and the necessary pathways and planning steps to facilitate adaptation
 and resilience-building. 
 
@@ -1181,12 +1181,12 @@ The most fundamental goal in developing this information is to create the necess
 information to support land use decision-making that spatially identifies specific areas
 for specific sectoral development. In terms of the mitigation hierarchy, the goal is to
 support more robust decisions in the “Avoid” and “Minimize” stages by identifying:
-1) Essential natural capital or ecological infrastructure for its provision of
+Essential natural capital or ecological infrastructure for its provision of
 multiple services that support economies, people, wildlife, and infrastructure,
 especially those conveying resilience and reducing climate risks, now and in a
 future of growing climate risks, that should be protected or conserved to ensure
 continued ecosystem integrity and services provision.
-2) Ideal or optimized locations for major infrastructure investments
+Ideal or optimized locations for major infrastructure investments
 and how to design them to complement continued ecosystem service
 delivery while also delivering essential services provided by such investments,
 i.e., in water, energy, or transport.
@@ -1293,8 +1293,8 @@ difficult to include in any hypothetical infrastructure planning case.
 A New Approach
 These examples demonstrate that though large-scale infrastructure investments are
 often complex and data intensive, explicitly planning for them at scale following the
-three key components of a Visioning Futures approach—1) ecosystem services and
-dependencies, 2) infrastructure needs, and 3) current and future climate change
+three key components of a Visioning Futures approach ecosystem services and
+dependencies, infrastructure needs, and current and future climate change
 impacts and risks—is indeed possible. And these are just four out of many other cases
 where new tools or innovations are driving more effective land use and infrastructure
 planning around ecosystems. This report does not aim to develop or call for a new set
@@ -1311,8 +1311,8 @@ Based on the above examples, the previous section, and a diverse mix of peer-rev
 literature, the following framework describes the basic steps to integrate climate,
 ecosystem services, infrastructure needs, demographics, and other critical data through
 an analytical, participatory co-generation process to achieve the two key goals described
-above: 1) identify essential natural capital and ecosystem services provision areas now
-and under future climate change, and 2) use this information to guide optimal planning
+above: identify essential natural capital and ecosystem services provision areas now
+and under future climate change, and use this information to guide optimal planning
 for major infrastructure investments. It is as simple as performing the necessary
 technical analysis to answer the following key questions:
 Natural Capital, Biodiversity, and Ecosystem Services
@@ -1443,18 +1443,18 @@ to incorrect assessments of ecosystem services. Analyses should then be re-run t
 incorporate feedback and additional data sources that often become available. Some or
 all of the following maps and analyses should be produced targeting key technical staff
 in relevant national and regional government planning departments:
-1. Priority areas for natural capital, corridors essential for ecological connectivity,
+Priority areas for natural capital, corridors essential for ecological connectivity,
 and methodologically robust benefits assessments, including economic valuation
 of ecosystem services where appropriate and other non-economic valuation
 approaches, especially in more subsistence-based communities.
-2. Changes in services provision (compared with a current baseline) under multiple
+Changes in services provision (compared with a current baseline) under multiple
 climate scenarios and the values/costs of those changes.
-3. Changes in services provision under future alternative development scenarios
+Changes in services provision under future alternative development scenarios
 and resulting changes in values or costs of changes.
-4. Infrastructure services delivery under alternative development and climate
+Infrastructure services delivery under alternative development and climate
 scenarios (including impacts to ecosystem services provision) and associated
 costs and benefits.
-5. Analysis of 1-4, including economic performance (and progress toward SDG
+Analysis of 1-4, including economic performance (and progress toward SDG
 targets) across scenarios; and guidance recommendations for the relevant crosssection of government departments overseeing land-use, infrastructure, and
 environmental planning decision-making.
 It is critical these results are communicated via multiple information pathways,
@@ -1522,40 +1522,40 @@ do the following to create the enabling conditions for improved planning that ca
 help countries manage the inherent tradeoffs among, and achieve, the goals of the
 simultaneously essential global agreements in climate, biodiversity, and sustainable
 development (among others):
-1) Develop explicit funding programs designed to support holistic, crosssectoral landscape- or regional-scale planning efforts in collaboration
+Develop explicit funding programs designed to support holistic, crosssectoral landscape- or regional-scale planning efforts in collaboration
 with existing international funding mechanisms like the GCF and GEF, and other
 major funders like the MDBs, to support technical assessments and simultaneous
 capacity-building around a Visioning Futures or similar approach in-country, to
 help de-risk potential investments to attract the private sector and explicitly meet
 country commitments under NDCs, CBD, and SDGs.
 
-) Develop integrated regional- or landscape-scale planning standards
+Develop integrated regional- or landscape-scale planning standards
 through cross-sector collaboration with landscape, city, and infrastructure
 planners, design firms, and major funders for a Visioning Futures approach or
 similar that explicitly considers ecosystem services and climate risks, connects
 to project level sustainability and resilience standards, and meets national NDC
 objectives, the CBD post-2020 Framework, and SDGs.
-3) Expand existing and develop new open data access platforms to
+Expand existing and develop new open data access platforms to
 improve transparency and accessibility, to increase stakeholder knowledge
 and ownership in regional planning and infrastructure development processes
 and facilitate necessary technical assessments that inform planning.
-4) Update existing project screening and other “checklist” tools commonly
+Update existing project screening and other “checklist” tools commonly
 used by multilateral development banks and other funders when reviewing
 infrastructure projects (e.g., the Sustainable Infrastructure Foundation’s
 SOURCE planning tool adopted by the major MDBs44) to explicitly include or
 require integrated, forward-looking assessments of ecosystem services, climate
 risks, and infrastructure needs.
-5) Create new procurement criteria for large-scale infrastructure
+Create new procurement criteria for large-scale infrastructure
 funding through collaboration with major funders—e.g., MDBs—and private
 sector developers that require direct integration with existing regional, landscape,
 or watershed plans that have been developed based on integrated assessments
 that explicitly account for ecosystem services and climate risks
-6) Increase investment in ecosystem service modeling science to
+Increase investment in ecosystem service modeling science to
 improve existing geospatial tools to allow greater flexibility, ease of use, and
 standardization, through collaboration with developers, funders, and academia,
 to improve accounting of climate change dynamics and risks explicitly tailored to
 regional development planning and infrastructure pre-planning contexts.
-7) Use existing climate and development policy support and coordination initiatives
+Use existing climate and development policy support and coordination initiatives
 (such as the NDC Partnership, among others) to incentivize improved, holistic
 upstream infrastructure planning approaches and investments in natural capital
 and ecosystem services in developing economies through technical support for
@@ -1567,39 +1567,39 @@ These same relevant institutions operating in international fora should similarl
 directly related opportunities in-country to ground the shifts in policy and finance in
 affecting actual landscapes, watersheds, regional plans, and ultimate infrastructure
 investments:
-1. Collaborate with relevant ministries and departments (planning,
+Collaborate with relevant ministries and departments (planning,
 finance, public works, environment) to access global funds to support
 integrated planning approaches in landscapes with urgent infrastructure
 needs to create the de-risking conditions to crowd in private sector developer
 investment; and develop model case studies to replicate and scale nationwide
 and contribute additional “business cases” that demonstrate the benefits of a
 Visioning Futures-like approach.
-2. Expand and develop national regulatory frameworks enshrining
+Expand and develop national regulatory frameworks enshrining
 holistic consideration of natural capital, ecosystem services, and climate risks in
 national policies, laws, and regulations governing spatial or strategic planning
 processes, including procurement requirements, whether driven by large-scale
 infrastructure investments or otherwise.
-3. Create and expand existing financial, technological, and human
+Create and expand existing financial, technological, and human
 resource investments in cross-sectoral, inter-ministry, and academic natural
 capital programs that support modeling teams to provide regular technical
 support for regional planning efforts, including explicit partnership with relevant
 climate risk assessment departments and agencies; and train the next generation
 of political leaders to improve national planning and decision-making using such
 information.
-4. Institutionalize cross-sectoral collaboration and integration in
+Institutionalize cross-sectoral collaboration and integration in
 planning processes via designated official bodies like an inter-agency/
 ministerial working group or commission with direct oversight and decisionmaking power in regional and sub-national planning efforts for large-scale
 infrastructure. Participation should include leaders and support staff in planning,
 finance, economic development, environment, public works, and other essential
 ministries.
-5. Expand existing programs and establish accredited integrated
+Expand existing programs and establish accredited integrated
 regional planning degrees in national universities integrating curricula
 across schools of engineering, ecology, earth science, and economics around
 ecosystem services, natural capital, climate risk assessment and scenario
 planning, back-casting, decision-scaling, and other scenario planning approaches
 to train the technical experts necessary to manage and implement cross-sectoral
 planning processes.
-6. Increase ambition in NDCs through holistic mitigation and adaptation
+Increase ambition in NDCs through holistic mitigation and adaptation
 goals and programs, achieved through the use of Visioning Futures or similar
 planning frameworks that can improve planning for both nature-based solutions
 and decarbonization in major infrastructure sectors like transportation, energy,
