@@ -1,0 +1,86 @@
+Fears climate crisis could increase allergy season
+severity by up to 60%
+
+
+
+26 mars 2021
+
+The climate emergency could increase future allergy season severity by up to 60%, a new
+pollen forecasting system suggests, while a separate system could predict the severity of
+grass pollen seasons months in advance.
+
+Such tools could help health professionals prepare for an increase in hay fever cases, or
+hospital admissions for allergy-related asthma. Seasonal pollen forecasts could also
+enable some hay fever sufferers to avoid particularly severe seasons by, for example,
+travelling abroad.
+
+About a quarter of people in Britain experience pollen allergy or hay fever, with the
+numbers increasing every year. Although daily pollen counts can be predicted based on
+the next day’s weather forecast and the time of year, making longer-term predictions for
+specific towns or regions is more difficult – meaning there is no clear guidance on how
+best to prepare for allergy seasons.
+
+Whereas previous studies have predicted an increase in allergies as a result of the climate
+crisis, they have usually involved extrapolating observations of increased pollen
+concentrations in recent decades forwards. “These studies are by nature retrospective and
+do not predict what will happen 30 years from now,” said Carsten Skjøth, professor in
+atmospheric sciences at the University of Worcester.
+
+To address these gaps, Skjøth and his colleagues built two separate forecasting systems.
+The first, which is designed for longer-term assessments such as the impact of the climate
+emergency or mitigation scenarios, combined observations of how carbon dioxide affects
+grass growth with data on how the weather affects pollen productivity.
+
+“Here we have a dynamic vegetation model that predicts – and displays on a map – the
+expected increase in pollen concentrations in a future climate,” Skjøth said.
+
+How urban planners' preference for male trees has made your hay fever worse
+
+Assuming a doubling of carbon dioxide levels, this would translate into an increase in
+future grass pollen allergy season severity of up to 60%, although how quickly this
+happened would depend on the effectiveness of climate crisis mitigation strategies.
+
+The second forecasting system combined measurements of air temperature, precipitation,
+and pollen concentrations at 28 pollen monitoring stations in north-west Europe over
+many years. Tests showed it could predict the severity of the grass pollen season based on
+pre-seasonal weather patterns, which can affect grass growth and pollen production.
+
+
+
+“This is a new type of information that can be used for long-term planning instead of day-
+to-day planning, and importantly for planning before the season has started,” said Skjøth,
+whose research was published in Science. “It doesn’t give you a precise number, but it will
+tell you whether the upcoming season will be particularly severe – a bit like when the Met
+Office releases its predictions in the autumn about whether we will get a wet or severe
+winter.
+
+“If we know in advance that we are going to get a very severe pollen season, it could
+provide information about how much medication shops need to put on their shelves. It
+can also help individuals to plan when to take annual leave, or even avoid the pollen
+season by travelling to a different country.”
+
+The new method could be combined with the latest generation of weather forecasting
+systems, to create more accurate daily forecasts, he said.
+
+Dr Rachel McInnes, science manager of air quality impacts at the Met Office, and a co-
+author of the paper said: “For sufferers, hay fever can be extremely debilitating and grass
+pollen is the worst offender. So any insight into the likely severity of the forthcoming
+pollen season across the UK will be truly welcomed.
+
+“Until now it has been beyond the power of science to produce a long-range forecast,
+partly because calculating the extent of pollen relies on meteorological as well as land-use
+factors. But by combining land-use and weather models and monitoring results at a
+number of study sites, the team has been able to make a breakthrough and provide the
+tantalising prospect of long-range pollen forecasting.
+
+“Further work is likely to include linking the team’s methods to atmospheric dispersion
+models, and detailed maps of different individual grass species to provide increasing
+sophistication.”
+
+ 
+
+ 
+
+
+
+

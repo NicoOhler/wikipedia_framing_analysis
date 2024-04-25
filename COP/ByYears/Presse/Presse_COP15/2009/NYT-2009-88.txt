@@ -1,0 +1,37 @@
+ Money and Business/Financial, Sunday, August 9, 2009 719 mots, p. BU 4
+
+ECONOMIC VIEW
+
+A Missed Opportunity On Climate Change
+By N. GREGORY MANKIW
+
+DURING the presidential campaign of 2008, Barack Obama distinguished himself on the economics of climate change, speaking far more sensibly about the issue than most of his rivals. Unfortunately, now that he is president, Mr. Obama may sign a climate bill that falls far short of his aspirations. Indeed, the legislation making its way to his desk could well be worse than nothing at all.
+
+Let's start with the basics. The essential problem of climate change, scientists tell us, is that humans are emitting too much carbon into the atmosphere, which tends to raise world temperatures. Emitting carbon is what economists call a "negative externality"-- an adverse side effect of certain market activities on bystanders.
+
+The textbook solution for dealing with negative externalities is to use the tax system to align private incentives with social costs and benefits. Suppose the government imposed a tax on carbon-based products and used the proceeds to cut other taxes. People would have an incentive to shift their consumption toward less carbon-intensive products. A carbon tax is the remedy for climate change that wins overwhelming support among economists and policy wonks.
+
+When he was still a candidate, Mr. Obama did not exactly endorse a carbon tax. He wanted to be elected, and embracing any tax that hits millions of middle-class voters is not a recipe for electoral success. But he did come tantalizingly close.
+
+What Mr. Obama proposed was a cap-and-trade system for carbon, with all the allowances sold at auction. In short, the system would put a ceiling on the amount of carbon released, and companies would bid on the right to emit carbon into the atmosphere.
+
+Such a system is tantamount to a carbon tax. The auction price of an emission right is effectively a tax on carbon. The revenue raised by the auction gives the government the resources to cut other taxes that distort behavior, like income or payroll taxes.
+
+So far, so good. The problem occurred as this sensible idea made the trip from the campaign trail through the legislative process. Rather than auctioning the carbon allowances, the bill that recently passed the House would give most of them away to powerful special interests.
+
+The numbers involved are not trivial. From Congressional Budget Office estimates, one can calculate that if all the allowances were auctioned, the government could raise $989 billion in proceeds over 10 years. But in the bill as written, the auction proceeds are only $276 billion.
+
+Mr. Obama understood these risks. When asked about a carbon tax in an interview in July 2007, he said: "I believe that, depending on how it is designed, a carbon tax accomplishes much of the same thing that a cap-and-trade program accomplishes. The danger in a cap-and-trade system is that the permits to emit greenhouse gases are given away for free as opposed to priced at auction. One of the mistakes the Europeans made in setting up a cap-and-trade system was to give too many of those permits away."
+
+Congress is now in the process of sending President Obama a bill that makes exactly this mistake.
+
+How much does it matter? For the purpose of efficiently allocating the carbon rights, it doesn't. Even if these rights are handed out on political rather than economic grounds, the "trade" part of "cap and trade" will take care of the rest. Those companies with the most need to emit carbon will buy carbon allowances on newly formed exchanges. Those without such pressing needs will sell whatever allowances they are given and enjoy the profits that resulted from Congress's largess.
+
+The problem arises in how the climate policy interacts with the overall tax system. As the president pointed out, a cap-and-trade system is like a carbon tax. The price of carbon allowances will eventually be passed on to consumers in the form of higher prices for carbon-intensive products. But if most of those allowances are handed out rather than auctioned, the government won't have the resources to cut other taxes and offset that price increase. The result is an increase in the effective tax rates facing most Americans, leading to lower real take-home wages, reduced work incentives and depressed economic activity.
+
+The hard question is whether, on net, such a policy is good or bad. Here you can find policy wonks on both sides. To those who view climate change as an impending catastrophe and the distorting effects of the tax system as a mere annoyance, an imperfect bill is better than none at all. To those not fully convinced of the enormity of global warming but deeply worried about the adverse effects of high current and prospective tax rates, the bill is a step in the wrong direction.
+
+What everyone should agree on is that the legislation making its way through Congress is a missed opportunity. President Obama knows what a good climate bill would look like. But despite his immense popularity and personal charisma, he appears unable to persuade Congress to go along.
+
+As for me, I hope the president refuses to sign a bill that fails to auction most of the allowances. Some might say a veto would make the best the enemy of the good. But sometimes good is not good enough.
+
