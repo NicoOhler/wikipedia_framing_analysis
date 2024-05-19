@@ -5,7 +5,7 @@ import os
 from framefinder import framedimensions
 from framefinder import framelabels
 from sentence_transformers import SentenceTransformer
-
+from tqdm import tqdm
 dimensions = [
     "Care: ...acted with kindness, compassion, or empathy, or nurtured another person.",
     "Harm: ...acted with cruelty, or hurt or harmed another person/animal and caused suffering.",
@@ -88,7 +88,7 @@ def processArticles(directories_to_frame, folder_names):
                             content += file.read()
                 articles.append(content)
                 article_names.append(str(folder_names[i]) + "_" + str(start))
-
+        #frame/label each directory as a whole
         content = ""
         for filename in os.listdir(directory):
             file_path = os.path.join(directory, filename)
@@ -100,22 +100,26 @@ def processArticles(directories_to_frame, folder_names):
     return articles, article_names
 
 def process(articles, article_names):
+    os.makedirs("dumps/df_dumps/framing/", exist_ok=True)
+    os.makedirs("dumps/df_dumps/lables/", exist_ok=True)
     print(f"Framing Dimensions: ")
-    for i, article in enumerate(articles):
-        #Framing
-        labels = framing_dimensions(article)
-        labels_df = pd.DataFrame(labels)
-        labels_df.to_csv("dumps/df_dumps/" + article_names[i] + ".csv", index=False)
-        #Labels
+    for i, article in enumerate(tqdm(articles, desc="Processing articles")):
+        # Framing
+        dimension = framing_dimensions(article)
+        dimension_df = pd.DataFrame(dimension)
+        dimension_df.to_csv(f"dumps/df_dumps/framing/{article_names[i]}_frame.csv", index=False)
+
+        # Labels
         labels = framing_labels(article)
+        labels_df = pd.DataFrame(labels)
+        labels_df.to_csv(f"dumps/df_dumps/labels/{article_names[i]}_label.csv", index=False)
 
 
 if __name__ == '__main__':
-    path_to_plt_directory = "plots/Press_ONG_OIG_Climate_change/"
     directories_to_frame = ["COP"]
     directories_to_frame, folder_names = listFolders(directories_to_frame)
     articles, article_names = processArticles(directories_to_frame, folder_names)
-    process(articles, article_names, path_to_plt_directory,[0.1])
+    process(articles, article_names)
 
     print(articles)
     print(article_names)
