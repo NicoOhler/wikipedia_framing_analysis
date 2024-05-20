@@ -4,8 +4,9 @@ import nltk
 import os
 from framefinder import framedimensions
 from framefinder import framelabels
-from sentence_transformers import SentenceTransformer
-from tqdm import tqdm
+# from sentence_transformers import SentenceTransformer
+import tqdm
+
 dimensions = [
     "Care: ...acted with kindness, compassion, or empathy, or nurtured another person.",
     "Harm: ...acted with cruelty, or hurt or harmed another person/animal and caused suffering.",

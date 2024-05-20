@@ -16,6 +16,9 @@ def filter_special_characters(text, remove_newlines=True):
     # remove references and links e.g. {3.6, 10.3}, {see Box3} or {FAQ 9.2, Figure 1}
     text = re.sub(r"\{.*?\}", "", text)
 
+    # remove "`"
+    text = re.sub(r"`", "", text)
+
     # remove enumerations
     # purposely remove the space after the hyphen to prevent splitting of words like "co-sponsored"
     text = re.sub(r"\*|•|■|▪|- |❖|►|»»|>>||<<|□□", "", text)
@@ -25,6 +28,7 @@ def filter_special_characters(text, remove_newlines=True):
         text = re.sub(r"\n|\t", " ", text)
 
         # ? should %, $, £, € be removed?
+    text.replace("�", "")
     return text
 
 
@@ -39,10 +43,10 @@ def filter_directory(directory):
         for file in files:
             filepath = subdir + os.sep + file
             if filepath.endswith(".txt"):
-                with open(filepath, "r", encoding='unicode_escape') as f:
+                with open(filepath, "r", errors='ignore') as f:
                     text = f.read()
                 filtered_text = filter_special_characters(text)
-                with open(filepath, "w") as f:
+                with open(filepath, "w", errors='ignore') as f:
                     f.write(filtered_text)
                 print(f"Filtered {filepath}")
 
