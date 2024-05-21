@@ -5,7 +5,7 @@ import os
 from framefinder import framedimensions
 from framefinder import framelabels
 # from sentence_transformers import SentenceTransformer
-import tqdm
+from tqdm import tqdm
 
 dimensions = [
     "Care: ...acted with kindness, compassion, or empathy, or nurtured another person.",
@@ -68,10 +68,15 @@ def listFolders(directories):
 def tokenizeArticles(articles):
     tokenized_articles = []
     for article in articles:
-        tokenized_articles.append(nltk.sent_tokenize(article))
+        try:
+            tokenized_articles.append(nltk.sent_tokenize(article))
+        except Exception as e:
+            print(f"Tokenization error:\n{e}")
+            continue
+    print(f"Tokenized {len(articles)} articles.")
     return tokenized_articles
 
-def processArticles(directories_to_frame, folder_names):
+def preprocessArticles(directories_to_frame, folder_names):
     articles = []
     article_names = []
     for i, directory in enumerate(directories_to_frame):
@@ -97,30 +102,35 @@ def processArticles(directories_to_frame, folder_names):
                 content += file.read()
         articles.append(content)
         article_names.append(folder_names[i])
+    print(f"Found {len(articles)} articles.")
     articles = tokenizeArticles(articles)
     return articles, article_names
 
-def process(articles, article_names):
+def frame(articles, article_names):
     os.makedirs("dumps/df_dumps/framing/", exist_ok=True)
     os.makedirs("dumps/df_dumps/lables/", exist_ok=True)
-    print(f"Framing Dimensions: ")
-    for i, article in enumerate(tqdm(articles, desc="Processing articles")):
-        # Framing
-        dimension = framing_dimensions(article)
-        dimension_df = pd.DataFrame(dimension)
-        dimension_df.to_csv(f"dumps/df_dumps/framing/{article_names[i]}_frame.csv", index=False)
+    print("Computing frame dimensions and labels:")
+    for i, article in enumerate(tqdm(articles, desc="Framing articles")):
+        try:
+            # Framing
+            dimension = framing_dimensions(article)
+            dimension_df = pd.DataFrame(dimension)
+            dimension_df.to_csv(f"dumps/df_dumps/framing/{article_names[i]}_frame.csv", index=False)
 
-        # Labels
-        labels = framing_labels(article)
-        labels_df = pd.DataFrame(labels)
-        labels_df.to_csv(f"dumps/df_dumps/labels/{article_names[i]}_label.csv", index=False)
+            # Labels
+            labels = framing_labels(article)
+            labels_df = pd.DataFrame(labels)
+            labels_df.to_csv(f"dumps/df_dumps/labels/{article_names[i]}_label.csv", index=False)
+        except Exception as e:
+            print(f"Article: {article_names[i]} could not be framed.\n{e}")
+            continue
 
 
 if __name__ == '__main__':
     directories_to_frame = ["COP"]
     directories_to_frame, folder_names = listFolders(directories_to_frame)
-    articles, article_names = processArticles(directories_to_frame, folder_names)
-    process(articles, article_names)
+    articles, article_names = preprocessArticles(directories_to_frame, folder_names)
+    frame(articles, article_names)
 
     print(articles)
     print(article_names)
