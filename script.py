@@ -108,7 +108,7 @@ def preprocessArticles(directories_to_frame, folder_names):
 
 def frame(articles, article_names, dump_path="dumps/df_dumps"):
     os.makedirs(dump_path + "/dimensions/", exist_ok=True)
-    os.makedirs(dump_path + "/lables/", exist_ok=True)
+    os.makedirs(dump_path + "/labels/", exist_ok=True)
     print("Computing frame dimensions and labels:")
     for i, article in enumerate(tqdm(articles, desc="Framing articles")):
         try:
