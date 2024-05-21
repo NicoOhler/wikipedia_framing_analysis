@@ -106,21 +106,19 @@ def preprocessArticles(directories_to_frame, folder_names):
     articles = tokenizeArticles(articles)
     return articles, article_names
 
-def frame(articles, article_names):
-    os.makedirs("dumps/df_dumps/framing/", exist_ok=True)
-    os.makedirs("dumps/df_dumps/lables/", exist_ok=True)
+def frame(articles, article_names, dump_path="dumps/df_dumps"):
+    os.makedirs(dump_path + "/dimensions/", exist_ok=True)
+    os.makedirs(dump_path + "/lables/", exist_ok=True)
     print("Computing frame dimensions and labels:")
     for i, article in enumerate(tqdm(articles, desc="Framing articles")):
         try:
-            # Framing
             dimension = framing_dimensions(article)
             dimension_df = pd.DataFrame(dimension)
-            dimension_df.to_csv(f"dumps/df_dumps/framing/{article_names[i]}_frame.csv", index=False)
+            dimension_df.to_csv(f"{dump_path}/dimensions/{article_names[i]}_frame.csv", index=False)
 
-            # Labels
             labels = framing_labels(article)
             labels_df = pd.DataFrame(labels)
-            labels_df.to_csv(f"dumps/df_dumps/labels/{article_names[i]}_label.csv", index=False)
+            labels_df.to_csv(f"{dump_path}/labels/{article_names[i]}_label.csv", index=False)
         except Exception as e:
             print(f"Article: {article_names[i]} could not be framed.\n{e}")
             continue
@@ -130,7 +128,4 @@ if __name__ == '__main__':
     directories_to_frame = ["COP"]
     directories_to_frame, folder_names = listFolders(directories_to_frame)
     articles, article_names = preprocessArticles(directories_to_frame, folder_names)
-    frame(articles, article_names)
-
-    print(articles)
-    print(article_names)
+    frame(articles, article_names, dump_path="dumps/df_dumps")
