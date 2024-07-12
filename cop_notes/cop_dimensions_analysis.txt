@@ -2,16 +2,18 @@ Methodology:
 look for "significant" deviations from average
 problem: average skewed if source contributes more to avg,
             which is definitely the case for our data
+maybe compare each source with average of other sources?
+    need to merge csvs for this - not too bad
 
 COP 25 26
     FT
         more care, loyalty, sanctity
     Guardian
         more fairness
-        slightly more care, authority, loyalty, cheating
+        slightly more care, loyalty
     NYT
         rather average
-        slightly more degredation
+        slightly more subversion, degredation
     Telegraph
        slightly more harm
     USAToday
@@ -35,33 +37,38 @@ COP 21
         slightly more harm, sanctity
 COP15
     FT
-
+        slightly more care, loyalty, authority, sanctity
     NYT
-
+        average
     Telegraph
-        
+        more subversion
+        slightly more degradation
+
 COP press averages compared
-    21 compared to 15
-        
-    26 with 21
+    harm no changes
+    cheating increased barely from 15 to 21 to 25/26
+    betrayal slightly more in 21
+    subversion increased from 15 to 21 to 25/26
+    degradation way more in 25/26 only
        
 
 press vs NGO vs IGO
     are reports and press articles even comparable?
+        very distintive writing style
+        probably about different topics?
+            reports give an overview/a summary
+            press articles report often report about specific/concrete issues/incidents
+    clear differences
     IGO vs press
-      
+        fairness, loyalty, authority
+        slightly more care
+        sanctity/degradation varies, avg constant
     NGO vs press
-        same as IGO vs press, but slightly less extreme
+        more sanc, auth, loyalty, fairness
+        slighty more care
     NGO vs IGO
-        i am confused
-        15
-            way more economic, capacity
-            (slightly) more fairness, morality, policy, security, quality, public, political
-        21
-            other way around (besides economic which stays the same)
-        25/26
-            rather identical
-            slightly more economic, fairness, policy, quality
+        harm, cheating, betrayal, subversion varies slightly, avg constant
+        slightly more sanctity
         
         
         
