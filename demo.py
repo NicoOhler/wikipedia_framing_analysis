@@ -391,7 +391,7 @@ def process_label_files(input_dir, output_dir):
     for file in files:
         file_path = os.path.join(input_dir, file)
         df = pd.read_csv(file_path)
-        df = df.drop(columns=df.columns[0])
+        # df = df.drop(columns=df.columns[0])
         _, ax = framing_labels.visualize(df.mean().to_dict(), xerr=df.sem())
         ax.xaxis.set_major_formatter(mticker.ScalarFormatter())
         plt.xticks([0.1, 0.5, 1])
