@@ -12,5 +12,12 @@ write function which takes two dumps/plots and returns the difference
          compare avg IGO, NGO, press
 
 average problem
-    maybe there are way more articles of one source which skews everything
-comparison of one source vs average of all other sources excluding itself would be interesting
+    more articles of one source might skew everything
+    distribution
+        FT 185 - 74 - 92
+        NY 214 - 74 - 89
+        Telegraph 88 - 97 - 85
+        Guardian 0 - 175 - 94
+        USAToday 0 - 57 - 109
+    comparison of one source vs average of all other sources excluding itself would be interesting
+        need to merge csvs for this - not too bad

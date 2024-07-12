@@ -1,9 +1,9 @@
 Methodology:
-look for "significant" deviations from average
-problem: average skewed if source contributes more to avg,
-            which is definitely the case for our data
-maybe compare each source with average of other sources?
-    need to merge csvs for this - not too bad
+    look for "significant" deviations from average
+    problem: average skewed if source contributes more to avg,
+                which is definitely the case for our data
+    maybe compare each source with average of other sources?
+        need to merge csvs for this - not too bad
 
 COP 25 26
     FT
@@ -18,8 +18,6 @@ COP 25 26
        slightly more harm
     USAToday
         slightly more harm, betrayal, degredation
-        
-
 COP 21
     FT
         average
@@ -44,13 +42,25 @@ COP15
         more subversion
         slightly more degradation
 
+press compared to average
+    FT
+        more care, sanctity, loyalty, slightly auth?
+    Guardian
+        more care, fairness
+    NYT
+        average - are there mostly NYT articles?
+    Telegraph
+        slightly more harm, cheating, subversion
+    USAToday
+        more cheating, betrayal
+        slightly more harm, sanctity
+
 COP press averages compared
     harm no changes
     cheating increased barely from 15 to 21 to 25/26
     betrayal slightly more in 21
     subversion increased from 15 to 21 to 25/26
     degradation way more in 25/26 only
-       
 
 press vs NGO vs IGO
     are reports and press articles even comparable?
@@ -69,6 +79,4 @@ press vs NGO vs IGO
     NGO vs IGO
         harm, cheating, betrayal, subversion varies slightly, avg constant
         slightly more sanctity
-        
-        
         

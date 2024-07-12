@@ -121,19 +121,20 @@ def find_min_max_values(directory):
     return min_v - 1 / 20 * min_v, max_v + 1 / 20 * max_v
 
 
-def normalize_files(input_dir, output_dir):
+def normalize_files(input_dir, output_dir, plot_dir):
     min_v, max_v = find_min_max_values(input_dir)
     if max_v > abs(min_v):
         min_v = -max_v
     else:
         max_v = abs(min_v)
     os.makedirs(output_dir, exist_ok=True)
+    os.makedirs(plot_dir, exist_ok=True)
 
     for file in os.listdir(input_dir):
         if file.endswith(".csv"):
             input_path = os.path.join(input_dir, file)
             output_path = os.path.join(
-                output_dir, f"{os.path.splitext(file)[0]}_norm.csv"
+                output_dir, f"{os.path.splitext(file)[0]}_normalized_mean.csv"
             )
             df = pd.read_csv(input_path, header=[0, 1])
             means = df.mean().values
@@ -155,10 +156,10 @@ def normalize_files(input_dir, output_dir):
             plt.gcf().set_size_inches(10, 7)
             plt.xlim(-1, 1)
             plt.savefig(
-                "plots/Press_ONG_OIG_Climate_change/normalized/scale_1_-1/"
-                + os.path.splitext(file)[0],
+                plot_dir + "/" + os.path.splitext(file)[0] + "_normalized",
                 bbox_inches="tight",
             )
+            plt.close()
 
 
 def processFraming(articles, article_names, path_to_plt_directory, scaling):
@@ -409,8 +410,8 @@ if __name__ == "__main__":
     custom_compare = False
     sub_folders = False
     compare_all = False
-    normalize = False
-    cluster = True
+    normalize = True
+    cluster = False
 
     if read:
         path_to_plt_directory = "plots/Press_ONG_OIG_Climate_change/"
@@ -434,7 +435,11 @@ if __name__ == "__main__":
         scale = 0.1
         compareAll(scale)
     if normalize:
-        normalize_files("dumps/cluster/dimensions", "plots/cluster/dimensions")
+        normalize_files(
+            "dumps/cluster/dimensions",
+            "dumps/cluster/dimensions_normalized",
+            "plots/cluster/dimensions_normalized",
+        )
     if cluster:
         process_label_files("dumps/cluster/labels", "plots/cluster/labels")
         process_dimension_files("dumps/cluster/dimensions", "plots/cluster/dimensions")
