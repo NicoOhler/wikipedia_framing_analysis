@@ -1,0 +1,16 @@
+is the data already normalized?
+is change linear?
+    is a 0.1 diff near the middle equivalent to a 0.1 diff at one end of the scale?
+
+aggregate all COPs into one
+    e.g. compare how NYT reported about COPs differently from FT
+    takes into consideration that we dont have an equal amount of articles for all COPs
+        e.g. very few FT articles for COP15, but many for COP21
+
+write function which takes two dumps/plots and returns the difference 
+    e.g. compare FT with average press,
+         compare avg IGO, NGO, press
+
+average problem
+    maybe there are way more articles of one source which skews everything
+comparison of one source vs average of all other sources excluding itself would be interesting

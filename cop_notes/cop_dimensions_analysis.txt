@@ -1,0 +1,67 @@
+Methodology:
+look for "significant" deviations from average
+problem: average skewed if source contributes more to avg,
+            which is definitely the case for our data
+
+COP 25 26
+    FT
+        more care, loyalty, sanctity
+    Guardian
+        more fairness
+        slightly more care, authority, loyalty, cheating
+    NYT
+        rather average
+        slightly more degredation
+    Telegraph
+       slightly more harm
+    USAToday
+        slightly more harm, betrayal, degredation
+        
+
+COP 21
+    FT
+        average
+        again slightly more care (care for money?)
+    Guardian
+        average
+        slightly more care, fairness   
+    NYT
+        slightly more authority, betrayal, harm
+        degradation avg 
+    Telegraph
+        slightly more harm, cheating, subversion
+    USAToday
+        more cheating, betrayal
+        slightly more harm, sanctity
+COP15
+    FT
+
+    NYT
+
+    Telegraph
+        
+COP press averages compared
+    21 compared to 15
+        
+    26 with 21
+       
+
+press vs NGO vs IGO
+    are reports and press articles even comparable?
+    IGO vs press
+      
+    NGO vs press
+        same as IGO vs press, but slightly less extreme
+    NGO vs IGO
+        i am confused
+        15
+            way more economic, capacity
+            (slightly) more fairness, morality, policy, security, quality, public, political
+        21
+            other way around (besides economic which stays the same)
+        25/26
+            rather identical
+            slightly more economic, fairness, policy, quality
+        
+        
+        

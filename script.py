@@ -125,7 +125,7 @@ def frame(articles, article_names, dump_path="dumps/df_dumps"):
             dimension = framing_dimensions(article)
             dimension_df = pd.DataFrame(dimension)
             dimension_df.to_csv(
-                f"{dump_path}/dimensions/{article_names[i]}_frame.csv", index=False
+                f"{dump_path}/dimensions/{article_names[i]}_dimensions.csv", index=False
             )
 
             labels = framing_labels(article)

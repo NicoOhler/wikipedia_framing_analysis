@@ -1,0 +1,86 @@
+Methodology:
+look for "significant" deviations from average
+problem: average skewed if source contributes more to avg,
+            which is definitely the case for our data
+
+COP 25 26
+    FT
+        more economic
+        less quality, political
+        slightly less morality, cultural, public
+    Guardian
+        close to average
+        slightly more public, political
+    NYT
+        average
+    Telegraph
+        slighty more economic
+        slightly less political
+    USAToday
+        slightly less economic
+
+COP 21
+    FT
+        very slightly less economic??
+        way less capacity
+        less morality, quality
+        slightly less fairness
+    Guardian
+        average   
+    NYT
+        more morality, legality, crime
+        slightly more fairness, quality
+    Telegraph
+        way more economic
+        slightly more capacity
+        slightly less fairness, legality, crime, health
+
+    USAToday
+        slightly more legality, fairness
+        more crime, quality
+        way more security, external, public, political
+
+COP15
+    FT
+        average
+    NYT
+        average
+    Telegraph
+        slightly less fairness, legality
+        less political
+        less external - is this even remotely relevant? xD
+
+COP press averages compared
+    21 compared to 15
+        way more economic than 25/26, slightly less than 15
+        more quality
+        slighty less morality
+    26 with 21
+        way less economic
+        less capacity
+        slightly less morality, fairness, public, political
+
+press vs NGO vs IGO
+    are reports and press articles even comparable?
+    IGO vs press
+        in general way less in (nearly) every aspect
+        way less economic
+        way way less capacity - relevant?
+        less morality, policy 
+        slightly less fairness, legality
+        ...
+    NGO vs press
+        same as IGO vs press, but slightly less extreme
+    NGO vs IGO
+        i am confused
+        15
+            way more economic, capacity
+            (slightly) more fairness, morality, policy, security, quality, public, political
+        21
+            other way around (besides economic which stays the same)
+        25/26
+            rather identical
+            slightly more economic, fairness, policy, quality
+        
+        
+        

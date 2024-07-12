@@ -7,5 +7,6 @@ NYT
     left center, high factual
 Guardian
     left center, medium factual
-Telegraph
+Daily Telegraph
     right, medium factual
+
