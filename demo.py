@@ -31,7 +31,7 @@ pole_names = [
     ("Authority", "Subversion"),
     ("Sanctity", "Degredation"),
 ]
-base_model = 'all-mpnet-base-v2'
+base_model = "all-mpnet-base-v2"
 
 candidate_labels = [
     "Economic: costs, benefits, or other financial implications",
@@ -52,7 +52,9 @@ candidate_labels = [
 ]
 
 framing_labels = framelabels.FramingLabels("facebook/bart-large-mnli", candidate_labels)
-framing_dimensions = framedimensions.FramingDimensions(base_model, dimensions, pole_names)
+framing_dimensions = framedimensions.FramingDimensions(
+    base_model, dimensions, pole_names
+)
 
 
 def listFolders(directories):
@@ -82,13 +84,13 @@ def processArticles(directories_to_frame, folder_names, grouped_by_source=False)
         if grouped_by_source:
             starting_with = set()
             for filename in os.listdir(directory):
-                starting_with.add(filename.split('-')[0])
+                starting_with.add(filename.split("-")[0])
             for start in starting_with:
                 content = ""
                 for filename in os.listdir(directory):
                     if filename.startswith(start):
                         file_path = os.path.join(directory, filename)
-                        with open(file_path, encoding='unicode_escape') as file:
+                        with open(file_path, encoding="unicode_escape") as file:
                             content += file.read()
                 articles.append(content)
                 article_names.append(str(folder_names[i]) + "_" + str(start))
@@ -96,7 +98,7 @@ def processArticles(directories_to_frame, folder_names, grouped_by_source=False)
             content = ""
             for filename in os.listdir(directory):
                 file_path = os.path.join(directory, filename)
-                with open(file_path, encoding='unicode_escape') as file:
+                with open(file_path, encoding="unicode_escape") as file:
                     content += file.read()
             articles.append(content)
             article_names.append(folder_names[i])
@@ -105,23 +107,23 @@ def processArticles(directories_to_frame, folder_names, grouped_by_source=False)
 
 
 def find_min_max_values(directory):
-    #Mean
+    # Mean
     all_values = []
     for root, dirs, files in os.walk(directory):
         for file in files:
             if file.endswith(".csv"):
                 file_path = os.path.join(root, file)
-                df = pd.read_csv(file_path,header=[0, 1])
+                df = pd.read_csv(file_path, header=[0, 1])
                 means = df.mean().values
                 all_values.extend(means)
     min_v = min(all_values)
     max_v = max(all_values)
-    return min_v - 1/20*min_v, max_v+ 1/20 *max_v
+    return min_v - 1 / 20 * min_v, max_v + 1 / 20 * max_v
 
 
 def normalize_files(input_dir, output_dir):
     min_v, max_v = find_min_max_values(input_dir)
-    if max_v >abs(min_v):
+    if max_v > abs(min_v):
         min_v = -max_v
     else:
         max_v = abs(min_v)
@@ -129,24 +131,34 @@ def normalize_files(input_dir, output_dir):
 
     for file in os.listdir(input_dir):
         if file.endswith(".csv"):
-            input_path = os.path.join(input_dir,file)
-            output_path = os.path.join(output_dir,f"{os.path.splitext(file)[0]}_norm.csv")
-            df = pd.read_csv(input_path,header=[0, 1])
+            input_path = os.path.join(input_dir, file)
+            output_path = os.path.join(
+                output_dir, f"{os.path.splitext(file)[0]}_norm.csv"
+            )
+            df = pd.read_csv(input_path, header=[0, 1])
             means = df.mean().values
-            normalized_means = [2 * ((xi - min_v) / (max_v - min_v)) - 1 for xi in means]
+            normalized_means = [
+                2 * ((xi - min_v) / (max_v - min_v)) - 1 for xi in means
+            ]
             norm_df = pd.DataFrame(columns=pd.MultiIndex.from_tuples(pole_names))
             norm_df.loc[0] = normalized_means
             norm_df.to_csv(output_path, index=False)
 
             g = framing_dimensions.visualize(norm_df)
             g.axes[0].set_axisbelow(True)
-            g.axes[0].yaxis.grid(color='gray', linestyle='dashed')
-            plt.title('Normalized Frame Dimensions for "' + os.path.splitext(file)[0] + ' [-1,1]"')
+            g.axes[0].yaxis.grid(color="gray", linestyle="dashed")
+            plt.title(
+                'Normalized Frame Dimensions for "'
+                + os.path.splitext(file)[0]
+                + ' [-1,1]"'
+            )
             plt.gcf().set_size_inches(10, 7)
             plt.xlim(-1, 1)
             plt.savefig(
-                "plots/Press_ONG_OIG_Climate_change/normalized/scale_1_-1/" + os.path.splitext(file)[0],
-                bbox_inches="tight")
+                "plots/Press_ONG_OIG_Climate_change/normalized/scale_1_-1/"
+                + os.path.splitext(file)[0],
+                bbox_inches="tight",
+            )
 
 
 def processFraming(articles, article_names, path_to_plt_directory, scaling):
@@ -157,7 +169,7 @@ def processFraming(articles, article_names, path_to_plt_directory, scaling):
         labels_df.to_csv("dumps/df_dumps/" + article_names[i] + ".csv", index=False)
         g = framing_dimensions.visualize(labels_df)
         g.axes[0].set_axisbelow(True)
-        g.axes[0].yaxis.grid(color='gray', linestyle='dashed')
+        g.axes[0].yaxis.grid(color="gray", linestyle="dashed")
         plt.title('Frame Dimensions for "' + article_names[i] + '"')
         plt.gcf().set_size_inches(10, 7)
         print(f"\t" + article_names[i])
@@ -166,8 +178,15 @@ def processFraming(articles, article_names, path_to_plt_directory, scaling):
             os.makedirs(path_to_plt_directory + "scale_" + str(scale), exist_ok=True)
             os.makedirs("dumps/plt_dumps/" + "scale_" + str(scale), exist_ok=True)
             plt.savefig(
-                path_to_plt_directory + "scale_" + str(scale) + "/" + article_names[i] + "_scale_" + str(scale)[2:],
-                bbox_inches="tight")
+                path_to_plt_directory
+                + "scale_"
+                + str(scale)
+                + "/"
+                + article_names[i]
+                + "_scale_"
+                + str(scale)[2:],
+                bbox_inches="tight",
+            )
 
 
 def processLabels(articles, article_names, path_to_plt_directory):
@@ -175,7 +194,9 @@ def processLabels(articles, article_names, path_to_plt_directory):
     for i, article in enumerate(articles):
         labels = framing_labels(article)
         labels_df = pd.DataFrame(labels)
-        labels_df.to_csv("dumps/df_dumps_labels/" + article_names[i] + ".csv", index=False)
+        labels_df.to_csv(
+            "dumps/df_dumps_labels/" + article_names[i] + ".csv", index=False
+        )
 
         _, ax = framing_labels.visualize(
             labels_df.mean().to_dict(), xerr=labels_df.sem()
@@ -187,14 +208,20 @@ def processLabels(articles, article_names, path_to_plt_directory):
         plt.gcf().set_size_inches(10, 7)
         print(f"\t" + article_names[i])
         plt.savefig(
-            path_to_plt_directory + "/labels/" + article_names[i],
-            bbox_inches='tight')
-        pickle.dump(plt.gcf(), open(
-            "dumps/plt_dumps/labels/" + article_names[i], "wb"))
+            path_to_plt_directory + "/labels/" + article_names[i], bbox_inches="tight"
+        )
+        pickle.dump(plt.gcf(), open("dumps/plt_dumps/labels/" + article_names[i], "wb"))
 
 
 def debug1(sub_folders, scaling, directories_to_frame):
-    print(f"Processing: \n" + f"\tSub-folders: " + str(sub_folders) + "\n" + f"\tScaling: " + str(scaling))
+    print(
+        f"Processing: \n"
+        + f"\tSub-folders: "
+        + str(sub_folders)
+        + "\n"
+        + f"\tScaling: "
+        + str(scaling)
+    )
     print(f"\tDirectories: ")
     for directory in directories_to_frame:
         print(f"\t\t- " + str(directory))
@@ -225,9 +252,21 @@ def compareCustom(df_paths, scale, custom_names=None, title=None):
     g = compare_plots(dfs, names, scale)
     plt.title(title)
     print(f"\t\t- " + str(title))
-    plt.savefig("plots/Press_ONG_OIG_Climate_change/custom_compare/" + title + ".png", bbox_inches='tight')
-    pickle.dump(plt.gcf(),
-                open("dumps/plt_dumps/custom_compare/" + "compare_" + title + "_scale_" + str(scale)[2:], "wb"))
+    plt.savefig(
+        "plots/Press_ONG_OIG_Climate_change/custom_compare/" + title + ".png",
+        bbox_inches="tight",
+    )
+    pickle.dump(
+        plt.gcf(),
+        open(
+            "dumps/plt_dumps/custom_compare/"
+            + "compare_"
+            + title
+            + "_scale_"
+            + str(scale)[2:],
+            "wb",
+        ),
+    )
 
 
 def compareAll(scale, starts_with=""):
@@ -243,7 +282,7 @@ def compareAll(scale, starts_with=""):
             if starts_with != "":
                 if not filename.startswith(starts_with):
                     continue
-            name = filename.rsplit('_', 1)[-1].split('.')[0]
+            name = filename.rsplit("_", 1)[-1].split(".")[0]
             if name.startswith("COP"):
                 continue
             names.add(name)
@@ -260,15 +299,30 @@ def compareAll(scale, starts_with=""):
     for i, df in enumerate(dfs):
         if len(df) != 1:
             g = compare_plots(dfs[i], pairs[i], scale, compare=compare[i], save=True)
-            plt.title(f'Comparing {compare[i]}')
+            plt.title(f"Comparing {compare[i]}")
             print(f"\t\t- " + str({compare[i]}))
-            plt.savefig("plots/Press_ONG_OIG_Climate_change/compare/" + compare[i] + ".png", bbox_inches='tight')
-            pickle.dump(plt.gcf(),
-                        open("dumps/plt_dumps/compare/" + "compare_" + compare[i] + "_scale_" + str(scale)[2:], "wb"))
+            plt.savefig(
+                "plots/Press_ONG_OIG_Climate_change/compare/" + compare[i] + ".png",
+                bbox_inches="tight",
+            )
+            pickle.dump(
+                plt.gcf(),
+                open(
+                    "dumps/plt_dumps/compare/"
+                    + "compare_"
+                    + compare[i]
+                    + "_scale_"
+                    + str(scale)[2:],
+                    "wb",
+                ),
+            )
         else:
             print(f"\t\tskipping- " + str({compare[i]}))
 
-def compare_plots(dfs, titles, scale, colors=list(mcolors.TABLEAU_COLORS), save=False, compare=None):
+
+def compare_plots(
+    dfs, titles, scale, colors=list(mcolors.TABLEAU_COLORS), save=False, compare=None
+):
     name_left = dfs[0].columns.map(lambda x: x[1])
     name_right = dfs[0].columns.map(lambda x: x[0])
     means = [df.mean() for df in dfs]
@@ -277,7 +331,7 @@ def compare_plots(dfs, titles, scale, colors=list(mcolors.TABLEAU_COLORS), save=
         path = "dumps/df_dumps/grouped_by_name/grouped_by_" + compare + ".csv"
         dfs[0].to_csv(path, index=False)
         for df in dfs[1:]:
-            df.to_csv(path, index=False, header=False, mode='a')
+            df.to_csv(path, index=False, header=False, mode="a")
 
     legend_entries = [mpatches.Patch(color=colors[0], label=titles[0])]
 
@@ -299,11 +353,12 @@ def compare_plots(dfs, titles, scale, colors=list(mcolors.TABLEAU_COLORS), save=
     plt.legend(handles=legend_entries)
     return fig
 
+
 def process_dimension_files(directory, plot_directory):
     if not os.path.exists(directory):
         print(f"Directory {directory} does not exist")
         return
-    files = [f for f in os.listdir(directory) if f.endswith('.csv')]
+    files = [f for f in os.listdir(directory) if f.endswith(".csv")]
     if not files:
         print(f"No CSV files found in {directory}")
         return
@@ -314,12 +369,12 @@ def process_dimension_files(directory, plot_directory):
 
         g = framing_dimensions.visualize(df)
         g.axes[0].set_axisbelow(True)
-        g.axes[0].yaxis.grid(color='gray', linestyle='dashed')
+        g.axes[0].yaxis.grid(color="gray", linestyle="dashed")
         plt.title('Frame Dimensions for "' + os.path.splitext(file)[0] + '"')
         plt.gcf().set_size_inches(10, 7)
         plt.xlim(-0.12, 0.12)
-        plot_path = os.path.join(plot_directory, f'{os.path.splitext(file)[0]}.png')
-        plt.savefig(plot_path, bbox_inches='tight')
+        plot_path = os.path.join(plot_directory, f"{os.path.splitext(file)[0]}.png")
+        plt.savefig(plot_path, bbox_inches="tight")
         plt.close()
 
 
@@ -328,7 +383,7 @@ def process_label_files(input_dir, output_dir):
         print(f"Input directory {input_dir} does not exist")
         return
     os.makedirs(output_dir, exist_ok=True)
-    files = [f for f in os.listdir(input_dir) if f.endswith('.csv')]
+    files = [f for f in os.listdir(input_dir) if f.endswith(".csv")]
     if not files:
         print(f"No CSV files found in {input_dir}")
         return
@@ -337,15 +392,17 @@ def process_label_files(input_dir, output_dir):
         file_path = os.path.join(input_dir, file)
         df = pd.read_csv(file_path)
         df = df.drop(columns=df.columns[0])
-        _,ax = framing_labels.visualize(df.mean().to_dict(), xerr=df.sem())
+        _, ax = framing_labels.visualize(df.mean().to_dict(), xerr=df.sem())
         ax.xaxis.set_major_formatter(mticker.ScalarFormatter())
         plt.xticks([0.1, 0.5, 1])
         plt.title(f'Frame Labels for "{os.path.splitext(file)[0]}"')
         plt.axvline(0.5, color="red")
-        plot_path = os.path.join(output_dir, f'{os.path.splitext(file)[0]}.png')
-        plt.savefig(plot_path, bbox_inches='tight')
+        plot_path = os.path.join(output_dir, f"{os.path.splitext(file)[0]}.png")
+        plt.savefig(plot_path, bbox_inches="tight")
         plt.close()
-if __name__ == '__main__':
+
+
+if __name__ == "__main__":
     read = False
     frame = False
     label = False
@@ -357,7 +414,7 @@ if __name__ == '__main__':
 
     if read:
         path_to_plt_directory = "plots/Press_ONG_OIG_Climate_change/"
-        directories_to_frame = ["COP/Unordered_Year/NGO","COP/Unordered_Year/Presse"]
+        directories_to_frame = ["COP/Unordered_Year/NGO", "COP/Unordered_Year/Presse"]
         scaling = [0.1]
         debug1(sub_folders, scaling, directories_to_frame)
         if sub_folders:
@@ -365,8 +422,10 @@ if __name__ == '__main__':
         else:
             folder_names = []
             for folder_name in directories_to_frame:
-                folder_names.append(folder_name.split('/')[-1])
-        articles, article_names = processArticles(directories_to_frame, folder_names, True)
+                folder_names.append(folder_name.split("/")[-1])
+        articles, article_names = processArticles(
+            directories_to_frame, folder_names, True
+        )
         if frame:
             processFraming(articles, article_names, path_to_plt_directory, scaling)
         if label:
@@ -377,10 +436,15 @@ if __name__ == '__main__':
     if normalize:
         normalize_files("dumps/cluster/dimensions", "plots/cluster/dimensions")
     if cluster:
-        process_label_files("dumps/cluster/labels", "plots/cluster/lables")
-        process_dimension_files("dumps/cluster/labels", "plots/cluster/lables")
+        process_label_files("dumps/cluster/labels", "plots/cluster/labels")
+        process_dimension_files("dumps/cluster/dimensions", "plots/cluster/dimensions")
     if custom_compare:
-        paths = ["dumps/df_dumps/OIG_COP15.csv", "dumps/df_dumps/OIG_COP21.csv", "dumps/df_dumps/OIG_COP25_26.csv",
-                 "dumps/df_dumps/ONG_COP15.csv", "dumps/df_dumps/ONG_COP21.csv",
-                 "dumps/df_dumps/ONG_COP25_26.csv"]
+        paths = [
+            "dumps/df_dumps/OIG_COP15.csv",
+            "dumps/df_dumps/OIG_COP21.csv",
+            "dumps/df_dumps/OIG_COP25_26.csv",
+            "dumps/df_dumps/ONG_COP15.csv",
+            "dumps/df_dumps/ONG_COP21.csv",
+            "dumps/df_dumps/ONG_COP25_26.csv",
+        ]
         compareCustom(paths, 0.1, title="IGOs vs NGOs")
