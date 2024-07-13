@@ -1,6 +1,7 @@
-is the data already normalized?
 is change linear?
     is a 0.1 diff near the middle equivalent to a 0.1 diff at one end of the scale?
+    0 = Rechtsexterm, 1 = Linksextrem, 0.5 Mitte
+        is da jump vo 0.5 auf 0.6 wirklich gleichbedeutend wie da 0.9 auf 1?
 
 aggregate all COPs into one
     e.g. compare how NYT reported about COPs differently from FT
