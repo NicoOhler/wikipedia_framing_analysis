@@ -1,0 +1,13 @@
+IGO:
+    2015: near:
+        +Sancity , Authority, Loyality
+        -Subversion, Degredation
+    2021/2025:
+        it flipped to the opposite
+        near:
+        -Harm, Cheating, Betrayl
+        +Fairness, Care
+NGO:
+        For  Sancity , Authority, the same as IGO
+        Only Loyalty/Betrayl value stays the same over years
+        For Fairness, Care the same as IGO - it flipped
