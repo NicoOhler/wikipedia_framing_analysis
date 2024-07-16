@@ -5,79 +5,18 @@ Methodology:
     maybe compare each source with average of other sources?
         need to merge csvs for this - not too bad
 
-COP 25 26
-    FT
-        more care, loyalty, sanctity
-    Guardian
-        more fairness
-        slightly more care, loyalty
-    NYT
-        rather average
-        slightly more subversion, degredation
-    Telegraph
-       slightly more harm
-    USAToday
-        slightly more harm, betrayal, degredation
-COP 21
-    FT
-        average
-        again slightly more care (care for money?)
-    Guardian
-        average
-        slightly more care, fairness   
-    NYT
-        slightly more authority, betrayal, harm
-        degradation avg 
-    Telegraph
-        slightly more harm, cheating, subversion
-    USAToday
-        more cheating, betrayal
-        slightly more harm, sanctity
-COP15
-    FT
-        slightly more care, loyalty, authority, sanctity
-    NYT
-        average
-    Telegraph
-        more subversion
-        slightly more degradation
-
-press compared to average
-    FT
-        more care, sanctity, loyalty, slightly auth?
-    Guardian
-        more care, fairness
-    NYT
-        average - are there mostly NYT articles?
-    Telegraph
-        slightly more harm, cheating, subversion
-    USAToday
-        more cheating, betrayal
-        slightly more harm, sanctity
-
-COP press averages compared
-    harm no changes
-    cheating increased barely from 15 to 21 to 25/26
-    betrayal slightly more in 21
-    subversion increased from 15 to 21 to 25/26
-    degradation way more in 25/26 only
-
-IGO averages compared
-    no clear trends
-    subversion betrayal, increased
-    harm, cheating, degradation increased and then decreased slightly
-
-NGO averages compared
-    harm cheating betrayal constant
-    degradation subversion increased
-    
-press vs NGO vs IGO
+Press vs NGO vs IGO
     are reports and press articles even comparable?
-        very distintive writing style
-        probably about different topics?
-            reports give an overview/a summary
-            press articles report often report about specific/concrete issues/incidents
-    clear differences
+    very distintive writing style
+    probably about different topics?
+        reports give an overview/a summary
+        press articles report often report about specific/concrete issues/incidents
+
+    Press + NGO are rather consistent between COPs, IGO not
+    NGO + IGO mostly similar, press different
+    press slightly more harm
+    press more cheating, betrayal, subversion
+    sanctity - no clear pattern?
     IGO vs press
         fairness, loyalty, authority
         slightly more care
@@ -88,4 +27,61 @@ press vs NGO vs IGO
     NGO vs IGO
         harm, cheating, betrayal, subversion varies slightly, avg constant
         slightly more sanctity
-        
+
+COP15, 21, 25_26
+    COP15
+        more sanctity, authority
+        slightly more care?
+    no clear patterns for COP21, COP25_26
+    press and NGO rather consistent, while IGO changed a lot
+    press averages compared
+        harm no changes
+        cheating increased barely from 15 to 21 to 25/26
+        betrayal slightly more in 21
+        subversion increased from 15 to 21 to 25/26
+        degradation way more in 25/26 only
+    IGO averages compared
+        no clear trends
+        subversion betrayal, increased
+        harm, cheating, degradation increased and then decreased slightly
+    NGO averages compared
+        harm cheating betrayal constant
+        degradation subversion increased
+
+Presse
+    comparison Presse_COP15, Presse_COP21, Presse_COP25_26
+    different sources do not differ drastically
+    FT 
+        most care, loyalty
+        avg cheating
+        avg subversion?
+        more sanctity  
+    NYT
+        more harm
+        avg cheating
+        more betrayal
+        subversion changes a lot - avg i guess
+        more degradation
+    Telegraph
+        more harm
+        most cheating
+        betrayal avg
+        subversion changes a lot - more subversion?
+        more degradation
+    Guardian
+        more care
+        most fairness
+        more loyalty
+        slightly more authority maybe?
+        avg sanctity
+    USAToday
+        most harm
+        more cheating
+        most betrayal
+        avg subversion
+        degredation changed a lot - no clue
+
+IGO
+    WMO most harm
+    
+          
