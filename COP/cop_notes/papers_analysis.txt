@@ -11,3 +11,41 @@ NGO:
         For  Sancity , Authority, the same as IGO
         Only Loyalty/Betrayl value stays the same over years
         For Fairness, Care the same as IGO - it flipped
+
+Press:
+    Press over Time2: 2008 is a outliner
+
+
+
+
+
+LABLES:
+
+
+IGO:
+    2021 is an outliner on every catagory
+NGO:
+   no significant outliner
+IGO vs NGO
+    same pattern - no significat diviations in spikes
+    IGOs - lower results in general
+    NGOs - Politcal/Publicity is a bit more
+    NGos - Economics/capacity more
+
+IPCC:
+    VERY low values in general (doesnt polarize ?)
+    Main focus also on economics
+
+NGO - way less values at political / Public compared to newspapers
+
+Press 2008 - 2021:
+    not very much change over the years
+    only 2017 / 2009 seems like an outliner
+FT:
+    vs IGO/NGO: Way more political/Public - bit more economic
+    Economic is no outliner compared to other newspapers
+        - but is the only one which stands out compared to NYT
+NYT:
+    2021 outliner on every catagory
+    higher numbers on every catagory except economic compared to FT
+
