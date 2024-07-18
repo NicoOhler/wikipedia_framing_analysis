@@ -6,6 +6,7 @@ import matplotlib.ticker as mticker
 import pickle
 import nltk
 import os
+import seaborn as sns
 import matplotlib.colors as mcolors
 import matplotlib.patches as mpatches
 from framefinder import framedimensions
@@ -254,13 +255,13 @@ def compareCustom(df_paths, scale, custom_names=None, title=None):
     plt.title(title)
     print(f"\t\t- " + str(title))
     plt.savefig(
-        "plots/Press_ONG_OIG_Climate_change/custom_compare/" + title + ".png",
+        "plots/Press_ONG_OIG_Climate_change/custom_compare_frame/" + title + ".png",
         bbox_inches="tight",
     )
     pickle.dump(
         plt.gcf(),
         open(
-            "dumps/plt_dumps/custom_compare/"
+            "dumps/plt_dumps/custom_compare_frame/"
             + "compare_"
             + title
             + "_scale_"
@@ -272,7 +273,7 @@ def compareCustom(df_paths, scale, custom_names=None, title=None):
 
 def compareAll(scale, starts_with=""):
     print(f"\tComparing all plots: ")
-    path = "dumps/df_dumps/"
+    path = "COP/dumps/cluster/dimensions_normalized_var/"
     filenames = os.listdir(path)
     dfs = []
     pairs = []
@@ -379,6 +380,19 @@ def process_dimension_files(directory, plot_directory):
         plt.close()
 
 
+def visualize(name_to_score_dict, threshold=0.5, **kwargs):
+        fig, ax = plt.subplots()
+        cp = sns.color_palette()
+        scores_ordered = list(name_to_score_dict.values())
+        scores_ordered = scores_ordered+scores_ordered
+        label_names = list(name_to_score_dict.keys())
+        label_names +=label_names
+        colors = [cp[0] if s > 0.5 else cp[1] for s in scores_ordered]
+        ax.barh(label_names[::-1], scores_ordered[::-1], color=colors[::-1], **kwargs)
+        plt.xlim(left=0)
+        plt.tight_layout()
+        return fig, ax
+
 def process_label_files(input_dir, output_dir):
     if not os.path.exists(input_dir):
         print(f"Input directory {input_dir} does not exist")
@@ -393,7 +407,9 @@ def process_label_files(input_dir, output_dir):
         file_path = os.path.join(input_dir, file)
         df = pd.read_csv(file_path)
         # df = df.drop(columns=df.columns[0])
-        _, ax = framing_labels.visualize(df.mean().to_dict(), xerr=df.sem())
+        df_mean = df.mean().to_frame()
+        df_mean.rename(columns={0: 'Catagory'}, inplace=True)
+        _, ax = visualize(df.mean().to_dict(), xerr=df.sem())
         ax.xaxis.set_major_formatter(mticker.ScalarFormatter())
         plt.xticks([0.1, 0.5, 1])
         plt.title(f'Frame Labels for "{os.path.splitext(file)[0]}"')
@@ -410,8 +426,8 @@ if __name__ == "__main__":
     custom_compare = False
     sub_folders = False
     compare_all = False
-    normalize = True
-    cluster = False
+    normalize = False
+    cluster = True
 
     if read:
         path_to_plt_directory = "plots/Press_ONG_OIG_Climate_change/"
@@ -441,8 +457,8 @@ if __name__ == "__main__":
             "plots/cluster/dimensions_normalized",
         )
     if cluster:
-        process_label_files("dumps/cluster/labels", "plots/cluster/labels")
-        process_dimension_files("dumps/cluster/dimensions", "plots/cluster/dimensions")
+        process_label_files("COP/dumps/cluster/test/", "COP/dumps/cluster/test/")
+        #process_dimension_files("dumps/cluster/dimensions", "plots/cluster/dimensions")
     if custom_compare:
         paths = [
             "dumps/df_dumps/OIG_COP15.csv",
