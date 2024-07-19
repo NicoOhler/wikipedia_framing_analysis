@@ -273,7 +273,7 @@ def compareCustom(df_paths, scale, custom_names=None, title=None):
 
 def compareAll(scale, starts_with=""):
     print(f"\tComparing all plots: ")
-    path = "COP/dumps/cluster/dimensions_normalized_var/"
+    path = "COP/dumps/dimensions_normalized_var/"
     filenames = os.listdir(path)
     dfs = []
     pairs = []
@@ -381,17 +381,18 @@ def process_dimension_files(directory, plot_directory):
 
 
 def visualize(name_to_score_dict, threshold=0.5, **kwargs):
-        fig, ax = plt.subplots()
-        cp = sns.color_palette()
-        scores_ordered = list(name_to_score_dict.values())
-        scores_ordered = scores_ordered+scores_ordered
-        label_names = list(name_to_score_dict.keys())
-        label_names +=label_names
-        colors = [cp[0] if s > 0.5 else cp[1] for s in scores_ordered]
-        ax.barh(label_names[::-1], scores_ordered[::-1], color=colors[::-1], **kwargs)
-        plt.xlim(left=0)
-        plt.tight_layout()
-        return fig, ax
+    fig, ax = plt.subplots()
+    cp = sns.color_palette()
+    scores_ordered = list(name_to_score_dict.values())
+    scores_ordered = scores_ordered + scores_ordered
+    label_names = list(name_to_score_dict.keys())
+    label_names += label_names
+    colors = [cp[0] if s > 0.5 else cp[1] for s in scores_ordered]
+    ax.barh(label_names[::-1], scores_ordered[::-1], color=colors[::-1], **kwargs)
+    plt.xlim(left=0)
+    plt.tight_layout()
+    return fig, ax
+
 
 def process_label_files(input_dir, output_dir):
     if not os.path.exists(input_dir):
@@ -408,7 +409,7 @@ def process_label_files(input_dir, output_dir):
         df = pd.read_csv(file_path)
         # df = df.drop(columns=df.columns[0])
         df_mean = df.mean().to_frame()
-        df_mean.rename(columns={0: 'Catagory'}, inplace=True)
+        df_mean.rename(columns={0: "Category"}, inplace=True)
         _, ax = visualize(df.mean().to_dict(), xerr=df.sem())
         ax.xaxis.set_major_formatter(mticker.ScalarFormatter())
         plt.xticks([0.1, 0.5, 1])
@@ -452,13 +453,13 @@ if __name__ == "__main__":
         compareAll(scale)
     if normalize:
         normalize_files(
-            "dumps/cluster/dimensions",
-            "dumps/cluster/dimensions_normalized",
-            "plots/cluster/dimensions_normalized",
+            "dumps/dimensions",
+            "dumps/dimensions_normalized",
+            "plots/dimensions_normalized",
         )
     if cluster:
-        process_label_files("COP/dumps/cluster/test/", "COP/dumps/cluster/test/")
-        #process_dimension_files("dumps/cluster/dimensions", "plots/cluster/dimensions")
+        process_label_files("COP/dumps/labels/", "COP/dumps/test/")
+        # process_dimension_files("dumps/dimensions", "plots/dimensions")
     if custom_compare:
         paths = [
             "dumps/df_dumps/OIG_COP15.csv",
