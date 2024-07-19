@@ -6,7 +6,7 @@
     + It is interesting that Health and Safty is low - but Quality of life has a higher score which may means that the articles are more likely to state that climate change is affecting our health in general than public safety    
     + Although the Financial Times has a special business focus, it ranks 2nd only to the Telegraph 
       + Financial Times has the lowest values at all labels (except Economics)
-    + ![](COP/plots/custom_compare_label/FT vs NYT vs Guardian vs Telegraph vs USAToday.png)
+    + ![](./plots/FT%20vs%20NYT%20vs%20Guardian%20vs%20Telegraph%20vs%20USAToday.png)
 
 
 1. Comparison IGO NGO Newspapers
@@ -15,4 +15,4 @@
    + The biggest difference in Newspapers vs. scientific articles can be seen in Public / Political. As you would expect, papers are written much less politically and have fewer opinions of the general public than a newspaper.
    + On the other hand, IGOs are more pronounced in Quality and Health.
    + With security, however, it is as you would expect - IGOs have a greater value than NGOs
-+ ![](COP/plots/custom_compare_label/NGO vs IGO vs Newspaper.png)
++ ![](./plots/NGO%20vs%20IGO%20vs%20Newspaper.png)

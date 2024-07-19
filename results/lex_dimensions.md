@@ -17,4 +17,4 @@ todo
     + sub bullet point
     + image
 
-![](/COP/plots/cluster/dimensions/IGO_2007_dimensions.png)
+![](./plots/NGO%20vs%20IGO%20vs%20Newspaper.png)
