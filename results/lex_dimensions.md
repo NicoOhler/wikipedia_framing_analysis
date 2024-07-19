@@ -6,9 +6,18 @@ list of what we noticed + graphs
 what we are going to do next
 
 todo 
-    percentiles into labels + fix color?
+    percentiles into labels?
     group UN?
-    dimensions by year
+
+dimensions over time:
+    - Presse outliers:  
+        - 2015
+        - a little bit: 2017, 2014
+    - IGO outliers:
+        - definitely 2009, 2011
+        - 2015
+    - NGO outliers:
+        - 2017, 2019, 2016, 2021
 
 
 ### Header
