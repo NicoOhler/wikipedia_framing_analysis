@@ -6,9 +6,8 @@ list of what we noticed + graphs
 what we are going to do next
 
 todo 
-    compare labels with dimensions
     percentiles into labels + fix color?
-    fix filenames, rename folders
+    group UN?
     dimensions by year
 
 
