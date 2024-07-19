@@ -122,12 +122,13 @@ def frame(articles, article_names, dump_path="dumps/df_dumps"):
     for i, article in enumerate(tqdm(articles, desc="Framing articles")):
         print(article_names[i])
         try:
+            """
             dimension = framing_dimensions(article)
             dimension_df = pd.DataFrame(dimension)
             dimension_df.to_csv(
                 f"{dump_path}/dimensions/{article_names[i]}_dimensions.csv", index=False
             )
-
+            """
             labels = framing_labels(article)
             labels_df = pd.DataFrame(labels)
             labels_df.to_csv(
@@ -139,7 +140,7 @@ def frame(articles, article_names, dump_path="dumps/df_dumps"):
 
 
 if __name__ == "__main__":
-    directories_to_frame = ["COP"]
+    directories_to_frame = ["by_org/"]
     directories_to_frame, folder_names = listFolders(directories_to_frame)
     articles, article_names = preprocessArticles(directories_to_frame, folder_names)
-    frame(articles, article_names, dump_path="dumps/df_dumps")
+    frame(articles, article_names, dump_path="COP/dumps/")
