@@ -20,5 +20,16 @@
 3. Comparison Left Right
    + With the economic label, the order is as expected - the highest values from the right, then center before center-left
    + In the case of security, which refers among other things to “threats to the nation”, the order is also plausible. Right-wing media have the lowest value, followed by center. Center left sees climate change as the greatest threat.
-   + At Quality - of life, the order is a little different. Center has the lowest value followed by right and center-left. The reason that the order is not the same as for Security could be that right-wing media report more on the fact that people feel restricted in their personal lives by climate protection measures and are therefore above center media.
+   + At Quality - of life, the order is a little different. Center has the lowest value followed by right and center-left. The reason that the order is not the same as for Security could be that right-wing media report more on the fact that people feel restricted in their personal lives by climate protection measures and are therefore above center media. Center left media could write about how climate change impacts the Quality of life.
    + ![](./results/plots/Left vs Right - Newspapers.png)
+
+4. Comparison Press over Time
+   + There is no recognizable pattern that has changed over the years. 
+   + There has also been no particular change since the Paris Agreement was agreed (2015)
+
+   + 2009 and 2017 are quite outliers for some labels in Political, Public, Quality, Security.
+     + Assumption: 2009 - Leaked emails from the Climatic Research Unit were used by skeptics to claim data manipulation
+     + 2017 - Trump announced the U.S. would withdraw from the Paris Agreement.
+     + These 2 events may have led to a more intense discussion of climate change in the journals.
+   + ![](./results/plots/Press over Time.png)
+
