@@ -6,7 +6,6 @@ list of what we noticed + graphs
 what we are going to do next
 
 todo 
-    percentiles into labels?
     group UN?
 
 dimensions over time:
