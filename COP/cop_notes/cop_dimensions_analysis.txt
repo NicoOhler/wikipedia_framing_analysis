@@ -49,42 +49,4 @@ COP15, 21, 25_26
         harm cheating betrayal constant
         degradation subversion increased
 
-Presse
-    comparison Presse_COP15, Presse_COP21, Presse_COP25_26
-    different sources do not differ drastically
-    FT 
-        most care, loyalty
-            care towards money?
-            being careful instead of talking about threats
-        avg cheating
-        avg subversion?
-        more sanctity  
-    NYT
-        more harm - left newspaper making pressure by mentioning the potential harm
-        avg cheating
-        more betrayal
-        subversion changes a lot - avg i guess
-        more degradation
-    Telegraph
-        more harm
-        most cheating
-        betrayal avg
-        subversion changes a lot - more subversion?
-        more degradation
-    Guardian
-        more care
-        most fairness
-        more loyalty
-        slightly more authority maybe?
-        avg sanctity
-    USAToday
-        most harm
-        more cheating
-        most betrayal
-        avg subversion
-        degredation changed a lot - no clue
-
-IGO
-    WMO most harm
-    
           
