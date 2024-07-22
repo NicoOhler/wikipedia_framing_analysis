@@ -1,4 +1,6 @@
 ## Key Aspects of Climate Change
++ These could be used as framing labels to determine which aspects of climate change are most frequently discussed.
+
 ### Technology and Energy
 + Renewables and Green Energy
     + Renewables, electric cars
