@@ -15,46 +15,7 @@ todo
 + labels more like an exponential distribution
     + sometimes U-shaped
 + different labels might be interesting
-    + technology
-        + renewables, electric cars
-        + CO2 capture, storage
-        + electrical grid
-    + consumption
-        + capitalism
-        + overconsumption
-        + fast fashion
-        + meat, agriculture
-        + waste
-    + politics
-        + taxes, laws, regulations, restrictions
-        + subventions, incentives
-    + nature
-        + animals, biodiversity
-        + forests, trees
-        + oceans, water
-    + humans
-        + kids, future generations
-    + loss/gain of jobs
-        + different sectors
-    + health
-    + energy
-        + green energy, renewables
-        + fossil fuels, coal, oil, gas
-    + food
-        + local, organic
-        + vegan, vegetarian
-    + pollution
-        + air, water, soil
-        + greenhouse gases, CO2, methane
-    + poverty, climate justice
-    + catastrophes
-        + hurricanes, floods, droughts, fires
-    + economy
-        + growth, GDP
-        + costs, investments
-        + taxes, subventions
-
-
+    + [aspects_of_climate_change.md](../aspects_of_climate_change.md)
 
 dimensions over time:
     - Presse outliers:  
