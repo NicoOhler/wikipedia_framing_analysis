@@ -122,13 +122,11 @@ def frame(articles, article_names, dump_path="dumps/df_dumps"):
     for i, article in enumerate(tqdm(articles, desc="Framing articles")):
         print(article_names[i])
         try:
-            """
             dimension = framing_dimensions(article)
             dimension_df = pd.DataFrame(dimension)
             dimension_df.to_csv(
                 f"{dump_path}/dimensions/{article_names[i]}_dimensions.csv", index=False
             )
-            """
             labels = framing_labels(article)
             labels_df = pd.DataFrame(labels)
             labels_df.to_csv(
