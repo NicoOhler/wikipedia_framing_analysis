@@ -1,5 +1,10 @@
 ## Key Aspects of Climate Change
-+ These could be used as framing labels to determine which aspects of climate change are most frequently discussed.
++ we would like to create new framing labels more specific to climate change to find out who talks about what
+    + which aspects are mostly talked about or neglected
+        + e.g. natural disasters, rising sea levels, loss of biodiversity, economic consequences, ...
+    + who focuses on what
+        + e.g. does the FT talk more about economic consequences than other newspapers?
++ these are just some ideas for now, we will refine them later
 
 ### Technology and Energy
 + Renewables and Green Energy

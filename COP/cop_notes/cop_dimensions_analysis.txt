@@ -50,3 +50,13 @@ COP15, 21, 25_26
         degradation subversion increased
 
           
+- Presse outliers:  
+    - overall rather stable
+    - 2015
+    - a little bit: 2017, 2014
+- IGO outliers:
+    - definitely 2009, 2011
+    - other years are in between the two
+    - 2015 is somewhat similar to 2011
+- NGO outliers:
+    - 2017, 2019, 2016, 2021
