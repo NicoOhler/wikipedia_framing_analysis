@@ -23,5 +23,3 @@ As the pH of marine systems decreases, it causes calcium carbonate (CaCO3) to di
 Research
 Estuarine acidification is being studied to understand the biological, chemical, and physical factors that affect pH in estuaries.
 
-
-== References ==

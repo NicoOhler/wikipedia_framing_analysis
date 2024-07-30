@@ -32,5 +32,3 @@ Minilateralism (groupings with select state membership) does falls only loosely 
 Failure of governance
 Another approach suggests that government should be entirely forsaken because of the free-rider problem and shortcomings with consensus, and instead innovation, entrepreneurship, and investment in sustainable technology should be focused on. This is largely proposed because of the free rider problem of countries defecting from international agreements for their own economic gain in the short run. This is compounded by the non-excludable harms and benefits of mitigating climate change, where penalties harsh enough to sufficiently incentivize countries into taking action may not be practical, and countries will not act unless sufficiently incentivized. Under the failure of governance argument, the problems facing governance are massive and it would be less costly to invest in innovation and technology rather than governance.
 
-
-== References ==

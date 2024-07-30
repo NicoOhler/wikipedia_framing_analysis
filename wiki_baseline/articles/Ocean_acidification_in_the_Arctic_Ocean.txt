@@ -33,5 +33,3 @@ Ocean acidification not only has impacts on aquatic life, but also on human comm
 Methods to Reduce Acidification
 Since the carbon cycle is tightly connected to the issue of ocean acidification, the most effective method for minimizing the effects of ocean acidification is to slow climate change. Anthropogenic inputs of CO2 can be reduced through methods such as limiting the use of fossil fuels and employing renewable energies. This will ultimately lower the amount of CO2 in the atmosphere and reduce the amount dissolved into the oceans. More intrusive methods to mitigate acidification involve a technique called enhanced weathering where powdered minerals like silicate are applied to the land or ocean surface. The powdered minerals enable accelerated dissolution, releasing cations, converting CO2 to bicarbonate and increasing the pH of the oceans. Other mitigation methods, like ocean iron fertilization, still need more experimentation and evaluation in order to be deemed effective. Ocean iron fertilization in particular has been shown to increase acidification in the deep ocean while only slightly reducing acidification at the surface.
 
-
-== References ==

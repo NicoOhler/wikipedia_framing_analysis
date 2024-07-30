@@ -56,5 +56,3 @@ Impact on specific crime types
 The impact of seasonal variations on crime can also vary depending on the type of crime. Property crimes, such as burglary and theft, might increase during warmer seasons when people are more likely to leave their homes unattended. On the other hand, violent crimes like assault and homicide could see an uptick due to increased social interactions and the potential for confrontations.
 One study  disaggregated property crime into specific types to examine how weather and temporal variables uniquely impact different offenses. In Vancouver, warmer temperatures and rainfall were associated with increased theft from vehicles. In Ottawa, higher temperatures and longer daylight hours were linked to increases in commercial and residential break and enters, but not with robbery or theft of vehicles.
 
-
-== References ==

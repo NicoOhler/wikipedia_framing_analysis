@@ -32,5 +32,3 @@ The "cultural cognition of scientific consensus" thesis advocated by Dan Kahan s
 The empirical results of the gateway belief model contradict the prediction of the "cultural cognition of scientific consensus". Notably, an emphasis on  scientific consensus does not backfire, and can reduce or neutralize belief polarization between (political) groups. Related research has also shown that conveying scientific agreement can reduce directional motivated reasoning, although other research on this topic has revealed more mixed results.
 One explanation for these findings is that changing beliefs about what other groups think (so-called "meta-beliefs") does not require a full and immediate adjustment of one's own worldview. Perceived consensus can therefore be seen as a "non-identity threatening" cognition, especially when a norm is described among a neutral out-group (scientists).  Kahan has a notable on-going scholarly debate in the literature with van der Linden and Lewandowsky on the role of perceived consensus and cultural cognition.
 
-
-== References ==

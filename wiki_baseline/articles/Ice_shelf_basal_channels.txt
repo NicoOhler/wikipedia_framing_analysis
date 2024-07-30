@@ -20,5 +20,3 @@ When basal channels incise up into an ice shelf, they produce localized, enhance
 Crevasse formation
 Basal channels can lead to thinning and surface depressions, changing the stress distribution of an ice shelf by creating regions of extension and compression. Regions of extension are particularly vulnerable to both surface and basal fracturing. Fracturing effectively creates cracks in the ice which can vary greatly in size. Basal channels tend to form surface fractures parallel to glacier flow direction. When surface meltwater flows into fractures, the higher density of the water compared to ice can increase the size of the crevasse in a process known as hydrofracturing. This can cause calving events and further destabilize ice shelves. At present, most Antarctic ice flow and mass loss models do not account for mass loss due to hydrofracture. 
 
-
-== References ==
