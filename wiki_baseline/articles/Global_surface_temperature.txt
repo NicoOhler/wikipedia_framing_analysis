@@ -1,0 +1,16 @@
+Global surface temperature (GST) refers to the average temperature of Earth's surface. It is determined nowadays by measuring the temperatures over the ocean and land, and then calculating a weighted average. The temperature over the ocean is called the sea surface temperature. The temperature over land is called the surface air temperature. Temperature data comes mainly from weather stations and satellites. To estimate data in the distant past, proxy data can be used for example from tree rings, corals, and ice cores. Observing the rising GST over time is one of the many lines of evidence supporting the scientific consensus on climate change, which is that human activities are causing climate change. 
+Alternative terms for the same thing are global mean surface temperature (GMST) or global average surface temperature.  
+Series of reliable temperature measurements in some regions began in the 1850—1880 time frame (this is called the instrumental temperature record). Through 1940, the average annual temperature increased, but was relatively stable between 1940 and 1975. Since 1975, it has increased by roughly 0.15 °C to 0.20 °C per decade, to at least 1.1 °C (1.9 °F) above 1880 levels. The current annual GMST is about 15 °C (59 °F), though monthly temperatures can vary almost 2 °C (4 °F) above or below this figure.
+
+Definition
+The IPCC Sixth Assessment Report defines global mean surface temperature (GMST) as follows: GMST is the "estimated global average of near-surface air temperatures over land and sea ice, and sea surface temperature (SST) over ice-free ocean regions, with changes normally expressed as departures from a value over a specified reference period".: 2231 
+In comparison, the global mean surface air temperature (GSAT) is the "global average of near-surface air temperatures over land, oceans and sea ice. Changes in GSAT are often used as a measure of global temperature change in climate models.": 2231
+
+Relevance
+Changes in global temperatures over the past century provide evidence for the effects of increasing greenhouse gases. When the climate system reacts to such changes, climate change follows. Measurement of the GST(global surface temperature) is one of the many lines of evidence supporting the scientific consensus on climate change, which is that humans are causing warming of Earth's climate system.
+
+Measurement and calculation
+The global surface temperature (GST) is calculated by averaging the temperatures over sea (sea surface temperature) and land (surface air temperature).
+
+Observations
+Effects

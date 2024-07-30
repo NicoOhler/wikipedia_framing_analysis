@@ -1,0 +1,66 @@
+Coastal flooding occurs when dry and low-lying land is submerged (flooded) by seawater. The range of a coastal flooding is a result of the elevation of floodwater that penetrates the inland which is controlled by the topography of the coastal land exposed to flooding. The seawater can flood the land via several different paths: direct flooding, overtopping of a barrier, or breaching of a barrier. Coastal flooding is largely a natural event. Due to the effects of climate change (e.g. sea level rise and an increase in extreme weather events) and an increase in the population living in coastal areas, the damage caused by coastal flood events has intensified and more people are being affected.
+Coastal areas are sometimes flooded by unusually high tides, such as spring tides, especially when compounded by high winds and storm surges. This was the cause of the North Sea flood of 1953 which flooded large swathes of the Netherlands and the East coast of England.
+When humans modify the coastal environment this can make coastal flooding worse. Extraction of water from groundwater reservoirs in the coastal zone can instigate subsidence of the land, thus increasing the risk of flooding. Engineered protection structures along the coast, such as sea walls, alter the natural processes of the beach. This can lead to erosion on adjacent stretches of the coast which also increases the risk of flooding.
+
+Types
+The seawater can flood the land via several different paths:
+
+Direct flooding — where the sea height exceeds the elevation of the land, often where waves have not built up a natural barrier such as a dune
+Overtopping of a barrier — the barrier may be natural or human-engineered and overtopping occurs due to swelling conditions during storms or high tides often on open stretches of the coast. The height of the waves exceeds the height of the barrier and water flows over the top of the barrier to flood the land behind it. Overtopping can result in high velocity flows that can erode significant amounts of the land surface which can undermine defense structures.
+Breaching of a barrier — again the barrier may be natural (sand dune) or human-engineered (sea wall), and breaching occurs on open coasts exposed to large waves. Breaching occurs when the barrier is broken down or destroyed by waves allowing the seawater to extend inland and flood the areas
+
+Causes
+Coastal flooding can result from a variety of different causes including storm surges created by storms like hurricanes and tropical cyclones, rising sea levels due to climate change and tsunamis.
+
+Storms and storm surges
+Storms, including hurricanes and tropical cyclones, can cause flooding through storm surges which are waves significantly larger than normal. If a storm event coincides with the high astronomical tide, extensive flooding can occur. Storm surges involve three processes:
+
+wind setup
+barometric setup
+wave setup
+Wind blowing in an onshore direction (from the sea towards the land) can cause the water to 'pile-up' against the coast; this is known as wind setup. Low atmospheric pressure is associated with storm systems and this tends to increase the surface sea level; this is a barometric setup. Finally increased wave breaking height results in a higher water level in the surf zone, which is wave setup. These three processes interact to create waves that can overtop natural and engineered coastal protection structures thus penetrating seawater further inland than normal.
+
+Sea level rise
+Tidal flooding
+Tsunami waves
+Coastal areas can be significantly flooded as the result of tsunami waves which propagate through the ocean as the result of the displacement of a significant body of water through earthquakes, landslides, volcanic eruptions, and glacier calvings. There is also evidence to suggest that significant tsunami have been caused in the past by meteor impact into the ocean. Tsunami waves are so destructive due to the velocity of the approaching waves, the height of the waves when they reach land, and the debris the water entrains as it flows over land can cause further damage.
+Depending on the magnitude of the tsunami waves and floods, it could cause severe injuries which call for precautionary interventions that prevent overwhelming aftermaths. It was reported that more than 200,000 people were killed in the earthquake and subsequent tsunami that hit the Indian Ocean, on December 26, 2004. Not to mention, several diseases are a result of floods ranging from hypertension to chronic obstructive pulmonary diseases.
+
+Impacts
+Social and economic impacts
+The coastal zone (the area both within 100 kilometres distance of the coast and 100 metres elevation of sea level) is home to a large and growing proportion of the global population. Over 50 percent of the global population and 65 percent of cities with populations over five million people are in the coastal zone. In addition to the significant number of people at risk of coastal flooding, these coastal urban centres are producing a considerable amount of the global Gross Domestic Product (GDP).
+People's lives, homes, businesses, and city infrastructure like roads, railways, and industrial plants are all at risk of coastal flooding with massive potential social and economic costs. The recent earthquakes and tsunami in Indonesia in 2004 and in Japan in March 2011 clearly illustrate the devastation coastal flooding can produce. Indirect economic costs can be incurred if economically important sandy beaches are eroded resulting in a loss of tourism in areas dependent on the attractiveness of those beaches.
+
+Environmental impacts
+Coastal flooding can result in a wide variety of environmental impacts on different spatial and temporal scales. Flooding can destroy coastal habitats such as coastal wetlands and estuaries and can erode dune systems. These places are characterized by their high biological diversity therefore coastal flooding can cause significant biodiversity loss and potentially species extinctions. In addition to this, these coastal features are the coasts natural buffering system against storm waves; consistent coastal flooding and sea-level rise can cause this natural protection to be reduced allowing waves to penetrate greater distances inland exacerbating erosion and furthering coastal flooding. "By 2050, “moderate” (typically damaging) flooding is expected to occur, on average, more than 10 times as often as it does today, and can be intensified by local factors."
+Prolonged inundation of seawater after flooding can also cause salination of agriculturally productive soils thus resulting in a loss of productivity for long periods of time. Food crops and forests can be completely killed off by salination of soils or wiped out by the movement of floodwaters. Coastal freshwater bodies including lakes, lagoons, and coastal freshwater aquifers can also be affected by saltwater intrusion. This can destroy these water bodies as habitats for freshwater organisms and sources of drinking water for towns and cities.
+
+Reduction
+Flood control
+Non-structural mechanism
+If human systems are affected by flooding, an adaption to how that system operates on the coast through behavioral and institutional changes is required, these changes are the so-called non-structural mechanisms of coastal flooding response.
+Building regulations, coastal hazard zoning, urban development planning, spreading the risk through insurance, and enhancing public awareness are some ways of achieving this. Adapting to the risk of flood occurrence can be the best option if the cost of building defense structures outweighs any benefits or if the natural processes in that stretch of coastline add to its natural character and attractiveness.
+A more extreme and often difficult to accept the response to coastal flooding is abandoning the area (also known as managed retreat) prone to flooding. This however raises issues for where the people and infrastructure affected would go and what sort of compensation should/could be paid.
+
+Engineered defenses
+There are a variety of ways in which humans are trying to prevent the flooding of coastal environments, typically through so-called hard engineering structures such as flood barriers, seawalls and levees. That armouring of the coast is typical to protect towns and cities which have developed right up to the beachfront. Enhancing depositional processes along the coast can also help prevent coastal flooding. Structures such as groynes, breakwaters, and artificial headlands promote the deposition of sediment on the beach thus helping to buffer against storm waves and surges as the wave energy is spent on moving the sediments in the beach than on moving water inland.
+
+Natural defenses
+The coast does provide natural protective structures to guard against coastal flooding. These include physical features like gravel bars and sand dune systems, but also ecosystems such as salt marshes and mangrove forests have a buffering function. Mangroves and wetlands are often considered to provide significant protection against storm waves, tsunamis, and shoreline erosion through their ability to attenuate wave energy. To protect the coastal zone from flooding, the natural defenses should, therefore, be protected and maintained.
+
+Longer term aspects and research
+Reducing global sea level rise is one way to prevent significant flooding of coastal areas. This could be minimised by further reducing greenhouse gas emissions. However, even if significant emission decreases are achieved, there is already a substantial amount of sea level rise into the future. International climate change policies like the Paris Agreement are seeking to mitigate the future effects of climate change, including sea level rise. In addition, more immediate measures of engineered and natural defenses are put in place to prevent coastal flooding.
+
+Examples
+Examples of countries with existing coastal flooding problems include:
+
+The Netherlands: Flood control in the Netherlands
+Bangladesh: Floods in Bangladesh
+Great Britain: The Thames Barrier is one of the world's largest flood barriers and serves to protect London from flooding during exceptionally high tides and storm surges. The Barrier can be lifted at high tide to prevent sea waters flooding London and can be lowered to release stormwater runoff from the Thames catchment.
+New Zealand: Flooding of the low-lying coastal zone South Canterbury Plains in New Zealand can result in prolonged inundation, which can affect the productivity of the affected pastoral agriculture for several years.
+
+Hurricane Katrina in New Orleans
+Hurricane Katrina made landfall as a category 3 cyclone on the Saffir–Simpson hurricane wind scale, indicating that it had become an only moderate level storm. However, the catastrophic damage caused by the extensive flooding  was the result of the highest recorded storm surges in North America. For several days prior to the landfall of Katrina, wave setup was generated by the persistent winds of the cyclonic rotation of the system. This prolonged wave set up coupled with the very low central pressure level meant massive storm surges were generated. Storm surges overtopped and breached the levees and floodwalls intended to protect the city from inundation. Unfortunately, New Orleans is inherently prone to coastal flooding for a number of factors. Firstly, much of New Orleans is below sea level and is bordered by the Mississippi River therefore protection against flooding from both the sea and the river has become dependent on engineered structures. Land-use change and modification to natural systems in the Mississippi River have rendered the natural defenses for the city less effective. Wetland loss has been calculated to be around 1,900 square miles (4,920 square kilometres) since 1930. This is a significant amount as four miles of wetland are estimated to reduce the height of a storm surge by one foot (30 centimeters).
+
+Indonesia and Japan earthquake-related tsunamis
+2004 Indian Ocean earthquake and tsunami: An earthquake of approximately magnitude 9.0 struck off the coast of Sumatra, Indonesia causing the propagation of a massive tsunami throughout the Indian Ocean. This tsunami caused significant loss of human life, an estimate of 280,000 – 300,000 people has been reported  and caused extensive damage to villages, towns, and cities and to the physical environment. The natural structures and habitats destroyed or damaged include coral reefs, mangroves, beaches, and seagrass beds. The more recent earthquake and tsunami in Japan in March 2011 (2011 Tōhoku earthquake and tsunami) also clearly illustrates the destructive power of tsunamis and the turmoil of coastal flooding.

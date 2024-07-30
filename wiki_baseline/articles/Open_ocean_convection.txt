@@ -1,0 +1,1008 @@
+Open ocean convection is a process in which the mesoscale ocean circulation and large, strong winds mix layers of water at different depths. Fresher water lying over the saltier or warmer over the colder leads to the stratification of water, or its separation into layers. Strong winds cause evaporation, so the ocean surface cools, weakening the stratification. As a result, the surface waters are overturned and sink while the "warmer" waters rise to the surface, starting the process of convection. This process has a crucial role in the formation of both bottom and intermediate water and in the large-scale thermohaline circulation, which largely determines global climate. It is also an important phenomena that controls the intensity of the Atlantic Meridional Overturning Circulation (AMOC).
+Convection exists under certain conditions which are promoted by strong atmospheric forcing due to thermal or haline surface fluxes. This may be observed in oceans adjacent to boundaries with either dry and cold winds above or ice, inducing large latent heat and moisture fluxes. Ocean convection depends on the weakness of stratification under the surface mixed layer. These stratified water layers must rise, near to the surface resulting in their direct exposition to intense surface forcing.
+
+Major convection sites
+Deep convection is observed in the subpolar North Atlantic (the Greenland Sea and the Labrador Sea), in the Weddell Sea in the southern hemisphere as well as in the northwestern Mediterranean. In sub-polar regions, the upper mixed layer starts deepening during late autumn until early spring, when the convection is at the deepest level before the phenomenon is weakened.
+The weak density stratification of the Labrador Sea is observed each wintertime, in depths between 1000 and 2000 m, making it one of the most extreme ocean convection sites in the world. The deep convection in the Labrador Sea is significantly affected by the North Atlantic Oscillation (NAO). In winter, when the NAO is in positive phase above this region, the cyclonic activity is greater over the North Atlantic with an enhanced circulation of cold and dry air. During this positive phase of NAO, the oceanic heat loss from the Labrador Sea is higher, contributing to a deeper convection. According to Holdsworth et al. (2015), during the negative phase of NAO which is associated with an absence of high frequency forcing, the average maximum mixed layer depth decreases more than 20%.
+The Greenland Sea differs from the Labrador Sea because of the important role of ice in preconditioning during the months November until February. In early winter, the ice spreads eastward across the central Greenland Sea, and brine rejection under the ice increases the surface layer density. In March, when preconditioning is far enough advanced, and the meteorological conditions are favourable, deep convection develops.
+In the northwestern Mediterranean Sea, deep convection occurs in winter, when the water undergoes the necessary preconditioning with air-sea fluxes inducing buoyancy losses at the surface. In winter, the Gulf of Lions is regularly subject to atmospheric forcing under the intense cold winds Tramontane and Mistral, inducing strong evaporation and an intense cooling of surface waters. This leads to buoyancy losses and vertical deep mixing.
+The convection in the Weddell Sea is mostly associated with polynya. According to Akitomo et al. (1995), Arnold L. Gordon was the first to find the remnant of deep convection near the Maud Rise in 1977. This deep convection was probably accompanied by a large polynya which had been appearing in the central Weddell Sea every winter during 1974-76. Additionally, according to Van Westen and Dijkstra, (2020), the formation of Maude Rise polynya which was observed in 2016 is associated with the subsurface convection. In particular, the Maud Rise region undergoes preconditioning due to the accumulation of subsurface heat and salt, leading to a convection and favoring a polynya formation.
+
+Phases of convection
+Ocean convection is distinguished by three phases: preconditioning, deep convection and lateral exchange and spreading. Preconditioning is referred to a period during which a cyclonic gyre-scale circulation and buoyancy forcing are combined to predispose a convective site to locally overturn. A site is preconditioned when a laterally extended deep region of relatively weak vertical density stratification exists there, and it is capped by a locally shallow thermocline. Cooling events lead to the second phase, deep convection, in which a part of the fluid column may overturn in numerous plumes that distribute the dense surface water in the vertical axis. These plumes form a homogeneous deep chimney. During this phase, the chimney is getting deeper through plume-scale overturning and adjusts geostrophically. Additionally, at some point in time, the sea-surface buoyancy loss is completely offset through lateral buoyancy transfer by baroclinic eddies which are generated at the periphery of the convective regime and thus, the quasi-steady state can be achieved. Once the surface forcing decreases, the vertical heat transfer due to convection abates, leading to horizontal transfer associated with eddying on geostrophic scale. The balance between sea-surface forcing and lateral eddy buoyancy flux becomes unstable. Due to gravity and planetary rotation, the mixed fluid disperses and spreads out, leading to the decay of the chimney.  The residual pieces of the “broken” chimney are named cones. The lateral exchange and spreading are also known as restratification phase. If surface conditions deteriorate again, deep convection can reinitiate while the remaining cones can form preferential centers for further deep convective activity.
+
+Phenomena involved in convection
+Deep convection is distinguished in small-scale and mesoscale processes. Plumes represent the smallest-scale process while chimneys (patch) and eddies represent the mesoscale.
+
+Plumes
+Plumes are the initial convectively driven vertical motions which are formed during the second phase of convection. They have horizontal scales between 100m and 1 km and their vertical scale is around 1–2 km with vertical velocities of up to 10 cm/s which are measured by acoustic doppler current profilers (ADCPs). Time scales associated with convective plumes are reported to be several hours to several days.
+The plumes act as “conduits” or as “mixing agents” in terms of their dynamic part. If they act as “conduits”, they transport cooled and dense surface water downward. This is the main mechanism of water transport toward lower depths and its renewal. However, plumes can act as “mixing agents” rather than as downward carriers of a flow. In this case, the convection cools and mixes a patch of water, creating a dense homogeneous cylinder, like a chimney, which ultimately collapses and adjusts under planetary rotation and gravity.
+Coriolis force and thermobaricity are important in deep convective plumes. Thermobaricity is the effect in which sinking cold saline water is formed under freezing conditions, resulting in downward acceleration. Additionally, many numerical and tank modeling experiments examine the role of rotation in the processes of the convection and in the morphology of the plumes. According to Paluszkiewicz et al. (1994), planetary rotation does not affect the individual plumes vertically, but do so horizontally. Under the influence of rotation, the diameter of the plumes becomes smaller compared to the diameter of the plumes in the absence of rotation. In contrast, chimneys and associated eddies are dominated by the effects of rotation due to thermal wind.
+
+Convection patch (or “Chimney”)
+The convective overturning of the water column occurs through a contribution of a high number of intense plumes, which strongly mix the column. The plumes can process large volumes of fluid to form what has become known as a “chimney” of homogenized fluid. These vertically isolated homogenized water columns have a diameter of 10 to 50 km and they are 1–2 km deep. Surface waters growing denser and sinking drive the initial deepening stage, while the final deepening stage and the restratification phase are affected by a buoyancy transfer, through the lateral surface of the chimney, by baroclinic eddies.
+
+Seasonality
+The chimneys of deep convection remain open for one to three months, during winter, in a quasi-stable state whereas they can collapse within a few weeks. The chimneys are destroyed in early spring when the sea-surface buoyancy flux weakens and reverses while the stratification of the water’s layers under the mixed layer starts becoming stable.
+
+Formation
+Formation of the convection chimneys is preconditioned by two processes: strong heat fluxes from the sea-surface and cyclonic circulation. A chimney is formed when a relatively strong buoyancy flux from the ocean’s surface exists for at least 1 to 3 days. The time, depth and diameter development of the chimney clearly depends on the buoyancy flux and the stratification of the surrounding ocean. As the surface water cools, it becomes denser and it overturns, forming a convectively modified layer of depth 
+  
+    
+      
+        h
+      
+    
+    {\displaystyle h}
+  
+. In the center of the chimney, the mixed layer deepens and the depth as a function of time is computed as described below.
+During the initial stage of the intensive deepening of the chimney, when the baroclinic instability effects are assumed to be unimportant, the depth can be found as a function of time using the buoyancy forcing. The buoyancy is defined as:
+  
+    
+      
+        b
+        =
+        −
+        g
+        
+          
+            σ
+            
+              ρ
+              
+                o
+              
+            
+          
+        
+      
+    
+    {\displaystyle b=-g{\frac {\sigma }{\rho _{o}}}}
+  
+Where 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+  
+ is the acceleration due to gravity, 
+  
+    
+      
+        σ
+      
+    
+    {\displaystyle \sigma }
+  
+ the potential density and 
+  
+    
+      
+        
+          ρ
+          
+            o
+          
+        
+      
+    
+    {\displaystyle \rho _{o}}
+  
+a constant reference value of density. The buoyancy equation for the mixed layer is:
+  
+    
+      
+        
+          
+            
+              D
+              b
+            
+            
+              D
+              t
+            
+          
+        
+        =
+        
+          F
+          
+            B
+          
+        
+      
+    
+    {\displaystyle {Db \over Dt}=F_{B}}
+  
+Where 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+  
+ is the buoyancy and 
+  
+    
+      
+        
+          F
+          
+            B
+          
+        
+      
+    
+    {\displaystyle F_{B}}
+  
+ the buoyancy forcing. The buoyancy forcing is equal to 
+  
+    
+      
+        
+          
+            
+              ∂
+              
+                B
+              
+            
+            
+              ∂
+              
+                z
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {\partial {B}}{\partial {z}}}}
+  
+where 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+  
+ is the buoyancy loss. As a simplification, the assumption that the buoyancy loss is constant in time (
+  
+    
+      
+        
+          B
+          
+            o
+          
+        
+      
+    
+    {\displaystyle B_{o}}
+  
+) is used. Neglecting horizontal advection and integrating the above equation over the mixed layer, we obtain:
+  
+    
+      
+        
+          
+            
+              ∂
+              
+                b
+              
+            
+            
+              ∂
+              z
+            
+          
+        
+        
+          
+            
+              ∂
+              
+                h
+              
+            
+            
+              ∂
+              t
+            
+          
+        
+        =
+        
+          
+            
+              B
+              
+                o
+              
+            
+            h
+          
+        
+      
+    
+    {\displaystyle {\partial {b} \over \partial z}{\partial {h} \over \partial t}={\frac {B_{o}}{h}}}
+  
+For a uniformly stratified fluid, the power of the buoyancy frequency is equal to:
+  
+    
+      
+        
+          N
+          
+            2
+          
+        
+        =
+        
+          
+            
+              ∂
+              
+                b
+              
+            
+            
+              ∂
+              
+                z
+              
+            
+          
+        
+      
+    
+    {\displaystyle N^{2}={\frac {\partial {b}}{\partial {z}}}}
+  
+Therefore, the classical result for the nonpenetrative deepening of the upper mixed layer is:
+  
+    
+      
+        h
+        =
+        
+          
+            
+              2
+              
+                B
+                
+                  o
+                
+              
+              t
+            
+            N
+          
+        
+      
+    
+    {\displaystyle h={\frac {\sqrt {2B_{o}t}}{N}}}
+
+The chimney evolution equation
+As time progresses and the baroclinic instability effects are becoming important, the time evolution of the chimney cannot be described only by the buoyancy forcing. The maximum depth that a convection chimney reaches, must be found using the chimney evolution equation instead. Following Kovalevsky et al. (2020) and Visbeck et al. (1996), consider a chimney of radius 
+  
+    
+      
+        
+          r
+          
+            o
+          
+        
+      
+    
+    {\displaystyle r_{o}}
+  
+ and a time-dependent height 
+  
+    
+      
+        h
+        (
+        t
+        )
+      
+    
+    {\displaystyle h(t)}
+  
+. The driving force of the chimney deepening is the surface buoyancy loss 
+  
+    
+      
+        
+          B
+          
+            o
+          
+        
+      
+    
+    {\displaystyle B_{o}}
+  
+ which causes convective overturning leading to homogeneously mixed fluid in the interior of the chimney.  Assuming that the density at the base of the chimney is continuous, the buoyancy anomaly 
+  
+    
+      
+        
+          b
+          ′
+        
+      
+    
+    {\displaystyle b'}
+  
+ of a particle which is displaced a distance Δz within the chimney is:
+  
+    
+      
+        
+          b
+          ′
+        
+        =
+        
+          N
+          
+            2
+          
+        
+        (
+        z
+        −
+        h
+        (
+        t
+        )
+        )
+        ,
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        0
+        <
+        z
+        <
+        h
+        (
+        t
+        )
+      
+    
+    {\displaystyle b'=N^{2}(z-h(t)),\;\;\;\;\;\;\;\;\;0<z<h(t)}
+  
+According to Kovalevsky et al. (2020) the buoyancy budget equation is:
+  
+    
+      
+        
+          
+            d
+            
+              d
+              t
+            
+          
+        
+        
+          ∫
+          
+            V
+            (
+            t
+            )
+          
+          
+
+          
+        
+        
+          b
+          ′
+        
+        d
+        V
+        =
+        
+          ∫
+          
+            
+              S
+              
+                t
+                o
+                p
+              
+            
+          
+          
+
+          
+        
+        
+          B
+          
+            o
+          
+        
+        d
+        S
+        −
+        
+          ∫
+          
+            
+              S
+              
+                l
+                a
+                t
+              
+            
+          
+          
+
+          
+        
+        
+          
+            
+              
+                u
+                ′
+              
+              
+                b
+                ′
+              
+            
+            ¯
+          
+        
+        d
+        S
+      
+    
+    {\displaystyle {d \over dt}\int _{V(t)}^{}b'dV=\int _{S_{top}}^{}B_{o}dS-\int _{S_{lat}}^{}{\overline {u'b'}}dS}
+  
+The left-hand side represents the time evolution of the total buoyancy anomaly accumulated in the time-depended chimney volume 
+  
+    
+      
+        V
+        (
+        t
+        )
+      
+    
+    {\displaystyle V(t)}
+  
+. The first and second term on the right-hand side correspond to the total buoyancy loss from the sea-surface over the chimney and the buoyancy transfer between the interior of the chimney and the baroclinic eddies, respectively.
+Initially, the total buoyancy depends only on the total buoyancy loss through the sea-surface above the chimney. While time progresses, the buoyancy loss through the sea-surface above the chimney becomes partially equivalent with the lateral buoyancy exchange between the chimney and the baroclinic eddies, through the chimney’s side walls.
+Visbeck et al. (1996), by using a suggestion by Green (1970) and Stone (1972), parameterized the eddy flux 
+  
+    
+      
+        
+          
+            
+              
+                u
+                ′
+              
+              
+                b
+                ′
+              
+            
+            ¯
+          
+        
+      
+    
+    {\displaystyle {\overline {u'b'}}}
+  
+as:
+  
+    
+      
+        
+          
+            
+              
+                u
+                ′
+              
+              
+                b
+                ′
+              
+            
+            ¯
+          
+        
+        =
+        
+          α
+          ′
+        
+        
+          
+            
+              
+                (
+                
+                  b
+                  ′
+                
+                
+                  )
+                  
+                    2
+                  
+                
+              
+              ¯
+            
+            N
+          
+        
+      
+    
+    {\displaystyle {\overline {u'b'}}=\alpha '{\frac {\overline {(b')^{2}}}{N}}}
+  
+Where 
+  
+    
+      
+        
+          α
+          ′
+        
+      
+    
+    {\displaystyle \alpha '}
+  
+ is a constant of proportionality to be determined by observations and laboratory modeling. The variable 
+  
+    
+      
+        
+          u
+          ′
+        
+      
+    
+    {\displaystyle u'}
+  
+represents the pulsations of the horizontal current velocity component perpendicular to the side-walls of the chimney while, by following Visbeck et al. (1996), 
+  
+    
+      
+        
+          
+            
+              (
+              
+                b
+                ′
+              
+              
+                )
+                
+                  2
+                
+              
+            
+            ¯
+          
+        
+      
+    
+    {\displaystyle {\overline {(b')^{2}}}}
+  
+ is equal to:
+  
+    
+      
+        
+          
+            
+              (
+              
+                b
+                ′
+              
+              
+                )
+                
+                  2
+                
+              
+            
+            ¯
+          
+        
+        =
+        
+          N
+          
+            4
+          
+        
+        
+          h
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\overline {(b')^{2}}}=N^{4}h^{2}}
+
+Decay
+If the buoyancy loss is maintained for a sufficient time period, then the sea-surface cooling weakens and the restratification phase starts. At the surrounding of the convective regime, the stratification takes up an ambient value while in the center of the chimney the stratification is eroded away. As a result, around the periphery of the chimney, the isopycnal surfaces deviate from their resting level, tilting towards the ocean’s surface. Associated with the tilting isopycnal surfaces a thermal wind is set up generating the rim current around the edge of the convection regime. This current must be in thermal wind balance with the density gradient between the chimney’s interior and exterior. The width of the rim current’s region and its baroclinic zone will initially be of the order of the Rossby radius of deformation.
+The existence of the rim current plays an important role for the chimney’s collapse. At the center of the chimney, the mixed layer will deepen as 
+  
+    
+      
+        
+          
+            t
+          
+        
+      
+    
+    {\displaystyle {\sqrt {t}}}
+  
+, until the growing baroclinic instability begins to carry convected fluid outward while water from the exterior flows into the chimney. At this moment, the rim current around the cooling region becomes baroclinically unstable and the buoyancy laterally is transferred by the instability eddies. If the eddies are intense enough, deepening of the chimney will be limited. In this limit, when the lateral buoyancy flux completely balances the sea-surface buoyancy loss, a quasi-steady state can be established:
+  
+    
+      
+        
+          ∫
+          
+            
+              S
+              
+                t
+                o
+                p
+              
+            
+          
+          
+
+          
+        
+        
+          B
+          
+            o
+          
+        
+        d
+        S
+        =
+        
+          ∫
+          
+            
+              S
+              
+                l
+                a
+                t
+              
+            
+          
+          
+
+          
+        
+        
+          
+            
+              
+                u
+                ′
+              
+              
+                b
+                ′
+              
+            
+            ¯
+          
+        
+        d
+        S
+      
+    
+    {\displaystyle \int _{S_{top}}^{}B_{o}dS=\int _{S_{lat}}^{}{\overline {u'b'}}dS}
+  
+By solving the above equation, the final depth of the convective chimney can be found to be:
+  
+    
+      
+        
+          h
+          
+            f
+            i
+            n
+            a
+            l
+          
+        
+        =
+        γ
+        
+          
+            
+              (
+              
+                B
+                
+                  o
+                
+              
+              
+                r
+                
+                  o
+                
+              
+              
+                )
+                
+                  1
+                  
+                    /
+                  
+                  3
+                
+              
+            
+            N
+          
+        
+        ,
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        γ
+        =
+        
+          
+            (
+            
+              
+                1
+                
+                  2
+                  
+                    α
+                    ′
+                  
+                
+              
+            
+            )
+          
+          
+            1
+            
+              /
+            
+            3
+          
+        
+      
+    
+    {\displaystyle h_{final}=\gamma {\frac {(B_{o}r_{o})^{1/3}}{N}},\;\;\;\;\;\;\;\;\;\gamma =\left({\frac {1}{2\alpha '}}\right)^{1/3}}
+  
+
+Consequently, the final mixing depth depends on the strength of the cooling, the radius of the cooling and the stratification. Therefore, the final mixing depth is not directly dependent of the rate of the rotation. However, baroclinic instability is a consequence of the thermal wind, which is crucially dependent on rotation. The length scale of baroclinic eddies, assumed to be set by the Rossby radius of deformation, scale as:
+
+  
+    
+      
+        
+          L
+          
+            e
+            d
+            d
+            y
+            ,
+            f
+            i
+            n
+            a
+            l
+          
+        
+        =
+        
+          
+            
+              N
+              
+                h
+                
+                  f
+                  i
+                  n
+                  a
+                  l
+                
+              
+            
+            f
+          
+        
+        =
+        γ
+        
+          
+            
+              (
+              
+                B
+                
+                  o
+                
+              
+              
+                r
+                
+                  o
+                
+              
+              
+                )
+                
+                  1
+                  
+                    /
+                  
+                  3
+                
+              
+            
+            f
+          
+        
+      
+    
+    {\displaystyle L_{eddy,final}={\frac {Nh_{final}}{f}}=\gamma {\frac {(B_{o}r_{o})^{1/3}}{f}}}
+  
+
+Which does depend on the rate of rotation f but is independent of the ambient stratification.
+The least time that the chimney needs to reach the quasi-equilibrium state is equivalent with the time that it needs to reach the depth 
+  
+    
+      
+        
+          h
+          
+            f
+            i
+            n
+            a
+            l
+          
+        
+      
+    
+    {\displaystyle h_{final}}
+  
+ and it is equal to:
+  
+    
+      
+        
+          t
+          
+            f
+            i
+            n
+            a
+            l
+          
+        
+        =
+        β
+        
+          
+            (
+            
+              
+                
+                  r
+                  
+                    o
+                  
+                  
+                    2
+                  
+                
+                
+                  B
+                  
+                    o
+                  
+                
+              
+            
+            )
+          
+          
+            1
+            
+              /
+            
+            3
+          
+        
+        ,
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        β
+        =
+        
+          
+            
+              γ
+              
+                2
+              
+            
+            2
+          
+        
+      
+    
+    {\displaystyle t_{final}=\beta \left({\frac {r_{o}^{2}}{B_{o}}}\right)^{1/3},\;\;\;\;\;\;\;\;\;\beta ={\frac {\gamma ^{2}}{2}}}
+  
+The final timescale is independent of the rate of rotation, increases with the radius of the cooling region r and decreases with the surface buoyancy flux Bo. According to Visbeck at al. (1996), the constant of proportionality γ and β are found to be equal to 3.9 ± 0.9 and 12 ± 3 respectively, through laboratory experiments.
+
+Cones
+Finally, the cooling of the surface as well as convective activity cease. Therefore, the chimney of homogenized cold water erodes into several small conical structures, named cones, which propagate outward. The cones travel outward, carrying cold water far from the area of cooling. As time progresses and the cones disperse, the magnitude of the rim current diminishes. The currents associated with the cones are intensified and cyclonic at the surface whereas they are weaker and anticyclonic at low depths.
+
+Effects of global warming on ocean convection
+Deep convective activity in the Labrador Sea has decreased and become shallower since the beginning of the 20th century due to low-frequency variability of the North Atlantic oscillation. A warmer atmosphere warms the surface waters so that they do not sink to mix with the colder waters below. The resulting decline does not occur steeply but stepwise. Specifically, two severe drops in deep convective activity have been recorded, during the 1920s and the 1990s.
+Similarly, in the Greenland Sea, shallower deep mixed layers have been observed over the last 30 years due to the fall of wintertime atmospheric forcing. The melting of the Greenland ice-sheet, could also contribute to an even earlier extinction of deep convection. The freshening of the surface waters due to enhanced meltwater from the Greenland Ice Sheet, have less density, making it more difficult for oceanic convection to occur. Reduction of the deep wintertime convective mixing in the North Atlantic results the weakening of AMOC.

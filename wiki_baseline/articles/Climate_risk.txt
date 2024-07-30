@@ -1,0 +1,77 @@
+Climate risk is the potential for problems for societies or ecosystems from the impacts of climate change. The assessment of climate risk is based on formal analysis of the consequences, likelihoods and responses to these impacts. Societal constraints can also shape adaptation options. There are different values and preferences around risk, resulting in differences of risk perception.: 149 
+Common approaches to risk assessment and risk management strategies are based on analysing hazards. This can also be applied to climate risk although there are distinct differences: The climate system is no longer staying within a stationary range of extremes. Hence, climate change impacts are anticipated to increase for the coming decades. There are also substantial differences in regional climate projections. These two aspects make it complicated to understand current and future climate risk around the world. Scientists use various climate change scenarios when they carry out climate risk analysis.
+The interaction of three risk factors define the degree of climate risk. They are hazards, vulnerability and exposure. : 2417  There are various approaches to climate risk management. One example is climate risk insurance. This is a type of insurance designed to mitigate the financial and other risk associated with climate change, especially phenomena like extreme weather.
+
+Definition
+The IPCC Sixth Assessment Report defines climate risk is the potential for negative consequences for society or ecosystems from the impacts of climate change. Risk is used mainly to talk about the potential effects of climate change, but it may also result from the measures that we take to respond to those changes. The definition also recognises the different values and preferences that people have towards the human or ecological systems at risk.
+Risk assessment is the qualitative and/or quantitative scientific estimation of risks.
+Risk perception is the personal judgement that people make about the characteristics and severity of a risk.
+
+Understanding risks
+Climate risks are increasingly felt in all regions of the world, and they are especially visible in the growing number of disasters that are driven by climatic events. Many of these risks and impacts are expected to increase in future, and therefore are an increasing concern. Risk assessments are based on responses of a climate system that is no longer staying within a stationary range of extremes. The Intergovernmental Panel on Climate Change (IPCC) assessment framework is based on the understanding that climate risk emerges from the interaction of three risk factors: hazards, vulnerability and exposure.
+In this framework, climate risks are also described in five sets of major risks: : 2417 
+
+unique and threatened systems
+extreme weather events
+distribution of impacts
+global aggregate impacts
+large-scale singular events
+
+Risks and uncertainties
+Risks and uncertainties are closely related concepts. Risk is “the potential” for a negative outcome, so it implies uncertainty or incomplete information. However, risks are more often understood in a more context-specific way. Each component of climate risk - hazards, exposure and vulnerability -  may be uncertain in terms of the magnitude and likelihood of occurrence. Assessment of the risk includes a set of measured uncertainties. These are usually given in terms of a set or range of possible outcomes, which may also include probabilities. The IPCC uses qualitative rating scales for uncertainty which may be based on quantitative results or expert judgement.: 2926  : 11–12 
+Uncertainty is also used in a broader way to describe general lack of knowledge about the world and of possible outcomes (epistemic uncertainty). Some such outcomes are inherently unpredictable (aleatory uncertainty). It can also refer to different framings or understandings about the world (ambiguity) including different scientific understandings. There are many types of sources of uncertainty. Unlike risk, uncertainty does not always carry negative connotations. Risk is subcategory of uncertainty that is considered to make potential issues and problems more manageable.: 11–12  Risk is a term used widely across different management practice areas. Examples are business, economics, environment, finance, information technology, health, insurance, safety, and security.
+
+Vulnerability
+Management
+Responses to risk
+Climate change adaptation and climate change mitigation can reduce climate-related risks. These two types of climate action can be complementary and can result in synergies, and thus more successful results.: 128, 175
+
+Climate risk management
+Climate risk insurance
+Climate Risk Pooling
+Disaster risk reduction
+By sector
+Climate risks can be categorised into natural environment, infrastructure, human health, the built environment, business and international. The IPCC Sixth Assessment Report considers risks within important sectors affected by climate change, like agriculture, water, cities, ecosystems, health and livelihoods.: ix  It also considers sets of major risks across these sectors. : 2417  Risk categories are often assessed in relation to multiple hazards and impacts, but hazard-specific assessments are often also available, eg. flood risk or heatwave risk assessment.
+
+Ecosystems and their services
+The main risks to ecosystems from climate change are biodiversity loss, ecosystem structure change, increased tree mortality, increased wildfire, and ecosystem carbon losses. These risks are linked. Loss of species can increase the risks to ecosystem health.: 279  Wildfire is an increasing risk for people as well as to ecosystems in many parts of the world.: 290  Wildfires and increased pest infestations due to climate change caused much of the recent tree mortality in North America. : 280 
+Risks to seas and coastal areas include coral bleaching linked with ocean warming. This can change the composition of ecosystems. Coral bleaching and mortality also increase the risks of flooding on nearby shorelines and islands. Ocean acidification attributed to climate change drives change in coral reefs and other ecosystems such as rocky shores and kelp forests.: 142
+
+Health
+Climate change-related risks to health include direct risks from extreme weather such as cold waves, storms, or prolonged high temperatures. There are also indirect risks such as mental health impacts of undernutrition or displacement caused by extreme weather.: 1076  Similarly there are mental health risks from loss of access to green spaces, reduced air quality, or from anxiety about climate change.: 1076, 1078  There are further risks from changes in conditions for transmission of infectious diseases. Malaria and dengue are particularly climate-sensitive.: 1062
+
+Cities
+Rising temperatures and heatwaves are key risks for cities. With warmer temperatures the urban heat island effect is likely to get worse. Population growth and land use change will influence human health and productivity risks in cities.: 993  Urban flooding is another key risk. This is especially the case in coastal settlements where flood risks are exacerbated by sea-level rise and storm surges. A further set of risks arises from reduced water availability. When supply cannot meet demand from expanding settlements, urban residents become exposed to water insecurity and climate impacts. This is especially so during periods of lower rainfall. These key risks differ greatly between cities, and between different groups of people in the same city.: 993
+
+Livelihoods and communities
+Climate change affects livelihoods and living conditions in significant ways. These include access to natural resources and ecosystems, land and other assets.  Access to basic infrastructure services such as water and sanitation, electricity, roads, telecommunications is another aspect of vulnerability of communities and livelihoods to climate change.: 1119 
+The biggest livelihood-related risks stem from losses of agricultural yields, impacts on human health and food security, destruction of homes, and loss of income. There are also risks to fish and livestock that livelihoods depend on. : 1178  Some communities and livelihoods also face risks of irreversible losses and challenges to development, as well as more complex disaster risks.: 1214 
+The consequences of climate change are the most severe for the poorest populations. These are disproportionately more exposed to hazards such as temperature extremes and droughts. They usually have fewer resources and assets and less access to funding, support and political influence. There are other forms of disadvantage due to discrimination, gender inequalities and through lack of access to resources This includes people with disabilities or minority groups.: 1251
+
+Business risks
+In 2020 the World Economic Forum ranked climate change as the biggest risk to economy and society. Companies face reputational risks as well as financial risks. Companies publicly criticised for their environmental policies or high emissions might lose customers because of negative reputation.
+
+Water
+Climate change is affecting the overall and seasonal availability of water across regions. Climate change is projected to increase the variability of rain.  There will be impacts on water quality as well as quantity. Floods can wash pollutants into water bodies and damage water infrastructure. In many places, particularly in the tropics and sub-tropics, there are longer dry spells and droughts, sometimes over consecutive years. These have contributed to drier soil conditions, lower groundwater tables and reduced or changed flows of rivers. There are risks to ecosystems, and across many water-using sectors of the economy.: 660  Agriculture is likely to be affected by changes in water availability, putting food security at risk. Irrigation has often contributed to groundwater depletion and changes in the water cycle. It can sometimes make a drought worse.: 1157
+
+International
+International climate risks are climate risks that cross national borders. Sometimes the impacts of climate change in one country or region can have further consequences for people in other countries. Risks can spread from one country to a neighbouring country, or from one country to distant regions. Risks can also cascade and have knock-on effects elsewhere, across multiple borders and sectors. For example, an impact of the floods in Thailand in 2011 was disruption to manufacturing supply chains affecting the automotive sector and electronics industry in Japan, Europe and the USA.: 2441–2444 
+The different stages in a supply chain, where risks can be transmitted and managed, is an example of a risk pathway. Risk pathways, via which impacts are transmitted, include trade and finance networks, flows of people, resource flows such as water or food, and ecosystem connections.: 2441–2444 
+International risks potentially could affect small trade-dependent countries especially those dependent on food imports. They could also affect richer, developed nations that are relatively less exposed to direct risks from climate change. In addition, there are potential consequences from adaptation responses initiated in one country that might transmit or alter risks elsewhere. For example, a decision to pull out of investment in risky markets may increase climate vulnerability for many communities.
+
+National and international risk assessments
+International
+The Intergovernmental Panel on Climate Change (IPCC) assessment framework is based on the understanding that climate risk emerges from the interaction of three risk factors: hazards, vulnerability and exposure. One of primary roles of the IPCC, which was created by the United Nations Environment Programme (UNEP) and the World Meteorological Organization (WMO) in 1988, is to evaluate climate risks and explore strategies for their prevention and publish this knowledge each year in a series of comprehensive reports. The most recent report to consider the widest set of climate risks across nature and human activity was the Sixth Assessment Report Working Group II report Impacts, Adaptation and Vulnerability, published in 2022. The assessed levels of risk generally increased compared to previous reports, whilst the impacts were found to have been on the high end of what had been expected.
+
+European Union
+The European Climate Risk Assessment (EUCRA) will assess current and future climate change impacts and risks relating to the environment, economy and wider society in Europe. The European Commission’s Directorate-General for Climate Action and the EEA lead the preparation. The EUCRA is expected to be published in Spring 2024.
+
+By country
+United States
+The National Climate Assessment (NCA) is a United States government interagency ongoing effort on climate change science conducted under the auspices of the Global Change Research Act of 1990. The fourth edition 'Volume II: Impacts, Risks, and Adaptation in the United States' was published in 2018.
+
+United Kingdom
+The UK Government is required, under the 2008 Climate Change Act, to publish a Climate Change Risk Assessment every five years. This assessment sets out the risks and opportunities facing the UK from climate change. The third assessment published in 2022 identified 61 risks cutting across multiple sectors. These risks were categorised into natural environment, infrastructure, human health, the built environment, business and international.
+
+New Zealand
+The Climate Change Response (Zero Carbon) Amendment Act (amended 2019) includes the publication of a National Climate Change Risk Assessment, every six years. The First Assessment (2020) grouped risks according to five value domains: human, natural environment, economy, built environment and governance. The assessment details the 10 most urgent risks overall, among them: risks to potable water supplies (availability and quality), risks to buildings due to extreme weather events, and risks to governments from economic costs of lost productivity, disaster relief and other unforeseen expenditures.

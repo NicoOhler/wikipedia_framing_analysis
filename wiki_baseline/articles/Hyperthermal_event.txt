@@ -1,0 +1,49 @@
+A hyperthermal event corresponds to a sudden warming of the planet on a geologic time scale.
+The consequences of this type of event are the subject of numerous studies because they can constitute an analogue of current global warming.
+
+Hyperthermal events
+The first event of this type was described in 1991 from a sediment core extracted from a drilling of the Ocean Drilling Program (ODP) carried out in Antarctica in the Weddell Sea. This event occurs at the boundary of the Paleocene and Eocene epochs approximately 56 million years ago. It is now called the Paleocene-Eocene Thermal Maximum (PETM). During this event, the temperature of the oceans increased by more than 5 °C in less than 10,000 years.
+Since this discovery, several other hyperthermal events have been identified in this lower part of the Paleogene geological period:
+
+the Dan-C2 event at the beginning of the Danian stage of the Paleocene, about 65.2 million years ago, quite the basis of the Cenozoic era ;
+the Danian-Selandian event at the transition between the Danian and Selandian stages of the Paleocene, about 61 million years ago ;
+the two events following the PETM during the Eocene climatic optimum:
+the Eocene Thermal Maximum 2 (ETM2) about 53.2 million years ago,
+and the Eocene Thermal Maximum 3 (ETM3) about 52.5 million years ago.
+But the PETM event remains the most studied of the hyperthermic events.
+Other hyperthermic events occurred at the end of most Quaternary glaciations. Probably the most notable of these is the abrupt warming marking the end of the Younger Dryas, which saw an average annual temperature rise of several degrees in less than a century.
+
+Causes
+While the consequences of these hyperthermic events are now well studied and known, their causes are still debated.
+Two main tracks, possibly complementary, are mentioned for the initiation of these sudden warmings:
+
+orbital forcing with long and/or short Earth cycle eccentricity maxima that accentuate significant seasonal contrasts and lead to global warming;
+remarkable volcanic activity, especially in the North Atlantic province.
+
+Consequences
+Marine warming due to PETM is estimated, for all latitudes of the globe, between 4 and 5 °C for deep ocean waters and between 5 and 9 °C for surface waters.
+Carbon trapped in clathrates buried in high latitude sediments is released to the ocean as methane (CH4) which will quickly oxidize to carbon dioxide(CO2).
+
+Ocean acidification and carbonate dissolution
+As a result of the increase in CO2 dissolved in seawater, the oceans are acidifying. This results in a dissolution of the carbonates; global sedimentation becomes essentially clayey. This process takes place in less than 10,000 years while it will take about 100,000 years for the carbonate sedimentation to return to its pre-PETM level mainly by CO2 capture through greater silicate weathering on the continents.
+
+Disruption of ocean circulations
+The δ13C ratios of the carbon isotope contents of the carbonates constituting the shells of the benthic foraminifera have shown an upheaval in the oceanic circulations during the PETM under the effect of global warming. This change took place over a few thousand years. The return to the previous situation, again by negative feedback thanks to the "CO2 pump" of silicate weathering, took about 200,000 years.
+
+Impacts on marine fauna
+While the benthic foraminifera had gone through the Cretaceous-Tertiary extinction that occurred around 66 million years ago without difficulty, the hyperthermic event of the PETM, 10 million years later, decimated them with the disappearance of 30 to 50% of existing species.
+The warming of surface waters also leads to eutrophication of the marine environment which leads to a rapid increase by positive feedback of CO2 emissions.
+
+Impacts on terrestrial fauna
+Mammals that experienced a great development after the extinction of the end of the Cretaceous will be strongly affected by the climatic warming of the Paleogene. Temperature increases and induced climate changes modify the flora and the quantities of fodder available for herbivores. This is how a large number of groups of mammals appear at the beginning of the Eocene, about 56 million years ago:
+
+Artiodactyls;
+Perissodactyls;
+Primates;
+Hyaenodontidae...
+
+Analogies with current global warming
+Even if the hyperthermal events of the Paleogene appear extremely brutal on the geologic time scale (in a range of a few thousand years for an increase of the order of 5 °C), they remain significantly longer than the durations envisaged in the current models of global warming of anthropogenic origin.
+The various studies of hyperthermal events insist on the phenomena of positive feedbacks which, after the onset of a warming, accelerate it considerably.
+
+References

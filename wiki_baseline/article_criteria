@@ -1,0 +1,30 @@
+criteria:
+    must be an article directly underneath the climate change category or one of the following subcategories:
+        climate change by continent
+        climate change by country and region
+        clinate change and the environment
+        Climate_change_mitigation
+        Climate_change_and_society
+        effects of climate change
+    must be written in english
+    must not be a subsection of another article
+    must not be too short (TOOD length)
+    duplicates which are present in multiple categories are not allowed
+    must not be an article about people/books/movies/organizations/museums/companies/cities/purely mathematical concepts/case(examples)...
+        social movements however are allowed
+    must not be a list
+    must have been updated in the last 6 years
+    must contain a significant amount of information about climate change
+        a short section about climate change is not enough
+
+
+
+
+
+
+
+Idea:
+    use most popular articles about climate change on wikipedia
+    https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Climate_change/Popular_articles
+    these articles however are often not directly related to climate change
+        e.g. Antarctica, Polar bear, Car, Cheese, etc.

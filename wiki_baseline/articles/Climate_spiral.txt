@@ -1,0 +1,47 @@
+A climate spiral (sometimes referred to as a temperature spiral) is an animated data visualization graphic designed as a "simple and effective demonstration of the progression of global warming", especially for general audiences. 
+The original climate spiral was published on 9 May 2016 by British climate scientist Ed Hawkins to portray global average temperature anomaly (change) since 1850. The visualization graphic has since been expanded to represent other time-varying quantities such as atmospheric CO2 concentration, carbon budget, and arctic sea ice volume.
+
+Background
+Hawkins credited a "Friday afternoon" email from Norwegian climatologist Jan Fuglestvedt for the idea of converting a conventional coloured line chart into a spiral, and thanked Fuglestvedt's wife, Taran Fæhn, for having suggested it to Fuglestvedt. Fæhn, a researcher for Statistics Norway and the Oslo Centre for Research on Environmentally Friendly Energy, had suggested that connecting December to the following January would show temperature evolution in a more dynamic way. Ensuing email discussions refined the design of the climate spiral, which Hawkins published on Monday 9 May 2016.
+
+Dissemination
+Expecting "only some vague interest", Hawkins later wrote that his tweet of the new graphic had been viewed 3.4 million times in its first year. The tweeted graphic is widely described as having gone viral. Within a day, Climate Central writer Andrea Thompson remarked in The Guardian that the "metaphoric spiral" of the planet spiraling toward catastrophic consequences "has become a literal one". Initially, Hawkins posited that the graphic resonated because it "doesn’t require any complex interpretation".
+In a 2019 paper, Hawkins et al. further surmised that the design and communication aspects of the graphic resonated with viewers for a variety of reasons, including:
+
+its selection to graph temperature (a quantity that the public feels is relevant and understandable),
+its production by scientists (who tend to be viewed as "trusted messengers"),
+its being intuitive and eye-catching (not a "boring" scientific graph),
+its similarity to a clock (which is normally regular and predictable but which provides a "visual surprise" at the end, portraying the "fortuitous" large temperature increases encountered very recently),
+its animated nature (not a static graph), and
+its short duration (holding viewers' attention).
+The paper further noted that sharing the graphic on social media allowed it to be "consumed within the social media bubble rather than requiring a journey to another website", allowing it to be "subsequently amplified by journalists, the media, and highly popular accounts".
+
+Content
+Climate spirals use changing distance from a center point to represent change of a dependent variable (archetypically, global average temperature). The independent variable, time, is broken down into months (represented by constantly changing rotational angle about the center point) and years (line colour that evolves as years pass).
+Hawkins explained that in his implementation, colours represent time: purple for early years, through blue, green to yellow for most recent years. He made the graphics in MATLAB and used the "viridis" colour scale, conscious of choosing a colour scale that makes the graphics legible to colour blind viewers.
+As the graphic includes red concentric circles denoting temperature changes of 1.5°C and 2.0°C, Hawkins explained that "the relationship between current global temperatures and the internationally discussed target limits is also clear without much complex interpretation needed". Ria Misra wrote in Gizmodo that the graphic "lets the noise of tiny variations fade into the background while still showcasing, very simply, the undeniable trend".
+Describing how global warming "appears to burst outward toward the end of the animation", Hawkins described how sulfate aerosols no longer counteracted the warming effect greenhouse gases after the 1970s, and noted how strong El Niño events in 1998 and 2016 lead to higher temperature plateaus more recently.
+The first climate spiral portrayed data from HadCRUT4.4 from January 1850 – March 2016, graphing relative to the 1850-1900 mean temperature, the same pre-industrial global average used in the IPCC Fifth Assessment Report.
+
+Applications and influence
+Three days after the first climate spiral was published, it was the subject of an article on the U.S Department of State's ShareAmerica website, noting the "compelling" graphic "shows just how fast" "world temperatures are spiraling upward".
+A climate spiral was featured in the opening ceremony of the August 2016 Summer Olympics.
+The design was on the shortlist for the Kantar Information is Beautiful Awards 2016.
+In January 2017, "Spiraling Global Temperatures" was nominated for the Shorty Awards GIF of the Year.
+In January 2017, the spiral was tweeted by Bernie Sanders and the U.S. National Park Service, both conveying how almost all recorded warmest years have been recent years.
+
+Extensions of the climate spiral concept
+In May 2016 United States Geological Survey scientist Jay Alder extended Hawkins' historical spiral to the year 2100, creating a predictive spiral graphic showing a possible future trajectory of global warming given the then-current carbon emission trend. Hawkins extended his two-dimensional spiral design to a three-dimensional version in which the graphic appears as an expanding cone-shaped structure.
+Hawkins' original climate spiral application (global average temperature change) has been expanded to represent other time-varying quantities such as atmospheric CO2 concentration, carbon budget, and arctic sea ice volume.
+
+Critical response
+The day of the climate spiral's first publication (9 May 2016), Brad Plumer wrote in Vox that the "mesmerizing" GIF was "one of the clearest visualizations of global warming" he had ever seen. 
+The following day (10 May), Jason Samenow wrote in The Washington Post that the spiral graph was "the most compelling global warming visualization ever made", and, likewise, former Climate Central senior science writer Andrew Freedman wrote in Mashable that it was "the most compelling climate change visualization we’ve ever seen". Michael E. Mann, creator of the hockey stick graph, said that the spiral graphic was "an interesting and worthwhile approach to representing the data graphically", and PRI's Timothy McGrath wrote that the spiral was "a simple, elegant illustration of a dark history and a potentially terrifying future".  In BusinessGreen, environmental journalist James Murray praised the graphic's "elegant simplicity", asserting that "the mistakes, misinterpretations, and misinformation contained in so many climate sceptic arguments are steamrollered by the straightforward force of this spiral".
+On 11 May, Chris Mooney wrote in The Washington Post that, with his "startling animation" Hawkins had "hit a grand slam—and not through some clever turn of phrase or some new metaphor or framing, but rather, through viral data visualization". Sarah Rense, first writing in Esquire that "climate science is unpalatable" and "depressing data", characterized the new graphic as being "as mesmerizing as it is depressing", "a cool GIF with pretty colours (to which) people will pay attention".
+In late May 2016, Brian Kahn, communications coordinator at the International Research Institute for Climate and Society, wrote that the spiral was a "revolutionary new way to look at global temperatures" and posited that the graphic's popularity "can be attributed in part to its hypnotic nature and the visceral way it shows the present predicament of climate change".
+In July 2016, freelance journalist Chelsea Harvey wrote in The Washington Post that, "at a time when climate science communication efforts are often viewed as dense or difficult for general audiences to understand, these types of striking graphics may help climate scientists connect with the public in a way that is both clear and attention-grabbing".
+Two years later, in May 2018 Jason Samenow commented that, though many Hawkins visualizations had "resonated among science communicators", climate spirals were the scientist's best-known visualizations.
+After his 2016 development of the climate spiral, Hawkins received the Royal Meteorological Society’s 2017 Climate Science Communication Prize. After developing the warming stripes graphic in May 2018, Hawkins, a lead author for the IPCC 6th Assessment Report, received the Royal Society's 2018 Kavli Medal "for significant contributions to understanding and quantifying natural climate variability and long-term climate change, and for actively communicating climate science and its various implications with broad audiences".
+In a 2019 paper, Hawkins et al. acknowledged that a "possible scientific criticism" of the design was that uncertainty in the temperature data is not visualized. Also, viewers might interpret the area of the 1.5°C and 2.0°C circles as representing the temperature change rather than the radius of the graphed line itself, though noting the temperature limit circles are clearly labeled.
+In May 2017 Hawkins responded to a criticism that the human eye might incorrectly interpret the change in area within the spiral rather than the change in radius by noting that the radii are clearly labeled.
+Informally, climate spirals have been referred to as spirographs.

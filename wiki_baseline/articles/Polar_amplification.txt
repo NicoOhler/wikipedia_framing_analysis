@@ -1,0 +1,105 @@
+Polar amplification is the phenomenon that any change in the net radiation balance (for example greenhouse intensification) tends to produce a larger change in temperature near the poles than in the planetary average. This is commonly referred to as the ratio of polar warming to tropical warming. On a planet with an atmosphere that can restrict emission of longwave radiation to space (a greenhouse effect), surface temperatures will be warmer than a simple planetary equilibrium temperature calculation would predict. Where the atmosphere or an extensive ocean is able to transport heat polewards, the poles will be warmer and equatorial regions cooler than their local net radiation balances would predict. The poles will experience the most cooling when the global-mean temperature is lower relative to a reference climate; alternatively, the poles will experience the greatest warming when the global-mean temperature is higher.
+In the extreme, the planet Venus is thought to have experienced a very large increase in greenhouse effect over its lifetime, so much so that its poles have warmed sufficiently to render its surface temperature effectively isothermal (no difference between poles and equator). On Earth, water vapor and trace gasses provide a lesser greenhouse effect, and the atmosphere and extensive oceans provide efficient poleward heat transport. Both palaeoclimate changes and recent global warming changes have exhibited strong polar amplification, as described below.
+Arctic amplification is polar amplification of the Earth's North Pole only; Antarctic amplification is that of the South Pole.
+
+History
+An observation-based study related to Arctic amplification was published in 1969 by Mikhail Budyko, and the study conclusion has been summarized as "Sea ice loss affects Arctic temperatures through the surface albedo feedback." The same year, a similar model was published by William D. Sellers. Both studies attracted significant attention since they hinted at the possibility for a runaway positive feedback within the global climate system. In 1975, Manabe and Wetherald published the first somewhat plausible general circulation model that looked at the effects of an increase of greenhouse gas. Although confined to less than one-third of the globe, with a "swamp" ocean and only land surface at high latitudes, it showed an Arctic warming faster than the tropics (as have all subsequent models).
+
+Amplification
+Amplifying mechanisms
+Feedbacks associated with sea ice and snow cover are widely cited as one of the principal causes of terrestrial polar amplification. These feedbacks are particularly noted in local polar amplification, although recent work has shown that the lapse rate feedback is likely equally important to the ice-albedo feedback for Arctic amplification. Supporting this idea, large-scale amplification is also observed in model worlds with no ice or snow.  It appears to arise both from a (possibly transient) intensification of poleward heat transport and more directly from changes in the local net radiation balance. Local radiation balance is crucial because an overall decrease in outgoing longwave radiation will produce a larger relative increase in net radiation near the poles than near the equator. Thus, between the lapse rate feedback and changes in the local radiation balance, much of polar amplification can be attributed to changes in outgoing longwave radiation. This is especially true for the Arctic, whereas the elevated terrain in Antarctica limits the influence of the lapse rate feedback.
+Some examples of climate system feedbacks thought to contribute to recent polar amplification include the reduction of snow cover and sea ice, changes in atmospheric and ocean circulation, the presence of anthropogenic soot in the Arctic environment, and increases in cloud cover and water vapor. CO2 forcing has also been attributed to polar amplification. Most studies connect sea ice changes to polar amplification. Both ice extent and thickness impact polar amplification. Climate models with smaller baseline sea ice extent and thinner sea ice coverage exhibit stronger polar amplification. Some models of modern climate exhibit Arctic amplification without changes in snow and ice cover.
+The individual processes contributing to polar warming are critical to understanding climate sensitivity. Polar warming also affects many ecosystems, including marine and terrestrial ecosystems, climate systems, and human populations.  Polar amplification is largely driven by local polar processes with hardly any remote forcing, whereas polar warming is regulated by tropical and midlatitude forcing. These impacts of polar amplification have led to continuous research in the face of global warming.
+
+Ocean circulation
+It has been estimated that 70% of global wind energy is transferred to the ocean and takes place within the Antarctic Circumpolar Current (ACC). Eventually, upwelling due to wind-stress transports cold Antarctic waters through the Atlantic surface current, while warming them over the equator, and into the Arctic environment. This is especially noticed in high latitudes. Thus, warming in the Arctic depends on the efficiency of the global ocean transport and plays a role in the polar see-saw effect.
+Decreased oxygen and low-pH during La Niña are processes that correlate with decreased primary production and a more pronounced poleward flow of ocean currents. It has been proposed that the mechanism of increased Arctic surface air temperature anomalies during La Niña periods of ENSO may be attributed to the Tropically Excited Arctic Warming Mechanism (TEAM), when Rossby waves propagate more poleward, leading to wave dynamics and an increase in downward infrared radiation.
+
+Amplification factor
+Polar amplification is quantified in terms of a polar amplification factor, generally defined as the ratio of some change in a polar temperature to a corresponding change in a broader average temperature:
+
+  
+    
+      
+        
+          P
+          A
+          F
+        
+        =
+        
+          
+            
+              Δ
+              
+                
+                  T
+                
+                
+                  p
+                
+              
+            
+            
+              Δ
+              
+                
+                  T
+                  ¯
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {PAF}={\Delta {T}_{p} \over \Delta {\overline {T}}}}
+  
+  ,
+where 
+  
+    
+      
+        Δ
+        
+          
+            T
+          
+          
+            p
+          
+        
+      
+    
+    {\displaystyle \Delta {T}_{p}}
+  
+ is a change in polar temperature and 
+  
+    
+      
+        Δ
+        
+          
+            T
+            ¯
+          
+        
+      
+    
+    {\displaystyle \Delta {\overline {T}}}
+  
+   is, for example, a corresponding change in a global mean temperature.
+Common implementations define the temperature changes directly as the anomalies in surface air temperature relative to a recent reference interval (typically 30 years).  Others have used the ratio of the variances of surface air temperature over an extended interval.
+
+Amplification phase
+It is observed that Arctic and Antarctic warming commonly proceed out of phase because of orbital forcing, resulting in the so-called polar see-saw effect.
+
+Paleoclimate polar amplification
+The glacial / interglacial cycles of the Pleistocene provide extensive palaeoclimate evidence of polar amplification, both from the Arctic and the Antarctic. In particular, the temperature rise since the last glacial maximum 20,000 years ago provides a clear picture.  Proxy temperature records from the Arctic (Greenland) and from the Antarctic indicate polar amplification factors on the order of 2.0.
+
+Recent Arctic amplification
+Suggested mechanisms leading to the observed Arctic amplification include Arctic sea ice decline (open water reflects less sunlight than sea ice), atmospheric heat transport from the equator to the Arctic, and the lapse rate feedback.
+The Arctic was historically described as warming twice as fast as the global average, but this estimate was based on older observations which missed the more recent acceleration. By 2021, enough data was available to show that the Arctic had warmed three times as fast as the globe - 3.1°C between 1971 and 2019, as opposed to the global warming of 1°C over the same period. Moreover, this estimate defines the Arctic as everything above 60th parallel north, or a full third of the Northern Hemisphere: in 2021–2022, it was found that since 1979, the warming within the Arctic Circle itself (above the 66th parallel) has been nearly four times faster than the global average. Within the Arctic Circle itself, even greater Arctic amplification occurs in the Barents Sea area, with hotspots around West Spitsbergen Current: weather stations located on its path record decadal warming up to seven times faster than the global average. This has fuelled concerns that unlike the rest of the Arctic sea ice, ice cover in the Barents Sea may permanently disappear even around 1.5 degrees of global warming.
+The acceleration of Arctic amplification has not been linear: a 2022 analysis found that it occurred in two sharp steps, with the former around 1986, and the latter after 2000. The first acceleration is attributed to the increase in anthropogenic radiative forcing in the region, which is in turn likely connected to the reductions in stratospheric sulfur aerosols pollution in Europe in the 1980s in order to combat acid rain. Since sulphate aerosols have a cooling effect, their absence is likely to have increased Arctic temperatures by up to 0.5 degrees Celsius. The second acceleration has no known cause, which is why it did not show up in any climate models. It is likely to be an example of multi-decadal natural variability, like the suggested link between Arctic temperatures and Atlantic Multi-decadal Oscillation (AMO), in which case it can be expected to reverse in the future. However, even the first increase in Arctic amplification was only accurately simulated by a fraction of the current CMIP6 models.
+
+Possible impacts on mid-latitude weather

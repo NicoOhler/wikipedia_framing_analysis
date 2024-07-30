@@ -1,0 +1,53 @@
+An abrupt climate change occurs when the climate system is forced to transition at a rate that is determined by the climate system energy-balance. The transition rate is more rapid than the rate of change of the external forcing, though it may include sudden forcing events such as meteorite impacts. Abrupt climate change therefore is a variation beyond the variability of a climate. Past events include the end of the Carboniferous Rainforest Collapse, Younger Dryas, Dansgaard–Oeschger events, Heinrich events and possibly also the Paleocene–Eocene Thermal Maximum. The term is also used within the context of climate change to describe sudden climate change that is detectable over the time-scale of a human lifetime. Such a sudden climate change can be the result of feedback loops within the climate system or tipping points in the climate system.
+Scientists may use different timescales when speaking of abrupt events. For example, the duration of the onset of the Paleocene–Eocene Thermal Maximum may have been anywhere between a few decades and several thousand years. In comparison, climate models predict that under ongoing greenhouse gas emissions, the Earth's near surface temperature could depart from the usual range of variability in the last 150 years as early as 2047.
+
+Definitions
+Abrupt climate change can be defined in terms of physics or in terms of impacts: "In terms of physics, it is a transition of the climate system into a different mode on a time scale that is faster than the responsible forcing. In terms of impacts, an abrupt change is one that takes place so rapidly and unexpectedly that human or natural systems have difficulty adapting to it. These definitions are complementary: the former gives some insight into how abrupt climate change comes about; the latter explains why there is so much research devoted to it."
+
+Timescales
+Timescales of events described as abrupt may vary dramatically.  Changes recorded in the climate of Greenland at the end of the Younger Dryas, as measured by ice-cores, imply a sudden warming of +10 °C (+18 °F) within a timescale of a few years. Other abrupt changes are the +4 °C (+7.2 °F) on Greenland 11,270 years ago or the abrupt +6 °C (11 °F) warming 22,000 years ago on Antarctica.
+By contrast, the Paleocene–Eocene Thermal Maximum may have initiated anywhere between a few decades and several thousand years. Finally, Earth System's models project that under ongoing greenhouse gas emissions as early as 2047, the Earth's near surface temperature could depart from the range of variability in the last 150 years.
+
+Past events
+Several periods of abrupt climate change have been identified in the paleoclimatic record.  Notable examples include:
+
+About 25 climate shifts, called Dansgaard–Oeschger cycles, which have been identified in the ice core record during the glacial period over the past 100,000 years.
+The Younger Dryas event, notably its sudden end. It is the most recent of the Dansgaard–Oeschger cycles and began 12,900 years ago and moved back into a warm-and-wet climate regime about 11,600 years ago.  It has been suggested that "the extreme rapidity of these changes in a variable that directly represents regional climate implies that the events at the end of the last glaciation may have been responses to some kind of threshold or trigger in the North Atlantic climate system." A model for this event based on disruption to the thermohaline circulation has been supported by other studies.
+The Paleocene–Eocene Thermal Maximum, timed at 55 million years ago, which may have been caused by the release of methane clathrates, although potential alternative mechanisms have been identified. This was associated with rapid ocean acidification
+The Permian–Triassic Extinction Event, in which up to 95% of all species became extinct, has been hypothesized to be related to a rapid change in global climate. Life on land took 30 million years to recover.
+The Carboniferous Rainforest Collapse occurred 300 million years ago, at which time tropical rainforests were devastated by climate change. The cooler, drier climate had a severe effect on the biodiversity of amphibians, the primary form of vertebrate life on land.
+There are also abrupt climate changes associated with the catastrophic draining of glacial lakes. One example of this is the 8.2-kiloyear event, which is associated with the draining of Glacial Lake Agassiz. Another example is the Antarctic Cold Reversal, c. 14,500 years before present (BP), which is believed to have been caused by a meltwater pulse probably from either the Antarctic ice sheet or the Laurentide Ice Sheet. These rapid meltwater release events have been hypothesized as a cause for Dansgaard–Oeschger cycles,
+A 2017 study concluded that similar conditions to today's Antarctic ozone hole (atmospheric circulation and hydroclimate changes), ~17,700 years ago, when stratospheric ozone depletion contributed to abrupt accelerated Southern Hemisphere deglaciation. The event coincidentally happened with an estimated 192-year series of massive volcanic eruptions, attributed to Mount Takahe in West Antarctica.
+
+Possible precursors
+Most abrupt climate shifts are likely due to sudden circulation shifts, analogous to a flood cutting a new river channel. The best-known examples are the several dozen shutdowns of the North Atlantic Ocean's Meridional Overturning Circulation during the last ice age, affecting climate worldwide.
+
+The current warming of the Arctic, the duration of the summer season, is considered abrupt and massive.
+Antarctic ozone depletion caused significant atmospheric circulation changes.
+There have also been two occasions when the Atlantic's Meridional Overturning Circulation lost a crucial safety factor. The Greenland Sea flushing at 75 °N shut down in 1978, recovering over the next decade. Then the second-largest flushing site, the Labrador Sea, shut down in 1997 for ten years. While shutdowns overlapping in time have not been seen during the 50 years of observation, previous total shutdowns had severe worldwide climate consequences.
+It has been postulated that teleconnections – oceanic and atmospheric processes on different timescales – connect both hemispheres during abrupt climate change.
+
+Climate feedback effects
+One source of abrupt climate change effects is a feedback process, in which a warming event causes a change that adds to further warming. The same can apply to cooling. Examples of such feedback processes are:
+
+Ice–albedo feedback in which the advance or retreat of ice cover alters the albedo ("whiteness") of the earth and its ability to absorb the sun's energy.
+Soil carbon feedback is the release of carbon from soils in response to global warming.
+The dying and the burning of forests by global warming.
+The probability of abrupt change for some climate related feedbacks may be low. Factors that may increase the probability of abrupt climate change include higher magnitudes of global warming, warming that occurs more rapidly and warming that is sustained over longer time periods.
+
+Tipping points in the climate system
+Possible tipping elements in the climate system include regional effects of climate change, some of which had abrupt onset and may therefore be regarded as abrupt climate change. Scientists have stated, "Our synthesis of present knowledge suggests that a variety of tipping elements could reach their critical point within this century under anthropogenic climate change".
+
+Volcanism
+Isostatic rebound in response to glacier retreat (unloading) and increased local salinity have been attributed to increased volcanic activity at the onset of the abrupt Bølling–Allerød warming. They are associated with the interval of intense volcanic activity, hinting at an interaction between climate and volcanism: enhanced short-term melting of glaciers, possibly via albedo changes from particle fallout on glacier surfaces.
+
+Impacts
+In the past, abrupt climate change has likely caused wide-ranging and severe impacts as follows:
+
+Mass extinctions, most notably the Permian–Triassic extinction event (often referred colloquially to as the Great Dying) and the Carboniferous Rainforest Collapse, have been suggested as a consequence of abrupt climate change.
+Loss of biodiversity: without interference from abrupt climate change and other extinction events, the biodiversity of Earth would continue to grow.
+Changes in ocean circulation such as:
+Increasing frequency of El Niño events
+Potential disruption to the thermohaline circulation, such as that which may have occurred during the Younger Dryas event.
+Changes to the North Atlantic oscillation
+Changes in Atlantic Meridional Overturning Circulation (AMOC) which could contribute to more severe weather events.
