@@ -18,7 +18,7 @@
 - Changing Environments: Shifts in climate patterns, including weather, sea levels and seasonal changes.
 - Flora and Fauna: Ecosystems, biodiversity and the health of terrestrial and marine species.
 - Biodiversity Conservation: Efforts to protect endangered species and restore ecosystems.
-- Pollution: Contamination of air, water or soil.
+- Pollutions: Release of emissions into the atmosphere and contamination of air, water and soil.
 - Natural Disasters: Environmental threats, including extreme weather events and adaptation strategies.
 - Policy Measures: National and international strategies for achieving emission reduction and carbon neutrality.
 - Regulations and Taxes: Prohibition and discouragment of behaviour harmful to the climate.
