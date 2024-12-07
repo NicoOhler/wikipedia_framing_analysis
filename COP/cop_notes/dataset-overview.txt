@@ -1,0 +1,61 @@
+presse 
+    1433 news reports
+    48563 sentences
+        15190
+        15577
+        17802
+    5 orgs 
+        ft
+        nyt
+        usatoday
+        guardian
+        telegraph
+
+   
+igo
+    47 reports
+    35593 sentences
+        14484
+        16697
+        4418
+    ~9 orgs
+        ipcc
+        redd
+        undp
+        unep
+        wb
+        wmo
+        who
+        uncdf
+        unfccc
+
+ngo
+    81 reports
+    38677 sentences
+        10487
+        18655
+        9541
+
+    ~18 orgs 
+        cg
+        edf
+        ejf
+        foe
+        gp
+        wwf
+        ox
+        nrdc
+        action
+        can
+        care
+        ci
+        ggja
+        ibon
+        iicat
+        oci
+        ra
+        wri
+
+
+
+
