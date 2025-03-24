@@ -22,14 +22,15 @@ dimensions = [
     "Authority: ...obeyed, or acted with respect for authority or tradition.",
     "Subversion: ...disobeyed or showed disrespect, or engaged in subversion or caused chaos.",
     "Sanctity: ...acted in a way that was wholesome or sacred, or displayed purity or sanctity.",
-    "Degredation: ...was depraved, degrading, impure, or unnatural.",
+    "Degradation: ...was depraved, degrading, impure, or unnatural.",
 ]
+
 pole_names = [
     ("Care", "Harm"),
     ("Fairness", "Cheating"),
     ("Loyalty", "Betrayal"),
     ("Authority", "Subversion"),
-    ("Sanctity", "Degredation"),
+    ("Sanctity", "Degradation"),
 ]
 base_model = "all-mpnet-base-v2"
 
