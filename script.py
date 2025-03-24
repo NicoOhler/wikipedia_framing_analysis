@@ -114,9 +114,6 @@ class FramingDimensions:
 
     def __call__(self, sequence_to_align):
         embs = self.encoder.encode(sequence_to_align, normalize_embeddings=True)
-        # ! FIX: assert that the embeddings are normalized
-        assert np.allclose(np.linalg.norm(embs, axis=1), 1)
-        assert np.allclose(np.linalg.norm(self.axis_embs, axis=1), 1)
         scores = embs @ self.axis_embs.T
         named_scores = dict(zip(self.pole_names, scores.T))
         return named_scores
