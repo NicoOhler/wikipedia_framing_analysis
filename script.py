@@ -1,12 +1,13 @@
-#for FramingDimensions
+# for FramingDimensions
 from sentence_transformers import SentenceTransformer
 import os
 import nltk
-nltk.download('punkt')
+
+nltk.download("punkt")
 from tqdm import tqdm
 import pandas as pd
 
-#imports for FramingLabels
+# imports for FramingLabels
 import torch
 from transformers import pipeline
 from functools import partial
@@ -22,7 +23,7 @@ dimensions = [
     "Authority: ...obeyed, or acted with respect for authority or tradition.",
     "Subversion: ...disobeyed or showed disrespect, or engaged in subversion or caused chaos.",
     "Sanctity: ...acted in a way that was wholesome or sacred, or displayed purity or sanctity.",
-    "Degredation: ...was depraved, degrading, impure, or unnatural.",
+    "Degradation: ...was depraved, degrading, impure, or unnatural.",
 ]
 pole_names = [
     ("Care", "Harm"),
@@ -47,9 +48,9 @@ candidate_labels = [
     "Cultural identity: traditions, customs, or values of a social group in relation to a policy issue",
     "Public opinion: attitudes and opinions of the general public, including polling and demographics",
     "Political: considerations related to politics and politicians, including lobbying, elections, and attempts to sway voters",
-    "External regulation and reputation: international reputation or foreign policy of the U.S."
-    #drop the "other" label (zero shot classfication)
-    #"Other: any coherent group of frames not covered by the above categories",
+    "External regulation and reputation: international reputation or foreign policy of the U.S.",
+    # drop the "other" label (zero shot classfication)
+    # "Other: any coherent group of frames not covered by the above categories",
 ]
 
 
@@ -58,7 +59,9 @@ class FramingLabels:
         device = "cuda:0" if torch.cuda.is_available() else "cpu"
         self.base_pipeline = pipeline("zero-shot-classification", model=base_model, device=device)
         self.candidate_labels = candidate_labels
-        self.classifier = partial(self.base_pipeline, candidate_labels=candidate_labels, multi_label=True, batch_size=batch_size)
+        self.classifier = partial(
+            self.base_pipeline, candidate_labels=candidate_labels, multi_label=True, batch_size=batch_size
+        )
 
     def order_scores(self, dic):
         indices_order = [dic["labels"].index(l) for l in self.candidate_labels]
@@ -122,9 +125,8 @@ class FramingDimensions:
 
 
 framing_labels = FramingLabels("facebook/bart-large-mnli", candidate_labels)
-framing_dimensions = FramingDimensions(
-    base_model, dimensions, pole_names
-)
+framing_dimensions = FramingDimensions(base_model, dimensions, pole_names)
+
 
 def tokenizeArticles(articles):
     tokenized_articles = []
@@ -136,6 +138,7 @@ def tokenizeArticles(articles):
             continue
     print(f"Tokenized {len(articles)} articles.")
     return tokenized_articles
+
 
 def preprocessArticles(directories_to_frame):
     articles = []
@@ -152,6 +155,7 @@ def preprocessArticles(directories_to_frame):
     articles = tokenizeArticles(articles)
     return articles, article_names, folder_name
 
+
 def listFolders(directories):
     folder_paths = []
     for directory in directories:
@@ -162,13 +166,13 @@ def listFolders(directories):
     return folder_paths
 
 
-def frame(articles, article_names, folder_name,dump_path="COP/"):
+def frame(articles, article_names, folder_name, dump_path="COP/"):
     os.makedirs(dump_path + "/dimensions/", exist_ok=True)
     for name in folder_name:
-        os.makedirs(dump_path + "/dimensions/"+ name, exist_ok=True)
+        os.makedirs(dump_path + "/dimensions/" + name, exist_ok=True)
     os.makedirs(dump_path + "/labels/", exist_ok=True)
     for name in folder_name:
-        os.makedirs(dump_path + "/labels/"+ name, exist_ok=True)
+        os.makedirs(dump_path + "/labels/" + name, exist_ok=True)
 
     print("Computing frame dimensions and labels")
     for i, article in enumerate(tqdm(articles, desc="Framing articles\n")):
@@ -193,4 +197,4 @@ if __name__ == "__main__":
     directories_to_frame = ["COP/articles/by_org"]
     directories_to_frame = listFolders(directories_to_frame)
     articles, article_names, folder_name = preprocessArticles(directories_to_frame)
-    frame(articles,article_names,folder_name,dump_path="COP/")
+    frame(articles, article_names, folder_name, dump_path="COP/")
