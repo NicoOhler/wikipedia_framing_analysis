@@ -1,4 +1,6 @@
 #!/bin/bash
+#SBATCH --nodes=1
+#SBATCH --gpus-per-node=1
 # bash ./run.bash
 
 # Create and activate conda environment
