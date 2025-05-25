@@ -210,9 +210,9 @@ def processLabels(articles, article_names, path_to_plt_directory):
         plt.gcf().set_size_inches(10, 7)
         print(f"\t" + article_names[i])
         plt.savefig(
-            path_to_plt_directory + "/labels/" + article_names[i], bbox_inches="tight"
+            path_to_plt_directory + "/original_labels/" + article_names[i], bbox_inches="tight"
         )
-        pickle.dump(plt.gcf(), open("dumps/plt_dumps/labels/" + article_names[i], "wb"))
+        pickle.dump(plt.gcf(), open("dumps/plt_dumps/original_labels/" + article_names[i], "wb"))
 
 
 def debug1(sub_folders, scaling, directories_to_frame):
@@ -273,7 +273,7 @@ def compareCustom(df_paths, scale, custom_names=None, title=None):
 
 def compareAll(scale, starts_with=""):
     print(f"\tComparing all plots: ")
-    path = "COP/dumps/dimensions_normalized_var/"
+    path = "old_cluster/dumps/dimensions_normalized_var/"
     filenames = os.listdir(path)
     dfs = []
     pairs = []
@@ -453,13 +453,13 @@ if __name__ == "__main__":
         compareAll(scale)
     if normalize:
         normalize_files(
-            "dumps/dimensions",
+            "dumps/original_dimensions",
             "dumps/dimensions_normalized",
             "plots/dimensions_normalized",
         )
     if cluster:
-        process_label_files("COP/dumps/labels/", "COP/dumps/test/")
-        # process_dimension_files("dumps/dimensions", "plots/dimensions")
+        process_label_files("old_cluster/dumps/labels/", "old_cluster/dumps/test/")
+        # process_dimension_files("dumps/original_dimensions", "plots/original_dimensions")
     if custom_compare:
         paths = [
             "dumps/df_dumps/OIG_COP15.csv",
